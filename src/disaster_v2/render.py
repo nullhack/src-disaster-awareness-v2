@@ -112,7 +112,7 @@ def _nav(site: dict[str, Any], active: str) -> str:
         ("trends/", "Trends"),
         ("following/", "Following"),
         ("about/", "About"),
-        ("submit/", "Submit a report"),
+        ("submit/", "Submit"),
     ]
     items = []
     for path, label in links:
@@ -157,7 +157,7 @@ def _page(
     <nav class="site-nav" aria-label="Primary">{_nav(site, active)}</nav>
     <form class="header-search" action="incidents/" method="get" role="search">
       <label class="visually-hidden" for="global-search">Search incidents</label>
-      <input id="global-search" name="q" type="search" placeholder="Search incidents" autocomplete="off">
+      <input id="global-search" name="q" type="search" placeholder="Search" autocomplete="off">
       <button type="submit" class="button button--small">Search</button>
     </form>
   </div>
@@ -284,7 +284,7 @@ def _chart_columns(months: list[dict[str, Any]], value_key: str, *, label: str, 
     rows: list[str] = []
     table_rows: list[str] = []
     for month, value in zip(months, values, strict=False):
-        height = max(0, min(100, round(value / peak * 100)))
+        height = min(100, max(3, round(value / peak * 100))) if value else 0
         short_label = str(month.get("short_label") or month.get("label") or "")
         full_label = str(month.get("label") or short_label)
         rows.append(
