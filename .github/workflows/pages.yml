@@ -44,7 +44,7 @@ jobs:
       - name: Build static site
         working-directory: main
         run: |
-          echo "DATA_SHA=$(git -C data rev-parse HEAD)" >> "$GITHUB_ENV"
+          export DATA_SHA="$(git -C data rev-parse HEAD)"
           uv sync --extra dev --frozen
           uv run disaster-v2-build --data data --out site --config config.toml
 
