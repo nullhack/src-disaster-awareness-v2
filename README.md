@@ -14,11 +14,11 @@ An incident reference with a change feed. Static pages are generated from a Git-
 
 | Path | Holds |
 | --- | --- |
-| `src/disaster_v2/` | migration, store, ranking, build, and static renderer |
+| `src/disaster_v2/` | migration, source adapters, ingestion/search/log pipeline, store, ranking, build, and static renderer |
 | `web/assets/` | hand-written CSS and vanilla JavaScript |
-| `tests/` | migration, build, and contract tests |
-| `.github/workflows/` | validation and Pages deployment |
-| `config.toml` | site URL, repo, and build defaults |
+| `tests/` | migration, build, pipeline, and contract tests |
+| `.github/workflows/` | validation, scheduled data updates, submissions, and Pages deployment |
+| `config.toml` | site URL, repo, build defaults, OpenRouter model, and ingestion thresholds |
 | `site/` | generated output, ignored by Git |
 | `data/` | `data` branch worktree, ignored by Git |
 
@@ -50,6 +50,43 @@ uv run disaster-v2-build --data data --out site --config config.toml
 
 Open `site/index.html` through a local web server, not `file://`, because the site uses a `<base>` path for GitHub Pages.
 
+## Ingestion pipeline
+
+The v2 pipeline uses the same source adapters and decision logic as v1:
+
+- **Official reports** — USGS (M5.5+ for news monitoring), GDACS (Orange/Red for news monitoring), WHO disease outbreak news, and ERCC daily maps.
+- **News search** — DuckDuckGo candidates are filtered by the DSPy relevance classifier. Reports searched in the last 3 days are skipped; active incidents are repolled. Selected articles are fetched and normalized.
+- **Logs** — unsummarized incident news is summarized only when it passes the minimum-news threshold and the DSPy update check. All news in the batch is linked to the log for provenance.
+- **Submissions** — GitHub issues are fetched, classified, and either imported or sent to `submission-review` for a maintainer decision.
+
+Run locally with an OpenRouter key:
+
+```bash
+export OPENROUTER_API_KEY="..."
+
+uv run disaster-v2-ingest --data data --config config.toml -v
+uv run disaster-v2-search-news --data data --config config.toml -v
+uv run disaster-v2-search-news --data data --config config.toml --repoll -v
+uv run disaster-v2-generate-logs --data data --config config.toml -v
+```
+
+Or run the full scheduled pipeline:
+
+```bash
+uv run disaster-v2-pipeline --data data --config config.toml -v
+```
+
+`disaster-v2-submissions` processes the GitHub issue queue and requires the `gh` CLI with repository issue access.
+
+The model is configured once in `config.toml`:
+
+```toml
+[openrouter]
+model = "openrouter/deepseek/deepseek-v4.1-flash-1017"
+```
+
+For GitHub Actions, add `OPENROUTER_API_KEY` as a repository secret. Scheduled updates still ingest official reports when the secret is absent; news search and log generation are skipped until it is set.
+
 ## Migrating a v1 data tree
 
 The migration reads the old tree and writes a new canonical tree. It does not modify the source tree.
@@ -66,6 +103,13 @@ Use `--force` to replace an existing `records/` and `links/` tree. The migration
 ## Deploy
 
 `.github/workflows/pages.yml` checks out `main` and the `data` branch, builds `site/`, uploads it as a Pages artifact, and deploys it. Enable **Settings → Pages → Build and deployment → GitHub Actions** once for the repository.
+
+Data workflows call `pages.yml` as a reusable workflow after they push to `data`:
+
+- `update-data` runs every three hours: official ingestion, news search, repoll, then log generation.
+- `process-submissions` runs three times a day and when a maintainer adds `submission-approved` to an issue.
+
+Both write to the `data` branch under the shared `data-update` concurrency group, so they cannot race each other.
 
 The site URL is configured in `config.toml`:
 

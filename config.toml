@@ -13,3 +13,12 @@ as_of_fallback = "2026-11-16"
 coverage_page_size = 25
 incident_update_page_size = 10
 key_link_freshness_days = 30
+
+[openrouter]
+model = "openrouter/deepseek/deepseek-v4.1-flash-1017"
+
+[ingest]
+active_window_days = 7
+min_log_news_threshold = 3
+news_search_window_days = 3
+news_timelimit = "w"

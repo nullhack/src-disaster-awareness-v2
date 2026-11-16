@@ -160,6 +160,15 @@ def write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
     tmp.replace(path)
 
 
+def append_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
+    if not rows:
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as fh:
+        for row in rows:
+            fh.write(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n")
+
+
 def as_list(value: object) -> list[Any]:
     return value if isinstance(value, list) else []
 

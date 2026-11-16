@@ -1,0 +1,78 @@
+name: process-submissions
+
+on:
+  schedule:
+    - cron: "5 2,10,18 * * *"
+  workflow_dispatch:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+env:
+  OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  process:
+    if: github.event_name != 'issues' || github.event.label.name == 'submission-approved'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v4
+        with:
+          path: main
+          fetch-depth: 0
+
+      - name: Attach data worktree
+        working-directory: main
+        run: git worktree add -B data data origin/data
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Ensure submission labels exist
+        working-directory: main
+        run: |
+          gh label create submission-review --color FBCA04 --description "Submission needs a maintainer decision" --force
+          gh label create submission-approved --color 0E8A16 --description "Maintainer approved submission for import" --force
+
+      - name: Install
+        working-directory: main
+        run: uv sync --extra dev --frozen
+
+      - name: Process submissions
+        if: env.OPENROUTER_API_KEY != ''
+        working-directory: main
+        run: uv run disaster-v2-submissions --data data --config config.toml -v
+
+      - name: Commit and push data
+        working-directory: main
+        run: |
+          if [ -z "$(git -C data status --porcelain)" ]; then
+            echo "no data changes"
+            exit 0
+          fi
+          git -C data config user.name "github-actions[bot]"
+          git -C data config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C data add -A
+          git -C data commit -m "chore(data): process submissions"
+          git -C data push origin data
+
+  publish:
+    needs: process
+    uses: ./.github/workflows/pages.yml

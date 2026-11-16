@@ -1,0 +1,81 @@
+name: update-data
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+env:
+  OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v4
+        with:
+          path: main
+          fetch-depth: 0
+
+      - name: Attach data worktree
+        working-directory: main
+        run: git worktree add -B data data origin/data
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Install
+        working-directory: main
+        run: uv sync --extra dev --frozen
+
+      - name: Ingest official reports
+        working-directory: main
+        run: uv run disaster-v2-ingest --data data --config config.toml -v
+
+      - name: Search news
+        if: env.OPENROUTER_API_KEY != ''
+        working-directory: main
+        run: uv run disaster-v2-search-news --data data --config config.toml -v
+
+      - name: Repoll active incidents
+        if: env.OPENROUTER_API_KEY != ''
+        working-directory: main
+        run: uv run disaster-v2-search-news --data data --config config.toml --repoll -v
+
+      - name: Generate logs
+        if: env.OPENROUTER_API_KEY != ''
+        working-directory: main
+        run: uv run disaster-v2-generate-logs --data data --config config.toml -v
+
+      - name: Commit and push data
+        working-directory: main
+        run: |
+          if [ -z "$(git -C data status --porcelain)" ]; then
+            echo "no data changes"
+            exit 0
+          fi
+          git -C data config user.name "github-actions[bot]"
+          git -C data config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C data add -A
+          git -C data commit -m "chore(data): update records"
+          git -C data push origin data
+
+  publish:
+    needs: update
+    uses: ./.github/workflows/pages.yml
