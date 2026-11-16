@@ -1,0 +1,3 @@
+[console_scripts]
+disaster-v2-build = disaster_v2.build:main
+disaster-v2-migrate = disaster_v2.migrate:main

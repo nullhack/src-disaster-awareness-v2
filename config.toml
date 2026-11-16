@@ -1,0 +1,15 @@
+[site]
+title = "Disaster Awareness"
+tagline = "An incident reference with a change feed"
+base_url = "https://nullhack.github.io/src-disaster-awareness-v2"
+repo = "nullhack/src-disaster-awareness-v2"
+data_branch = "data"
+default_branch = "main"
+
+[data]
+as_of_fallback = "2026-11-16"
+
+[build]
+coverage_page_size = 25
+incident_update_page_size = 10
+key_link_freshness_days = 30

@@ -1,0 +1,14 @@
+# Generated site and local caches
+site/
+.cache/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local data worktree (lives on the `data` branch)
+/data/

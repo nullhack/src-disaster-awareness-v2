@@ -1,0 +1,6 @@
+pyyaml>=6.0.3
+
+[dev]
+pytest>=8.0
+ruff>=0.11
+pyright>=1.1.407
