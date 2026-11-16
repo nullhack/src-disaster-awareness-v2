@@ -106,7 +106,7 @@ Use `--force` to replace an existing `records/` and `links/` tree. The migration
 
 Data workflows call `pages.yml` as a reusable workflow after they push to `data`:
 
-- `update-data` runs every three hours: official ingestion, news search, repoll, then log generation.
+- `update-data` runs twice a day: official ingestion, news search, repoll, then log generation.
 - `process-submissions` runs three times a day and when a maintainer adds `submission-approved` to an issue.
 
 Both write to the `data` branch under the shared `data-update` concurrency group, so they cannot race each other.
