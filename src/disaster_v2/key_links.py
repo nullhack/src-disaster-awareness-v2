@@ -47,6 +47,8 @@ def _first_text(raw: dict[str, Any], *keys: str) -> str:
 def report_url(report: dict[str, Any]) -> str:
     source = str(report.get("source") or "")
     source_id = str(report.get("source_id") or "")
+    if source == "MANUAL":
+        return ""
     raw = _raw(report)
     direct = _first_text(raw, "link", "url", "document_url")
     if direct:
