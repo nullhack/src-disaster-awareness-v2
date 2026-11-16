@@ -1,0 +1,65 @@
+schema: 2
+id: fa7db44f1c5a5684a4cf0c046666b174
+source: GDACS
+source_id: '1033882'
+incident_type: Forest Fire
+name: Forest Fire Sila, Chad 2026-11-13
+report_date: '2026-11-13'
+news_searched_at: ''
+places:
+- country_code: TD
+  subdivision: Sila
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in Chad
+  description: On 13/11/2026, a forest fire started in Chad,  until 16/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033882
+  pubDate: Mon, 16 Nov 2026 12:02:02 GMT
+  dateadded: Mon, 16 Nov 2026 12:02:02 GMT
+  datemodified: Mon, 16 Nov 2026 12:02:02 GMT
+  iscurrent: 'true'
+  fromdate: Fri, 13 Nov 2026 00:00:00 GMT
+  todate: Mon, 16 Nov 2026 00:00:00 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: WF1
+  guid: WF1033882
+  guid_isPermaLink: 'false'
+  geo_lat: 12.003730631807539
+  geo_long: 20.28368654200347
+  bbox: 16.2836865420035 24.2836865420035 8.00373063180754 16.0037306318075
+  point: 12.003730631807539 20.283686542003469
+  cap: https://www.gdacs.org/contentdata/resources/WF/1033882/cap_1033882.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1033882'
+  episodeid: '1'
+  calculationtype: ''
+  severity: Green impact for forestfire in 6939 ha
+  severity_unit: ha
+  severity_value: '6939'
+  population: 0 people affected in the area
+  population_unit: ''
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: TCD
+  country: Chad
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 6e15a7fa9e478601544f1d9841996029ade162c50bcef6b77c985148da806be1

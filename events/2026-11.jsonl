@@ -268,3 +268,15 @@
 {"at": "2026-11-16", "counts": {"logs": 1, "news": 1, "official_sources": 1, "reports": 1}, "incident_id": "feb25359fc865252bf9e3d177bb00f65", "type": "incident_migrated"}
 {"at": "2026-11-16", "counts": {"logs": 1, "news": 1, "official_sources": 1, "reports": 1}, "incident_id": "ff4217bffe805d5f88f602420013eb30", "type": "incident_migrated"}
 {"at": "2026-11-16", "counts": {"logs": 1, "news": 5, "official_sources": 1, "reports": 1}, "incident_id": "ff934a7b352f4f5683a1f1bac820b659", "type": "incident_migrated"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "7ba71b7f10de5a04979572c4a14b7873", "source": "USGS", "source_id": "us7000tyil", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "b590c077ff955166908523744d11bf2c", "source": "USGS", "source_id": "us7000txjw", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "97745113f4565396987f39693bbfa66e", "source": "USGS", "source_id": "us7000txcv", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "fe03c7fb88535d2980b7178f225144b4", "source": "USGS", "source_id": "us7000txcq", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "2320f0263c665d56a472a833e499a576", "source": "USGS", "source_id": "us7000tuwp", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "0f10dd6135225d74a83b703d35af4762", "source": "GDACS", "source_id": "1577597", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "a666a849efcf5a1090a98e4a0a733ee9", "source": "GDACS", "source_id": "1577580", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "39d5ee41c444539697b54d69c4a44cce", "source": "GDACS", "source_id": "1033885", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "573d574f258756d196a8477f6de03713", "source": "GDACS", "source_id": "1033884", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "f50f413f9a735cd4855f218df4a038e5", "source": "GDACS", "source_id": "1033883", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "fa7db44f1c5a5684a4cf0c046666b174", "source": "GDACS", "source_id": "1033882", "type": "report_ingested"}
+{"at": "2026-11-16T13:25:12Z", "report_id": "bf67391c96de5eccadc87047faeb62c8", "source": "GDACS", "source_id": "1104285", "type": "report_ingested"}
