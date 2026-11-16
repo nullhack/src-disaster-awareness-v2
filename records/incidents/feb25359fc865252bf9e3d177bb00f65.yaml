@@ -1,0 +1,37 @@
+schema: 2
+id: feb25359fc865252bf9e3d177bb00f65
+status: dormant
+display_name: Avian Influenza Colorado, United States 2024-04-09
+slug: avian-influenza-colorado-united-states-2024-04-09
+incident_type: Avian Influenza A(H5N1)
+country_code: CL
+country_name: Chile
+region: Americas
+first_seen: '2024-04-09'
+event_date: '2024-04-09'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: The CDC confirmed the first severe human case of avian influenza A(H5N1) in the United States, marking a notable escalation in the outbreak. The case underscores the potential for serious illness from this virus.
+summary_updated: '2026-07-08'
+search_keys:
+- Avian Influenza United States update 2024
+- Avian Influenza United States 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: fa13d00e72d5527f9d7bf236e6153458
+  source: WHO
+  source_id: fa7a9914-48e5-429a-8e7b-701dc7ce2f63
+external_keys:
+- source: WHO
+  source_id: fa7a9914-48e5-429a-8e7b-701dc7ce2f63
+  report_id: fa13d00e72d5527f9d7bf236e6153458
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2024-04-09T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 0dc168af3ca85403a4e0e4d11a45b719
+status: dormant
+display_name: Forest Fire Ipeiros, Greece 2025-08-12
+slug: forest-fire-ipeiros-greece-2025-08-12
+incident_type: Forest Fire
+country_code: GR
+country_name: Greece
+region: Europe
+first_seen: '2025-08-12'
+event_date: '2025-08-12'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A forest fire in Greece has resulted in two fatalities, occurring during a severe heatwave that has broken temperature records across Europe. The incident is part of broader deadly weather extremes affecting the continent.
+summary_updated: '2026-07-08'
+search_keys:
+- Greece Forest Fire latest 2025
+- Greece Forest Fire 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 835fb26ff8b05221832a80a2717c05f1
+  source: GDACS
+  source_id: '1024568'
+external_keys:
+- source: GDACS
+  source_id: '1024568'
+  report_id: 835fb26ff8b05221832a80a2717c05f1
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-08-12T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

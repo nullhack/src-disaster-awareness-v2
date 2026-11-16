@@ -1,0 +1,49 @@
+schema: 2
+id: b1a7f2cb68cc531ba1d9be66fd646c6c
+status: dormant
+display_name: Hantavirus Argentina 2026-05-04
+slug: hantavirus-argentina-2026-05-04
+incident_type: Hantavirus cluster linked to cruise ship travel, Multi-country
+country_code: AR
+country_name: Argentina
+region: Americas
+first_seen: '2026-05-04'
+event_date: '2026-05-04'
+last_verified_update: '2026-07-09'
+latest_coverage_at: '2026-07-09'
+status_changed_at: '2026-07-09'
+summary: A Canadian passenger tested positive for Andes hantavirus after returning from the cruise ship, making Canada the fourth country with a confirmed case linked to the outbreak. The U.S. Centers for Disease Control and Prevention ended its response to the hantavirus cluster, and all 18 U.S. passengers from the MV Hondius returned to their home states. Additionally, an American passenger, Angela Perryman, was ordered by Health Secretary RFK Jr. to remain in quarantine against her will, sparking a controversy over her confinement.
+summary_updated: '2026-07-09'
+search_keys:
+- Hantavirus Argentina update 2026
+- Hantavirus Argentina 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 2e1d8169df7952eaa08bce9f680c0d80
+  source: WHO
+  source_id: daf6528b-00a6-41f6-9b3c-7122cc3f6cac
+external_keys:
+- source: WHO
+  source_id: daf6528b-00a6-41f6-9b3c-7122cc3f6cac
+  report_id: 2e1d8169df7952eaa08bce9f680c0d80
+- source: WHO
+  source_id: f6d5a10e-d6a4-4156-a203-4845ea2f878a
+  report_id: 8ed2b82850bf5ae497846788b3e34068
+- source: WHO
+  source_id: 45441730-c794-4004-a197-e7cc49df2f55
+  report_id: 39f8c76d80c55dad98ae89583403d585
+- source: WHO
+  source_id: 210abff3-3710-483b-b003-ec87933f1f4c
+  report_id: 3f2be6faf925510c9354dae764ba5346
+- source: WHO
+  source_id: b4022b8d-0ad5-4022-b1ac-1d6661578e74
+  report_id: 928b3cc8c18a5e9bbbc9231fc1926f47
+coverage_counts:
+  reports: 5
+  news: 30
+  logs: 2
+  official_sources: 1
+created_at: '2026-05-04T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

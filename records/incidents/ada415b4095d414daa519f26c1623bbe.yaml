@@ -1,0 +1,37 @@
+schema: 2
+id: ada415b4095d414daa519f26c1623bbe
+status: active
+display_name: Pneumonia Russia 2026-10-10
+slug: pneumonia-russia-2026-10-10
+incident_type: Pneumonia of undetermined etiology
+country_code: RU
+country_name: Russia
+region: Europe
+first_seen: '2026-10-02'
+event_date: '2026-10-10'
+last_verified_update: '2026-11-14'
+latest_coverage_at: '2026-11-14'
+status_changed_at: '2026-11-14'
+summary: A new mystery virus has emerged in Russia as tourists returning from Vietnam fall seriously ill with an undiagnosed illness; Vietnamese doctors have been unable to pinpoint the cause and describe it as a circulating flu. This development has raised fresh pandemic fears in Russia, adding a new layer to the ongoing crisis.
+summary_updated: '2026-11-14'
+search_keys:
+- Pneumonia Russia update 2026
+- Pneumonia Russia 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 3eef0fa6ed065b1cbce0e20e06e1f8c0
+  source: WHO
+  source_id: 9cca163d-6ef3-4d3e-b149-2cd7acf408f6
+external_keys:
+- source: WHO
+  source_id: 9cca163d-6ef3-4d3e-b149-2cd7acf408f6
+  report_id: 3eef0fa6ed065b1cbce0e20e06e1f8c0
+coverage_counts:
+  reports: 1
+  news: 94
+  logs: 7
+  official_sources: 1
+created_at: '2026-10-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

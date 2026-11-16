@@ -1,0 +1,37 @@
+schema: 2
+id: c19e1dfdbefe4fd58dc24e02cb748417
+status: dormant
+display_name: Earthquake M5.5 Chirilagua, El Salvador 2026-08-13
+slug: earthquake-m5-5-chirilagua-el-salvador-2026-08-13
+incident_type: Earthquake
+country_code: SV
+country_name: El Salvador
+region: Americas
+first_seen: '2026-08-13'
+event_date: '2026-08-13'
+last_verified_update: '2026-08-13'
+latest_coverage_at: '2026-08-13'
+status_changed_at: '2026-08-13'
+summary: ''
+summary_updated: ''
+search_keys:
+- El Salvador Earthquake latest 2026
+- El Salvador Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 7034999bb774573b8be76590ba180d10
+  source: USGS
+  source_id: us6000tkcb
+external_keys:
+- source: USGS
+  source_id: us6000tkcb
+  report_id: 7034999bb774573b8be76590ba180d10
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 0
+  official_sources: 1
+created_at: '2026-08-13T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

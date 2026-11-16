@@ -1,0 +1,18 @@
+id: de71476231625797a7b966d1455ef80c
+source: ERCC
+source_id: '5763'
+incident_type: Drought
+name: Drought 2026-08-25
+report_date: '2026-08-25'
+news_searched_at: '2026-09-08T04:56:39+00:00'
+places: []
+raw_fields:
+  title: ECHO Daily Map of 25 August 2026
+  description: Europe | Drought conditions August 2026
+  pubDate: Tue, 25 Aug 2026 17:08:54 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5763
+  guid: ERCC_Map_5763
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5763&fileN=ImageFile&forceDownload=False
+  eventTypes: Drought
+schema: 2
+content_hash: e6bd5bc8037f83ddadb6900420bf15ba680fd7392e3ee7ece9ea84e16ee4c392

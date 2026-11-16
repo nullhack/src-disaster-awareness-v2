@@ -1,0 +1,34 @@
+schema: 2
+incident_id: d88b86df06a2464bba7c65c4bd842cf1
+log_date: '2026-08-14'
+summary: |-
+  A major derecho storm system caused severe flooding across Ohio and Indiana, with Perry County, Ohio recording over 6 inches of rain and Wayne County, Indiana seeing over 9 inches. The National Weather Service confirmed an EF1 tornado touched down in south Columbus on August 11 during the storms. Additional severe thunderstorms and warnings were reported in Phoenix, Siouxland, and Cape Breton, while officials in Ohio warned of overnight flooding risks.
+  Flash flooding continues in Indiana and Illinois as severe storms batter the Midwest for a sixth straight day, with muddy floodwaters submerging neighborhoods and first responders rescuing people. The National Weather Service in Indianapolis issued a record 14 flash flood warnings in a single day, while deaths and damage from tornadoes and flooding have been reported across the region.
+news_ids:
+- 06f390f249415d50b90d4a616bc0c66f
+- 0d704d3e1f6a53899f22801078939a42
+- 121ceeadc80a5f3e8c2ec39ab1b07ac8
+- 1d1d4cb61ae3548cb1955d573379d8c0
+- 2133b458d4e35b8191622a6cdf1f7a86
+- 218ec3aef523524a8190cd780b78f010
+- 357ff4d17b06555ca28a5ba9f1c5fc93
+- 3edc6d1a80eb5aa6b7d8ba7f8c319011
+- 4e9daa9da9a356838be2c23b1cbae127
+- 515c0b5448c2533c813bb95d5a13cc56
+- 5249f6a9b28a5c61a5d59d230e7782df
+- 5c5cdbc7222f5bb9bfe02f34da4427ab
+- 6151d0c0118256d294d2abbcfcfa4d44
+- 66dae1d2ed59552594b6416958bbd94d
+- 68cbb15cc8305cd1aaf7311d7e2312e3
+- 77cc26a0fea85051a985c8a8d8f44f6d
+- 7f7d75990ef45d0ab70779c55d13dac0
+- 8d3b09fb74325685b45a78330d2d72a7
+- 9543d804ad375db1ae4aacfb3997e7a3
+- 99c2616a0cfe5e9c955d091d14f0ba04
+- ae14c4be43165381994ce0899b8f42b9
+- af79a38142555fcb88405e7a821baea9
+- bdeb69ec27e4554b937fecb3d144b58c
+- c2d485fd74495423ae1e266ae5c98370
+- c37f0a18f1f753e6b4790811982f2d5e
+- c7482aeadc485fa89ebef2fe0adbadac
+- d8dfb99d282f5c18981e2c8e73de50a9

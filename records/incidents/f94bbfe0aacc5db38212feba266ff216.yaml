@@ -1,0 +1,37 @@
+schema: 2
+id: f94bbfe0aacc5db38212feba266ff216
+status: dormant
+display_name: Earthquake M5.8 Yokoshiba, Japan 2026-06-26
+slug: earthquake-m5-8-yokoshiba-japan-2026-06-26
+incident_type: Earthquake
+country_code: JP
+country_name: Japan
+region: Asia
+first_seen: '2026-06-26'
+event_date: '2026-06-26'
+last_verified_update: '2026-06-26'
+latest_coverage_at: '2026-06-26'
+status_changed_at: '2026-06-26'
+summary: A magnitude 5.8 earthquake struck Japan's Chiba prefecture on June 26, 2026, shaking areas near Tokyo. No tsunami warning was issued.
+summary_updated: '2026-06-26'
+search_keys:
+- Japan Earthquake latest 2026
+- Japan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 0a7a81c1383b533fa3fac90317360e90
+  source: USGS
+  source_id: us6000t8cy
+external_keys:
+- source: USGS
+  source_id: us6000t8cy
+  report_id: 0a7a81c1383b533fa3fac90317360e90
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-26T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

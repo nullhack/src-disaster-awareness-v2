@@ -1,0 +1,37 @@
+schema: 2
+id: 83eb8b8386cd4a2b90a7dc29d3769d8d
+status: dormant
+display_name: Earthquake M5.6 Tamarindo, Costa Rica 2026-09-30
+slug: earthquake-m5-6-tamarindo-costa-rica-2026-09-30
+incident_type: Earthquake
+country_code: CR
+country_name: Costa Rica
+region: Americas
+first_seen: '2026-09-30'
+event_date: '2026-09-30'
+last_verified_update: '2026-10-01'
+latest_coverage_at: '2026-10-01'
+status_changed_at: '2026-10-01'
+summary: A magnitude 5.6-5.7 earthquake struck off the coast of Costa Rica on September 30, 2026, with its epicenter located approximately 106 kilometers southwest of Santa Cruz. The earthquake had a depth of 10 km, as reported by the European-Mediterranean Seismological Centre and the GFZ German Research Centre for Geosciences. No immediate reports of significant damage or casualties were noted in the selected news.
+summary_updated: '2026-10-01'
+search_keys:
+- Costa Rica Earthquake latest 2026
+- Costa Rica Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: e37929fe2904501893cef86ae20df16d
+  source: USGS
+  source_id: us6000tymj
+external_keys:
+- source: USGS
+  source_id: us6000tymj
+  report_id: e37929fe2904501893cef86ae20df16d
+coverage_counts:
+  reports: 1
+  news: 7
+  logs: 1
+  official_sources: 1
+created_at: '2026-09-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,29 @@
+schema: 2
+id: ee0ec4c7fd0b4322941c225a20283b0f
+status: dormant
+display_name: Sumitomo Corporation of Americas Donates $50,000 to Support Colombia Earthquake...
+slug: sumitomo-corporation-of-americas-donates-50-000-to-support-colombia-earthquake
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-26'
+event_date: '2026-08-26'
+last_verified_update: '2026-08-26'
+latest_coverage_at: '2026-08-26'
+status_changed_at: '2026-08-26'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 1
+  logs: 0
+  official_sources: 0
+created_at: '2026-08-26T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

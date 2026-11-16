@@ -1,0 +1,9 @@
+schema: 2
+incident_id: 70b2a54e9fc24ba48f02f5171ac69058
+log_date: '2026-11-02'
+summary: Japan's false magnitude 9.9 earthquake warning, triggered by the October 16 Kamchatka earthquake, was clarified not to have been a cyberattack. The remaining news articles reiterate previously reported details of the magnitude 6.9 event.
+news_ids:
+- 5f438e3056aa55528876dc36d48bf5ad
+- 76f6728ed94a5b32b965408fb9cbcf7c
+- 92504716254a5f44bed4ec3b939fd4ab
+- f2ec72132689514cbb4d9222c89181eb

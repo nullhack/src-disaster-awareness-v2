@@ -1,0 +1,36 @@
+schema: 2
+id: 4c01251b3f6858d2b1f78d29271b226f
+status: archived
+display_name: Chikungunya Global 2025-10-03
+slug: chikungunya-global-2025-10-03
+incident_type: Chikungunya
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2025-08-15'
+event_date: '2025-10-03'
+last_verified_update: '2025-08-15'
+latest_coverage_at: '2025-10-03'
+status_changed_at: '2025-08-15'
+summary: A major outbreak of chikungunya virus has occurred in China, prompting the CDC to issue a travel warning for Americans heading to the country. The outbreak has raised concerns about the virus's spread and its risk to other regions, including the UK and parts of the US.
+summary_updated: '2025-08-15'
+search_keys:
+- Chikungunya update 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 3c1b894a2abf5e5fa37226402d6d412d
+  source: WHO
+  source_id: 78881320-515f-4e5c-b5fc-e3d75acf80b1
+external_keys:
+- source: WHO
+  source_id: 78881320-515f-4e5c-b5fc-e3d75acf80b1
+  report_id: 3c1b894a2abf5e5fa37226402d6d412d
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2025-08-15T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

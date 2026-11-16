@@ -1,0 +1,55 @@
+schema: 2
+id: 8b9a0fd7d7d84dcf9915f43fd81312cd
+status: dormant
+display_name: Earthquake M6.8 Uto, Japan 2026-07-28
+slug: earthquake-m6-8-uto-japan-2026-07-28
+incident_type: Earthquake
+country_code: JP
+country_name: Japan
+region: Asia
+first_seen: '2026-07-28'
+event_date: '2026-07-28'
+last_verified_update: '2026-10-10'
+latest_coverage_at: '2026-10-10'
+status_changed_at: '2026-10-10'
+summary: JR Kyushu local lines were fully restored 74 days after the Kumamoto earthquake, with services resuming between Uto and Yatsushiro stations. Japan's services sector growth slowed in September following the quake's disruption. Additionally, Kawasaki Kisen Kaisha issued a statement offering condolences and donations for disaster relief.
+summary_updated: '2026-10-10'
+search_keys:
+- Japan Earthquake latest 2026
+- Japan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 81cf652565a45d8e9021ba6154a1e17b
+  source: USGS
+  source_id: us6000tgb9
+external_keys:
+- source: USGS
+  source_id: us6000tgb9
+  report_id: 81cf652565a45d8e9021ba6154a1e17b
+- source: USGS
+  source_id: us6000tgbm
+  report_id: 9926d80f5c7459549818ff5dc443a957
+- source: GDACS
+  source_id: '1554552'
+  report_id: ebc2585c4bc3596697e934139abfbfa8
+- source: ERCC
+  source_id: '5740'
+  report_id: a41f6deb218f51708347915e2adc2359
+- source: USGS
+  source_id: us6000tmta
+  report_id: cf548adb038e5892a85bf5679cd434c5
+- source: USGS
+  source_id: us6000tmz6
+  report_id: 9c0706a572c0542abe4cabcf692667e7
+- source: USGS
+  source_id: us7000tc18
+  report_id: 2ecff98faf3a53788fd802b46ffec273
+coverage_counts:
+  reports: 7
+  news: 386
+  logs: 36
+  official_sources: 3
+created_at: '2026-07-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

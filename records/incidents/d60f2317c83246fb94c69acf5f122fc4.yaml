@@ -1,0 +1,91 @@
+schema: 2
+id: d60f2317c83246fb94c69acf5f122fc4
+status: active
+display_name: Earthquake M6.3 Norsup, Vanuatu 2026-10-08
+slug: earthquake-m6-3-norsup-vanuatu-2026-10-08
+incident_type: Earthquake
+country_code: VU
+country_name: Vanuatu
+region: Oceania
+first_seen: '2026-10-08'
+event_date: '2026-10-08'
+last_verified_update: '2026-11-05'
+latest_coverage_at: '2026-11-13'
+status_changed_at: '2026-11-05'
+summary: A magnitude 6.0 earthquake struck 165 km northwest of Port-Olry, Vanuatu, at 11:47 UTC on November 1, 2026, leading a swarm of shocks in the same area. The quake was followed within about 20 minutes by two additional tremors of magnitude 4.
+summary_updated: '2026-11-05'
+search_keys:
+- Vanuatu Earthquake latest 2026
+- Vanuatu Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: eed59d90e3fd5af3a8188f3c8c1a2029
+  source: USGS
+  source_id: us6000u0xi
+external_keys:
+- source: USGS
+  source_id: us6000u0xi
+  report_id: eed59d90e3fd5af3a8188f3c8c1a2029
+- source: USGS
+  source_id: us6000u3c6
+  report_id: 099b4e76f45e58689c3d0ad097289287
+- source: USGS
+  source_id: us6000u3ge
+  report_id: 293fcf3e4d3954e7a32744e7486ff885
+- source: USGS
+  source_id: us6000u3ga
+  report_id: 4f06ac3daca157889f93ea126b618dc0
+- source: USGS
+  source_id: us6000u3bc
+  report_id: 8b861fd6a2855c37944dfaaaeee43b16
+- source: USGS
+  source_id: us6000u3jl
+  report_id: 69c9f85867aa5b8796f25a3b4718594c
+- source: USGS
+  source_id: us6000u4kq
+  report_id: 14af3c9d4b1e5e409d8f2c6f91bf3999
+- source: USGS
+  source_id: us6000u4j2
+  report_id: 2dd0eb60e1595f44a8fae7edbb07d651
+- source: USGS
+  source_id: us6000u4k6
+  report_id: 4fe3b1bc843c503b89274e2a140e67b6
+- source: USGS
+  source_id: us6000u4jb
+  report_id: 6241bed4ff195f589bd1b5ee20b0d475
+- source: USGS
+  source_id: us6000u4jw
+  report_id: 8bd1c4304599505ca1ac2565eb8da098
+- source: USGS
+  source_id: us6000u4ju
+  report_id: 970d3d8879785de0a58436730296cb34
+- source: USGS
+  source_id: us6000u4lm
+  report_id: d9c935c597b85ccd8ffd4cff6e405cf3
+- source: USGS
+  source_id: us6000u4rf
+  report_id: d944b3bf8c3c50f281cc6d99b92ff47a
+- source: USGS
+  source_id: us7000ttfb
+  report_id: 9dfc037dd1d65026a1e3f37002b93f02
+- source: USGS
+  source_id: us7000ttld
+  report_id: 2597cbd83a305f61a4cf47d1da73229a
+- source: USGS
+  source_id: us7000ttlt
+  report_id: 370608bf56b95f999e96dd504ae3c5f9
+- source: USGS
+  source_id: us7000ttlm
+  report_id: 896d2547060054c0ba1fc90153f827d0
+- source: USGS
+  source_id: us7000tupl
+  report_id: 2653a9b04ed6585db79f791451dfd943
+coverage_counts:
+  reports: 19
+  news: 43
+  logs: 7
+  official_sources: 1
+created_at: '2026-10-08T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

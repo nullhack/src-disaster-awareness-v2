@@ -1,0 +1,49 @@
+schema: 2
+id: 387baafc1c6b5a0391293c7f917b5333
+status: dormant
+display_name: Earthquake M7.2 San Felipe, Venezuela 2026-06-24
+slug: earthquake-m7-2-san-felipe-venezuela-2026-06-24
+incident_type: Earthquake
+country_code: VE
+country_name: Venezuela
+region: Americas
+first_seen: '2026-06-24'
+event_date: '2026-06-24'
+last_verified_update: '2026-10-14'
+latest_coverage_at: '2026-10-14'
+status_changed_at: '2026-10-14'
+summary: An AP investigation into ignored warnings identifies who is to blame for the earthquake devastation, reporting over 6,500 deaths and 17,000 homeless.
+summary_updated: '2026-10-14'
+search_keys:
+- Venezuela Earthquake latest 2026
+- Venezuela Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1fe4fa189d29593ba23e3ed2c7342b20
+  source: USGS
+  source_id: us6000t7zc
+external_keys:
+- source: USGS
+  source_id: us6000t7zc
+  report_id: 1fe4fa189d29593ba23e3ed2c7342b20
+- source: USGS
+  source_id: us6000t7zp
+  report_id: 40cc54052afa53e8bd2e1da1c41ae184
+- source: GDACS
+  source_id: '1548377'
+  report_id: a3205d400ed257b09674e1d46a38c891
+- source: ERCC
+  source_id: '5730'
+  report_id: ae1977d1bf00545694d3d1eee1abd3b9
+- source: USGS
+  source_id: us6000tmrw
+  report_id: b24748f85da05c239162622fb43bca2a
+coverage_counts:
+  reports: 5
+  news: 508
+  logs: 59
+  official_sources: 3
+created_at: '2026-06-24T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

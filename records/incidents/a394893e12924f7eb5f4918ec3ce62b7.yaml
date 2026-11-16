@@ -1,0 +1,43 @@
+schema: 2
+id: a394893e12924f7eb5f4918ec3ce62b7
+status: active
+display_name: Tropical Cyclone TWO-26 India 2026-10-26
+slug: tropical-cyclone-two-26-india-2026-10-26
+incident_type: Tropical Cyclone
+country_code: IN
+country_name: India
+region: Asia
+first_seen: '2019-09-12'
+event_date: '2026-10-26'
+last_verified_update: '2026-11-13'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-13'
+summary: Cyclone Arnab has been identified as the first of two cyclones that struck the same region within six days, with Cyclone Murasu making landfall on November 3, 2026. This rare double strike has renewed discussions about climate change and the increasing vulnerability of the Bay of Bengal to sequential storms.
+summary_updated: '2026-11-13'
+search_keys:
+- India Tropical Cyclone latest 2026
+- India Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 56af91d4c57d59099992c453c128a9c7
+  source: GDACS
+  source_id: '1001345'
+external_keys:
+- source: GDACS
+  source_id: '1001345'
+  report_id: 56af91d4c57d59099992c453c128a9c7
+- source: ERCC
+  source_id: '5826'
+  report_id: 36b4cd7f40455edba131f12072ad7ce1
+- source: GDACS
+  source_id: '1001346'
+  report_id: 833281e75ed15be08ee0661f2cb5fd32
+coverage_counts:
+  reports: 3
+  news: 140
+  logs: 7
+  official_sources: 2
+created_at: '2019-09-12T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 515ea07a0a8857a397a55382406b39e3
+status: dormant
+display_name: Earthquake M6.9 Noda, Japan 2026-06-24
+slug: earthquake-m6-9-noda-japan-2026-06-24
+incident_type: Earthquake
+country_code: JP
+country_name: Japan
+region: Asia
+first_seen: '2026-06-24'
+event_date: '2026-06-24'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-18'
+status_changed_at: '2026-07-08'
+summary: A strong earthquake, initially reported with magnitudes between 6.9 and 7.2, struck off the northern coast of Japan on June 24, 2026. The Japan Meteorological Agency stated that there was no danger of a tsunami, and no tsunami warning was issued.
+summary_updated: '2026-07-08'
+search_keys:
+- Japan Earthquake latest 2026
+- Japan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 9b60b7a283a6554397d549c47a684275
+  source: USGS
+  source_id: us6000t7zq
+external_keys:
+- source: USGS
+  source_id: us6000t7zq
+  report_id: 9b60b7a283a6554397d549c47a684275
+coverage_counts:
+  reports: 1
+  news: 5
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-24T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,12 @@
+schema: 2
+incident_id: d60f2317c83246fb94c69acf5f122fc4
+log_date: '2026-10-28'
+summary: A magnitude 6.1 earthquake struck near Port-Olry, Vanuatu, at 02:24 UTC on October 25, 2026. A magnitude 6.0 earthquake then struck off the coast of Vanuatu on October 28, 2026, as reported by USGS and QNA. These latest tremors add to the sequence of significant quakes affecting the island nation.
+news_ids:
+- 146c90660a51556fab1f3e13a7bc7147
+- 20dfd2d6e3ba587bb53b66fa1a421e8e
+- 2868462539e1507f8110f8754a4aabdd
+- 5358542101aa534796ddc0f4ac028a41
+- 5506723b849f589c95ec397858f013f5
+- 5ef43c98ec5b5bdda5222e710c4f1dba
+- bf8f2a0765c25c01b792c19b7da05e4c

@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 1fd5e3cabb385953bcd34f79bfd6a753
+log_date: '2026-07-23'
+summary: A Reuters investigation reported that patchy warnings and outdated emergency plans left victims of the Almería wildfire to fend for themselves, with 12 people killed while trying to escape the blaze near Bedar. This highlights systemic failures in the response to the fire, which has been compounded by a broader heatwave fueling wildfires across southern Europe.
+news_ids:
+- 48a651e3f3fc50599ee27f58c2a06cf7
+- 995d15ce8a705d40a4fddce51aaac27c
+- 9ed254cb9dbd535da7434ad336ebf7ba
+- a7352b7237b85c8b9e4ba1b6d4f008a5
+- cb9ab7b43bd858c2b4539a222c103164

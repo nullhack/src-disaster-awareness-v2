@@ -1,0 +1,25 @@
+id: 3800abdb87d5560b90b67926f3472f49
+source: ERCC
+source_id: '5722'
+incident_type: Forest Fire
+name: Forest Fire Spain 2026-07-10
+report_date: '2026-07-10'
+news_searched_at: '2026-07-24T09:04:33+00:00'
+places:
+- country_code: ES
+  subdivision: ''
+  locality: ''
+- country_code: FR
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: ECHO Daily Map of 10 July 2026
+  description: Spain, France | Wildfires and UCPM response
+  pubDate: Fri, 10 Jul 2026 18:02:14 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5722
+  guid: ERCC_Map_5722
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5722&fileN=ImageFile&forceDownload=False
+  countries: ESP, FRA
+  eventTypes: Wild fire
+schema: 2
+content_hash: 8599a5a1d0a0cb86e8bbfd3e62595136e85719e916f1710f5c1ffd1ae38fc95c

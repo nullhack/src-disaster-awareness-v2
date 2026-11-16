@@ -1,0 +1,37 @@
+schema: 2
+id: 5638775cbc294f78a74ce0b2ef66c0c4
+status: dormant
+display_name: Earthquake M5.6 Port McNeill, Canada 2026-07-20
+slug: earthquake-m5-6-port-mcneill-canada-2026-07-20
+incident_type: Earthquake
+country_code: CA
+country_name: Canada
+region: Americas
+first_seen: '2026-07-20'
+event_date: '2026-07-20'
+last_verified_update: '2026-07-20'
+latest_coverage_at: '2026-07-20'
+status_changed_at: '2026-07-20'
+summary: A magnitude 5.6 earthquake struck off the coast of Vancouver Island near Port McNeill, Canada. No tsunami advisories were issued and no damage was reported. The quake was felt as far as the Seattle area.
+summary_updated: '2026-07-20'
+search_keys:
+- Canada Earthquake latest 2026
+- Canada Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 210d9856d2bc5e6fbc22a35def4f5c14
+  source: USGS
+  source_id: us7000t1w2
+external_keys:
+- source: USGS
+  source_id: us7000t1w2
+  report_id: 210d9856d2bc5e6fbc22a35def4f5c14
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-07-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

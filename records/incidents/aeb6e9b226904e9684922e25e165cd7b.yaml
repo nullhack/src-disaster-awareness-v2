@@ -1,0 +1,115 @@
+schema: 2
+id: aeb6e9b226904e9684922e25e165cd7b
+status: dormant
+display_name: Earthquake M7.7 Ende, Indonesia 2026-08-14
+slug: earthquake-m7-7-ende-indonesia-2026-08-14
+incident_type: Earthquake
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2026-07-27'
+event_date: '2026-08-14'
+last_verified_update: '2026-09-21'
+latest_coverage_at: '2026-10-10'
+status_changed_at: '2026-09-21'
+summary: On September 21, a 5.3-magnitude earthquake struck Ruteng, Indonesia, continuing the aftershock sequence following the August 14 M7.7 earthquake in Flores. This brings updated seismic activity after over 15,000 aftershocks had been recorded as of mid-September.
+summary_updated: '2026-09-21'
+search_keys:
+- Indonesia Earthquake latest 2026
+- Indonesia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 445a736950f458329ef971b8a77b20f6
+  source: USGS
+  source_id: us6000tkt2
+external_keys:
+- source: USGS
+  source_id: us6000tkt2
+  report_id: 445a736950f458329ef971b8a77b20f6
+- source: USGS
+  source_id: us6000tkuf
+  report_id: 6e0bfed9e9bf52a384d900ca79a93f7b
+- source: USGS
+  source_id: us6000tkuc
+  report_id: 763909a5a3c05902ba9214dd133b3a54
+- source: GDACS
+  source_id: '1558059'
+  report_id: 802dab7f6d775c48a45b704217ec1dc3
+- source: USGS
+  source_id: us6000tkta
+  report_id: 9341798c48e5516e9734f0fd06ac1a32
+- source: USGS
+  source_id: us6000tku7
+  report_id: ae7daf7a21c05777bdb74e1ca77c731c
+- source: USGS
+  source_id: us6000tlwi
+  report_id: afee92e528ca58b9bc383b001e2df58f
+- source: USGS
+  source_id: us6000tkub
+  report_id: fe0252bdc50c57d8a4be22183a30a7ae
+- source: USGS
+  source_id: us6000tkyk
+  report_id: 26b2b076edbb5efbb64732c3a4cfc5fd
+- source: USGS
+  source_id: us6000tl1s
+  report_id: 275d85dcbb69597a9f2eb36d5880776c
+- source: USGS
+  source_id: us6000tl6a
+  report_id: 5755142908ce58f0a9a2eae9b0ba45a0
+- source: USGS
+  source_id: usd0015eay
+  report_id: 0311eeaddc235d859834196da7b1aa47
+- source: USGS
+  source_id: us6000tm0u
+  report_id: 7f4a95bde5415fbf830e7e128555209f
+- source: USGS
+  source_id: us6000tlxq
+  report_id: 868fe7f4316652f1a5622ae9b3bf7a27
+- source: USGS
+  source_id: us6000tm1j
+  report_id: 818c092fb1185d93a4fc99811adb1fa0
+- source: USGS
+  source_id: us6000tm8h
+  report_id: f8786fc2c0b55a12ba4679620a354d26
+- source: USGS
+  source_id: us6000tmlu
+  report_id: 57395f8fa30b520191cac2d18c3480f6
+- source: USGS
+  source_id: us6000tn33
+  report_id: 6d679d67d27359df86622d7764c7a6b7
+- source: USGS
+  source_id: us7000td2z
+  report_id: 1362a5b45648512f924d30350c99c6a2
+- source: USGS
+  source_id: us7000tdav
+  report_id: ddef03554e285ecd913fb272f196907c
+- source: USGS
+  source_id: us7000tdhl
+  report_id: eb30dcdfe42a519ba8af29dd7de3ac76
+- source: USGS
+  source_id: us7000tdvt
+  report_id: c62756388bac5d8a8d767b09c27aef53
+- source: USGS
+  source_id: us7000tgrk
+  report_id: ec991525b9dd545ca4cfe5fe447da0a5
+- source: USGS
+  source_id: us7000thc6
+  report_id: 29ea09b7fd065231b8df6d7573e58297
+- source: USGS
+  source_id: us7000thcs
+  report_id: 2f2065480c8653e98b43d769fd0aeeb6
+- source: USGS
+  source_id: us7000tiur
+  report_id: b6454a625bcd5e9da2b5d98d00a139eb
+- source: USGS
+  source_id: us6000tzer
+  report_id: 380e2451f8e858d294973e0890d6cb93
+coverage_counts:
+  reports: 27
+  news: 464
+  logs: 21
+  official_sources: 2
+created_at: '2026-07-27T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

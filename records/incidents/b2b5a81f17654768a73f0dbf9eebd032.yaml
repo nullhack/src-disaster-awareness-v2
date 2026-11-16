@@ -1,0 +1,43 @@
+schema: 2
+id: b2b5a81f17654768a73f0dbf9eebd032
+status: dormant
+display_name: Tropical Cyclone POLO-26 Mexico 2026-09-21
+slug: tropical-cyclone-polo-26-mexico-2026-09-21
+incident_type: Tropical Cyclone
+country_code: MX
+country_name: Mexico
+region: Americas
+first_seen: '2025-06-09'
+event_date: '2026-09-21'
+last_verified_update: '2026-10-01'
+latest_coverage_at: '2026-10-25'
+status_changed_at: '2026-10-01'
+summary: One source reports that the remnants of Hurricane Polo are bringing a major flood threat to the Southern Plains, including Texas, after soaking the Southwest. Another source notes that the Eastern Pacific has experienced an unusually active hurricane season, producing 20 named storms fueled by warm waters and El Niño conditions.
+summary_updated: '2026-10-01'
+search_keys:
+- Mexico Tropical Cyclone latest 2026
+- Mexico Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: cbc667f420b752b49126105d01b89ec4
+  source: GDACS
+  source_id: '1001325'
+external_keys:
+- source: GDACS
+  source_id: '1001325'
+  report_id: cbc667f420b752b49126105d01b89ec4
+- source: ERCC
+  source_id: '5798'
+  report_id: 14f2b717541551088cb35cb82762dc44
+- source: ERCC
+  source_id: '5810'
+  report_id: 8c219ab3e2e25df6a1801e6920b050b5
+coverage_counts:
+  reports: 3
+  news: 182
+  logs: 8
+  official_sources: 2
+created_at: '2025-06-09T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

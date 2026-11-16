@@ -1,0 +1,31 @@
+schema: 2
+id: 028aa4b82a6f4a5ab8221414723ba24b
+status: dormant
+display_name: Big Sur wildfires grow as 40-mile stretch of Highway 1 and businesses close
+slug: big-sur-wildfires-grow-as-40-mile-stretch-of-highway-1-and-businesses-close
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-27'
+event_date: '2026-08-27'
+last_verified_update: '2026-08-27'
+latest_coverage_at: '2026-08-29'
+status_changed_at: '2026-08-27'
+summary: ''
+summary_updated: ''
+search_keys:
+- Forest Fire latest 2026
+- Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 6
+  logs: 0
+  official_sources: 0
+created_at: '2026-08-27T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

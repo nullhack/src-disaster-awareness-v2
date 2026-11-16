@@ -1,0 +1,38 @@
+schema: 2
+id: f5175915eae9420e9a5f9af17d2ef64a
+status: dormant
+display_name: Earthquake M6.5 Ocean 2026-09-17
+slug: earthquake-m6-5-ocean-2026-09-17
+incident_type: Earthquake
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-09-17'
+event_date: '2026-09-17'
+last_verified_update: '2026-09-17'
+latest_coverage_at: '2026-10-04'
+status_changed_at: '2026-09-17'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 2e6a5453cbc357d4a5b6669a4cd106f2
+  source: USGS
+  source_id: us7000ti1p
+external_keys:
+- source: USGS
+  source_id: us7000ti1p
+  report_id: 2e6a5453cbc357d4a5b6669a4cd106f2
+- source: USGS
+  source_id: us7000tigd
+  report_id: e480028aff9c5e17a268c32853840091
+coverage_counts:
+  reports: 2
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-09-17T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

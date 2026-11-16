@@ -1,0 +1,43 @@
+schema: 2
+id: 26f4e00e774b43a49f9cac81ad508be9
+status: dormant
+display_name: Earthquake M5.6 Ocean 2026-08-13
+slug: earthquake-m5-6-ocean-2026-08-13
+incident_type: Earthquake
+country_code: SO
+country_name: Somalia
+region: Africa
+first_seen: '2020-11-29'
+event_date: '2026-08-13'
+last_verified_update: '2026-08-28'
+latest_coverage_at: '2026-08-28'
+status_changed_at: '2026-08-28'
+summary: A magnitude 6.0 earthquake struck the Gulf of Aden early Friday, August 27, 2026, approximately 145 kilometers north of Caluula in Somalia's Puntland region. The United States Geological Survey (USGS) reported the quake, which was felt across Somalia and rattled residents in the area. No immediate damage or casualties have been reported.
+summary_updated: '2026-08-28'
+search_keys:
+- Somalia Earthquake latest 2026
+- Somalia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 363d8333a89150d2b1019a8ca6b04ddd
+  source: USGS
+  source_id: us6000tkhm
+external_keys:
+- source: USGS
+  source_id: us6000tkhm
+  report_id: 363d8333a89150d2b1019a8ca6b04ddd
+- source: USGS
+  source_id: us6000tmrn
+  report_id: 59bd0c202d995ca68d1a5c3c8a17e109
+- source: USGS
+  source_id: us7000tcf3
+  report_id: 60c77d96485b5038a332811475a601b4
+coverage_counts:
+  reports: 3
+  news: 6
+  logs: 1
+  official_sources: 1
+created_at: '2020-11-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

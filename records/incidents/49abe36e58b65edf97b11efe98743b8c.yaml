@@ -1,0 +1,37 @@
+schema: 2
+id: 49abe36e58b65edf97b11efe98743b8c
+status: dormant
+display_name: Nipah Kerala, India 2026-06-25
+slug: nipah-kerala-india-2026-06-25
+incident_type: Nipah
+country_code: BD
+country_name: Bangladesh
+region: Asia
+first_seen: '2026-06-25'
+event_date: '2026-06-25'
+last_verified_update: '2026-07-07'
+latest_coverage_at: '2026-07-07'
+status_changed_at: '2026-07-07'
+summary: The article reports on the Nipah virus outbreak in India, detailing confirmed cases, symptoms, and prevention measures. It provides a breakdown of the current situation and how officials are containing the outbreak.
+summary_updated: '2026-07-07'
+search_keys:
+- Nipah India update 2026
+- Nipah India 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: adbfdd0302e358c2b3ee4fffca5ddc0b
+  source: WHO
+  source_id: ff0edd89-ede9-4566-8196-6fd2e302637c
+external_keys:
+- source: WHO
+  source_id: ff0edd89-ede9-4566-8196-6fd2e302637c
+  report_id: adbfdd0302e358c2b3ee4fffca5ddc0b
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-25T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

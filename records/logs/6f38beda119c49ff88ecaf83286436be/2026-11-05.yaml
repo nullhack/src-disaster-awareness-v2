@@ -1,0 +1,11 @@
+schema: 2
+incident_id: 6f38beda119c49ff88ecaf83286436be
+log_date: '2026-11-05'
+summary: The selected news adds reports of seven wildfires across New York state covering 11.5 acres, and brush fires in Raynham, Massachusetts, supplementing the earlier activity in Hanson.
+news_ids:
+- 34bd9e966c195b0d9afef3d174d6c6d7
+- 4794436812045bf6af21ea56174832ac
+- 56348b246d975d4899fe8e0c052bbf51
+- 7078d43a5d705d32ace83382fdd897ee
+- e7544b4c14d15280b3f45c125c96bc0d
+- f13e33f59dd25bfca7ab91e3491eedfa

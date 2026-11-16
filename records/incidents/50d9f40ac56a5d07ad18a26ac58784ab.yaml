@@ -1,0 +1,37 @@
+schema: 2
+id: 50d9f40ac56a5d07ad18a26ac58784ab
+status: dormant
+display_name: Earthquake M5.4 Narayanganj, Bangladesh 2025-11-21
+slug: earthquake-m5-4-narayanganj-bangladesh-2025-11-21
+incident_type: Earthquake
+country_code: BD
+country_name: Bangladesh
+region: Asia
+first_seen: '2025-11-21'
+event_date: '2025-11-21'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude-5.5 earthquake struck central Bangladesh and parts of India on November 22, 2025, killing at least 10 people and injuring hundreds. The quake was centered near the capital Dhaka, causing significant damage and casualties.
+summary_updated: '2026-07-08'
+search_keys:
+- Bangladesh Earthquake latest 2025
+- Bangladesh Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 6dc555d567ca52ee96519a183bc16a1d
+  source: GDACS
+  source_id: '1511252'
+external_keys:
+- source: GDACS
+  source_id: '1511252'
+  report_id: 6dc555d567ca52ee96519a183bc16a1d
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 1
+  official_sources: 1
+created_at: '2025-11-21T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

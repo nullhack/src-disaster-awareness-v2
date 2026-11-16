@@ -1,0 +1,37 @@
+schema: 2
+id: 430d32f2f94352f38fadab2c07f253dc
+status: dormant
+display_name: Earthquake M5.3 Orotina, Costa Rica 2026-07-07
+slug: earthquake-m5-3-orotina-costa-rica-2026-07-07
+incident_type: Earthquake
+country_code: CR
+country_name: Costa Rica
+region: Americas
+first_seen: '2026-07-07'
+event_date: '2026-07-07'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 5.3–5.4 earthquake struck Costa Rica near the town of Orotina and the coastal area of Jacó on July 7, 2026, at approximately 12:11 p.m. local time (1811 GMT). The tremor, with a depth of about 29.4 km, was felt across the Central Pacific, Central Valley, and parts of Guanacaste. No immediate damage or casualties were reported in the initial coverage.
+summary_updated: '2026-07-08'
+search_keys:
+- Costa Rica Earthquake latest 2026
+- Costa Rica Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 11b70e0546db547cb40dbb45da15426e
+  source: USGS
+  source_id: us6000tarc
+external_keys:
+- source: USGS
+  source_id: us6000tarc
+  report_id: 11b70e0546db547cb40dbb45da15426e
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-07-07T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

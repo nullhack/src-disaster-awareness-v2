@@ -1,0 +1,37 @@
+schema: 2
+id: 6972a368ddbd4aa6aa55eab0f1080842
+status: dormant
+display_name: Flood Philippines 2026-09-04
+slug: flood-philippines-2026-09-04
+incident_type: Flood
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2022-07-10'
+event_date: '2026-09-04'
+last_verified_update: '2026-10-10'
+latest_coverage_at: '2026-10-10'
+status_changed_at: '2026-10-10'
+summary: A low‑pressure area embedded in the ITCZ continues to bring widespread rains across the Philippines, with Cebu facing heightened flood risks this weekend. The DSWD has begun using NLEX emergency lanes to expedite delivery of 218,000 family food packs to flood‑hit communities. Meanwhile, a controversy erupts over Senator Lacson’s allegations of ghost flood control projects in Taguig, raising concerns about Ombudsman procedures and due process.
+summary_updated: '2026-10-10'
+search_keys:
+- Philippines Flood latest 2026
+- Philippines Flood 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 222d5d693e175836b2d72bae6346c561
+  source: ERCC
+  source_id: '5775'
+external_keys:
+- source: ERCC
+  source_id: '5775'
+  report_id: 222d5d693e175836b2d72bae6346c561
+coverage_counts:
+  reports: 1
+  news: 157
+  logs: 24
+  official_sources: 1
+created_at: '2022-07-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

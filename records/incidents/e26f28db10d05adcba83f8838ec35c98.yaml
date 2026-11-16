@@ -1,0 +1,37 @@
+schema: 2
+id: e26f28db10d05adcba83f8838ec35c98
+status: dormant
+display_name: Earthquake M7.6 2025 Aomori Prefecture, Japan 2025-12-08
+slug: earthquake-m7-6-2025-aomori-prefecture-japan-2025-12-08
+incident_type: Earthquake
+country_code: JP
+country_name: Japan
+region: Asia
+first_seen: '2025-12-08'
+event_date: '2025-12-08'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: On December 8, 2025, a magnitude 7.5 earthquake struck off Japan's northeastern coast, prompting a tsunami warning and evacuation orders. Japanese authorities later issued a special advisory warning of an increased risk of a magnitude 8.0 or stronger earthquake.
+summary_updated: '2026-07-08'
+search_keys:
+- Japan Earthquake latest 2025
+- Japan Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: bf53e0fe7cec5e909e161baa0ace6157
+  source: USGS
+  source_id: us6000rtdt
+external_keys:
+- source: USGS
+  source_id: us6000rtdt
+  report_id: bf53e0fe7cec5e909e161baa0ace6157
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2025-12-08T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

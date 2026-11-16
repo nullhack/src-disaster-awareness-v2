@@ -1,0 +1,37 @@
+schema: 2
+id: 3745426ebb8557d2a032e408f9a16cbb
+status: dormant
+display_name: Earthquake M5.5 Jurm, Afghanistan 2026-07-01
+slug: earthquake-m5-5-jurm-afghanistan-2026-07-01
+incident_type: Earthquake
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2026-07-01'
+event_date: '2026-07-01'
+last_verified_update: '2026-07-02'
+latest_coverage_at: '2026-07-02'
+status_changed_at: '2026-07-02'
+summary: A 5.5 magnitude earthquake struck 47 km southwest of Jurm, Afghanistan, with tremors felt in neighboring Pakistan and northern India, including Jammu and Kashmir. The article notes this is the second earthquake in the region within five days.
+summary_updated: '2026-07-02'
+search_keys:
+- Afghanistan Earthquake latest 2026
+- Afghanistan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 83ac51e7e8165bbb8293e82a3a031082
+  source: USGS
+  source_id: us6000t9gg
+external_keys:
+- source: USGS
+  source_id: us6000t9gg
+  report_id: 83ac51e7e8165bbb8293e82a3a031082
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-07-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

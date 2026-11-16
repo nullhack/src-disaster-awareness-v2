@@ -1,0 +1,37 @@
+schema: 2
+id: 78e13412e3a0547f9adad1a333835831
+status: dormant
+display_name: Earthquake M5.4 Kimbe, Papua New Guinea 2026-06-30
+slug: earthquake-m5-4-kimbe-papua-new-guinea-2026-06-30
+incident_type: Earthquake
+country_code: PG
+country_name: Papua New Guinea
+region: Oceania
+first_seen: '2026-06-30'
+event_date: '2026-06-30'
+last_verified_update: '2026-06-30'
+latest_coverage_at: '2026-06-30'
+status_changed_at: '2026-06-30'
+summary: A magnitude 5.8 earthquake struck the New Britain Region of Papua New Guinea on June 30, 2026, according to the German Research Centre for Geosciences (GFZ). The epicenter was located in the region near Kimbe, East New Britain.
+summary_updated: '2026-06-30'
+search_keys:
+- Papua New Guinea Earthquake latest 2026
+- Papua New Guinea Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c5b27fc39e835a73a55bdd4313c6b58f
+  source: USGS
+  source_id: us6000t978
+external_keys:
+- source: USGS
+  source_id: us6000t978
+  report_id: c5b27fc39e835a73a55bdd4313c6b58f
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

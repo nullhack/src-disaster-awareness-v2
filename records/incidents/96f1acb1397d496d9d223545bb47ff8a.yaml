@@ -1,0 +1,37 @@
+schema: 2
+id: 96f1acb1397d496d9d223545bb47ff8a
+status: dormant
+display_name: Forest Fire Huesca, Spain 2026-08-10
+slug: forest-fire-huesca-spain-2026-08-10
+incident_type: Forest Fire
+country_code: ES
+country_name: Spain
+region: Europe
+first_seen: '2026-08-10'
+event_date: '2026-08-10'
+last_verified_update: '2026-08-24'
+latest_coverage_at: '2026-08-25'
+status_changed_at: '2026-08-24'
+summary: A wildfire in the Aragon region of Spain has claimed the life of a member of Spain's Military Emergency Unit. Dangerous drying conditions are expected to return, raising continued fire risk in the area.
+summary_updated: '2026-08-24'
+search_keys:
+- Spain Forest Fire latest 2026
+- Spain Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: f13578f4d1665548a106bf03ea1212b0
+  source: GDACS
+  source_id: '1030410'
+external_keys:
+- source: GDACS
+  source_id: '1030410'
+  report_id: f13578f4d1665548a106bf03ea1212b0
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

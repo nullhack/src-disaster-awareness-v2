@@ -1,0 +1,40 @@
+schema: 2
+id: 9ab8cf1453e944399234b8ff8c29958b
+status: dormant
+display_name: Flood Vietnam 2026-09-22
+slug: flood-vietnam-2026-09-22
+incident_type: Flood
+country_code: VN
+country_name: Vietnam
+region: Asia
+first_seen: '2025-02-27'
+event_date: '2026-09-22'
+last_verified_update: '2026-10-11'
+latest_coverage_at: '2026-10-11'
+status_changed_at: '2026-10-11'
+summary: On October 10, high tides and afternoon rain threatened flooding in Ho Chi Minh City. Heavy rain also caused cracking and subsidence on National Highway 28B in Lam Dong Province, raising concerns for traffic safety. Southern Vietnam faces continued downpours and high tides through October 13, with levels potentially exceeding the highest warning.
+summary_updated: '2026-10-11'
+search_keys:
+- Vietnam Flood latest 2026
+- Vietnam Flood 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: f1b69a33fe985ed08661ef3717968dc8
+  source: ERCC
+  source_id: '5791'
+external_keys:
+- source: ERCC
+  source_id: '5791'
+  report_id: f1b69a33fe985ed08661ef3717968dc8
+- source: ERCC
+  source_id: '5800'
+  report_id: 287b216c68e256aaa8fa385346390453
+coverage_counts:
+  reports: 2
+  news: 69
+  logs: 15
+  official_sources: 1
+created_at: '2025-02-27T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

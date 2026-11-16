@@ -1,0 +1,11 @@
+schema: 2
+incident_id: 1469058eb9eb432ea5f73ca1307025e6
+log_date: '2026-10-21'
+summary: A Pacific storm is approaching Southern California, prompting flood watches for the region. Flash flood warnings have been issued for Zion National Park in Utah, while a strengthening nor'easter threatens the East Coast with damaging winds and coastal flooding, leading to a coastal flood advisory for Long Island. Additionally, flooding in Nasarawa State, Nigeria, has submerged 18 communities and killed two people.
+news_ids:
+- 2e4bcf1439315ee1be44bced74a5ba5d
+- 32f1bf7e3f7054c099679f54bdb859d5
+- 4ef4078b49485518ac8e01fffe816f15
+- 5e1b2d105c43584fb85dadedff6d1ed6
+- 8548258bcd0650d287f7685e25d34874
+- d7c5b52ddc915f779af6a25982cae6b2

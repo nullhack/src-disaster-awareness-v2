@@ -1,0 +1,35 @@
+schema: 2
+id: ead7c830503e4a15b309e199866758cd
+status: active
+display_name: Moldova 2026-10-01
+slug: moldova-2026-10-01
+incident_type: Unknown
+country_code: MD
+country_name: Moldova
+region: Europe
+first_seen: '2026-10-01'
+event_date: '2026-10-01'
+last_verified_update: '2026-11-02'
+latest_coverage_at: '2026-11-02'
+status_changed_at: '2026-11-02'
+summary: New automatic gun turrets downed the first Russian jet-powered drones, while Russian strikes killed at least 15 people in Ukraine. Ukraine struggles with Starlink and US satellite data, and Russia escalates hybrid attacks and nuclear threats. Politically, Trump blamed Zelenskyy for US diesel prices and suggested Ukraine needs a new president.
+summary_updated: '2026-11-02'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 670101a56f955b99b51cd4e0d62e3858
+  source: ERCC
+  source_id: '5801'
+external_keys:
+- source: ERCC
+  source_id: '5801'
+  report_id: 670101a56f955b99b51cd4e0d62e3858
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-10-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

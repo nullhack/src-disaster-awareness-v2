@@ -1,0 +1,40 @@
+schema: 2
+id: 380066968a6b5cafa449ba565e86bb0a
+status: dormant
+display_name: Tropical Cyclone TAPAH-25 Macao, China 2025-09-06
+slug: tropical-cyclone-tapah-25-macao-china-2025-09-06
+incident_type: Tropical Cyclone
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2025-09-06'
+event_date: '2025-09-06'
+last_verified_update: '2026-07-17'
+latest_coverage_at: '2026-07-17'
+status_changed_at: '2026-07-17'
+summary: Tropical Cyclone TAPAH-25 (referred to as Typhoon Ragasa in some reports) struck southern China, prompting the evacuation of nearly 2 million people. The storm caused at least 17 fatalities, brought severe flooding to Hong Kong, and led to the shutdown of schools and businesses in the region.
+summary_updated: '2026-07-17'
+search_keys:
+- China Tropical Cyclone latest 2025
+- China Tropical Cyclone 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: d9d0c00dc7f75645a2af2320a92e5fd8
+  source: GDACS
+  source_id: '1001206'
+external_keys:
+- source: GDACS
+  source_id: '1001206'
+  report_id: d9d0c00dc7f75645a2af2320a92e5fd8
+- source: GDACS
+  source_id: '1103514'
+  report_id: b9ac95278bb557188a47726d5394da27
+coverage_counts:
+  reports: 2
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2025-09-06T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

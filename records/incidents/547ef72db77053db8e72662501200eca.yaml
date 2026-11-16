@@ -1,0 +1,37 @@
+schema: 2
+id: 547ef72db77053db8e72662501200eca
+status: archived
+display_name: Measles Alaska, United States 2025-03-27
+slug: measles-alaska-united-states-2025-03-27
+incident_type: Measles
+country_code: GE
+country_name: Georgia
+region: Asia
+first_seen: '2025-03-27'
+event_date: '2025-03-27'
+last_verified_update: '2025-03-27'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2025-03-27'
+summary: ''
+summary_updated: ''
+search_keys:
+- Measles United States update 2025
+- Measles United States 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 735bd9e2bf5a5b2989b768db0065fe05
+  source: WHO
+  source_id: a1151663-3f67-41b0-be1b-06af835aafac
+external_keys:
+- source: WHO
+  source_id: a1151663-3f67-41b0-be1b-06af835aafac
+  report_id: 735bd9e2bf5a5b2989b768db0065fe05
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2025-03-27T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

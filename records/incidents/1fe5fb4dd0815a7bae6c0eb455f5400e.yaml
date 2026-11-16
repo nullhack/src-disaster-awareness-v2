@@ -1,0 +1,37 @@
+schema: 2
+id: 1fe5fb4dd0815a7bae6c0eb455f5400e
+status: dormant
+display_name: Earthquake M7.1 Kota Belud, Malaysia 2026-02-22
+slug: earthquake-m7-1-kota-belud-malaysia-2026-02-22
+incident_type: Earthquake
+country_code: MY
+country_name: Malaysia
+region: Asia
+first_seen: '2026-02-22'
+event_date: '2026-02-22'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 7.1 earthquake shook parts of Malaysia, as reported by the U.S. Geological Survey. The quake occurred on Sunday shortly before 5 p.m. GMT, affecting areas including Sabah.
+summary_updated: '2026-07-08'
+search_keys:
+- Malaysia Earthquake latest 2026
+- Malaysia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 717f4344b29454a4bc2d579a4488b299
+  source: USGS
+  source_id: us6000sasz
+external_keys:
+- source: USGS
+  source_id: us6000sasz
+  report_id: 717f4344b29454a4bc2d579a4488b299
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-02-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

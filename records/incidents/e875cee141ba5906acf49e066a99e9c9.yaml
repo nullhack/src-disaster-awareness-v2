@@ -1,0 +1,37 @@
+schema: 2
+id: e875cee141ba5906acf49e066a99e9c9
+status: dormant
+display_name: Volcano Lewotobi, Indonesia 2025-10-14
+slug: volcano-lewotobi-indonesia-2025-10-14
+incident_type: Volcano
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2025-10-14'
+event_date: '2025-10-14'
+last_verified_update: '2026-07-23'
+latest_coverage_at: '2026-07-23'
+status_changed_at: '2026-07-23'
+summary: Mount Lewotobi Laki-laki erupted again on July 18, 2026, and July 23, 2026, with a volcanic ash column reaching 1,000 meters on the latter date. The volcano remains at Alert Level III with a 5 km exclusion zone, and has now erupted 45 times in seven days and 461 times total in 2026.
+summary_updated: '2026-07-23'
+search_keys:
+- Indonesia Volcano latest 2025
+- Indonesia Volcano 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 99aa47e06bb3519684f7d8daad0f7217
+  source: GDACS
+  source_id: '1000122'
+external_keys:
+- source: GDACS
+  source_id: '1000122'
+  report_id: 99aa47e06bb3519684f7d8daad0f7217
+coverage_counts:
+  reports: 1
+  news: 8
+  logs: 3
+  official_sources: 1
+created_at: '2025-10-14T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

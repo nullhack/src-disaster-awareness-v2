@@ -1,0 +1,37 @@
+schema: 2
+id: ace75ea73e145e69a635560137aade54
+status: dormant
+display_name: Earthquake M6.2 Puerto Santa, Peru 2025-12-28
+slug: earthquake-m6-2-puerto-santa-peru-2025-12-28
+incident_type: Earthquake
+country_code: PE
+country_name: Peru
+region: Americas
+first_seen: '2025-12-28'
+event_date: '2025-12-28'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A 6.2 magnitude earthquake struck off the coast of northern Peru late Saturday, approximately 43 km west of Puerto Santa. The tremor startled residents and prompted some to leave their homes as it was felt across the region.
+summary_updated: '2026-07-08'
+search_keys:
+- Peru Earthquake latest 2025
+- Peru Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 124e5c6721865729b7ec97312ab00933
+  source: USGS
+  source_id: us7000rl57
+external_keys:
+- source: USGS
+  source_id: us7000rl57
+  report_id: 124e5c6721865729b7ec97312ab00933
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-12-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

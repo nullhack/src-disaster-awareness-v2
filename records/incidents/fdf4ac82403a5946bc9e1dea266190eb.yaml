@@ -1,0 +1,37 @@
+schema: 2
+id: fdf4ac82403a5946bc9e1dea266190eb
+status: dormant
+display_name: Mpox Burundi 2024-08-22
+slug: mpox-burundi-2024-08-22
+incident_type: Mpox
+country_code: BI
+country_name: Burundi
+region: Africa
+first_seen: '2024-08-22'
+event_date: '2024-08-22'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: The mpox outbreak in Africa remains uncontrolled, with the Africa CDC warning that cases are still rising. In response, Gavi has agreed to purchase 500,000 doses of Bavarian Nordic's mpox vaccine to help combat the outbreak. The World Health Organization has also emphasized the need for a collaborative response, particularly in the Democratic Republic of the Congo.
+summary_updated: '2026-07-08'
+search_keys:
+- Mpox Burundi update 2024
+- Mpox Burundi 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: e162afd36b43526084fd6ee0b890778f
+  source: WHO
+  source_id: a2e9b557-fa1d-4427-bc25-b80d6684b14e
+external_keys:
+- source: WHO
+  source_id: a2e9b557-fa1d-4427-bc25-b80d6684b14e
+  report_id: e162afd36b43526084fd6ee0b890778f
+coverage_counts:
+  reports: 1
+  news: 5
+  logs: 1
+  official_sources: 1
+created_at: '2024-08-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

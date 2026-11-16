@@ -1,0 +1,36 @@
+schema: 2
+id: c7c537cf25114dbf8531a4aec164b085
+status: active
+display_name: Yellow fever Burkina Faso 2026-11-06
+slug: yellow-fever-burkina-faso-2026-11-06
+incident_type: Yellow fever
+country_code: BF
+country_name: Burkina Faso
+region: Africa
+first_seen: '2026-11-06'
+event_date: '2026-11-06'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: The CDC issued a Level 2 travel alert in response to a yellow fever outbreak, urging travelers to obtain the yellow fever vaccine at least 10 days before departure. Yellow fever is listed among the active CDC Travel Health Notices, indicating ongoing public health attention.
+summary_updated: '2026-11-15'
+search_keys:
+- Yellow fever update 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 5b02ebef141955b0bbf68736d5c20596
+  source: WHO
+  source_id: ed87efed-9b8e-492e-ad7d-1e1e22e9f77b
+external_keys:
+- source: WHO
+  source_id: ed87efed-9b8e-492e-ad7d-1e1e22e9f77b
+  report_id: 5b02ebef141955b0bbf68736d5c20596
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-11-06T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

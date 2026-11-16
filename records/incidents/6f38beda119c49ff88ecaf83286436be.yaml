@@ -1,0 +1,31 @@
+schema: 2
+id: 6f38beda119c49ff88ecaf83286436be
+status: active
+display_name: Crews respond to brush fire in Girard Twp. Monday
+slug: crews-respond-to-brush-fire-in-girard-twp-monday
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-11-01'
+event_date: '2026-11-01'
+last_verified_update: '2026-11-07'
+latest_coverage_at: '2026-11-08'
+status_changed_at: '2026-11-07'
+summary: The Wild River Fire in New Hampshire's White Mountain National Forest has burned nearly 1,000 acres and is now 20% contained. A backyard brush fire in Northeast Ohio prompted warnings about the state's fall burn ban.
+summary_updated: '2026-11-07'
+search_keys:
+- Forest Fire latest 2026
+- Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 19
+  logs: 3
+  official_sources: 0
+created_at: '2026-11-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 8b8f987e211f5486a9370f9b71f82bff
+status: dormant
+display_name: Cholera Afghanistan 2025-08-29
+slug: cholera-afghanistan-2025-08-29
+incident_type: Cholera
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2025-08-29'
+event_date: '2025-08-29'
+last_verified_update: '2026-06-05'
+latest_coverage_at: '2026-06-05'
+status_changed_at: '2026-06-05'
+summary: According to a report from Africa CDC, the continent is experiencing its worst cholera outbreak in 25 years, with Sudan among the countries facing surges. The outbreak is compounded by the annual rainy season and a collapsed health system in Sudan, which is also battling dengue fever.
+summary_updated: '2026-06-05'
+search_keys:
+- Cholera Afghanistan update 2025
+- Cholera Afghanistan 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 165e93342fec5497b29dae8155b3ca30
+  source: WHO
+  source_id: bd3a42d6-1c7c-4fec-9a80-3d210e491608
+external_keys:
+- source: WHO
+  source_id: bd3a42d6-1c7c-4fec-9a80-3d210e491608
+  report_id: 165e93342fec5497b29dae8155b3ca30
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-08-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

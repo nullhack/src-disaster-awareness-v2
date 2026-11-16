@@ -1,0 +1,9 @@
+schema: 2
+incident_id: acdb5b24642f485ab748b03b1f72a86d
+log_date: '2026-11-03'
+summary: A magnitude 5.2 earthquake followed the initial 5.7 tremor off the Aeolian Islands on October 23. The main shock was recorded at 10:19 UTC.
+news_ids:
+- 316a68c9f5525b3f8371f0432c957eb7
+- 41ee54a98d79597c986de793e085ca81
+- 6ab63f7360325eccab9e09592fcf45c9
+- f6726d35a33553a5b00086cbdc7ba5c7

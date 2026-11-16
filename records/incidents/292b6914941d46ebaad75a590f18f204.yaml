@@ -1,0 +1,31 @@
+schema: 2
+id: 292b6914941d46ebaad75a590f18f204
+status: dormant
+display_name: Peru earthquake leaves three injured and buildings damaged
+slug: peru-earthquake-leaves-three-injured-and-buildings-damaged
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-20'
+event_date: '2026-08-20'
+last_verified_update: '2026-08-23'
+latest_coverage_at: '2026-08-26'
+status_changed_at: '2026-08-23'
+summary: Defense Minister Rafael Belaunde reported that 22 homes and 6 schools were damaged in the Ayacucho region, providing more specific figures than previously available. At least three people were injured in the earthquake.
+summary_updated: '2026-08-23'
+search_keys:
+- Peru Earthquake latest 2026
+- Peru Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 45
+  logs: 3
+  official_sources: 0
+created_at: '2026-08-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

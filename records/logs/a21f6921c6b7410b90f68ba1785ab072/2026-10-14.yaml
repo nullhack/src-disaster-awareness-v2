@@ -1,0 +1,10 @@
+schema: 2
+incident_id: a21f6921c6b7410b90f68ba1785ab072
+log_date: '2026-10-14'
+summary: On October 13, a magnitude 5.7 earthquake struck the New Britain region of Papua New Guinea, as reported by the GFZ. Separately, the USGS recorded a magnitude 5.1 quake 119 km south of Kokopo. No tsunami warnings were issued.
+news_ids:
+- 1d57807e65925d46837b761a9c67c692
+- cc0a27ce915b56cf9698a1941926f431
+- db8c1ac55154577a8a795927d6a5d725
+- e33cb9cd9c075092857167e8339b4089
+- f861440eade05444b11fcdac6a08b120

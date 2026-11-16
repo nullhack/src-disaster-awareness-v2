@@ -1,0 +1,37 @@
+schema: 2
+id: c2ee82d5c7c55e29838d979063e89d69
+status: dormant
+display_name: Poliovirus Morobe, Papua New Guinea 2025-05-20
+slug: poliovirus-morobe-papua-new-guinea-2025-05-20
+incident_type: Circulating vaccine-derived poliovirus type 2 (cVDPV2)
+country_code: AO
+country_name: Angola
+region: Africa
+first_seen: '2025-05-20'
+event_date: '2025-05-20'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: In mid-April 2025, a vaccine-derived poliovirus type 2 strain was detected for the first time in Australia through wastewater testing in Perth. Health officials indicate the strain likely came from an overseas traveller, though a specific country is not confirmed. This detection highlights the international spread of cVDPV2 and has triggered enhanced monitoring.
+summary_updated: '2026-07-08'
+search_keys:
+- Poliovirus Papua New Guinea update 2025
+- Poliovirus Papua New Guinea 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 49960dcb384656358c97e5e61879aaf4
+  source: WHO
+  source_id: 346f0b12-f522-45fe-b839-fd5e6e08414c
+external_keys:
+- source: WHO
+  source_id: 346f0b12-f522-45fe-b839-fd5e6e08414c
+  report_id: 49960dcb384656358c97e5e61879aaf4
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2025-05-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

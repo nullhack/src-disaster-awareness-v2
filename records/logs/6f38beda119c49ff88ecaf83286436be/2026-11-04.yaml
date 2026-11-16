@@ -1,0 +1,11 @@
+schema: 2
+incident_id: 6f38beda119c49ff88ecaf83286436be
+log_date: '2026-11-04'
+summary: Multiple wildfires were reported across the United States on November 4, 2026. A new fire called the Soda Fire ignited in Madera County, California, while the Wild River Fire in New Hampshire's White Mountain National Forest expanded to about 1,000 acres with only 11% containment. Smaller brush fires also burned in Girard Township, Pennsylvania, and Hanson, Massachusetts.
+news_ids:
+- 20335eb111705942951cfd0624b5bb4e
+- 3c571a0d9a4e5419a9fa5a4fceb97f0d
+- 7120cce1813f55bdb4ab49df56a456ec
+- 90edc1e9ce5e57478a2a4f6e7d2cf71c
+- c1e52a1671bb5198a0187586f43e079a
+- fde331bb4b92581c8781abd6110cea9a

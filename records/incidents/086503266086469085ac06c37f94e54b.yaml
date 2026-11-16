@@ -1,0 +1,37 @@
+schema: 2
+id: 086503266086469085ac06c37f94e54b
+status: dormant
+display_name: Earthquake M5.5 the Fiji Islands, Fiji 2026-08-25
+slug: earthquake-m5-5-the-fiji-islands-fiji-2026-08-25
+incident_type: Earthquake
+country_code: FJ
+country_name: Fiji
+region: Oceania
+first_seen: '2026-08-20'
+event_date: '2026-08-25'
+last_verified_update: '2026-08-30'
+latest_coverage_at: '2026-08-30'
+status_changed_at: '2026-08-30'
+summary: A magnitude 5.5 earthquake struck the Fiji Islands Region on August 20, 2026, at 1845 GMT, according to the GFZ German Research Centre for Geosciences. The epicenter was located at 17.65°S, 178.61°W, with a depth of 565.6 km.
+summary_updated: '2026-08-30'
+search_keys:
+- Fiji Earthquake latest 2026
+- Fiji Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 23d1fb17708051fdab25f5f2f8312dd0
+  source: USGS
+  source_id: us6000tnci
+external_keys:
+- source: USGS
+  source_id: us6000tnci
+  report_id: 23d1fb17708051fdab25f5f2f8312dd0
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 2ca2ea2faa1f4ca2b5e1635ce7382a3b
+status: active
+display_name: Earthquake M5.6 Puerto San José, Guatemala 2026-11-10
+slug: earthquake-m5-6-puerto-san-jos-guatemala-2026-11-10
+incident_type: Earthquake
+country_code: GT
+country_name: Guatemala
+region: Americas
+first_seen: '2026-11-10'
+event_date: '2026-11-10'
+last_verified_update: '2026-11-11'
+latest_coverage_at: '2026-11-11'
+status_changed_at: '2026-11-11'
+summary: Additional reports from November 10-11 provide more precise details on the magnitude 5.6-5.8 earthquake off Guatemala's coast, including a depth of 35 km and epicenter 43 km south of Puerto San Jose. The tremor was felt across Guatemala, El Salvador, and Nicaragua, with no casualties or damage reported.
+summary_updated: '2026-11-11'
+search_keys:
+- Guatemala Earthquake latest 2026
+- Guatemala Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: abd130d15bcc5d3d9523fc0c0e49d2c8
+  source: USGS
+  source_id: us7000txb8
+external_keys:
+- source: USGS
+  source_id: us7000txb8
+  report_id: abd130d15bcc5d3d9523fc0c0e49d2c8
+coverage_counts:
+  reports: 1
+  news: 15
+  logs: 2
+  official_sources: 1
+created_at: '2026-11-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

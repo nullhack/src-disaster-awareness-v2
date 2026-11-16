@@ -1,0 +1,37 @@
+schema: 2
+id: 4087fc90-8fb3-531c-ba39-e9250f53737e
+status: dormant
+display_name: Forest Fire Le Kef, Tunisia 2026-07-21
+slug: forest-fire-le-kef-tunisia-2026-07-21
+incident_type: Forest Fire
+country_code: TN
+country_name: Tunisia
+region: Africa
+first_seen: '2026-07-21'
+event_date: '2026-07-21'
+last_verified_update: '2026-07-21'
+latest_coverage_at: '2026-07-21'
+status_changed_at: '2026-07-21'
+summary: ''
+summary_updated: ''
+search_keys:
+- Tunisia Forest Fire latest 2026
+- Tunisia Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: eb88a0bdadd358c59d41fa7856bcfae9
+  source: GDACS
+  source_id: '1029649'
+external_keys:
+- source: GDACS
+  source_id: '1029649'
+  report_id: eb88a0bdadd358c59d41fa7856bcfae9
+coverage_counts:
+  reports: 1
+  news: 0
+  logs: 0
+  official_sources: 1
+created_at: '2026-07-21T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

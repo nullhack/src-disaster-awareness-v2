@@ -1,0 +1,35 @@
+schema: 2
+id: e26fe4e5f998401f86333587099be0d1
+status: dormant
+display_name: '2026-10-02'
+slug: '2026-10-02'
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-10-02'
+event_date: '2026-10-02'
+last_verified_update: '2026-10-02'
+latest_coverage_at: '2026-10-03'
+status_changed_at: '2026-10-02'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: b6912072c2c356a5a07583906dd4f399
+  source: ERCC
+  source_id: '5804'
+external_keys:
+- source: ERCC
+  source_id: '5804'
+  report_id: b6912072c2c356a5a07583906dd4f399
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 0
+  official_sources: 1
+created_at: '2026-10-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

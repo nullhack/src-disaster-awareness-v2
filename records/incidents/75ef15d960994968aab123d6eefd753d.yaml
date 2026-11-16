@@ -1,0 +1,37 @@
+schema: 2
+id: 75ef15d960994968aab123d6eefd753d
+status: dormant
+display_name: Earthquake M5.5 Kokopo, Papua New Guinea 2026-09-05
+slug: earthquake-m5-5-kokopo-papua-new-guinea-2026-09-05
+incident_type: Earthquake
+country_code: PG
+country_name: Papua New Guinea
+region: Oceania
+first_seen: '2026-09-05'
+event_date: '2026-09-05'
+last_verified_update: '2026-09-05'
+latest_coverage_at: '2026-09-05'
+status_changed_at: '2026-09-05'
+summary: ''
+summary_updated: ''
+search_keys:
+- Papua New Guinea Earthquake latest 2026
+- Papua New Guinea Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: d1ed1be88733513f8b2104318dae2ebe
+  source: USGS
+  source_id: us7000teji
+external_keys:
+- source: USGS
+  source_id: us7000teji
+  report_id: d1ed1be88733513f8b2104318dae2ebe
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-09-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

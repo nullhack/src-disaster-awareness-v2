@@ -1,0 +1,37 @@
+schema: 2
+id: fc0e1c92c682456b9c3e66ad18def29f
+status: dormant
+display_name: Earthquake M5.6 Skwentna, United States 2026-08-08
+slug: earthquake-m5-6-skwentna-united-states-2026-08-08
+incident_type: Earthquake
+country_code: US
+country_name: United States
+region: Americas
+first_seen: '2026-08-08'
+event_date: '2026-08-08'
+last_verified_update: '2026-08-09'
+latest_coverage_at: '2026-08-09'
+status_changed_at: '2026-08-09'
+summary: On August 8, 2026, a magnitude 5.6 earthquake struck the remote Skwentna region of Southcentral Alaska, with the epicenter located 107 miles northwest of Anchorage at a depth of 200 meters. The United States Geological Survey reported the event, and no immediate damage or casualties were reported.
+summary_updated: '2026-08-09'
+search_keys:
+- United States Earthquake latest 2026
+- United States Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: a1e60197efd45b6a9384417dec4bb3e1
+  source: USGS
+  source_id: aka2026powmkf
+external_keys:
+- source: USGS
+  source_id: aka2026powmkf
+  report_id: a1e60197efd45b6a9384417dec4bb3e1
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-08T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

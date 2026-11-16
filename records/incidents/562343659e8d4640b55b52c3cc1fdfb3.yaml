@@ -1,0 +1,40 @@
+schema: 2
+id: 562343659e8d4640b55b52c3cc1fdfb3
+status: active
+display_name: Tropical Cyclone TWENTYNINE-26 2026-10-14
+slug: tropical-cyclone-twentynine-26-2026-10-14
+incident_type: Tropical Cyclone
+country_code: MX
+country_name: Mexico
+region: Americas
+first_seen: '2026-10-13'
+event_date: '2026-10-14'
+last_verified_update: '2026-10-26'
+latest_coverage_at: '2026-10-30'
+status_changed_at: '2026-10-26'
+summary: Tropical Storm Champi is approaching Japan's Kyushu region, where authorities warn of heavy rain, violent winds, storm surges, and possible landslides. The storm is expected to make landfall as a tropical storm, transitioning into an extratropical cyclone after battering Taiwan.
+summary_updated: '2026-10-26'
+search_keys:
+- Guam Tropical Cyclone latest 2026
+- Guam Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 470a582b4f805ddd8f8ca6133199bfa3
+  source: GDACS
+  source_id: '1001338'
+external_keys:
+- source: GDACS
+  source_id: '1001338'
+  report_id: 470a582b4f805ddd8f8ca6133199bfa3
+- source: ERCC
+  source_id: '5818'
+  report_id: 8409ecc6efcc59b28ec31acf00d040e8
+coverage_counts:
+  reports: 2
+  news: 74
+  logs: 8
+  official_sources: 2
+created_at: '2026-10-13T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

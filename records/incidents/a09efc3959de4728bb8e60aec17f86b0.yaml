@@ -1,0 +1,37 @@
+schema: 2
+id: a09efc3959de4728bb8e60aec17f86b0
+status: active
+display_name: Earthquake M5.7 Tual, Indonesia 2026-10-28
+slug: earthquake-m5-7-tual-indonesia-2026-10-28
+incident_type: Earthquake
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2026-10-28'
+event_date: '2026-10-28'
+last_verified_update: '2026-10-29'
+latest_coverage_at: '2026-10-29'
+status_changed_at: '2026-10-29'
+summary: A magnitude 5.7 earthquake struck beneath the Banda Sea, approximately 276 km west-southwest of Tual, Indonesia, on October 28, 2026. The quake occurred at a depth of 128-142 km and was described as a deep event that barely registered. No casualties or damage have been reported in initial coverage.
+summary_updated: '2026-10-29'
+search_keys:
+- Indonesia Earthquake latest 2026
+- Indonesia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 072c2500a2bf5189968324d3d5f06e65
+  source: USGS
+  source_id: us7000ttua
+external_keys:
+- source: USGS
+  source_id: us7000ttua
+  report_id: 072c2500a2bf5189968324d3d5f06e65
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-10-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

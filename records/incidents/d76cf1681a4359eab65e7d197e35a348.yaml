@@ -1,0 +1,37 @@
+schema: 2
+id: d76cf1681a4359eab65e7d197e35a348
+status: dormant
+display_name: Earthquake M7.4 Iwate, Japan 2026-04-20
+slug: earthquake-m7-4-iwate-japan-2026-04-20
+incident_type: Earthquake
+country_code: JP
+country_name: Japan
+region: Asia
+first_seen: '2026-04-20'
+event_date: '2026-04-20'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-10'
+status_changed_at: '2026-07-08'
+summary: A powerful earthquake with a magnitude between 7.4 and 7.7 struck off the northeast coast of Japan on April 20, 2026, prompting a short-lived tsunami warning for coastal areas. The Japan Meteorological Agency issued alerts, and local residents were advised to evacuate to higher ground. Additionally, misinformation about an "artificial earthquake" began spreading online following the event.
+summary_updated: '2026-07-08'
+search_keys:
+- Japan Earthquake latest 2026
+- Japan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: dc221b376d0058f6bdf3c4fff82a293c
+  source: GDACS
+  source_id: '1536386'
+external_keys:
+- source: GDACS
+  source_id: '1536386'
+  report_id: dc221b376d0058f6bdf3c4fff82a293c
+coverage_counts:
+  reports: 1
+  news: 6
+  logs: 1
+  official_sources: 1
+created_at: '2026-04-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

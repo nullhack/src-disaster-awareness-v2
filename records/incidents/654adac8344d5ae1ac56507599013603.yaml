@@ -1,0 +1,37 @@
+schema: 2
+id: 654adac8344d5ae1ac56507599013603
+status: dormant
+display_name: Volcano Semeru, Indonesia 2025-11-19
+slug: volcano-semeru-indonesia-2025-11-19
+incident_type: Volcano
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2025-11-19'
+event_date: '2025-11-19'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-15'
+status_changed_at: '2026-07-08'
+summary: On November 19, 2025, Mount Semeru in Indonesia erupted, sending ash more than 6,500 feet into the sky and threatening air traffic. The eruption prompted the rescue of over 170 stranded climbers, with authorities evacuating more than 900 people in total.
+summary_updated: '2026-07-08'
+search_keys:
+- Indonesia Volcano latest 2025
+- Indonesia Volcano 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 94dcdbf78150548e99c3758fc9c4e697
+  source: GDACS
+  source_id: '1000125'
+external_keys:
+- source: GDACS
+  source_id: '1000125'
+  report_id: 94dcdbf78150548e99c3758fc9c4e697
+coverage_counts:
+  reports: 1
+  news: 5
+  logs: 1
+  official_sources: 1
+created_at: '2025-11-19T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

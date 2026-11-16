@@ -1,0 +1,37 @@
+schema: 2
+id: 2774cdb663f55fbb8653b52abb36d2d9
+status: dormant
+display_name: Volcano Kanlaon, Philippines 2026-03-15
+slug: volcano-kanlaon-philippines-2026-03-15
+incident_type: Volcano
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2026-03-15'
+event_date: '2026-03-15'
+last_verified_update: '2026-07-13'
+latest_coverage_at: '2026-07-18'
+status_changed_at: '2026-07-13'
+summary: In response to the ongoing Kanlaon eruption, the Philippine National Police ordered health protection measures for officers deployed near the volcano, while the Cebu provincial government stepped up monitoring of ashfall that has reached areas in western Cebu.
+summary_updated: '2026-07-13'
+search_keys:
+- Philippines Volcano latest 2026
+- Philippines Volcano 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 6351c7173a0b586ea6ebadb55be5e94b
+  source: GDACS
+  source_id: '1000138'
+external_keys:
+- source: GDACS
+  source_id: '1000138'
+  report_id: 6351c7173a0b586ea6ebadb55be5e94b
+coverage_counts:
+  reports: 1
+  news: 6
+  logs: 3
+  official_sources: 1
+created_at: '2026-03-15T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

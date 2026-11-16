@@ -1,0 +1,37 @@
+schema: 2
+id: 06c9c020b3f85f05a26d27bd05728190
+status: dormant
+display_name: Earthquake M5.5 Fiji region, Fiji 2026-07-14
+slug: earthquake-m5-5-fiji-region-fiji-2026-07-14
+incident_type: Earthquake
+country_code: FJ
+country_name: Fiji
+region: Oceania
+first_seen: '2026-07-14'
+event_date: '2026-07-14'
+last_verified_update: '2026-07-14'
+latest_coverage_at: '2026-07-16'
+status_changed_at: '2026-07-14'
+summary: ''
+summary_updated: ''
+search_keys:
+- Fiji Earthquake latest 2026
+- Fiji Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 60a7f2898e3f5542882ffd8ac32754ff
+  source: USGS
+  source_id: us7000t0hk
+external_keys:
+- source: USGS
+  source_id: us7000t0hk
+  report_id: 60a7f2898e3f5542882ffd8ac32754ff
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 0
+  official_sources: 1
+created_at: '2026-07-14T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

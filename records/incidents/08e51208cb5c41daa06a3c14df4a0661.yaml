@@ -1,0 +1,37 @@
+schema: 2
+id: 08e51208cb5c41daa06a3c14df4a0661
+status: active
+display_name: Shamonda France 2026-11-02
+slug: shamonda-france-2026-11-02
+incident_type: Shamonda
+country_code: FR
+country_name: France
+region: Europe
+first_seen: '2026-11-02'
+event_date: '2026-11-02'
+last_verified_update: '2026-11-12'
+latest_coverage_at: '2026-11-12'
+status_changed_at: '2026-11-12'
+summary: The first reported case of Shamonda virus in a human has been documented, prompting discussions among veterinary and health professionals about the risks it poses to people. The article highlights concerns regarding the virus's potential threat to human health.
+summary_updated: '2026-11-12'
+search_keys:
+- Shamonda France update 2026
+- Shamonda France 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 527032fc2a3a56f78bbfc18d457ab5cb
+  source: WHO
+  source_id: 69b96fe8-8b6d-48f4-b59b-204c444d66c5
+external_keys:
+- source: WHO
+  source_id: 69b96fe8-8b6d-48f4-b59b-204c444d66c5
+  report_id: 527032fc2a3a56f78bbfc18d457ab5cb
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-11-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

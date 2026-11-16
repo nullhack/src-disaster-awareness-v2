@@ -1,0 +1,40 @@
+schema: 2
+id: 70b2a54e9fc24ba48f02f5171ac69058
+status: active
+display_name: Earthquake M5.8 Vilyuchinsk, Russia 2026-10-02
+slug: earthquake-m5-8-vilyuchinsk-russia-2026-10-02
+incident_type: Earthquake
+country_code: RU
+country_name: Russia
+region: Europe
+first_seen: '2026-10-02'
+event_date: '2026-10-02'
+last_verified_update: '2026-11-02'
+latest_coverage_at: '2026-11-02'
+status_changed_at: '2026-11-02'
+summary: Japan's false magnitude 9.9 earthquake warning, triggered by the October 16 Kamchatka earthquake, was clarified not to have been a cyberattack. The remaining news articles reiterate previously reported details of the magnitude 6.9 event.
+summary_updated: '2026-11-02'
+search_keys:
+- Russia Earthquake latest 2026
+- Russia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 94f871431abd56abb14ddfa3a949f199
+  source: USGS
+  source_id: us6000tz62
+external_keys:
+- source: USGS
+  source_id: us6000tz62
+  report_id: 94f871431abd56abb14ddfa3a949f199
+- source: USGS
+  source_id: us6000u2mq
+  report_id: ce7ae9b9b21c53cd9229de65bca1c9c0
+coverage_counts:
+  reports: 2
+  news: 22
+  logs: 3
+  official_sources: 1
+created_at: '2026-10-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

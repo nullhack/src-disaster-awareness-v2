@@ -1,0 +1,37 @@
+schema: 2
+id: 8af13b84b4fa528996654e778550f18a
+status: dormant
+display_name: Acute Respiratory Kinshasa, DR Congo 2024-12-27
+slug: acute-respiratory-kinshasa-dr-congo-2024-12-27
+incident_type: Acute respiratory infections complicated by malaria (previously undiagnosed
+country_code: CD
+country_name: DR Congo
+region: Africa
+first_seen: '2024-12-27'
+event_date: '2024-12-27'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: The previously undiagnosed disease in the Democratic Republic of the Congo has been identified as a combination of malaria, influenza, and malnutrition, according to a report published on January 16, 2025. This finding clarifies the nature of the acute respiratory infections complicated by malaria that had been reported in December 2024.
+summary_updated: '2026-07-08'
+search_keys:
+- Acute Respiratory DR Congo update 2024
+- Acute Respiratory DR Congo 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 437605555c5158d28d99e6a5866ee771
+  source: WHO
+  source_id: d62e89fc-8227-42f8-b302-4a2f7f08c969
+external_keys:
+- source: WHO
+  source_id: d62e89fc-8227-42f8-b302-4a2f7f08c969
+  report_id: 437605555c5158d28d99e6a5866ee771
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2024-12-27T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

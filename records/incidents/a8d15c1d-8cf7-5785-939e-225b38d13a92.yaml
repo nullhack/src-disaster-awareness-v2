@@ -1,0 +1,37 @@
+schema: 2
+id: a8d15c1d-8cf7-5785-939e-225b38d13a92
+status: dormant
+display_name: Forest Fire Gironde, France 2026-07-22
+slug: forest-fire-gironde-france-2026-07-22
+incident_type: Forest Fire
+country_code: FR
+country_name: France
+region: Europe
+first_seen: '2026-07-22'
+event_date: '2026-07-22'
+last_verified_update: '2026-07-22'
+latest_coverage_at: '2026-07-22'
+status_changed_at: '2026-07-22'
+summary: ''
+summary_updated: ''
+search_keys:
+- France Forest Fire latest 2026
+- France Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: cb2d69f5c7fe5279ac8404a5c9d202ad
+  source: GDACS
+  source_id: '1029628'
+external_keys:
+- source: GDACS
+  source_id: '1029628'
+  report_id: cb2d69f5c7fe5279ac8404a5c9d202ad
+coverage_counts:
+  reports: 1
+  news: 0
+  logs: 0
+  official_sources: 1
+created_at: '2026-07-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

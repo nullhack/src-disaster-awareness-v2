@@ -1,0 +1,47 @@
+id: 9ab758fa663558148b8a81e4bde00283
+source: USGS
+source_id: us6000thhk
+incident_type: Earthquake
+name: Earthquake M5.2 Tsunō, Japan 2026-08-01
+report_date: '2026-08-01'
+news_searched_at: ''
+places:
+- country_code: JP
+  subdivision: Miyazaki
+  locality: Tsunō
+raw_fields:
+  mag: 5.2
+  place: 48 km ESE of Tsunō, Japan
+  time: 1785611452622
+  updated: 1785671699359
+  tz: null
+  url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk
+  detail: https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000thhk.geojson
+  felt: 1
+  cdi: 2.7
+  mmi: null
+  alert: null
+  status: reviewed
+  tsunami: 0
+  sig: 416
+  net: us
+  code: 6000thhk
+  ids: ',us6000thhk,'
+  sources: ',us,'
+  types: ',dyfi,origin,phase-data,'
+  nst: 83
+  dmin: 1.409
+  rms: 1.16
+  gap: 88
+  magType: mww
+  type: earthquake
+  title: M 5.2 - 48 km ESE of Tsunō, Japan
+  geometry:
+    type: Point
+    coordinates:
+    - 131.9999
+    - 32.0078
+    - 26.229
+  depth: 26.229
+schema: 2
+content_hash: 3fdb00d1e3054b2dee11b3d8d3cc8c478d9658bbacd870f026bb0340982e2ced

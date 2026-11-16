@@ -1,0 +1,37 @@
+schema: 2
+id: e6b92301e2a2467bb2e43e4802ce9195
+status: active
+display_name: Severe Weather 2026-10-14
+slug: severe-weather-2026-10-14
+incident_type: Severe Weather
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-05-02'
+event_date: '2026-10-14'
+last_verified_update: '2026-11-13'
+latest_coverage_at: '2026-11-13'
+status_changed_at: '2026-11-13'
+summary: A powerful nor’easter unleashed tornadoes, large hail, and flash flooding across the Northeast and Mid-Atlantic. The storms triggered tornado warnings in Delaware and Pennsylvania, disrupted air travel with ground stops and flight diversions from New York airports, and prompted flash flood warnings in New Jersey. Damage included a collapsed hotel sign in Delaware and multiple impacts across the region.
+summary_updated: '2026-11-13'
+search_keys:
+- Severe Weather latest 2026
+- Severe Weather 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 31b83fe8c32755b0916619388b53429c
+  source: ERCC
+  source_id: '5816'
+external_keys:
+- source: ERCC
+  source_id: '5816'
+  report_id: 31b83fe8c32755b0916619388b53429c
+coverage_counts:
+  reports: 1
+  news: 202
+  logs: 5
+  official_sources: 1
+created_at: '2026-05-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

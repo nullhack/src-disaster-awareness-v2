@@ -1,0 +1,31 @@
+schema: 2
+id: 91d4bc78f9e74ec392ad6d817a955a12
+status: dormant
+display_name: 'LIVE BLOG: Change in winds could relieve Mount Hood area as Grasshopper Fire danger moves east'
+slug: live-blog-change-in-winds-could-relieve-mount-hood-area-as-grasshopper-fire-dang
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-07-30'
+event_date: '2026-07-30'
+last_verified_update: '2026-08-14'
+latest_coverage_at: '2026-08-16'
+status_changed_at: '2026-08-14'
+summary: The Grasshopper Fire has grown to 85,114 acres with 20% containment, destroying homes and outbuildings. Level 2 evacuations remain in place in Dufur, where crews are taking steps to protect historic landmarks such as the Balch Hotel from the advancing flames.
+summary_updated: '2026-08-14'
+search_keys:
+- Forest Fire latest 2026
+- Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 260
+  logs: 8
+  official_sources: 0
+created_at: '2026-07-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

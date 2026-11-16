@@ -1,0 +1,37 @@
+schema: 2
+id: 554b210d75425de8a9bb675f74b7d24d
+status: archived
+display_name: Earthquake M6.9 Biliran, Philippines 2025-09-30
+slug: earthquake-m6-9-biliran-philippines-2025-09-30
+incident_type: Earthquake
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2025-09-30'
+event_date: '2025-09-30'
+last_verified_update: '2025-10-14'
+latest_coverage_at: '2025-10-14'
+status_changed_at: '2025-10-14'
+summary: A magnitude 6.9 earthquake struck the central Philippines on September 30, 2025, causing the collapse of a centuries-old church's bell tower and leaving at least 69 people dead or injured.
+summary_updated: '2025-10-14'
+search_keys:
+- Philippines Earthquake latest 2025
+- Philippines Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 0e3afebd7d5d5afcac979ada937c2a8c
+  source: GDACS
+  source_id: '1502713'
+external_keys:
+- source: GDACS
+  source_id: '1502713'
+  report_id: 0e3afebd7d5d5afcac979ada937c2a8c
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-09-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

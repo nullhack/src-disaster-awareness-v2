@@ -1,0 +1,29 @@
+schema: 2
+id: 4fdd952a2a3f43ce95b8d35e423d2e19
+status: dormant
+display_name: UK Responds To Potential Ebola Exposure With Emergency Medical Transfer
+slug: uk-responds-to-potential-ebola-exposure-with-emergency-medical-transfer
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-07-20'
+event_date: '2026-07-20'
+last_verified_update: '2026-07-20'
+latest_coverage_at: '2026-07-23'
+status_changed_at: '2026-07-20'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 8
+  logs: 0
+  official_sources: 0
+created_at: '2026-07-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

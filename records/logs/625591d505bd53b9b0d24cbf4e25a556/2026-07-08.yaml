@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 625591d505bd53b9b0d24cbf4e25a556
+log_date: '2026-07-08'
+summary: A 5.6-magnitude earthquake struck Northern California on June 24, 2026, approximately 11 km north of Redwood Valley in Mendocino County, at 8:10 a.m. Pacific time. The quake was felt across the region, including the Bay Area, and triggered alerts from the U.S. Geological Survey. No major damage or injuries have been reported in the immediate aftermath.
+news_ids:
+- 1ef85b620f715cfeb2a89486d27983de
+- 529f40986e4054ddadb3dee40c6ca2f2
+- 8020b8ba4fbb586eb9307d13e4fca21a
+- 8729c2fbfa6b541f837b747436478ca2
+- d38a9443dc6c5a1ca2d8250860a33dfb

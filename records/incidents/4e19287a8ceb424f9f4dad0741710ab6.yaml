@@ -1,0 +1,37 @@
+schema: 2
+id: 4e19287a8ceb424f9f4dad0741710ab6
+status: dormant
+display_name: Tropical Cyclone TWELVE-26 Marshall Islands 2026-07-27
+slug: tropical-cyclone-twelve-26-marshall-islands-2026-07-27
+incident_type: Tropical Cyclone
+country_code: MH
+country_name: Marshall Islands
+region: Oceania
+first_seen: '2026-07-27'
+event_date: '2026-07-27'
+last_verified_update: '2026-08-14'
+latest_coverage_at: '2026-08-14'
+status_changed_at: '2026-08-14'
+summary: Typhoon Dolphin's rain threat has moved inland to Beijing after making landfall on China's eastern coast on Aug. 9, with the storm recognized as one of three giant storms impacting millions across Asia that week. Climate change and El Niño have been cited as factors that supercharged the typhoon, contributing to its extreme rainfall.
+summary_updated: '2026-08-14'
+search_keys:
+- Marshall Islands Tropical Cyclone latest 2026
+- Marshall Islands Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 639b401ebd685e28b940f7f31d2f15ec
+  source: GDACS
+  source_id: '1001297'
+external_keys:
+- source: GDACS
+  source_id: '1001297'
+  report_id: 639b401ebd685e28b940f7f31d2f15ec
+coverage_counts:
+  reports: 1
+  news: 27
+  logs: 5
+  official_sources: 1
+created_at: '2026-07-27T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

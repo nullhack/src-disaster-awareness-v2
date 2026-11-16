@@ -1,0 +1,37 @@
+schema: 2
+id: 1db18c7de8155bd3851de40b73c7c498
+status: dormant
+display_name: Earthquake M6.0 Kunar, Afghanistan 2025-08-31
+slug: earthquake-m6-0-kunar-afghanistan-2025-08-31
+incident_type: Earthquake
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2025-08-31'
+event_date: '2025-08-31'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A 5.8 magnitude earthquake struck parts of northern and eastern Afghanistan and western Pakistan on August 31, 2025, killing at least eight people in Afghanistan. The earthquake rattled the region late Friday, causing casualties and damage.
+summary_updated: '2026-07-08'
+search_keys:
+- Afghanistan Earthquake latest 2025
+- Afghanistan Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: cb8c1e5bd6685fcb832c760e8b172120
+  source: GDACS
+  source_id: '1498339'
+external_keys:
+- source: GDACS
+  source_id: '1498339'
+  report_id: cb8c1e5bd6685fcb832c760e8b172120
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-08-31T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

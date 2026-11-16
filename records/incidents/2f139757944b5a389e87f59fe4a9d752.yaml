@@ -1,0 +1,37 @@
+schema: 2
+id: 2f139757944b5a389e87f59fe4a9d752
+status: dormant
+display_name: Earthquake M5.4 Mandalay, Myanmar 2025-07-18
+slug: earthquake-m5-4-mandalay-myanmar-2025-07-18
+incident_type: Earthquake
+country_code: MM
+country_name: Myanmar
+region: Asia
+first_seen: '2025-04-22'
+event_date: '2025-07-18'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: The March 2025 earthquake in Myanmar ruptured nearly 500 kilometers of the Sagaing Fault at supershear speeds, as detailed in new studies. Humanitarian organizations like HelpAge International supported older people through a six-month response, while the World Bank reported moderate signs of economic recovery in Myanmar amid ongoing conflict and earthquake impacts.
+summary_updated: '2026-07-08'
+search_keys:
+- Myanmar Earthquake latest 2025
+- Myanmar Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: d10f1be1e2d85ed78ac7feb6fda7f4ce
+  source: GDACS
+  source_id: '1490667'
+external_keys:
+- source: GDACS
+  source_id: '1490667'
+  report_id: d10f1be1e2d85ed78ac7feb6fda7f4ce
+coverage_counts:
+  reports: 1
+  news: 6
+  logs: 1
+  official_sources: 1
+created_at: '2025-04-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 9b0105791e7f453080ea31ae63f598e9
+status: dormant
+display_name: Forest Fire Huelva, Spain 2026-08-07
+slug: forest-fire-huelva-spain-2026-08-07
+incident_type: Forest Fire
+country_code: ES
+country_name: Spain
+region: Europe
+first_seen: '2026-08-07'
+event_date: '2026-08-07'
+last_verified_update: '2026-08-10'
+latest_coverage_at: '2026-08-10'
+status_changed_at: '2026-08-10'
+summary: A forest fire in southwestern Spain, which broke out on Thursday, has led to the evacuation of nearly 500 people. As of Monday, the fire was burning beyond firefighters' ability to extinguish it, with hot and windy conditions hampering firefighting efforts.
+summary_updated: '2026-08-10'
+search_keys:
+- Spain Forest Fire latest 2026
+- Spain Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 7a6f91181375572ba12b022cf4742a01
+  source: GDACS
+  source_id: '1030237'
+external_keys:
+- source: GDACS
+  source_id: '1030237'
+  report_id: 7a6f91181375572ba12b022cf4742a01
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-07T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

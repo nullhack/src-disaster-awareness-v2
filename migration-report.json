@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-11-16",
+  "counts": {
+    "incidents": 270,
+    "links": 41683,
+    "logs": 1498,
+    "news": 20894,
+    "reports": 12346,
+    "staging_news": 0,
+    "staging_reports": 11920
+  },
+  "migrated_at": "2026-11-16T09:01:03Z",
+  "schema": 2,
+  "warning_count": 3,
+  "warnings": [
+    "duplicate news id with different content: d06d81931cb653c1ad45f013ee9d4735 (preserved as d06d81931cb653c1ad45f013ee9d4735--87aa3f06)",
+    "duplicate news id with different content: dd7531479e6c5237a8cb89c835ad32b4 (preserved as dd7531479e6c5237a8cb89c835ad32b4--34ca91f4)",
+    "duplicate news id with different content: 0ebb282d5d10548596e6336d1324be47 (preserved as 0ebb282d5d10548596e6336d1324be47--c33d8688)"
+  ]
+}

@@ -1,0 +1,26 @@
+id: 57c57f9fc70a503e99d1ade5ccf23244
+source: ERCC
+source_id: '5839'
+incident_type: Conflict
+name: Conflict Yemen 2026-11-11
+report_date: '2026-11-11'
+news_searched_at: '2026-11-15T19:00:15+00:00'
+places:
+- country_code: YE
+  subdivision: ''
+  locality: ''
+- country_code: DJ
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: ECHO Daily Map of 11 November 2026
+  description: Yemen | Conflict-related population displacement update
+  pubDate: Wed, 11 Nov 2026 17:05:05 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5839
+  guid: ERCC_Map_5839
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5839&fileN=ImageFile&forceDownload=False
+  mainCountry: Yemen
+  countries: DJI
+  eventTypes: Conflict, Population Displacement
+schema: 2
+content_hash: 368af1b6719c6d0d71d8fcdba2e0489bbe7cc32a710e92ac87881a26d46c3d85

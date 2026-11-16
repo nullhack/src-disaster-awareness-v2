@@ -1,0 +1,15 @@
+id: d60017de6dc0579e9d26a65ddcb60b18
+source: GDACS
+source_id: '1029110'
+incident_type: Forest Fire
+name: Wildfire Green
+report_date: '2026-06-23'
+news_searched_at: ''
+places: []
+raw_fields:
+  alertlevel: Green
+  severity: Green impact for forestfire in 11056 ha
+  population: 0
+  episodeid: '13'
+schema: 2
+content_hash: 81d0cbbc30171bff9c2d0fffeac687514ca4d451dee3b1812a3354c833fe094d

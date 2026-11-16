@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 86fecb3bc554427386f3e1a14637d82e
+log_date: '2026-11-06'
+summary: A magnitude 6.1 earthquake struck the Fiji region at a depth of approximately 535 km on November 5, 2026 (November 6 UTC). The tremor was detected by USGS and GFZ, and is attributed to Pacific slab activity in the mantle.
+news_ids:
+- 3e249b4d3dba50489ae2555b15310436
+- 8108d7212df95ae887c1b5977ae99e0c
+- a395db41e93252bd82c45214541115cb
+- cefe6f6111225d7f9c4f6dadde0902c6
+- d76a9dc7df2c5241901f31cab8e8cce0

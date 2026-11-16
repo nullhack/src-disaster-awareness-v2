@@ -1,0 +1,35 @@
+schema: 2
+id: de4e4d726d7d4f6da1b9d30b63272450
+status: active
+display_name: DR Congo 2026-10-06
+slug: dr-congo-2026-10-06
+incident_type: Unknown
+country_code: CD
+country_name: DR Congo
+region: Africa
+first_seen: '2026-10-06'
+event_date: '2026-10-06'
+last_verified_update: '2026-10-27'
+latest_coverage_at: '2026-10-27'
+status_changed_at: '2026-10-27'
+summary: The Ebola outbreak in the DRC has exceeded 10,000 confirmed cases, with the vast majority in the DRC, and is now the fastest-growing outbreak in history. Kenya has announced its second Ebola death, though officials state there is no evidence of community spread. The outbreak has spread to four countries across eastern, central, and western Africa.
+summary_updated: '2026-10-27'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: a26b9f4de76e5756a56e005e54721e54
+  source: ERCC
+  source_id: '5806'
+external_keys:
+- source: ERCC
+  source_id: '5806'
+  report_id: a26b9f4de76e5756a56e005e54721e54
+coverage_counts:
+  reports: 1
+  news: 13
+  logs: 3
+  official_sources: 1
+created_at: '2026-10-06T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

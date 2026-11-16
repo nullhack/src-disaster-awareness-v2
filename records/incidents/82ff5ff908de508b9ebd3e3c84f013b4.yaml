@@ -1,0 +1,40 @@
+schema: 2
+id: 82ff5ff908de508b9ebd3e3c84f013b4
+status: dormant
+display_name: Marburg Rwanda 2024-09-30
+slug: marburg-rwanda-2024-09-30
+incident_type: Marburg
+country_code: AO
+country_name: Angola
+region: Africa
+first_seen: '2024-09-30'
+event_date: '2024-09-30'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: Rwanda's Marburg outbreak initially reported 8 deaths, later rising to 11. By October 10, Africa's top health chief declared the outbreak under control and opposed travel bans. Meanwhile, two suspected cases in Germany from travelers returning from Rwanda tested negative, confirming false alarms.
+summary_updated: '2026-07-08'
+search_keys:
+- Marburg Rwanda update 2024
+- Marburg Rwanda 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 5402c75f5c285910be183a67845c4031
+  source: WHO
+  source_id: 724f846f-f457-49d9-b20a-906f8c3118a2
+external_keys:
+- source: WHO
+  source_id: 724f846f-f457-49d9-b20a-906f8c3118a2
+  report_id: 5402c75f5c285910be183a67845c4031
+- source: WHO
+  source_id: fa2a1603-3586-4aa1-9b6a-039c500c63db
+  report_id: 534f5a42973559ff8c423dc2445b5e45
+coverage_counts:
+  reports: 2
+  news: 7
+  logs: 1
+  official_sources: 1
+created_at: '2024-09-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

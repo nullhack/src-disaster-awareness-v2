@@ -1,0 +1,35 @@
+schema: 2
+id: b3d0b3b6dbb4452185457acd6d083e1a
+status: active
+display_name: Earthquake M6.4 Ocean 2026-10-29
+slug: earthquake-m6-4-ocean-2026-10-29
+incident_type: Earthquake
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-10-29'
+event_date: '2026-10-29'
+last_verified_update: '2026-10-29'
+latest_coverage_at: '2026-10-29'
+status_changed_at: '2026-10-29'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1becf94423625d389d645d967b70de24
+  source: USGS
+  source_id: us7000ttxz
+external_keys:
+- source: USGS
+  source_id: us7000ttxz
+  report_id: 1becf94423625d389d645d967b70de24
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 0
+  official_sources: 1
+created_at: '2026-10-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

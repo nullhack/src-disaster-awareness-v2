@@ -1,0 +1,37 @@
+schema: 2
+id: 7634dd9fef6f578ea7848286b513a02a
+status: archived
+display_name: Flood Sofala, Mozambique 2025-12-22
+slug: flood-sofala-mozambique-2025-12-22
+incident_type: Flood
+country_code: MZ
+country_name: Mozambique
+region: Africa
+first_seen: '2025-12-22'
+event_date: '2025-12-22'
+last_verified_update: '2026-02-11'
+latest_coverage_at: '2026-02-11'
+status_changed_at: '2026-02-11'
+summary: A flood in Mozambique has displaced residents, including Emilia Machel and her three children, who are staying at the Chiaquelane site in Maputo. Victims are persevering despite their losses, expressing the need to rebuild their lives in the aftermath of the disaster.
+summary_updated: '2026-02-11'
+search_keys:
+- Mozambique Flood latest 2025
+- Mozambique Flood 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 7f3b818e2dcc560980e54e837ff00667
+  source: GDACS
+  source_id: '1103694'
+external_keys:
+- source: GDACS
+  source_id: '1103694'
+  report_id: 7f3b818e2dcc560980e54e837ff00667
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-12-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

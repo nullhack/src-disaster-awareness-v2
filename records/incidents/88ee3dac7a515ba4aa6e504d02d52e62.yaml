@@ -1,0 +1,36 @@
+schema: 2
+id: 88ee3dac7a515ba4aa6e504d02d52e62
+status: dormant
+display_name: Mpox Global 2025-12-05
+slug: mpox-global-2025-12-05
+incident_type: Broader transmission of mpox due to clade Ib MPXV
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2025-12-05'
+event_date: '2025-12-05'
+last_verified_update: '2026-07-07'
+latest_coverage_at: '2026-07-07'
+status_changed_at: '2026-07-07'
+summary: A recent report indicates that mpox clade Ib has been transmitted in a healthcare setting outside Africa, further illustrating the broader transmission of this variant beyond previously affected regions.
+summary_updated: '2026-07-07'
+search_keys:
+- Mpox update 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: faae10890143523ca4776ecd02315aa4
+  source: WHO
+  source_id: f15969ab-d67f-4380-b32b-98b301dcb5ad
+external_keys:
+- source: WHO
+  source_id: f15969ab-d67f-4380-b32b-98b301dcb5ad
+  report_id: faae10890143523ca4776ecd02315aa4
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 2
+  official_sources: 1
+created_at: '2025-12-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,36 @@
+schema: 2
+id: 05db0d07f5ce5391bf75ba1b2471a813
+status: archived
+display_name: AMR Global 2024-07-31
+slug: amr-global-2024-07-31
+incident_type: Antimicrobial Resistance, Hypervirulent Klebsiella pneumoniae
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2024-07-31'
+event_date: '2024-07-31'
+last_verified_update: '2026-05-09'
+latest_coverage_at: '2026-05-09'
+status_changed_at: '2026-05-09'
+summary: A multidrug-resistant strain of Klebsiella pneumoniae was detected in an 86-year-old woman with a urinary infection admitted to a hospital in Northeast Brazil in 2022. The strain proved resistant to all available antibiotics, highlighting the ongoing global challenge of antimicrobial resistance in hypervirulent K. pneumoniae.
+summary_updated: '2026-05-09'
+search_keys:
+- AMR update 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 33257421d40a56b687a384b47337bd55
+  source: WHO
+  source_id: cd5bb98e-2944-47bd-b765-c0d983febc35
+external_keys:
+- source: WHO
+  source_id: cd5bb98e-2944-47bd-b765-c0d983febc35
+  report_id: 33257421d40a56b687a384b47337bd55
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2024-07-31T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

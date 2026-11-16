@@ -1,0 +1,31 @@
+schema: 2
+id: d88b86df06a2464bba7c65c4bd842cf1
+status: dormant
+display_name: Indiana's White River shatters 113-year flood record; governor requests federal aid
+slug: indiana-s-white-river-shatters-113-year-flood-record-governor-requests-federal-a
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-10'
+event_date: '2026-08-10'
+last_verified_update: '2026-08-25'
+latest_coverage_at: '2026-08-25'
+status_changed_at: '2026-08-25'
+summary: The NWS confirmed that nine tornadoes hit Ohio during last week's severe storms, up from the previously reported three tornadoes. In Wisconsin, a tornado siren failure in West Allis during Tuesday's severe weather was confirmed as an equipment malfunction.
+summary_updated: '2026-08-25'
+search_keys:
+- Severe Weather latest 2026
+- Severe Weather 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 138
+  logs: 8
+  official_sources: 0
+created_at: '2026-08-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 361e0cb63ffd4fa7836536318cd2eca8
+status: dormant
+display_name: Earthquake M5.6 Yonakuni, Taiwan 2026-09-30
+slug: earthquake-m5-6-yonakuni-taiwan-2026-09-30
+incident_type: Earthquake
+country_code: TW
+country_name: Taiwan
+region: Asia
+first_seen: '2026-09-30'
+event_date: '2026-09-30'
+last_verified_update: '2026-09-30'
+latest_coverage_at: '2026-10-20'
+status_changed_at: '2026-09-30'
+summary: ''
+summary_updated: ''
+search_keys:
+- Taiwan Earthquake latest 2026
+- Taiwan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: b4d1884e01595843848b2480cc6a8147
+  source: USGS
+  source_id: us6000tyhk
+external_keys:
+- source: USGS
+  source_id: us6000tyhk
+  report_id: b4d1884e01595843848b2480cc6a8147
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-09-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

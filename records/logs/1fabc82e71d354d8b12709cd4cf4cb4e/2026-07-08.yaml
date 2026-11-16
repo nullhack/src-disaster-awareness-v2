@@ -1,0 +1,8 @@
+schema: 2
+incident_id: 1fabc82e71d354d8b12709cd4cf4cb4e
+log_date: '2026-07-08'
+summary: A magnitude 5.5 earthquake struck off the Oregon coast on June 29, 2026, approximately 218 km west of Bandon, Oregon. Officials confirmed there is no tsunami threat, and the quake was followed by a 3.9 magnitude aftershock in the Blanco Fracture Zone.
+news_ids:
+- 153e0f1a7e425ecd9ce4bcce6018d9d8
+- 31467cc8473756468458d36d00f19917
+- ce46bb014c49564b91b9595c1aa7865c

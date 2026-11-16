@@ -1,0 +1,37 @@
+schema: 2
+id: 4f0b7ed984ec55cdb41546c35e4f80dc
+status: dormant
+display_name: Earthquake M5.5 Bitung, Indonesia 2026-04-01
+slug: earthquake-m5-5-bitung-indonesia-2026-04-01
+incident_type: Earthquake
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2026-04-01'
+event_date: '2026-04-01'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A 5.8-magnitude earthquake struck the Molucca Sea waters between Indonesia's North Sulawesi and the North Molucca Islands, near Bitung. The event was reported by Yahoo News, noting the earthquake's occurrence in the waters off Bitung.
+summary_updated: '2026-07-08'
+search_keys:
+- Indonesia Earthquake latest 2026
+- Indonesia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 9d9bb81a5d185bf8a28d9df1c800403c
+  source: USGS
+  source_id: us6000slue
+external_keys:
+- source: USGS
+  source_id: us6000slue
+  report_id: 9d9bb81a5d185bf8a28d9df1c800403c
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-04-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: ea44e17ce6865403bef94bf7dde1f79d
+status: dormant
+display_name: Earthquake M6.0 Honaunau-Napoopoo, United States 2026-05-23
+slug: earthquake-m6-0-honaunau-napoopoo-united-states-2026-05-23
+incident_type: Earthquake
+country_code: US
+country_name: United States
+region: Americas
+first_seen: '2026-05-23'
+event_date: '2026-05-23'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 6.0 earthquake struck near Honaunau-Napoopoo on the Big Island of Hawaii on May 22-23, 2026. The USGS is assessing the Kilauea volcano for potential eruption, while state and federal officials are conducting damage assessments and researchers have deployed sensors to study the aftermath.
+summary_updated: '2026-07-08'
+search_keys:
+- United States Earthquake latest 2026
+- United States Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 8f8e6e3e85ef5ef3a10f30f1ed1e60bb
+  source: USGS
+  source_id: hv74966427
+external_keys:
+- source: USGS
+  source_id: hv74966427
+  report_id: 8f8e6e3e85ef5ef3a10f30f1ed1e60bb
+coverage_counts:
+  reports: 1
+  news: 5
+  logs: 1
+  official_sources: 1
+created_at: '2026-05-23T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

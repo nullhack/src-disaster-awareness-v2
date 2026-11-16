@@ -1,0 +1,37 @@
+schema: 2
+id: 84237f42cd255ce6bae165ee4828aeb4
+status: archived
+display_name: Earthquake M7.5 Neiafu, Tonga 2026-03-24
+slug: earthquake-m7-5-neiafu-tonga-2026-03-24
+incident_type: Earthquake
+country_code: TO
+country_name: Tonga
+region: Oceania
+first_seen: '2026-03-13'
+event_date: '2026-03-24'
+last_verified_update: '2026-03-13'
+latest_coverage_at: '2026-03-24'
+status_changed_at: '2026-03-13'
+summary: A magnitude 7.5 earthquake struck deep beneath the South Pacific Ocean near Tonga on March 24, 2026, with some shaking felt in the region.
+summary_updated: '2026-03-13'
+search_keys:
+- Tonga Earthquake latest 2026
+- Tonga Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 5c77504d4aad5fa49e56098ad30ebb99
+  source: USGS
+  source_id: us7000s789
+external_keys:
+- source: USGS
+  source_id: us7000s789
+  report_id: 5c77504d4aad5fa49e56098ad30ebb99
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-03-13T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

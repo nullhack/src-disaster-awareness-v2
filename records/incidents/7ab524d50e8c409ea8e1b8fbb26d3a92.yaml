@@ -1,0 +1,37 @@
+schema: 2
+id: 7ab524d50e8c409ea8e1b8fbb26d3a92
+status: active
+display_name: Flood Spain 2026-10-21
+slug: flood-spain-2026-10-21
+incident_type: Flood
+country_code: ES
+country_name: Spain
+region: Europe
+first_seen: '2026-10-21'
+event_date: '2026-10-21'
+last_verified_update: '2026-10-23'
+latest_coverage_at: '2026-10-23'
+status_changed_at: '2026-10-23'
+summary: The European Parliament approved €489.15 million in disaster relief for Italy, Spain, Portugal, and Malta following severe storms. In southern France, at least four people died after Storm Adam brought flooding, including two women found drowned in a cellar. The storm also caused widespread damage and triggered “unprecedented” conditions in affected areas.
+summary_updated: '2026-10-23'
+search_keys:
+- Spain Flood latest 2026
+- Spain Flood 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 67421758eb74507a84937a816fba77dd
+  source: ERCC
+  source_id: '5821'
+external_keys:
+- source: ERCC
+  source_id: '5821'
+  report_id: 67421758eb74507a84937a816fba77dd
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-10-21T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

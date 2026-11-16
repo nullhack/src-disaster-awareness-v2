@@ -1,0 +1,37 @@
+schema: 2
+id: 11dee56b0cad5e95b7203eec124db7bc
+status: dormant
+display_name: Earthquake M5.9 Kokopo, Papua New Guinea 2025-08-07
+slug: earthquake-m5-9-kokopo-papua-new-guinea-2025-08-07
+incident_type: Earthquake
+country_code: PG
+country_name: Papua New Guinea
+region: Oceania
+first_seen: '2025-08-07'
+event_date: '2025-08-07'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 5.5 earthquake struck the sea off Papua New Guinea’s New Britain region, rattling communities along the coast east of Kokopo.
+summary_updated: '2026-07-08'
+search_keys:
+- Papua New Guinea Earthquake latest 2025
+- Papua New Guinea Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: d6cf9a00db77586685e5e188f18e8139
+  source: USGS
+  source_id: us6000qywk
+external_keys:
+- source: USGS
+  source_id: us6000qywk
+  report_id: d6cf9a00db77586685e5e188f18e8139
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-08-07T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

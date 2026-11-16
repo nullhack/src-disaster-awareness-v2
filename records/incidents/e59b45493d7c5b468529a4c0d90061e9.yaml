@@ -1,0 +1,40 @@
+schema: 2
+id: e59b45493d7c5b468529a4c0d90061e9
+status: dormant
+display_name: Flood Yala, Thailand 2025-11-17
+slug: flood-yala-thailand-2025-11-17
+incident_type: Flood
+country_code: TH
+country_name: Thailand
+region: Asia
+first_seen: '2025-11-17'
+event_date: '2025-11-17'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-11'
+status_changed_at: '2026-07-08'
+summary: A "once-in-300-years" storm battered southern Thailand, bringing floodwaters over eight feet and stranding a maternity ward. Additionally, widespread flooding across Asia, including Thailand, has resulted in over 1,000 deaths.
+summary_updated: '2026-07-08'
+search_keys:
+- Thailand Flood latest 2025
+- Thailand Flood 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1d9a8c7e418256a39c7b76d5783b97eb
+  source: GDACS
+  source_id: '1103621'
+external_keys:
+- source: GDACS
+  source_id: '1103621'
+  report_id: 1d9a8c7e418256a39c7b76d5783b97eb
+- source: GDACS
+  source_id: '1103640'
+  report_id: 2f65f8b73b2d514c8b0757c748e439af
+coverage_counts:
+  reports: 2
+  news: 9
+  logs: 1
+  official_sources: 1
+created_at: '2025-11-17T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

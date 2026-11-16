@@ -1,0 +1,37 @@
+schema: 2
+id: b10dc85bac0f5a0a91c9b660bd8dace2
+status: dormant
+display_name: Avian Influenza Victoria, Australia 2024-06-07
+slug: avian-influenza-victoria-australia-2024-06-07
+incident_type: Avian Influenza A (H5N1)
+country_code: AU
+country_name: Australia
+region: Oceania
+first_seen: '2024-06-07'
+event_date: '2024-06-07'
+last_verified_update: '2026-07-10'
+latest_coverage_at: '2026-07-10'
+status_changed_at: '2026-07-10'
+summary: The first cases of H5N1 bird flu have been detected in Australian seabirds. A confirmed case was found in a brown skua in Cape Le Grand, Western Australia, and a suspected case in a giant petrel near Hawks Nest, New South Wales. Additionally, CSIRO lab testing confirmed the strain in a greater crested tern.
+summary_updated: '2026-07-10'
+search_keys:
+- Avian Influenza Australia update 2024
+- Avian Influenza Australia 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 8a29059121df534fb40d313c4c4307f4
+  source: WHO
+  source_id: d056cc03-118d-400f-bc7c-2fd78024ea97
+external_keys:
+- source: WHO
+  source_id: d056cc03-118d-400f-bc7c-2fd78024ea97
+  report_id: 8a29059121df534fb40d313c4c4307f4
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2024-06-07T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

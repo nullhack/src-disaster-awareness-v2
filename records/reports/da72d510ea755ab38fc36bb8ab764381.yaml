@@ -1,0 +1,22 @@
+id: da72d510ea755ab38fc36bb8ab764381
+source: ERCC
+source_id: '5786'
+incident_type: Forest Fire
+name: Forest Fire Croatia 2026-09-15
+report_date: '2026-09-15'
+news_searched_at: '2026-09-29T05:56:58+00:00'
+places:
+- country_code: HR
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: ECHO Daily Map of 15 September 2026
+  description: Croatia | Wildfires and EU response
+  pubDate: Tue, 15 Sep 2026 16:51:48 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5786
+  guid: ERCC_Map_5786
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5786&fileN=ImageFile&forceDownload=False
+  mainCountry: Croatia
+  eventTypes: Wild fire
+schema: 2
+content_hash: 25cc647c61137f283a044fcf1ac61bd386542762f9139f5b1ff7ae55d9f8dc69

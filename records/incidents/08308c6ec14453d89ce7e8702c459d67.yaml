@@ -1,0 +1,37 @@
+schema: 2
+id: 08308c6ec14453d89ce7e8702c459d67
+status: archived
+display_name: Earthquake M6.3 Balkh, Afghanistan 2025-11-02
+slug: earthquake-m6-3-balkh-afghanistan-2025-11-02
+incident_type: Earthquake
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2025-11-02'
+event_date: '2025-11-02'
+last_verified_update: '2025-11-13'
+latest_coverage_at: '2025-11-13'
+status_changed_at: '2025-11-13'
+summary: A magnitude 6.3 earthquake struck northern Afghanistan, killing at least 20 people and injuring over 300. The earthquake caused significant damage and casualties in the Balkh region.
+summary_updated: '2025-11-13'
+search_keys:
+- Afghanistan Earthquake latest 2025
+- Afghanistan Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: dcc77ef736505ab0b3e8c2ba816e929b
+  source: GDACS
+  source_id: '1508467'
+external_keys:
+- source: GDACS
+  source_id: '1508467'
+  report_id: dcc77ef736505ab0b3e8c2ba816e929b
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 1
+  official_sources: 1
+created_at: '2025-11-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

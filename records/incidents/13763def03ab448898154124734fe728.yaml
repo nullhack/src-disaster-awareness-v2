@@ -1,0 +1,43 @@
+schema: 2
+id: 13763def03ab448898154124734fe728
+status: active
+display_name: Iran/US war
+slug: iran-us-war
+incident_type: Conflict
+country_code: IR
+country_name: Iran
+region: Asia
+first_seen: '2016-01-01'
+event_date: '2026-07-26'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: |-
+  Iran attacked a US radar site in Bahrain using six drones, prompting Bahrain to issue its first public threat alerts since September. President Trump signaled a shift away from both new military strikes and further talks, declaring the US does not need a deal, though experts caution his strategy remains unclear. The conflict also continues to drive oil price volatility and is accelerating Southeast Asia’s shift to renewable energy due to persistent fuel disruptions.
+  Iran launched a drone attack on a US military base in Bahrain, prompting condemnations from Saudi Arabia, Qatar, Jordan, and Egypt, while also indicating it remains open to a deal with the US. The IEA reported that global oil shipments have rebounded to surplus for the first time since the war began, and Iran stated it will seek reparations from regional countries. Yemen's army repositioned troops away from the Bab al-Mandeb Strait amid the continuing tensions.
+summary_updated: '2026-11-15'
+search_keys:
+- Iran Conflict latest 2026
+- Iran Conflict 2026
+- Iran war casualties 2026
+extended_monitoring: true
+aliases: []
+merged_into: null
+genesis:
+  report_id: d9ceba8ea0315ec896e314d70e79485c
+  source: MANUAL
+  source_id: 8f810cc9f7e456ff
+external_keys:
+- source: MANUAL
+  source_id: 8f810cc9f7e456ff
+  report_id: d9ceba8ea0315ec896e314d70e79485c
+- source: ERCC
+  source_id: '5824'
+  report_id: 6fd1e02a192055b391eb490226305cbd
+coverage_counts:
+  reports: 2
+  news: 3452
+  logs: 107
+  official_sources: 2
+created_at: '2016-01-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

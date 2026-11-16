@@ -1,0 +1,40 @@
+schema: 2
+id: 1b649796f0694fd38d131c5f505d82d5
+status: active
+display_name: Volcano Batangas, Philippines 2026-10-08
+slug: volcano-batangas-philippines-2026-10-08
+incident_type: Volcano
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2026-10-04'
+event_date: '2026-10-08'
+last_verified_update: '2026-10-23'
+latest_coverage_at: '2026-10-23'
+status_changed_at: '2026-10-23'
+summary: On October 20, Taal Volcano had a minor phreatic eruption with a plume rising approximately 300 meters above the crater. Two days later, on October 22, a minor phreatomagmatic eruption generated a 1,200-meter plume. The Philippine Institute of Volcanology and Seismology (Phivolcs) maintains Alert Level 1 and advises the public to avoid the permanent danger zone, as this marks the fifth eruption recorded in October.
+summary_updated: '2026-10-23'
+search_keys:
+- Philippines Volcano latest 2026
+- Philippines Volcano 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 7d47e18b9f4859ed805603d0774545f5
+  source: GDACS
+  source_id: '1000151'
+external_keys:
+- source: GDACS
+  source_id: '1000151'
+  report_id: 7d47e18b9f4859ed805603d0774545f5
+- source: GDACS
+  source_id: '1000152'
+  report_id: d09fc13b66005acb93a3c656070456c9
+coverage_counts:
+  reports: 2
+  news: 22
+  logs: 4
+  official_sources: 1
+created_at: '2026-10-04T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

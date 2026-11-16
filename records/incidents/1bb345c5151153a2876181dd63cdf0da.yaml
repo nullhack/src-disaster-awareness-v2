@@ -1,0 +1,37 @@
+schema: 2
+id: 1bb345c5151153a2876181dd63cdf0da
+status: archived
+display_name: Earthquake M5.5 Ciudad Sandino, Nicaragua 2026-03-26
+slug: earthquake-m5-5-ciudad-sandino-nicaragua-2026-03-26
+incident_type: Earthquake
+country_code: NI
+country_name: Nicaragua
+region: Americas
+first_seen: '2026-03-26'
+event_date: '2026-03-26'
+last_verified_update: '2026-03-26'
+latest_coverage_at: '2026-06-27'
+status_changed_at: '2026-03-26'
+summary: ''
+summary_updated: ''
+search_keys:
+- Nicaragua Earthquake latest 2026
+- Nicaragua Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 779fe5355f815887aee9f2239b58de99
+  source: USGS
+  source_id: us7000s7w6
+external_keys:
+- source: USGS
+  source_id: us7000s7w6
+  report_id: 779fe5355f815887aee9f2239b58de99
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-03-26T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

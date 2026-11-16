@@ -1,0 +1,17 @@
+schema: 2
+incident_id: 5c179437a46a56aca2f8b70aeceda07a
+log_date: '2026-08-13'
+summary: |-
+  As of August 12, 2026, the Ebola outbreak in the Democratic Republic of Congo has topped 4,000 cases, and the CDC is implementing measures to prevent the virus from entering the United States. The death toll has surpassed 2,000, and the World Health Organization warns the outbreak is on track to become the deadliest in history.
+  The outbreak has spread to a sixth province, Bas-Uele, with a death recorded after an infected person traveled from Isiro. The DRC has submitted an emergency request for Ervebo from the global stockpile for use against the Bundibugyo strain, reversing the WHO's May guidance. The WHO warns the outbreak is on track to surpass the deadliest in history (which killed over 11,000), as CDC measures to prevent entry into the US continue.
+news_ids:
+- 0cdba90289e75a9697760ee7482e279c
+- 0d28ba4e204e5757a683a62b264c8c3d
+- 198e0db30c3b5bf8afe4ad79e51c33b1
+- 251e5303a75b5d5da99acdb1e81f821d
+- 36356f012d38563b844c2ed6baa4d11a
+- 4eceb3c3b7ca580886d20af214610dd4
+- 6b7529f03c6f54c4be106a43e8ce76a6
+- 8dc47471413c58ab8d0328613494c614
+- bbc9f87ae2b858e7a0f30455c6973d91
+- f81e8afd42405e20b30a636017b112f9

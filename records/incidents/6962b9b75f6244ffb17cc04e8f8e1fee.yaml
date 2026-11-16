@@ -1,0 +1,35 @@
+schema: 2
+id: 6962b9b75f6244ffb17cc04e8f8e1fee
+status: dormant
+display_name: Sudan 2026-08-05
+slug: sudan-2026-08-05
+incident_type: Unknown
+country_code: SD
+country_name: Sudan
+region: Africa
+first_seen: '2026-08-04'
+event_date: '2026-08-05'
+last_verified_update: '2026-08-18'
+latest_coverage_at: '2026-08-19'
+status_changed_at: '2026-08-18'
+summary: General Abdel Fattah Al-Burhan met with an African Peace and Security Council delegation in Khartoum on August 16, 2026. The African Union is weighing the reopening of its liaison office in Sudan, which could help advance a ceasefire. Meanwhile, young Sudanese activists are urging inclusive dialogue to address the war's root causes and prioritize justice and peace.
+summary_updated: '2026-08-18'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 80b41a74dff25c7c8bca6433337de917
+  source: ERCC
+  source_id: '5745'
+external_keys:
+- source: ERCC
+  source_id: '5745'
+  report_id: 80b41a74dff25c7c8bca6433337de917
+coverage_counts:
+  reports: 1
+  news: 11
+  logs: 3
+  official_sources: 1
+created_at: '2026-08-04T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,18 @@
+id: fa33a1f8256e5b30ae67485a8174526e
+source: ERCC
+source_id: '5842'
+incident_type: Severe Weather
+name: Severe Weather 2026-11-13
+report_date: '2026-11-13'
+news_searched_at: '2026-11-15T19:00:15+00:00'
+places: []
+raw_fields:
+  title: ECHO Daily Map of 13 November 2026
+  description: El Niño | Seasonal temperature and rainfall multi-model forecast (December 2026 – February 2027)
+  pubDate: Fri, 13 Nov 2026 16:37:24 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5842
+  guid: ERCC_Map_5842
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5842&fileN=ImageFile&forceDownload=False
+  eventTypes: Heat Wave, Severe Weather
+schema: 2
+content_hash: 2161008750d1476b1e9824608abc8e75d2bdff26092b00cffc850c40382b92cb

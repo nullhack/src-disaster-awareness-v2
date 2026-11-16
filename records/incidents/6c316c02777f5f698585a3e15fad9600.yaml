@@ -1,0 +1,37 @@
+schema: 2
+id: 6c316c02777f5f698585a3e15fad9600
+status: dormant
+display_name: Earthquake M5.9 Quepos, Costa Rica 2025-10-22
+slug: earthquake-m5-9-quepos-costa-rica-2025-10-22
+incident_type: Earthquake
+country_code: CR
+country_name: Costa Rica
+region: Americas
+first_seen: '2025-10-22'
+event_date: '2025-10-22'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 6 earthquake struck Costa Rica on October 21, 2025, at a depth of 31 km, according to the European Mediterranean Seismological Centre (EMSC). The quake was located approximately 21 km southwest of Quepos, Puntarenas.
+summary_updated: '2026-07-08'
+search_keys:
+- Costa Rica Earthquake latest 2025
+- Costa Rica Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 79be061e806c5f56817d65a249b44111
+  source: USGS
+  source_id: us6000ril5
+external_keys:
+- source: USGS
+  source_id: us6000ril5
+  report_id: 79be061e806c5f56817d65a249b44111
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-10-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

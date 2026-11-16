@@ -1,0 +1,43 @@
+schema: 2
+id: 57241e74348141e0b32f20607ee05d66
+status: dormant
+display_name: Severe Weather 2026-07-09
+slug: severe-weather-2026-07-09
+incident_type: Severe Weather
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-04-20'
+event_date: '2026-07-09'
+last_verified_update: '2026-09-23'
+latest_coverage_at: '2026-09-23'
+status_changed_at: '2026-09-23'
+summary: As of September 19, 2026, forecasts indicate continued severe storm risks across the Midwest and Plains, including weekend threats in Oklahoma and scattered storms in Indiana, Kansas, and Nebraska. Utility companies in New Mexico are encouraging residents to prepare for potential power outages due to impending severe weather. Heat relief is expected to arrive on Sunday for some areas that have been experiencing high temperatures.
+summary_updated: '2026-09-23'
+search_keys:
+- Severe Weather latest 2026
+- Severe Weather 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1eeb1f0873195057adfbc208916790a4
+  source: ERCC
+  source_id: '5720'
+external_keys:
+- source: ERCC
+  source_id: '5720'
+  report_id: 1eeb1f0873195057adfbc208916790a4
+- source: ERCC
+  source_id: '5731'
+  report_id: 6601850f5f0c5ac08d44a2fe13d5f2d9
+- source: ERCC
+  source_id: '5735'
+  report_id: 629154926633596b9056831b52485647
+coverage_counts:
+  reports: 3
+  news: 251
+  logs: 19
+  official_sources: 1
+created_at: '2026-04-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 473d391406ab4399a796b64954f97bdf
+status: active
+display_name: Earthquake M5.7 Kiunga, Papua New Guinea 2026-10-29
+slug: earthquake-m5-7-kiunga-papua-new-guinea-2026-10-29
+incident_type: Earthquake
+country_code: PG
+country_name: Papua New Guinea
+region: Oceania
+first_seen: '2026-10-29'
+event_date: '2026-10-29'
+last_verified_update: '2026-10-29'
+latest_coverage_at: '2026-10-29'
+status_changed_at: '2026-10-29'
+summary: A magnitude 5.7 earthquake struck northeast of Kiunga, Papua New Guinea on October 29, 2026. The US Geological Survey reported a depth of 10 kilometers, while the German Research Centre for Geosciences estimated the magnitude at 5.82. No immediate reports of damage or casualties were mentioned in the articles.
+summary_updated: '2026-10-29'
+search_keys:
+- Papua New Guinea Earthquake latest 2026
+- Papua New Guinea Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 514e4db054aa5ceebb3e24f45f8eb1ca
+  source: USGS
+  source_id: us7000ttw5
+external_keys:
+- source: USGS
+  source_id: us7000ttw5
+  report_id: 514e4db054aa5ceebb3e24f45f8eb1ca
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-10-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

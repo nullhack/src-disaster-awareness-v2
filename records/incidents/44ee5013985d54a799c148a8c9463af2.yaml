@@ -1,0 +1,37 @@
+schema: 2
+id: 44ee5013985d54a799c148a8c9463af2
+status: archived
+display_name: Earthquake M5.7 Bitung, Indonesia 2026-04-02
+slug: earthquake-m5-7-bitung-indonesia-2026-04-02
+incident_type: Earthquake
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2026-04-02'
+event_date: '2026-04-02'
+last_verified_update: '2026-04-02'
+latest_coverage_at: '2026-04-02'
+status_changed_at: '2026-04-02'
+summary: ''
+summary_updated: ''
+search_keys:
+- Indonesia Earthquake latest 2026
+- Indonesia Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 211d1601511253078cab83567dbdde59
+  source: USGS
+  source_id: us6000slww
+external_keys:
+- source: USGS
+  source_id: us6000slww
+  report_id: 211d1601511253078cab83567dbdde59
+coverage_counts:
+  reports: 1
+  news: 0
+  logs: 0
+  official_sources: 1
+created_at: '2026-04-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

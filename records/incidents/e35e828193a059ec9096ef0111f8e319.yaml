@@ -1,0 +1,40 @@
+schema: 2
+id: e35e828193a059ec9096ef0111f8e319
+status: dormant
+display_name: Marburg Dar es Salaam, Tanzania 2025-02-14
+slug: marburg-dar-es-salaam-tanzania-2025-02-14
+incident_type: Marburg
+country_code: AO
+country_name: Angola
+region: Africa
+first_seen: '2025-01-20'
+event_date: '2025-02-14'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: In January 2025, the WHO reported a suspected Marburg virus outbreak in northwest Tanzania with nine infections and eight deaths. Tanzania's government initially denied any confirmed cases, but President Samia Suluhu Hassan later confirmed the outbreak, with one confirmed case, prompting a coordinated response.
+summary_updated: '2026-07-08'
+search_keys:
+- Marburg Tanzania update 2025
+- Marburg Tanzania 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 5d75f1aabb325538b7cedc0a0f5259ba
+  source: WHO
+  source_id: 8370029e-f279-408a-acc0-c4ae390a5c0a
+external_keys:
+- source: WHO
+  source_id: 8370029e-f279-408a-acc0-c4ae390a5c0a
+  report_id: 5d75f1aabb325538b7cedc0a0f5259ba
+- source: WHO
+  source_id: d9b66549-68b8-4e00-8ec5-8b643e9e3984
+  report_id: 5dc8ad3771085204bd65cb37f82b2b31
+coverage_counts:
+  reports: 2
+  news: 5
+  logs: 1
+  official_sources: 1
+created_at: '2025-01-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

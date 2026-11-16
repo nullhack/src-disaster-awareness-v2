@@ -1,0 +1,73 @@
+schema: 2
+id: d12a57fdf54e4b2ebbd0a7bc41daf42f
+status: active
+display_name: Earthquake M5.5 Ocean 2026-10-08
+slug: earthquake-m5-5-ocean-2026-10-08
+incident_type: Earthquake
+country_code: PA
+country_name: Panama
+region: Americas
+first_seen: '2026-01-01'
+event_date: '2026-10-08'
+last_verified_update: '2026-11-10'
+latest_coverage_at: '2026-11-10'
+status_changed_at: '2026-11-10'
+summary: Panama City Hall handed over 70 temporary homes to families affected by the October 9 earthquake, with plans for about 2,700 permanent homes in four provinces. The University of Panama published research on how soil conditions can intensify building collisions during earthquakes, contributing to improved seismic risk evaluation. A fundraising event in Toronto and an opinion piece on lessons from the quake for the Dominican Republic also emerged.
+summary_updated: '2026-11-10'
+search_keys:
+- Panama Earthquake latest 2026
+- Panama Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 348df03e63415c1788be372cd6095509
+  source: USGS
+  source_id: us6000u0ws
+external_keys:
+- source: USGS
+  source_id: us6000u0ws
+  report_id: 348df03e63415c1788be372cd6095509
+- source: USGS
+  source_id: us6000u18t
+  report_id: 2af6faa9dc4e51a6bad8610c84f735ac
+- source: USGS
+  source_id: us6000u19w
+  report_id: 2eebcf557888598495ce04b2f910d72d
+- source: USGS
+  source_id: us6000u164
+  report_id: 645cea4e696155c3a9f0b0dacb13a313
+- source: GDACS
+  source_id: '1570339'
+  report_id: d7781d9f94b15b7b93e36f77e03e9810
+- source: USGS
+  source_id: us6000u2un
+  report_id: d7c7186ee0f25befb482f44b42db9188
+- source: USGS
+  source_id: us6000u18x
+  report_id: db2dff85b50c5da19d416a85984628c2
+- source: USGS
+  source_id: us6000u18k
+  report_id: fa4425b8fdb152919154e83ca3557019
+- source: USGS
+  source_id: us6000u1cf
+  report_id: 23cc4a1b39d359e29539a4c592cac7f1
+- source: ERCC
+  source_id: '5811'
+  report_id: 098507c85a6c507cb5eaf0a0e6bebcb0
+- source: USGS
+  source_id: us6000u1wn
+  report_id: 6ed1ee02e16e58328e2192a9c3b1ad37
+- source: USGS
+  source_id: us6000u214
+  report_id: d544483e08325ae898b65292731b299d
+- source: ERCC
+  source_id: '5829'
+  report_id: 3e7bf1a354335dadb7effba12e2e1f0a
+coverage_counts:
+  reports: 13
+  news: 197
+  logs: 15
+  official_sources: 3
+created_at: '2026-01-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

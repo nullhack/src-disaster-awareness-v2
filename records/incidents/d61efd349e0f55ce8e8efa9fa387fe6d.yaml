@@ -1,0 +1,37 @@
+schema: 2
+id: d61efd349e0f55ce8e8efa9fa387fe6d
+status: dormant
+display_name: Forest Fire Essonne, France 2026-07-12
+slug: forest-fire-essonne-france-2026-07-12
+incident_type: Forest Fire
+country_code: FR
+country_name: France
+region: Europe
+first_seen: '2026-07-12'
+event_date: '2026-07-12'
+last_verified_update: '2026-07-21'
+latest_coverage_at: '2026-07-25'
+status_changed_at: '2026-07-21'
+summary: Selected news from July 21 reports that France has experienced its worst wildfire season in 20 years, with over 42,000 hectares burned by mid-July, already surpassing the previous record. The Fontainebleau forest fire is highlighted as a key part of this trend, with analysts pointing to a combination of extreme heat, suspected arson, and land management issues driving the fires. Articles also emphasize the threat to the historic Fontainebleau forest, underscoring its cultural and ecological significance.
+summary_updated: '2026-07-21'
+search_keys:
+- France Forest Fire latest 2026
+- France Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 360cccceabe7583b9c68ec8f3133a3e8
+  source: GDACS
+  source_id: '1029489'
+external_keys:
+- source: GDACS
+  source_id: '1029489'
+  report_id: 360cccceabe7583b9c68ec8f3133a3e8
+coverage_counts:
+  reports: 1
+  news: 77
+  logs: 4
+  official_sources: 1
+created_at: '2026-07-12T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

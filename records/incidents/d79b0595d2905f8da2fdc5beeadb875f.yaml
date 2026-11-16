@@ -1,0 +1,37 @@
+schema: 2
+id: d79b0595d2905f8da2fdc5beeadb875f
+status: dormant
+display_name: Drought 2025-12-21
+slug: drought-2025-12-21
+incident_type: Drought
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2025-12-21'
+event_date: '2025-12-21'
+last_verified_update: '2026-07-16'
+latest_coverage_at: '2026-07-16'
+status_changed_at: '2026-07-16'
+summary: Severe drought and heat across Europe are shrinking harvests, notably French maize, and causing water shortages in the Netherlands. The Rhine River has hit its lowest July level for decades, threatening energy and logistics, while Greek islands face drought during the tourist season; economists warn this extreme heat could raise food prices next year.
+summary_updated: '2026-07-16'
+search_keys:
+- Drought latest 2025
+- Drought 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c892ccdaf15e5014b1e1efb3d551fcfe
+  source: GDACS
+  source_id: '1018332'
+external_keys:
+- source: GDACS
+  source_id: '1018332'
+  report_id: c892ccdaf15e5014b1e1efb3d551fcfe
+coverage_counts:
+  reports: 1
+  news: 11
+  logs: 1
+  official_sources: 1
+created_at: '2025-12-21T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

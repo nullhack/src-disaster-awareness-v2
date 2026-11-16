@@ -1,0 +1,29 @@
+schema: 2
+id: b091482867c34fbba2ba024093265d06
+status: active
+display_name: US names 11 African countries under its 'do not travel' warning
+slug: us-names-11-african-countries-under-its-do-not-travel-warning
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-10-20'
+event_date: '2026-10-20'
+last_verified_update: '2026-10-20'
+latest_coverage_at: '2026-10-20'
+status_changed_at: '2026-10-20'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 2
+  logs: 0
+  official_sources: 0
+created_at: '2026-10-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

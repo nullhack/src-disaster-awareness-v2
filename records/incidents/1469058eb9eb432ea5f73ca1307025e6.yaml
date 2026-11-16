@@ -1,0 +1,40 @@
+schema: 2
+id: 1469058eb9eb432ea5f73ca1307025e6
+status: active
+display_name: Flood 2026-10-08
+slug: flood-2026-10-08
+incident_type: Flood
+country_code: FR
+country_name: France
+region: Europe
+first_seen: '2026-09-28'
+event_date: '2026-10-08'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: 'Flood impacts persist across several regions: in Malaysia, Selangor’s evacuation centres are emptying while Perak sees a rise in victims; the Bay Area was hit by massive waves flooding streets and homes; and Southern Colorado faces a daunting recovery. New developments include Santa Rosa declaring a local emergency for El Niño, a flood watch in New Hampshire, Utah residents raising $200,000 for flood relief, and Brevard County food pantries bracing for ongoing needs.'
+summary_updated: '2026-11-15'
+search_keys:
+- Flood latest 2026
+- Flood 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 86933cdcc60b5e6d864ee23589132a1a
+  source: ERCC
+  source_id: '5808'
+external_keys:
+- source: ERCC
+  source_id: '5808'
+  report_id: 86933cdcc60b5e6d864ee23589132a1a
+- source: ERCC
+  source_id: '5841'
+  report_id: 949abe622e965433aacab23a907aa413
+coverage_counts:
+  reports: 2
+  news: 357
+  logs: 24
+  official_sources: 1
+created_at: '2026-09-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

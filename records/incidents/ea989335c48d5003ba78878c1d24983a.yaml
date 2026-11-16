@@ -1,0 +1,37 @@
+schema: 2
+id: ea989335c48d5003ba78878c1d24983a
+status: dormant
+display_name: Cholera Bengo, Angola 2025-03-28
+slug: cholera-bengo-angola-2025-03-28
+incident_type: Cholera
+country_code: AO
+country_name: Angola
+region: Africa
+first_seen: '2025-03-28'
+event_date: '2025-03-28'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: Angola's cholera outbreak has claimed 329 lives, according to the World Health Organization, which warned that the risk of further transmission within Angola and neighboring areas remains "very high."
+summary_updated: '2026-07-08'
+search_keys:
+- Cholera Angola update 2025
+- Cholera Angola 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 938cc3e8d74358e297bd1010eec8d5ed
+  source: WHO
+  source_id: 4179c55d-5ebe-4e98-a997-0d0324bdaa09
+external_keys:
+- source: WHO
+  source_id: 4179c55d-5ebe-4e98-a997-0d0324bdaa09
+  report_id: 938cc3e8d74358e297bd1010eec8d5ed
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-03-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

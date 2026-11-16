@@ -1,0 +1,37 @@
+schema: 2
+id: 0d37207de0895dd6aa19456db139ee7a
+status: dormant
+display_name: Earthquake M4.5 Topolobampo, Mexico 2026-06-30
+slug: earthquake-m4-5-topolobampo-mexico-2026-06-30
+incident_type: Earthquake
+country_code: MX
+country_name: Mexico
+region: Americas
+first_seen: '2026-06-30'
+event_date: '2026-06-30'
+last_verified_update: '2026-06-30'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-06-30'
+summary: ''
+summary_updated: ''
+search_keys:
+- Mexico Earthquake latest 2026
+- Mexico Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 13fd9333ddf1515eabbe959104de8138
+  source: USGS
+  source_id: us6000t99v
+external_keys:
+- source: USGS
+  source_id: us6000t99v
+  report_id: 13fd9333ddf1515eabbe959104de8138
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-06-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

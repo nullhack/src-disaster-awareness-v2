@@ -1,0 +1,37 @@
+schema: 2
+id: e88ce2f21dc04882a988daebbddb8dd0
+status: active
+display_name: Tropical Cyclone NINE-26 United States 2026-10-06
+slug: tropical-cyclone-nine-26-united-states-2026-10-06
+incident_type: Tropical Cyclone
+country_code: US
+country_name: United States
+region: Americas
+first_seen: '2026-06-10'
+event_date: '2026-10-06'
+last_verified_update: '2026-11-01'
+latest_coverage_at: '2026-11-01'
+status_changed_at: '2026-11-01'
+summary: An article in the batch highlights that Hurricane Isaias was the first Atlantic hurricane of the 2026 season, tying the 1905 record for the latest first hurricane when it formed on October 8. Other Isaias-related pieces in the news provide retrospective comparisons and recaps of the storm’s impacts, while the majority of the batch focuses on unrelated tropical systems.
+summary_updated: '2026-11-01'
+search_keys:
+- United States Tropical Cyclone latest 2026
+- United States Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1b7488ca8a465cc6b9bf48582bd91f81
+  source: GDACS
+  source_id: '1001334'
+external_keys:
+- source: GDACS
+  source_id: '1001334'
+  report_id: 1b7488ca8a465cc6b9bf48582bd91f81
+coverage_counts:
+  reports: 1
+  news: 108
+  logs: 6
+  official_sources: 1
+created_at: '2026-06-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

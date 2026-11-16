@@ -1,0 +1,22 @@
+id: 1fb7ab2952bc555fa315cfad3a92cc44
+source: ERCC
+source_id: '5743'
+incident_type: Forest Fire
+name: Forest Fire Greece 2026-08-03
+report_date: '2026-08-03'
+news_searched_at: '2026-08-17T13:14:27+00:00'
+places:
+- country_code: GR
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: ECHO Daily Map of 03 August 2026
+  description: Greece | Wildfires
+  pubDate: Mon, 03 Aug 2026 18:24:15 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5743
+  guid: ERCC_Map_5743
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5743&fileN=ImageFile&forceDownload=False
+  mainCountry: Greece
+  eventTypes: UCPM, Wild fire
+schema: 2
+content_hash: b04cf48834d002dc6fe1c495dab19f9d6844cdea46534d33b03321384d54a6ec

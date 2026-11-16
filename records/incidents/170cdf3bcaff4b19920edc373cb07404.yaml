@@ -1,0 +1,37 @@
+schema: 2
+id: 170cdf3bcaff4b19920edc373cb07404
+status: dormant
+display_name: Earthquake M6.3 Penama, Vanuatu 2026-10-08
+slug: earthquake-m6-3-penama-vanuatu-2026-10-08
+incident_type: Earthquake
+country_code: VU
+country_name: Vanuatu
+region: Oceania
+first_seen: '2026-10-08'
+event_date: '2026-10-08'
+last_verified_update: '2026-10-08'
+latest_coverage_at: '2026-10-08'
+status_changed_at: '2026-10-08'
+summary: A strong earthquake struck Vanuatu on October 8, 2026, with the U.S. Geological Survey reporting a magnitude of 6.6 (later also cited as 6.3 by other sources) and a shallow depth of 10 km. The epicenter was located about 105–110 km northeast of Norsup (or east of Luganville) in the Penama region. Several news outlets confirmed the event, though slight variations in reported magnitude appeared.
+summary_updated: '2026-10-08'
+search_keys:
+- Vanuatu Earthquake latest 2026
+- Vanuatu Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 32d24b90a0c9553a92c071191201afad
+  source: GDACS
+  source_id: '1570077'
+external_keys:
+- source: GDACS
+  source_id: '1570077'
+  report_id: 32d24b90a0c9553a92c071191201afad
+coverage_counts:
+  reports: 1
+  news: 7
+  logs: 1
+  official_sources: 1
+created_at: '2026-10-08T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

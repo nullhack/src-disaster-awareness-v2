@@ -1,0 +1,37 @@
+schema: 2
+id: 67787b9204585a94964580ecd0746be0
+status: dormant
+display_name: Earthquake M4.9 Pangyan, Philippines 2026-06-30
+slug: earthquake-m4-9-pangyan-philippines-2026-06-30
+incident_type: Earthquake
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2026-06-30'
+event_date: '2026-06-30'
+last_verified_update: '2026-06-30'
+latest_coverage_at: '2026-06-30'
+status_changed_at: '2026-06-30'
+summary: The earthquake caused coastal uplift that created approximately 200 hectares of new land but devastated the Pangyan Marine Sanctuary and Sarangani Bay Protected Seascape, resulting in the death of corals, seagrass, giant clams, and reef fishes.
+summary_updated: '2026-06-30'
+search_keys:
+- Philippines Earthquake latest 2026
+- Philippines Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 2c6f9f4aa6e25c20bc5d2bd1c650f9a1
+  source: USGS
+  source_id: us6000t9ad
+external_keys:
+- source: USGS
+  source_id: us6000t9ad
+  report_id: 2c6f9f4aa6e25c20bc5d2bd1c650f9a1
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

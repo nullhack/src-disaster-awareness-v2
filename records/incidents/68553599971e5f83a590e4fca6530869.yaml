@@ -1,0 +1,37 @@
+schema: 2
+id: 68553599971e5f83a590e4fca6530869
+status: archived
+display_name: Nipah Kerala, India 2025-08-06
+slug: nipah-kerala-india-2025-08-06
+incident_type: Nipah
+country_code: BD
+country_name: Bangladesh
+region: Asia
+first_seen: '2018-05-22'
+event_date: '2025-08-06'
+last_verified_update: '2018-05-22'
+latest_coverage_at: '2025-08-06'
+status_changed_at: '2018-05-22'
+summary: Two cases of the deadly Nipah virus have been confirmed in India, prompting authorities in Thailand, Singapore, Hong Kong, and Malaysia to implement airport checks across Asia.
+summary_updated: '2018-05-22'
+search_keys:
+- Nipah India update 2025
+- Nipah India 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 29391bd72462527abb027c5b009068ab
+  source: WHO
+  source_id: 62f952d7-6521-43c9-af05-e2467b1b1423
+external_keys:
+- source: WHO
+  source_id: 62f952d7-6521-43c9-af05-e2467b1b1423
+  report_id: 29391bd72462527abb027c5b009068ab
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2018-05-22T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

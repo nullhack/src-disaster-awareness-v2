@@ -1,0 +1,37 @@
+schema: 2
+id: ff4217bffe805d5f88f602420013eb30
+status: dormant
+display_name: Yellow fever Burkina Faso 2024-03-20
+slug: yellow-fever-burkina-faso-2024-03-20
+incident_type: Yellow fever
+country_code: BF
+country_name: Burkina Faso
+region: Africa
+first_seen: '2024-03-20'
+event_date: '2024-03-20'
+last_verified_update: '2026-06-25'
+latest_coverage_at: '2026-06-25'
+status_changed_at: '2026-06-25'
+summary: The World Health Organization has issued a warning about persistent yellow fever outbreaks across Africa and the Americas, attributing the resurgence to low vaccination coverage and climate-related factors. This update highlights ongoing risks in the African region, underscoring the continued threat of the disease.
+summary_updated: '2026-06-25'
+search_keys:
+- Yellow fever Burkina Faso update 2024
+- Yellow fever Burkina Faso 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 47b4273540f85bc19c3c69dc01c83adc
+  source: WHO
+  source_id: cb36550c-3270-4ff2-962f-4917a3df74db
+external_keys:
+- source: WHO
+  source_id: cb36550c-3270-4ff2-962f-4917a3df74db
+  report_id: 47b4273540f85bc19c3c69dc01c83adc
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2024-03-20T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

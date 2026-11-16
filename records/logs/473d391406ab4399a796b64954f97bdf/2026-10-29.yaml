@@ -1,0 +1,9 @@
+schema: 2
+incident_id: 473d391406ab4399a796b64954f97bdf
+log_date: '2026-10-29'
+summary: A magnitude 5.7 earthquake struck northeast of Kiunga, Papua New Guinea on October 29, 2026. The US Geological Survey reported a depth of 10 kilometers, while the German Research Centre for Geosciences estimated the magnitude at 5.82. No immediate reports of damage or casualties were mentioned in the articles.
+news_ids:
+- 2fe398944dd853429cb93d80ab3f0dd4
+- 6e8caeb61c3a52dfb5c10af01216b88c
+- 866375c8e6ca510fb4ecf1ac270b55d5
+- a9e7103560275d93befa023b202f2ca1

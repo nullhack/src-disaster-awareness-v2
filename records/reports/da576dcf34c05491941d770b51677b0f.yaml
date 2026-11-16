@@ -1,0 +1,15 @@
+id: da576dcf34c05491941d770b51677b0f
+source: GDACS
+source_id: '1018093'
+incident_type: Drought
+name: Drought Green
+report_date: '2025-08-21'
+news_searched_at: ''
+places: []
+raw_fields:
+  alertlevel: Green
+  severity: Minor impact for agricultural drought in 170222 km2
+  population: 0
+  episodeid: '27'
+schema: 2
+content_hash: ac82d0786c130e4f35a6307ea3fb5fcaaea4a5224bf4b1bb9e3bc0cc745b5226

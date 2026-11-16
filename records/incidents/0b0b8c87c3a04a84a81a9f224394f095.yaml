@@ -1,0 +1,29 @@
+schema: 2
+id: 0b0b8c87c3a04a84a81a9f224394f095
+status: dormant
+display_name: Prabowo orders disaster mitigation masterplan as Indonesia grapples with multiple crises
+slug: prabowo-orders-disaster-mitigation-masterplan-as-indonesia-grapples-with-multipl
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-09-05'
+event_date: '2026-09-05'
+last_verified_update: '2026-09-05'
+latest_coverage_at: '2026-09-08'
+status_changed_at: '2026-09-05'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 2
+  logs: 0
+  official_sources: 0
+created_at: '2026-09-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

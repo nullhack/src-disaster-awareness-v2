@@ -1,0 +1,37 @@
+schema: 2
+id: cdea33405f1754068409aacb80fa28f7
+status: dormant
+display_name: Earthquake M5.5 Poso, Indonesia 2025-07-24
+slug: earthquake-m5-5-poso-indonesia-2025-07-24
+incident_type: Earthquake
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2025-07-24'
+event_date: '2025-07-24'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A powerful 6.7-magnitude earthquake struck central Indonesia's Sulawesi island on July 24, 2025, killing at least one person and injuring dozens. The tremor caused damage to homes and public infrastructure in the region near Poso.
+summary_updated: '2026-07-08'
+search_keys:
+- Indonesia Earthquake latest 2025
+- Indonesia Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: faa7d39ffed95d728dc29b111edb1b76
+  source: USGS
+  source_id: us6000qulb
+external_keys:
+- source: USGS
+  source_id: us6000qulb
+  report_id: faa7d39ffed95d728dc29b111edb1b76
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-07-24T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

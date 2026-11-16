@@ -1,0 +1,30 @@
+id: 6b05806268d357a1bc1ac6c0e7a5e5fe
+source: GDACS
+source_id: '1001254'
+incident_type: Tropical Cyclone
+name: Tropical Cyclone FYTIA-26
+report_date: '2026-01-29'
+news_searched_at: '2026-07-08T20:23:20+00:00'
+places:
+- country_code: MG
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Tropical Cyclone FYTIA-26
+  link: https://www.gdacs.org/report.aspx?eventid=1001254&episodeid=24&eventtype=TC
+  eventtype: TC
+  alertlevel: Orange
+  fromdate: '2026-01-29T12:00:00'
+  iso3: MDG
+  country: Madagascar
+  geo_lat: -23.41
+  geo_long: 54.85
+  severity: 179.443296
+  severitytext: Remnant Low (maximum wind speed of 179 km/h)
+  episodeid: '24'
+  description: Tropical Cyclone FYTIA-26
+  glide: ''
+  source: RSMC
+  datemodified: '2026-02-11T15:18:59.037'
+schema: 2
+content_hash: a476ce99fc507b239cc72e37250fe81218c80d2b7f09dc1b3cef75390df202cb

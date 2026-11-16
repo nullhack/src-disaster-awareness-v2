@@ -1,0 +1,40 @@
+schema: 2
+id: 65c2cfe6c88644e4b0890ba794c98988
+status: dormant
+display_name: Forest Fire Juznobanatski okrug, Serbia 2026-08-05
+slug: forest-fire-juznobanatski-okrug-serbia-2026-08-05
+incident_type: Forest Fire
+country_code: RS
+country_name: Serbia
+region: Europe
+first_seen: '2026-08-05'
+event_date: '2026-08-05'
+last_verified_update: '2026-08-30'
+latest_coverage_at: '2026-09-06'
+status_changed_at: '2026-08-30'
+summary: Hungary has dispatched 12 firefighters and four vehicles to Serbia to assist in combating the ongoing forest fires. European countries are coordinating firefighting resources across borders, with Serbia continuing to use both Russian and EU assistance. Multiple fires remain active across the region.
+summary_updated: '2026-08-30'
+search_keys:
+- Serbia Forest Fire latest 2026
+- Serbia Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c24db41f269759aaaa3e8a9bf30bf14a
+  source: GDACS
+  source_id: '1030252'
+external_keys:
+- source: GDACS
+  source_id: '1030252'
+  report_id: c24db41f269759aaaa3e8a9bf30bf14a
+- source: ERCC
+  source_id: '5762'
+  report_id: c2fb8f3bf86b57c182d3e4830f3b795e
+coverage_counts:
+  reports: 2
+  news: 18
+  logs: 4
+  official_sources: 2
+created_at: '2026-08-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

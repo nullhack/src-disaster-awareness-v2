@@ -1,0 +1,37 @@
+schema: 2
+id: d47a585a7e6750b9a742e84b58dc679a
+status: dormant
+display_name: Earthquake M5.5 China 2025-10-09
+slug: earthquake-m5-5-china-2025-10-09
+incident_type: Earthquake
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2025-10-09'
+event_date: '2025-10-09'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 4.7 earthquake struck Xinjiang in northwest China at a depth of 220 km, with no casualties reported according to the National Centre for Seismology. The event follows a separate 4.9 magnitude quake in the region.
+summary_updated: '2026-07-08'
+search_keys:
+- China Earthquake latest 2025
+- China Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 0a25c28fedcd544d86970cafb9d64f03
+  source: GDACS
+  source_id: '1504188'
+external_keys:
+- source: GDACS
+  source_id: '1504188'
+  report_id: 0a25c28fedcd544d86970cafb9d64f03
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-10-09T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

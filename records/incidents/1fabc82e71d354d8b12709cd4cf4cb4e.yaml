@@ -1,0 +1,37 @@
+schema: 2
+id: 1fabc82e71d354d8b12709cd4cf4cb4e
+status: dormant
+display_name: Earthquake M5.5 Bandon, United States 2026-06-29
+slug: earthquake-m5-5-bandon-united-states-2026-06-29
+incident_type: Earthquake
+country_code: US
+country_name: United States
+region: Americas
+first_seen: '2026-06-29'
+event_date: '2026-06-29'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 5.5 earthquake struck off the Oregon coast on June 29, 2026, approximately 218 km west of Bandon, Oregon. Officials confirmed there is no tsunami threat, and the quake was followed by a 3.9 magnitude aftershock in the Blanco Fracture Zone.
+summary_updated: '2026-07-08'
+search_keys:
+- United States Earthquake latest 2026
+- United States Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: b8e653613a775efd8ed1b01b5e513e46
+  source: USGS
+  source_id: us6000t8yt
+external_keys:
+- source: USGS
+  source_id: us6000t8yt
+  report_id: b8e653613a775efd8ed1b01b5e513e46
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 620d80080abb5a0cb6aa8bd4e2a50111
+status: dormant
+display_name: Earthquake M6.3 Lorengau, Papua New Guinea 2025-10-10
+slug: earthquake-m6-3-lorengau-papua-new-guinea-2025-10-10
+incident_type: Earthquake
+country_code: PG
+country_name: Papua New Guinea
+region: Oceania
+first_seen: '2025-10-10'
+event_date: '2025-10-10'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 6.4 earthquake struck the Papua New Guinea region on Monday, 2025-10-10, according to the German Research Centre for Geosciences (GFZ). The quake occurred at a depth of 106 km (66 miles), with the epicenter located approximately 139 km southeast of Lorengau, Manus Province. No immediate reports of damage or casualties have been mentioned.
+summary_updated: '2026-07-08'
+search_keys:
+- Papua New Guinea Earthquake latest 2025
+- Papua New Guinea Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 73dbdc70471a5ccc99d3c02565c9b9d2
+  source: USGS
+  source_id: us6000rfye
+external_keys:
+- source: USGS
+  source_id: us6000rfye
+  report_id: 73dbdc70471a5ccc99d3c02565c9b9d2
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-10-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

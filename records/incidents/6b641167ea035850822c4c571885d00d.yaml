@@ -1,0 +1,37 @@
+schema: 2
+id: 6b641167ea035850822c4c571885d00d
+status: dormant
+display_name: Earthquake M6.2 Sarangani, Philippines 2026-07-14
+slug: earthquake-m6-2-sarangani-philippines-2026-07-14
+incident_type: Earthquake
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2026-07-01'
+event_date: '2026-07-14'
+last_verified_update: '2026-07-28'
+latest_coverage_at: '2026-07-28'
+status_changed_at: '2026-07-28'
+summary: Jackery answered the Philippine Disaster Resilience Foundation’s call for emergency power in Sarangani, providing support for the earthquake-affected area.
+summary_updated: '2026-07-28'
+search_keys:
+- Philippines Earthquake latest 2026
+- Philippines Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 57262bc5f70456bbab86e1e686c3640a
+  source: USGS
+  source_id: us7000t0d0
+external_keys:
+- source: USGS
+  source_id: us7000t0d0
+  report_id: 57262bc5f70456bbab86e1e686c3640a
+coverage_counts:
+  reports: 1
+  news: 17
+  logs: 3
+  official_sources: 1
+created_at: '2026-07-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

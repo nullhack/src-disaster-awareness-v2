@@ -1,0 +1,31 @@
+schema: 2
+id: 8e437650e0284086b4ad68831ffbeeee
+status: dormant
+display_name: 'Ship Pays Record Amount to Cross Panama Canal Amid Drought Restrictions : The Tico Times | Costa Rica News | Travel | Real Estate'
+slug: ship-pays-record-amount-to-cross-panama-canal-amid-drought-restrictions-the-tico
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-25'
+event_date: '2026-08-25'
+last_verified_update: '2026-08-31'
+latest_coverage_at: '2026-08-31'
+status_changed_at: '2026-08-31'
+summary: 'New drought developments reported on August 30-31: The federal government finalized a new Colorado River plan to cut water amid severe depletion, causing uncertainty for cities and farmers. In Sarawak, Malaysia, drought and haze have shrunk river channels, making journeys perilous. Tunisia is sweltering under near-50°C temperatures, with power cuts disrupting water supplies and straining health services. United Nations desertification talks in Mongolia concluded, highlighting the growing drought crisis globally. India faces a 13% rainfall deficit, threatening Kharif crop yields, while a South Carolina farmer reported losing crops due to drought.'
+summary_updated: '2026-08-31'
+search_keys:
+- Drought latest 2026
+- Drought 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 86
+  logs: 6
+  official_sources: 0
+created_at: '2026-08-25T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

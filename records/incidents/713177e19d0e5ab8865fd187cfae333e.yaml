@@ -1,0 +1,37 @@
+schema: 2
+id: 713177e19d0e5ab8865fd187cfae333e
+status: dormant
+display_name: Earthquake M5.6 Asadābād, Afghanistan 2025-09-04
+slug: earthquake-m5-6-asad-b-d-afghanistan-2025-09-04
+incident_type: Earthquake
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2025-09-04'
+event_date: '2025-09-04'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 5.5 earthquake struck near Asadābād, Afghanistan, on September 4, 2025. No immediate reports of damage or casualties have been received, though strong tremors are common in the region.
+summary_updated: '2026-07-08'
+search_keys:
+- Afghanistan Earthquake latest 2025
+- Afghanistan Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 20d5354ff967534bb7591cc35d126c9e
+  source: USGS
+  source_id: us7000qtst
+external_keys:
+- source: USGS
+  source_id: us7000qtst
+  report_id: 20d5354ff967534bb7591cc35d126c9e
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-09-04T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 86eb5a77ac5350d794f114539eca1161
+status: dormant
+display_name: Earthquake M5.8 Pampa de Tate, Peru 2026-05-19
+slug: earthquake-m5-8-pampa-de-tate-peru-2026-05-19
+incident_type: Earthquake
+country_code: PE
+country_name: Peru
+region: Americas
+first_seen: '2026-05-19'
+event_date: '2026-05-19'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A 5.8 magnitude earthquake struck southern Peru, injuring 27 people and damaging buildings. No deaths were reported.
+summary_updated: '2026-07-08'
+search_keys:
+- Peru Earthquake latest 2026
+- Peru Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: a62549dbc63b5035bb2ba613e5cdf590
+  source: USGS
+  source_id: us6000syt5
+external_keys:
+- source: USGS
+  source_id: us6000syt5
+  report_id: a62549dbc63b5035bb2ba613e5cdf590
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-05-19T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

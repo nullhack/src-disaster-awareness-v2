@@ -1,0 +1,29 @@
+schema: 2
+id: 6736e89e735c4ad79e93bfc0358367ff
+status: dormant
+display_name: 5.5 magnitude earthquake strikes off Japan's Hachijo Island, shaking felt in Tokyo
+slug: 5-5-magnitude-earthquake-strikes-off-japan-s-hachijo-island-shaking-felt-in-toky
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-21'
+event_date: '2026-08-21'
+last_verified_update: '2026-08-21'
+latest_coverage_at: '2026-08-21'
+status_changed_at: '2026-08-21'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 1
+  logs: 0
+  official_sources: 0
+created_at: '2026-08-21T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

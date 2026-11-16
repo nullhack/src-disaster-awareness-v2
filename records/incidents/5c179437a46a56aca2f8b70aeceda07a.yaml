@@ -1,0 +1,91 @@
+schema: 2
+id: 5c179437a46a56aca2f8b70aeceda07a
+status: active
+display_name: Ebola Kinshasa, DR Congo 2025-09-05
+slug: ebola-kinshasa-dr-congo-2025-09-05
+incident_type: Ebola
+country_code: CD
+country_name: DR Congo
+region: Africa
+first_seen: '2025-09-05'
+event_date: '2025-09-05'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: Six months after its declaration, the Ebola outbreak in DR Congo remains uncontrolled, with over 11,000 cases and a near-50% fatality rate. Clinical trials for vaccines and treatments have begun in the hard-hit Bunia area, offering cautious hope. An ADF attack sent about 180 patients fleeing from a health center, underscoring persistent security threats to containment efforts.
+summary_updated: '2026-11-15'
+search_keys:
+- Ebola DR Congo update 2026
+- Ebola DR Congo 2026
+extended_monitoring: true
+aliases: []
+merged_into: null
+genesis:
+  report_id: ff79fd21b0c954d0999ebb4963b52b92
+  source: WHO
+  source_id: d3961cc9-af4d-4a49-aa7b-6b97f4b0b4c3
+external_keys:
+- source: WHO
+  source_id: d3961cc9-af4d-4a49-aa7b-6b97f4b0b4c3
+  report_id: ff79fd21b0c954d0999ebb4963b52b92
+- source: WHO
+  source_id: bac6e717-f63e-496f-ae44-65f072fa75e6
+  report_id: 2adf14d4193651f088c87b536a3f673e
+- source: WHO
+  source_id: dfc49ad5-c3b6-41ca-a2d6-f51092ff8b33
+  report_id: d63e619dff4057ca833e17e12d5af845
+- source: WHO
+  source_id: f2a48407-d580-4988-94d7-ccc683f54cb0
+  report_id: a2a36743f5cf5cb88e826eaf61778c2a
+- source: WHO
+  source_id: ae3c204f-4b7b-412a-9ef7-1450a5073c23
+  report_id: a128ab331f335ba2999704982064be22
+- source: WHO
+  source_id: 3325c520-37a9-4d24-8b30-18ebe5bf202d
+  report_id: d524d60e67e3505ba00b77190675d3da
+- source: WHO
+  source_id: 375711fd-e6fe-4251-8cd5-ebc3ef02d9fe
+  report_id: c9c54fafdd915cd4b6c65a6c3e98f354
+- source: WHO
+  source_id: fb4b241b-9a51-4098-ac84-3a6b74469487
+  report_id: f266e199a46e5802ae4e9e1121396e1b
+- source: WHO
+  source_id: 608d728d-b078-4614-9ccf-682229ebfee8
+  report_id: 861f6071032d51bfa24ee450592ae74b
+- source: WHO
+  source_id: a06665c4-2ff2-411b-8767-25e299dac63f
+  report_id: 153908bb9e6150998b43116259d9959d
+- source: WHO
+  source_id: 19668b4d-5e4f-45bf-94d5-4e2ebcb5a67d
+  report_id: c4cf8b1c3d0559aeaf4627ff4841a2c7
+- source: WHO
+  source_id: 3a950a6c-8e9a-4d58-b8db-6840bd02db92
+  report_id: 2d7570d74da653c7b1520e68b140a0aa
+- source: WHO
+  source_id: c835cb1d-25ad-4dd9-b065-ee09c054fe81
+  report_id: 6a77c73d64265b77808ff4d7b33a4ed7
+- source: WHO
+  source_id: 0381aabe-6109-425c-a3f9-2b33cb482486
+  report_id: 18117bdba9d959bda429646a4ac6fc63
+- source: WHO
+  source_id: 5df1872c-3aab-4e1b-9d78-475f6ead4040
+  report_id: 655471b853645bee8d2dcaeacddbcfc4
+- source: WHO
+  source_id: 8fbb14a7-4f4d-4e4a-b113-68b944028ebf
+  report_id: 42a7bee7535353e78afdf65bbada9cde
+- source: ERCC
+  source_id: '5820'
+  report_id: 2a540c69f73755a0a2db8d07652b5c09
+- source: WHO
+  source_id: f71dec3a-9f8a-4eb1-810c-baeefc888535
+  report_id: 737a905abadf54298015bab9ca91d4e5
+- source: WHO
+  source_id: bfeabe5e-7ba7-40e4-aba0-ba714110cc21
+  report_id: 4a1b8df7f48f5e95a69790caad796852
+coverage_counts:
+  reports: 19
+  news: 1128
+  logs: 94
+  official_sources: 2
+created_at: '2025-09-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

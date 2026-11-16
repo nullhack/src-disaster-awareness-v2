@@ -1,0 +1,8 @@
+schema: 2
+incident_id: 0d2108cbdd2945f3bc603036dddc1252
+log_date: '2026-08-26'
+summary: A magnitude 5.5 earthquake struck 108 km northeast of Hengchun, Taiwan, at 3:00 p.m. local time on August 25, 2026, according to multiple sources. The Central Weather Administration issued a national alert initially overestimating the quake at magnitude 6.6 before correcting it to 5.8, attributing the error to limited seismic data. The earthquake occurred in waters off Taitung county, with no immediate reports of major damage.
+news_ids:
+- b46d68a3e8d652e8ba039b7bea149892
+- d625709503b35a0e9b52ac14031b0647
+- dca394b2791b5caea519a7c5ae5f439e

@@ -1,0 +1,40 @@
+schema: 2
+id: 196f0e42dfee56c9ad44fef81405135f
+status: dormant
+display_name: Earthquake M5.6 Kunar, Afghanistan 2025-09-04
+slug: earthquake-m5-6-kunar-afghanistan-2025-09-04
+incident_type: Earthquake
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2025-09-04'
+event_date: '2025-09-04'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A 6.0 magnitude earthquake struck eastern Afghanistan on September 4, 2025, destroying several villages and causing widespread devastation. Initial reports indicated hundreds killed, but the death toll quickly rose to over 1,400 and later to 2,205, with thousands injured. Rescuers raced to reach remote mountain villages, and the Taliban called for foreign help amid overwhelmed local health systems.
+summary_updated: '2026-07-08'
+search_keys:
+- Afghanistan Earthquake latest 2025
+- Afghanistan Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1fb066994a675a92ba0dd9f354d91c5f
+  source: GDACS
+  source_id: '1498907'
+external_keys:
+- source: GDACS
+  source_id: '1498907'
+  report_id: 1fb066994a675a92ba0dd9f354d91c5f
+- source: GDACS
+  source_id: '1499045'
+  report_id: 747c9f87f6e15610af966592fb0d2c26
+coverage_counts:
+  reports: 2
+  news: 7
+  logs: 1
+  official_sources: 1
+created_at: '2025-09-04T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

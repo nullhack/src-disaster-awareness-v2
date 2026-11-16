@@ -1,0 +1,35 @@
+schema: 2
+id: 5aaa3cdf1ee94b15bb710c131fa91771
+status: dormant
+display_name: Earthquake M6.7 Ocean 2026-10-13
+slug: earthquake-m6-7-ocean-2026-10-13
+incident_type: Earthquake
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-10-13'
+event_date: '2026-10-13'
+last_verified_update: '2026-10-13'
+latest_coverage_at: '2026-11-01'
+status_changed_at: '2026-10-13'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: fa7c47c4f4e351f18a45ae809016a88f
+  source: USGS
+  source_id: us6000u1z5
+external_keys:
+- source: USGS
+  source_id: us6000u1z5
+  report_id: fa7c47c4f4e351f18a45ae809016a88f
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-10-13T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 88f74ff72e4946da88d108434ec360e3
+log_date: '2026-11-09'
+summary: A magnitude 6.4 earthquake struck approximately 27 km southwest of Lata, Solomon Islands on November 9, 2026 at 0335 UTC, according to the US Geological Survey. The earthquake had a depth of 25 km (USGS), with no immediate reports of casualties or damage. Some local agencies noted no tsunami threat to surrounding regions.
+news_ids:
+- 10a9c135b69b548aa02a7df5a3794fa2
+- 994a9050bee05920bf7932cd74aad12f
+- 9d1ffbd635d0544c98ec133338a4d25c
+- a8d81ac4771351c798029bd3f367dde7
+- e54087b0cddb5e4f823d4fac3111cb86

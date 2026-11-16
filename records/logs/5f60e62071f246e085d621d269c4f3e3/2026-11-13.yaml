@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 5f60e62071f246e085d621d269c4f3e3
+log_date: '2026-11-13'
+summary: A powerful nor'easter brought severe weather to the Northeast on Thursday, spawning confirmed tornadoes in Delaware and the Philadelphia region and prompting tornado watches in New Jersey. Heavy rain and snow impacted travel, and severe weather forced spectators inside at MetLife Stadium for a Thursday Night Football game. Meanwhile, downpours are expected to drench parts of Texas over the weekend.
+news_ids:
+- 2c3100c815fc571b91cc8e8a56f4474e
+- 32d5cf171df65c08b48fb42c5e49c672
+- 4199ce8d59225c9daf8be60a68935c1d
+- 619cd36858d65cb3b0ff139a7f67f4c8
+- 7f729b4a289a5e31aae3caa5015dc625

@@ -1,0 +1,37 @@
+schema: 2
+id: c3a298b11ada4b3d923299b870b675ba
+status: active
+display_name: Flood India 2026-08-09
+slug: flood-india-2026-08-09
+incident_type: Flood
+country_code: IN
+country_name: India
+region: Asia
+first_seen: '2026-08-09'
+event_date: '2026-08-09'
+last_verified_update: '2026-11-08'
+latest_coverage_at: '2026-11-11'
+status_changed_at: '2026-11-08'
+summary: On November 8, the Ganjam collector appealed for a day's salary donation from government employees for Odisha flood victims, while Naveen Patnaik toured flood-ravaged Ganjam districts demanding immediate relief and crop compensation. Separately, a political dispute emerged over alleged misuse of ₹1,600 crore in flood relief funds allocated to Punjab, and a Lucknow MLA celebrated Deepotsav with flood-affected residents.
+summary_updated: '2026-11-08'
+search_keys:
+- India Flood latest 2026
+- India Flood 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 017314e6616757aabd62aed3b7306f33
+  source: GDACS
+  source_id: '1104121'
+external_keys:
+- source: GDACS
+  source_id: '1104121'
+  report_id: 017314e6616757aabd62aed3b7306f33
+coverage_counts:
+  reports: 1
+  news: 131
+  logs: 26
+  official_sources: 1
+created_at: '2026-08-09T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

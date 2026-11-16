@@ -1,0 +1,37 @@
+schema: 2
+id: 5573523e0b6e5e5ca2e4e6727aa5dec3
+status: dormant
+display_name: Earthquake M6.0 El Progreso, Mexico 2026-06-30
+slug: earthquake-m6-0-el-progreso-mexico-2026-06-30
+incident_type: Earthquake
+country_code: MX
+country_name: Mexico
+region: Americas
+first_seen: '2026-06-30'
+event_date: '2026-06-30'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude-6.0 earthquake struck off the coast of southern Mexico near El Progreso on June 30, 2026, rattling communities across the region. The quake was reported at 12:45 p.m. in the Gulf of California.
+summary_updated: '2026-07-08'
+search_keys:
+- Mexico Earthquake latest 2026
+- Mexico Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 8a91f3743b42557b8faed5b28ae78630
+  source: USGS
+  source_id: us6000t99j
+external_keys:
+- source: USGS
+  source_id: us6000t99j
+  report_id: 8a91f3743b42557b8faed5b28ae78630
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-30T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,36 @@
+schema: 2
+id: 2988d8638e0956a89029b6059b7c5f7f
+status: active
+display_name: COVID-19 Global 2025-05-28
+slug: covid-19-global-2025-05-28
+incident_type: COVID-19
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2025-05-28'
+event_date: '2025-05-28'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: Four leading medical societies have released unified vaccine recommendations for flu, RSV, and COVID-19, offering standardized guidance for healthcare professionals. Traws Pharma reported final Phase 2a results for its once-daily antiviral ratutrelvir, which showed fewer adverse events and no viral rebound compared to Paxlovid. A separate analysis found that COVID-19 vaccines delivered up to $809 in economic value per dollar spent in 2021, particularly benefiting high-income countries.
+summary_updated: '2026-11-15'
+search_keys:
+- COVID-19 update 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 39b5655379255c308450e08472787113
+  source: WHO
+  source_id: 5292d2f8-1c50-4a58-94d4-2aa270f87a05
+external_keys:
+- source: WHO
+  source_id: 5292d2f8-1c50-4a58-94d4-2aa270f87a05
+  report_id: 39b5655379255c308450e08472787113
+coverage_counts:
+  reports: 1
+  news: 317
+  logs: 60
+  official_sources: 1
+created_at: '2025-05-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

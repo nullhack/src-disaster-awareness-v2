@@ -1,0 +1,37 @@
+schema: 2
+id: ed4330ef8cdd5701b204146b759a6f7a
+status: dormant
+display_name: Earthquake M6.3 China 2026-06-16
+slug: earthquake-m6-3-china-2026-06-16
+incident_type: Earthquake
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2026-06-13'
+event_date: '2026-06-16'
+last_verified_update: '2026-06-13'
+latest_coverage_at: '2026-06-16'
+status_changed_at: '2026-06-13'
+summary: A magnitude 6.3 earthquake struck China on June 16, 2026, leaving at least one person dead and several others injured. This initial report details the earthquake's impact and casualties.
+summary_updated: '2026-06-13'
+search_keys:
+- China Earthquake latest 2026
+- China Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 2c83c6433e245451b6afe037a1e8b853
+  source: GDACS
+  source_id: '1546719'
+external_keys:
+- source: GDACS
+  source_id: '1546719'
+  report_id: 2c83c6433e245451b6afe037a1e8b853
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-06-13T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

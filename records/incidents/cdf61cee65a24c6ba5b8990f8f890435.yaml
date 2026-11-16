@@ -1,0 +1,37 @@
+schema: 2
+id: cdf61cee65a24c6ba5b8990f8f890435
+status: dormant
+display_name: Earthquake M6.1 Port-Olry, Vanuatu 2026-08-16
+slug: earthquake-m6-1-port-olry-vanuatu-2026-08-16
+incident_type: Earthquake
+country_code: VU
+country_name: Vanuatu
+region: Oceania
+first_seen: '2026-08-16'
+event_date: '2026-08-16'
+last_verified_update: '2026-08-17'
+latest_coverage_at: '2026-08-25'
+status_changed_at: '2026-08-17'
+summary: A magnitude 6.1 earthquake struck off the coast of Vanuatu on August 16, 2026, with a depth of approximately 155-188 km. The US Geological Survey and GFZ German Research Center for Geosciences confirmed the event, which occurred near the Sanma province.
+summary_updated: '2026-08-17'
+search_keys:
+- Vanuatu Earthquake latest 2026
+- Vanuatu Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 9cc781ce7a4556a3b095aefba5d99f0f
+  source: USGS
+  source_id: us6000tl4w
+external_keys:
+- source: USGS
+  source_id: us6000tl4w
+  report_id: 9cc781ce7a4556a3b095aefba5d99f0f
+coverage_counts:
+  reports: 1
+  news: 6
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-16T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

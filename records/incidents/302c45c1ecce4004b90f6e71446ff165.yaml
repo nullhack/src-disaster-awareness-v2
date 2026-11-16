@@ -1,0 +1,37 @@
+schema: 2
+id: 302c45c1ecce4004b90f6e71446ff165
+status: active
+display_name: Drought 2026-07-30
+slug: drought-2026-07-30
+incident_type: Drought
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-01-01'
+event_date: '2026-07-30'
+last_verified_update: '2026-11-14'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-14'
+summary: The Rajasthan government announced a ₹9,321 crore drought relief package for affected areas. In South Africa, preparations are underway for El Niño‑fueled drought expected in 2027. Meanwhile, the Skagit River coho salmon season will close early after drought left many spawning streams dry.
+summary_updated: '2026-11-14'
+search_keys:
+- Drought latest 2026
+- Drought 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c5b147e478285c89a23256083b1a7d45
+  source: ERCC
+  source_id: '5741'
+external_keys:
+- source: ERCC
+  source_id: '5741'
+  report_id: c5b147e478285c89a23256083b1a7d45
+coverage_counts:
+  reports: 1
+  news: 701
+  logs: 69
+  official_sources: 1
+created_at: '2026-01-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

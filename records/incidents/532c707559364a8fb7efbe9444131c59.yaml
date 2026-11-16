@@ -1,0 +1,37 @@
+schema: 2
+id: 532c707559364a8fb7efbe9444131c59
+status: dormant
+display_name: Volcano Guatemala 2026-08-06
+slug: volcano-guatemala-2026-08-06
+incident_type: Volcano
+country_code: GT
+country_name: Guatemala
+region: Americas
+first_seen: '2026-08-04'
+event_date: '2026-08-06'
+last_verified_update: '2026-09-16'
+latest_coverage_at: '2026-09-16'
+status_changed_at: '2026-09-16'
+summary: New reports confirm that Fuego volcano’s early-August eruption produced lava fountains up to a thousand feet high and prompted the evacuation of two villages as it shifted toward a more explosive phase. Authorities continued to note gradually decreasing activity, but persistent ash and mudflow risks kept around 1,700 people sheltered. No major new developments beyond these details were reported.
+summary_updated: '2026-09-16'
+search_keys:
+- Guatemala Volcano latest 2026
+- Guatemala Volcano 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 4dc6f2f6f51c5fb99280481f1d2365b4
+  source: ERCC
+  source_id: '5746'
+external_keys:
+- source: ERCC
+  source_id: '5746'
+  report_id: 4dc6f2f6f51c5fb99280481f1d2365b4
+coverage_counts:
+  reports: 1
+  news: 33
+  logs: 3
+  official_sources: 1
+created_at: '2026-08-04T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

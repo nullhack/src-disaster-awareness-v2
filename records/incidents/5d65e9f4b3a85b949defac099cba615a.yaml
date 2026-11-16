@@ -1,0 +1,37 @@
+schema: 2
+id: 5d65e9f4b3a85b949defac099cba615a
+status: dormant
+display_name: Earthquake M6.2 Mazār-e Sharīf, Afghanistan 2025-11-02
+slug: earthquake-m6-2-maz-r-e-shar-f-afghanistan-2025-11-02
+incident_type: Earthquake
+country_code: AF
+country_name: Afghanistan
+region: Asia
+first_seen: '2025-11-02'
+event_date: '2025-11-02'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 6.1 earthquake struck northeastern Afghanistan at a depth of 208.3 km, according to the US Geological Survey. The epicenter was recorded in the northeastern part of the country, consistent with the incident location near Mazār-e Sharīf.
+summary_updated: '2026-07-08'
+search_keys:
+- Afghanistan Earthquake latest 2025
+- Afghanistan Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1da5a271363c5a9884d188fad9543548
+  source: USGS
+  source_id: us6000rl31
+external_keys:
+- source: USGS
+  source_id: us6000rl31
+  report_id: 1da5a271363c5a9884d188fad9543548
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-11-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

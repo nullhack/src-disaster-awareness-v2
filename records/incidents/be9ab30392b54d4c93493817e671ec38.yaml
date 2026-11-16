@@ -1,0 +1,35 @@
+schema: 2
+id: be9ab30392b54d4c93493817e671ec38
+status: dormant
+display_name: DR Congo 2026-09-11
+slug: dr-congo-2026-09-11
+incident_type: Unknown
+country_code: CD
+country_name: DR Congo
+region: Africa
+first_seen: '2026-09-10'
+event_date: '2026-09-11'
+last_verified_update: '2026-09-12'
+latest_coverage_at: '2026-09-12'
+status_changed_at: '2026-09-12'
+summary: A stampede during a school fire in Bukavu killed at least 24 children. The WHO reported that the DRC Ebola outbreak is spreading rapidly beyond its epicenter and remains uncontrolled. Additionally, the 233 MW Kamoa solar project achieved full-capacity grid connection, marking an energy milestone.
+summary_updated: '2026-09-12'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 5f540dd7e7a25c27b3d0ddf78bbbeedb
+  source: ERCC
+  source_id: '5784'
+external_keys:
+- source: ERCC
+  source_id: '5784'
+  report_id: 5f540dd7e7a25c27b3d0ddf78bbbeedb
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-09-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

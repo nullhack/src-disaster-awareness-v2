@@ -1,0 +1,37 @@
+schema: 2
+id: 1c823b3172cc5b079a0456c13c40b162
+status: dormant
+display_name: Anthrax Mukdahan, Thailand 2025-05-29
+slug: anthrax-mukdahan-thailand-2025-05-29
+incident_type: Anthrax
+country_code: LA
+country_name: Laos
+region: Asia
+first_seen: '2025-05-29'
+event_date: '2025-05-29'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: Thailand has reported its first human anthrax-related death in 30 years. In May, the country informed the World Health Organization of four cases of cutaneous anthrax, one of which was fatal.
+summary_updated: '2026-07-08'
+search_keys:
+- Anthrax Thailand update 2025
+- Anthrax Thailand 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: b534ba94fc565d9097759f2bae88cae3
+  source: WHO
+  source_id: 5085bedf-99a3-4ac7-94b2-27af1d2995e7
+external_keys:
+- source: WHO
+  source_id: 5085bedf-99a3-4ac7-94b2-27af1d2995e7
+  report_id: b534ba94fc565d9097759f2bae88cae3
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-05-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

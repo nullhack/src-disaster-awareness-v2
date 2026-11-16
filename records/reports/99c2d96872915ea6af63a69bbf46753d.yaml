@@ -1,0 +1,18 @@
+id: 99c2d96872915ea6af63a69bbf46753d
+source: ERCC
+source_id: '5795'
+incident_type: Forest Fire
+name: Forest Fire 2026-09-25
+report_date: '2026-09-25'
+news_searched_at: '2026-10-08T18:56:58+00:00'
+places: []
+raw_fields:
+  title: ECHO Daily Map of 25 September 2026
+  description: 'UCPM and CEMS activations for wildfires: 2026 season overview'
+  pubDate: Fri, 25 Sep 2026 16:02:23 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5795
+  guid: ERCC_Map_5795
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5795&fileN=ImageFile&forceDownload=False
+  eventTypes: UCPM, Wild fire
+schema: 2
+content_hash: f5dc6c6dd8aa846750c32e30f5ffbb0875b80ba98e24d9548b02373aa65b6e15

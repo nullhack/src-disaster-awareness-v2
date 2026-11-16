@@ -1,0 +1,9 @@
+schema: 2
+incident_id: 5f60e62071f246e085d621d269c4f3e3
+log_date: '2026-11-14'
+summary: The National Weather Service is surveying storm damage in New Castle County, Delaware, and Burlington County, New Jersey. A tornado in Chesterfield has been rated EF-1 with 100 mph winds. Additionally, hail piled up like snow near Philadelphia, leaving drivers stranded and requiring cleanup crews.
+news_ids:
+- 1f43ad35561f53b4a837238c9d530ced
+- 76f1eba94f955c1cac48958af9a77605
+- c83b1f7dc5d95c5eae58e3c7704413e7
+- db76e120e62d54bd97b4c6b451a0220f

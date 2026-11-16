@@ -1,0 +1,37 @@
+schema: 2
+id: 996865b7648f5bfa843cd97bd91a59b7
+status: dormant
+display_name: Forest Fire Aveiro, Portugal 2026-07-02
+slug: forest-fire-aveiro-portugal-2026-07-02
+incident_type: Forest Fire
+country_code: PT
+country_name: Portugal
+region: Europe
+first_seen: '2026-07-02'
+event_date: '2026-07-02'
+last_verified_update: '2026-07-14'
+latest_coverage_at: '2026-07-14'
+status_changed_at: '2026-07-14'
+summary: Wildfires continue to rage in Portugal, Spain, and Greece following a June heatwave that caused thousands of excess deaths. Hundreds of firefighters are battling the blazes, and Portugal is exploring a shift from fire suppression to prevention by improving forest management, described as a "fire paradox."
+summary_updated: '2026-07-14'
+search_keys:
+- Portugal Forest Fire latest 2026
+- Portugal Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: f3e5d132af055df2b6b49377af849967
+  source: GDACS
+  source_id: '1029260'
+external_keys:
+- source: GDACS
+  source_id: '1029260'
+  report_id: f3e5d132af055df2b6b49377af849967
+coverage_counts:
+  reports: 1
+  news: 5
+  logs: 2
+  official_sources: 1
+created_at: '2026-07-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,33 @@
+schema: 2
+id: 6f90259ece8c43609d208ffa939aaaf8
+status: active
+display_name: Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies
+slug: houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-as-fighting
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-10-18'
+event_date: '2026-10-18'
+last_verified_update: '2026-10-26'
+latest_coverage_at: '2026-10-26'
+status_changed_at: '2026-10-26'
+summary: |-
+  Houthi rebels struck a government military camp in southern Yemen, killing at least 53 soldiers. Pope Francis appealed for peace in Yemen, and China and Djibouti issued a joint statement urging the reopening of the Bab al‑Mandeb strait. The Saudi coalition also reported intercepting a ballistic missile after Houthis hit Riyadh airport.
+  Egypt’s parliament authorized military support for Saudi Arabia against Houthi attacks. Saudi, Turkish, and Pakistani officials met Iranian counterparts in Tehran to push for de‑escalation, while the Saudi‑led coalition struck Houthi missile launchers and storage facilities. Pope Leo XIV appealed for an end to hostilities and humanitarian access for Taiz.
+summary_updated: '2026-10-26'
+search_keys:
+- Yemen Conflict latest 2026
+- Yemen Conflict 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 63
+  logs: 4
+  official_sources: 0
+created_at: '2026-10-18T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

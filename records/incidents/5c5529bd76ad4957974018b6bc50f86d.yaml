@@ -1,0 +1,37 @@
+schema: 2
+id: 5c5529bd76ad4957974018b6bc50f86d
+status: active
+display_name: Tsunami 2026-11-05
+slug: tsunami-2026-11-05
+incident_type: Tsunami
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-11-05'
+event_date: '2026-11-05'
+last_verified_update: '2026-11-05'
+latest_coverage_at: '2026-11-11'
+status_changed_at: '2026-11-05'
+summary: ''
+summary_updated: ''
+search_keys:
+- Tsunami latest 2026
+- Tsunami 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c2fb00cee9d85ab595d0c5282c6dfc94
+  source: ERCC
+  source_id: '5834'
+external_keys:
+- source: ERCC
+  source_id: '5834'
+  report_id: c2fb00cee9d85ab595d0c5282c6dfc94
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 0
+  official_sources: 1
+created_at: '2026-11-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

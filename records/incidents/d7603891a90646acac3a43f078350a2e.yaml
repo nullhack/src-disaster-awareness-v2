@@ -1,0 +1,31 @@
+schema: 2
+id: d7603891a90646acac3a43f078350a2e
+status: dormant
+display_name: Severe storms south this evening with much cooler weather ahead
+slug: severe-storms-south-this-evening-with-much-cooler-weather-ahead
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-10-13'
+event_date: '2026-10-13'
+last_verified_update: '2026-10-14'
+latest_coverage_at: '2026-10-14'
+status_changed_at: '2026-10-14'
+summary: Severe thunderstorms and flash flooding threats affected the central U.S., particularly the Kansas City metro where thousands lost power, and Oklahoma where flood risks were elevated. A cold front moved through the region, bringing widespread storms and prompting National Weather Service warnings into Thursday. Scattered severe weather continued as the front progressed.
+summary_updated: '2026-10-14'
+search_keys:
+- Severe Weather latest 2026
+- Severe Weather 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 9
+  logs: 1
+  official_sources: 0
+created_at: '2026-10-13T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

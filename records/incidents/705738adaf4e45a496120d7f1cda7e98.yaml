@@ -1,0 +1,58 @@
+schema: 2
+id: 705738adaf4e45a496120d7f1cda7e98
+status: active
+display_name: Earthquake M7.0 Bonin Islands, Japan 2026-10-24
+slug: earthquake-m7-0-bonin-islands-japan-2026-10-24
+incident_type: Earthquake
+country_code: JP
+country_name: Japan
+region: Asia
+first_seen: '2026-05-07'
+event_date: '2026-10-24'
+last_verified_update: '2026-10-30'
+latest_coverage_at: '2026-11-08'
+status_changed_at: '2026-10-30'
+summary: An October 28 report specifies that the Bonin Islands earthquake occurred at a depth of 492 km with a magnitude of 6.5. No other selected news articles provide further updates on this incident.
+summary_updated: '2026-10-30'
+search_keys:
+- Japan Earthquake latest 2026
+- Japan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1c1f6920043c5de58c0ca12daa8443b3
+  source: USGS
+  source_id: pt26297050
+external_keys:
+- source: USGS
+  source_id: pt26297050
+  report_id: 1c1f6920043c5de58c0ca12daa8443b3
+- source: USGS
+  source_id: pt26298050
+  report_id: 400ed7f331b8517faa9ae4dac48b4d5c
+- source: USGS
+  source_id: us6000u4r9
+  report_id: 055dc8be37465071ada9a895cc286ffe
+- source: USGS
+  source_id: us7000ttpe
+  report_id: b8fe30744bb75f78951455dd1c1ab6a3
+- source: USGS
+  source_id: us7000tuku
+  report_id: 074428c9d6ae586488653d00d9ea5262
+- source: USGS
+  source_id: us7000twg9
+  report_id: 4e3037613b9b531f82ea91a94ac9dd7e
+- source: USGS
+  source_id: us7000twrq
+  report_id: ca76a6badb745e45945fe3deaa93a996
+- source: USGS
+  source_id: us7000twt0
+  report_id: d624fc698af551289f472331a80793e3
+coverage_counts:
+  reports: 8
+  news: 59
+  logs: 3
+  official_sources: 1
+created_at: '2026-05-07T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

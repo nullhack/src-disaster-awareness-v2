@@ -1,0 +1,15 @@
+id: 02b1e4395bcd5e2fa92a2b8e919eea55
+source: GDACS
+source_id: '1549066'
+incident_type: Earthquake
+name: Earthquake Green
+report_date: '2026-06-28'
+news_searched_at: ''
+places: []
+raw_fields:
+  alertlevel: Green
+  severity: Magnitude 4.7M, Depth:10km
+  population: 535006
+  episodeid: '1715085'
+schema: 2
+content_hash: daf5bf8a755db8106d5c6eda9ba9c4e37e6d306ab11688ed28016745b67bc014

@@ -1,0 +1,40 @@
+schema: 2
+id: 0852fd6a8dab4a1b8edd39504caafd7a
+status: dormant
+display_name: Tropical Cyclone ONE-26 India 2026-09-22
+slug: tropical-cyclone-one-26-india-2026-09-22
+incident_type: Tropical Cyclone
+country_code: IN
+country_name: India
+region: Asia
+first_seen: '2026-09-21'
+event_date: '2026-09-22'
+last_verified_update: '2026-09-29'
+latest_coverage_at: '2026-09-29'
+status_changed_at: '2026-09-29'
+summary: Selected reports track the Bay of Bengal deep depression as it approached and crossed the Andhra-Odisha coast near Kalingapatnam, with IMD warning of extremely heavy rain and winds up to 75 km/hr. Red alerts were issued for districts in Andhra Pradesh and Odisha, and schools were closed in parts of Odisha. IMD clarified that the system was a deep depression and was not expected to intensify into Cyclone Arnab, though intense rain and associated impacts were expected to persist.
+summary_updated: '2026-09-29'
+search_keys:
+- India Tropical Cyclone latest 2026
+- India Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: db4ea14d7ad3534abf6e6393b27f19e0
+  source: GDACS
+  source_id: '1001326'
+external_keys:
+- source: GDACS
+  source_id: '1001326'
+  report_id: db4ea14d7ad3534abf6e6393b27f19e0
+- source: ERCC
+  source_id: '5794'
+  report_id: 7231c1ca25265d06a4b64fce3d709b23
+coverage_counts:
+  reports: 2
+  news: 30
+  logs: 3
+  official_sources: 2
+created_at: '2026-09-21T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

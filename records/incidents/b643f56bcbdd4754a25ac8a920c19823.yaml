@@ -1,0 +1,43 @@
+schema: 2
+id: b643f56bcbdd4754a25ac8a920c19823
+status: dormant
+display_name: Earthquake M5.6 Hicks Bay, New Zealand 2026-08-02
+slug: earthquake-m5-6-hicks-bay-new-zealand-2026-08-02
+incident_type: Earthquake
+country_code: NZ
+country_name: New Zealand
+region: Oceania
+first_seen: '2026-08-02'
+event_date: '2026-08-02'
+last_verified_update: '2026-08-05'
+latest_coverage_at: '2026-08-19'
+status_changed_at: '2026-08-05'
+summary: On August 2, 2026, a magnitude 5.9 earthquake struck off the east coast of New Zealand's North Island, according to the German Research Centre for Geosciences (GFZ). The earthquake was located near the Hicks Bay area, consistent with the reported incident. No additional details about damage or tsunami warnings were provided in the news excerpts.
+summary_updated: '2026-08-05'
+search_keys:
+- New Zealand Earthquake latest 2026
+- New Zealand Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 0487ec4a9d285d44876e0ddd10ecab78
+  source: USGS
+  source_id: us6000thl3
+external_keys:
+- source: USGS
+  source_id: us6000thl3
+  report_id: 0487ec4a9d285d44876e0ddd10ecab78
+- source: USGS
+  source_id: us6000ti49
+  report_id: 221b5635e330514a9290327c3311eb0f
+- source: USGS
+  source_id: us6000ti8i
+  report_id: 894067d6dac25ef4a97ab8d9677a90db
+coverage_counts:
+  reports: 3
+  news: 8
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-02T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

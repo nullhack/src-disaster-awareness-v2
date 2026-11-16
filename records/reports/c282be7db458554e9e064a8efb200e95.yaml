@@ -1,0 +1,25 @@
+id: c282be7db458554e9e064a8efb200e95
+source: ERCC
+source_id: '5766'
+incident_type: ''
+name: China 2026-08-27
+report_date: '2026-08-27'
+news_searched_at: '2026-09-10T04:59:11+00:00'
+places:
+- country_code: CN
+  subdivision: ''
+  locality: ''
+- country_code: NP
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: ECHO Daily Map of 27 August 2026
+  description: Nepal, China | Ice-rock avalanche and flash flood event
+  pubDate: Thu, 27 Aug 2026 18:43:04 GMT
+  link: https://erccportal.jrc.ec.europa.eu/ECHOProducts//Maps#/maps/5766
+  guid: ERCC_Map_5766
+  image_url: https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?contentItemID=5766&fileN=ImageFile&forceDownload=False
+  countries: CHN, NPL
+  eventTypes: Snow Avalanche
+schema: 2
+content_hash: eea15b23c233c86f5beef5417b35224634e073ede0864ee46f4c498793dde5c9

@@ -1,0 +1,37 @@
+schema: 2
+id: a10ad32f44ac4c86bbd068003b224920
+status: active
+display_name: Tropical Cyclone ONE-26 French Polynesia 2026-10-16
+slug: tropical-cyclone-one-26-french-polynesia-2026-10-16
+incident_type: Tropical Cyclone
+country_code: PF
+country_name: French Polynesia
+region: Oceania
+first_seen: '2026-10-16'
+event_date: '2026-10-16'
+last_verified_update: '2026-10-20'
+latest_coverage_at: '2026-10-20'
+status_changed_at: '2026-10-20'
+summary: Cyclone Wati, a category 2 storm, is tracking over the Cook Islands, bringing damaging winds, power cuts, and coastal surges; Aitutaki is reported relatively unscathed despite heavy lagoon surges. Meanwhile, a tropical depression (TD01F) near the Cook Islands is forecast to intensify to cyclone strength, prompting official alerts and preparedness warnings.
+summary_updated: '2026-10-20'
+search_keys:
+- Cook Islands Tropical Cyclone latest 2026
+- Cook Islands Tropical Cyclone 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: f92492e2c5ef56ecb95bf61bbee11eb7
+  source: GDACS
+  source_id: '1001339'
+external_keys:
+- source: GDACS
+  source_id: '1001339'
+  report_id: f92492e2c5ef56ecb95bf61bbee11eb7
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-10-16T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

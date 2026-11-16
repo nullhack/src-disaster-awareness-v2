@@ -1,0 +1,37 @@
+schema: 2
+id: 5ea0df2320b350ab8c9470cf5484696c
+status: dormant
+display_name: Measles Chattogram, Bangladesh 2026-04-23
+slug: measles-chattogram-bangladesh-2026-04-23
+incident_type: Measles
+country_code: BD
+country_name: Bangladesh
+region: Asia
+first_seen: '2026-04-23'
+event_date: '2026-04-23'
+last_verified_update: '2026-07-27'
+latest_coverage_at: '2026-07-27'
+status_changed_at: '2026-07-27'
+summary: In the past 24 hours, four to five more children have died from measles in Bangladesh, raising the death toll since March 15 to 820. Nearly 1,000 new suspected cases were reported, pushing total suspected cases to over 123,700 and confirmed cases to 15,555. Hospitals continue to be overwhelmed as the outbreak persists, with many unvaccinated patients seeking care.
+summary_updated: '2026-07-27'
+search_keys:
+- Measles Bangladesh update 2026
+- Measles Bangladesh 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1a02fa50cb545cd8b8b969477fd30551
+  source: WHO
+  source_id: a0884e79-da88-4907-ae66-c73b4b4a7636
+external_keys:
+- source: WHO
+  source_id: a0884e79-da88-4907-ae66-c73b4b4a7636
+  report_id: 1a02fa50cb545cd8b8b969477fd30551
+coverage_counts:
+  reports: 1
+  news: 44
+  logs: 9
+  official_sources: 1
+created_at: '2026-04-23T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

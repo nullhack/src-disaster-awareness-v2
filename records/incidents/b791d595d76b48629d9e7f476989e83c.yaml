@@ -1,0 +1,31 @@
+schema: 2
+id: b791d595d76b48629d9e7f476989e83c
+status: dormant
+display_name: ‘Water bombers’ take to skies as Greece battles wildfires
+slug: water-bombers-take-to-skies-as-greece-battles-wildfires
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-07-29'
+event_date: '2026-07-29'
+last_verified_update: '2026-08-05'
+latest_coverage_at: '2026-08-05'
+status_changed_at: '2026-08-05'
+summary: Three firefighters died battling the wildfire on Crete, with two of them perishing on the island. The fire continued to burn out of control near Rethymno, where over 220 firefighters were engaged, hampered by strong winds that prevented aerial water drops. Funerals for the fallen firefighters are being held.
+summary_updated: '2026-08-05'
+search_keys:
+- Greece Forest Fire latest 2026
+- Greece Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis: null
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 14
+  logs: 2
+  official_sources: 0
+created_at: '2026-07-29T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

@@ -1,0 +1,35 @@
+schema: 2
+id: 9333e1aa5b3945d7b7117a704cc1cac1
+status: dormant
+display_name: '2026-08-31'
+slug: '2026-08-31'
+incident_type: Unknown
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-08-31'
+event_date: '2026-08-31'
+last_verified_update: '2026-09-08'
+latest_coverage_at: '2026-09-08'
+status_changed_at: '2026-09-08'
+summary: Three deaths have been reported during the Burning Man 2026 event in Nevada's Black Rock Desert, according to local authorities. The incident is under investigation, and no further details have been released.
+summary_updated: '2026-09-08'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1d04861ad6e25c0aa4f913ae2ecd315c
+  source: ERCC
+  source_id: '5768'
+external_keys:
+- source: ERCC
+  source_id: '5768'
+  report_id: 1d04861ad6e25c0aa4f913ae2ecd315c
+coverage_counts:
+  reports: 1
+  news: 17
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-31T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

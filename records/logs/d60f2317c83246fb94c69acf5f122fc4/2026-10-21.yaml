@@ -1,0 +1,10 @@
+schema: 2
+incident_id: d60f2317c83246fb94c69acf5f122fc4
+log_date: '2026-10-21'
+summary: A shallow magnitude 6.3 earthquake struck approximately 200 km northwest of Port-Olry, Vanuatu, at 04:20 UTC on October 20, 2026, at a depth of 16 km according to USGS. No tsunami warning was issued, and no casualties or damage have been reported.
+news_ids:
+- 1c05dca322d5563dbef1c565478f3550
+- 384575617655539f8b5a7e11886e6e9e
+- 61199eb0f91d5597b80b18745a2fde72
+- a13fb89cf039599fa74a3897ac393f7e
+- ebe0dfc426e05a898fe10c4e07cc513b

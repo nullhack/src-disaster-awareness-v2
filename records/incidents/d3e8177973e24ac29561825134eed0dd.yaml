@@ -1,0 +1,43 @@
+schema: 2
+id: d3e8177973e24ac29561825134eed0dd
+status: dormant
+display_name: Earthquake M5.6 Isangel, Vanuatu 2026-09-05
+slug: earthquake-m5-6-isangel-vanuatu-2026-09-05
+incident_type: Earthquake
+country_code: VU
+country_name: Vanuatu
+region: Oceania
+first_seen: '2026-09-05'
+event_date: '2026-09-05'
+last_verified_update: '2026-09-14'
+latest_coverage_at: '2026-10-01'
+status_changed_at: '2026-09-14'
+summary: A new magnitude 5.0 earthquake was recorded in the Vanuatu Islands on September 10, according to the GFZ German Research Centre, adding to the ongoing seismic sequence near Isangel following the initial September 5 event and the September 8 aftershock. Other reports mention a magnitude 5.2 quake off the Vanuatu coast and general increased activity in the Pacific Ring of Fire, but the September 10 quake is the most specific new update.
+summary_updated: '2026-09-14'
+search_keys:
+- Vanuatu Earthquake latest 2026
+- Vanuatu Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: e6076bb000d6504190a0d828572fd2b0
+  source: USGS
+  source_id: us7000tek0
+external_keys:
+- source: USGS
+  source_id: us7000tek0
+  report_id: e6076bb000d6504190a0d828572fd2b0
+- source: USGS
+  source_id: us6000txqi
+  report_id: 657b750f3d4c51c8adafdae20e69e50f
+- source: USGS
+  source_id: us6000txpi
+  report_id: 7c9911202ab55c7ab78135550ec6605e
+coverage_counts:
+  reports: 3
+  news: 11
+  logs: 2
+  official_sources: 1
+created_at: '2026-09-05T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

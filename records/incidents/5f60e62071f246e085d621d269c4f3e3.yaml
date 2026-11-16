@@ -1,0 +1,37 @@
+schema: 2
+id: 5f60e62071f246e085d621d269c4f3e3
+status: active
+display_name: Severe Weather 2026-11-13
+slug: severe-weather-2026-11-13
+incident_type: Severe Weather
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-11-11'
+event_date: '2026-11-13'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: In Texas, severe thunderstorms led to possible flight ground stops at Houston airports and forced the Austin Championship golf tournament to start early on Sunday to avoid storms. Additionally, school districts in the Rio Grande Valley began implementing backup graduation plans in response to the severe weather.
+summary_updated: '2026-11-15'
+search_keys:
+- Severe Weather latest 2026
+- Severe Weather 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: fa33a1f8256e5b30ae67485a8174526e
+  source: ERCC
+  source_id: '5842'
+external_keys:
+- source: ERCC
+  source_id: '5842'
+  report_id: fa33a1f8256e5b30ae67485a8174526e
+coverage_counts:
+  reports: 1
+  news: 30
+  logs: 3
+  official_sources: 1
+created_at: '2026-11-11T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

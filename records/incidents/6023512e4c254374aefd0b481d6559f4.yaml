@@ -1,0 +1,43 @@
+schema: 2
+id: 6023512e4c254374aefd0b481d6559f4
+status: active
+display_name: Earthquake M7.0 Nagqu, China 2026-10-22
+slug: earthquake-m7-0-nagqu-china-2026-10-22
+incident_type: Earthquake
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2026-10-01'
+event_date: '2026-10-22'
+last_verified_update: '2026-11-05'
+latest_coverage_at: '2026-11-05'
+status_changed_at: '2026-11-05'
+summary: Over a thousand students from two primary schools in Baqen County, Nagqu, have resumed classes at a school in Lhasa after the 7.0-magnitude earthquake severely damaged their schools on October 22. The relocation aims to minimize disruption to education, with teachers and students transferred to the temporary school facility.
+summary_updated: '2026-11-05'
+search_keys:
+- China Earthquake latest 2026
+- China Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 71287bd0d49a53c8905354a32516d99d
+  source: USGS
+  source_id: us6000u43g
+external_keys:
+- source: USGS
+  source_id: us6000u43g
+  report_id: 71287bd0d49a53c8905354a32516d99d
+- source: GDACS
+  source_id: '1573141'
+  report_id: fe8466873eb6552281754c5259e97acb
+- source: USGS
+  source_id: us6000u4ty
+  report_id: 209e65da7f795533a9cb7bcbe35116cc
+coverage_counts:
+  reports: 3
+  news: 188
+  logs: 10
+  official_sources: 2
+created_at: '2026-10-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

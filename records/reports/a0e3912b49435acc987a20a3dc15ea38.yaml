@@ -1,0 +1,15 @@
+id: a0e3912b49435acc987a20a3dc15ea38
+source: GDACS
+source_id: '1027450'
+incident_type: Drought
+name: Drought Green
+report_date: '2026-04-21'
+news_searched_at: '2026-07-16T14:34:17+00:00'
+places: []
+raw_fields:
+  alertlevel: Green
+  severity: Minor impact for agricultural drought in 488851 km2
+  population: 0
+  episodeid: '1'
+schema: 2
+content_hash: 438465ee18142244eb18a6bc2fcccc716e8d65664d5054232e8b08a353d9537c

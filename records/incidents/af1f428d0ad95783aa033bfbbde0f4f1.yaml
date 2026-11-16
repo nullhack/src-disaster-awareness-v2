@@ -1,0 +1,37 @@
+schema: 2
+id: af1f428d0ad95783aa033bfbbde0f4f1
+status: dormant
+display_name: Earthquake M5.8 Tobelo, Indonesia 2025-07-25
+slug: earthquake-m5-8-tobelo-indonesia-2025-07-25
+incident_type: Earthquake
+country_code: ID
+country_name: Indonesia
+region: Asia
+first_seen: '2025-07-25'
+event_date: '2025-07-25'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A 6.2 magnitude earthquake struck eastern Indonesia, occurring approximately 58 kilometers west of Tobelo in North Maluku province at a depth of 120 kilometers. Officials have noted the tremor but no further details on impacts are provided in the excerpt.
+summary_updated: '2026-07-08'
+search_keys:
+- Indonesia Earthquake latest 2025
+- Indonesia Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 191e433678ac5557af1d10ffc75c92ee
+  source: USGS
+  source_id: us6000qv7n
+external_keys:
+- source: USGS
+  source_id: us6000qv7n
+  report_id: 191e433678ac5557af1d10ffc75c92ee
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-07-25T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

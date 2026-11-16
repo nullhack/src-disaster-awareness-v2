@@ -1,0 +1,12 @@
+schema: 2
+incident_id: 5c179437a46a56aca2f8b70aeceda07a
+log_date: '2026-08-31'
+summary: As of late August 2026, confirmed Ebola cases in the Democratic Republic of Congo have surpassed 6,000, with the death toll nearing 3,000 (2,911 deaths reported). The outbreak, described as the fastest-spreading in history, continues to escalate despite the start of vaccination efforts with Ervebo doses. Additionally, a patient in another country has been hospitalized for possible Ebola after a recent trip to the DRC, raising concerns about cross-border spread.
+news_ids:
+- 478cd7e0030a562d8b004a52b282dd76
+- 587ac14a477d51a088bab2885463577f
+- 7500e4ec750b5bfcbaaebbe2770332fd
+- 95d426fa81a950debbd59a7ba11c4acb
+- a5f0c7213ea35bc9aa9eb6373649eb14
+- e586941c915859ef8f0883600097736b
+- e72c74b32507597cac45469dcdcdcb04

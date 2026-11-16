@@ -1,0 +1,37 @@
+schema: 2
+id: 78198e1035215bbfa066dd05481a1643
+status: dormant
+display_name: Earthquake M5.5 Dianga, China 2026-01-26
+slug: earthquake-m5-5-dianga-china-2026-01-26
+incident_type: Earthquake
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2026-01-26'
+event_date: '2026-01-26'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 5.5 earthquake struck near Dianga, Sichuan, China on January 26, 2026, followed by multiple aftershocks. The China Earthquake Administration has initiated a level-III emergency response to the event.
+summary_updated: '2026-07-08'
+search_keys:
+- China Earthquake latest 2026
+- China Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 3a6224a5a3dd5731bbf253c7fe22e0b3
+  source: USGS
+  source_id: us7000rs2q
+external_keys:
+- source: USGS
+  source_id: us7000rs2q
+  report_id: 3a6224a5a3dd5731bbf253c7fe22e0b3
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2026-01-26T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

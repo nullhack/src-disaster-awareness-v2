@@ -1,0 +1,11 @@
+schema: 2
+incident_id: d60f2317c83246fb94c69acf5f122fc4
+log_date: '2026-10-22'
+summary: New articles report that the USGS set the tsunami flag to 1 for the October 20 magnitude 6.3 earthquake off Vanuatu, though no tsunami warning was issued. No further details on impacts were provided.
+news_ids:
+- 07df1d1bf4e4547abe548e90a2566d2b
+- 613b3706d95b5cb4a4870457efff0ebe
+- 8cadcfff1fef5676bdc1bc596fe96872
+- 955c0215e0135063808000176a23608d
+- 9f7bcfd7177f5407a9a41e53e235b8c7
+- e2125bd2c87557769bb73cde686bdf25

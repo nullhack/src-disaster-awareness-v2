@@ -1,0 +1,35 @@
+schema: 2
+id: 014a9a4579ed4241912d15c7cb3587ed
+status: active
+display_name: Nepal 2026-10-13
+slug: nepal-2026-10-13
+incident_type: Unknown
+country_code: NP
+country_name: Nepal
+region: Asia
+first_seen: '2026-10-12'
+event_date: '2026-10-13'
+last_verified_update: '2026-10-27'
+latest_coverage_at: '2026-10-27'
+status_changed_at: '2026-10-27'
+summary: Nepal accepted Malaysia's third offer to assist search and rescue operations for mud flood victims, deploying SMART drones and detection gear. Flood survivors, including Ram Kumar Bhandari and his family, have returned to their damaged homes.
+summary_updated: '2026-10-27'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 556e5a0b37745de78796ae161769c1fe
+  source: ERCC
+  source_id: '5815'
+external_keys:
+- source: ERCC
+  source_id: '5815'
+  report_id: 556e5a0b37745de78796ae161769c1fe
+coverage_counts:
+  reports: 1
+  news: 37
+  logs: 7
+  official_sources: 1
+created_at: '2026-10-12T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

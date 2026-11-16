@@ -1,0 +1,42 @@
+schema: 2
+id: 3461c9a3cac24e1c8d37ad2857791e60
+status: active
+display_name: Conflict 2026-10-22
+slug: conflict-2026-10-22
+incident_type: Conflict
+country_code: YE
+country_name: Yemen
+region: Asia
+first_seen: '2026-03-01'
+event_date: '2026-10-22'
+last_verified_update: '2026-11-15'
+latest_coverage_at: '2026-11-15'
+status_changed_at: '2026-11-15'
+summary: |-
+  Iran hit back at President Trump's assertion that Tehran has been waging war since 1979, insisting the US cannot evade responsibility for aggression. Fresh missile threats against Saudi Arabia led major airlines to extend flight cancellations through 2027, worsening travel disruptions. Concurrently, Southeast Asian leaders opened their annual summit in Manila, prioritizing the ongoing conflicts' toll on energy costs and regional security.
+  Iranian strikes on US bases in Bahrain and Houthi advances forcing a Yemeni government retreat from Bab al-Mandeb have escalated Gulf tensions. In Gaza, Israel killed a top Hamas commander, while hundreds of oil spills from boat strikes pose a generational threat to Persian Gulf wildlife. Protests at the ASEAN summit clashed with police, reflecting regional opposition to the conflict and President Trump's visit.
+summary_updated: '2026-11-15'
+search_keys:
+- Conflict latest 2026
+- Conflict 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 90d58e287f5e58038d700244dc3e4c39
+  source: ERCC
+  source_id: '5822'
+external_keys:
+- source: ERCC
+  source_id: '5822'
+  report_id: 90d58e287f5e58038d700244dc3e4c39
+- source: ERCC
+  source_id: '5839'
+  report_id: 57c57f9fc70a503e99d1ade5ccf23244
+coverage_counts:
+  reports: 2
+  news: 401
+  logs: 25
+  official_sources: 1
+created_at: '2026-03-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

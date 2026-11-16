@@ -1,0 +1,37 @@
+schema: 2
+id: 77b954d74cf153f1a85dbdcfa5b65930
+status: dormant
+display_name: Earthquake M5.8 Sarangani, Philippines 2026-07-06
+slug: earthquake-m5-8-sarangani-philippines-2026-07-06
+incident_type: Earthquake
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2026-07-06'
+event_date: '2026-07-06'
+last_verified_update: '2026-07-10'
+latest_coverage_at: '2026-07-10'
+status_changed_at: '2026-07-10'
+summary: A magnitude 5.8 earthquake struck east of Balut Island in the municipality of Sarangani, Davao Occidental on July 6, 2026. The Philippine Institute of Volcanology and Seismology reported the quake as an aftershock.
+summary_updated: '2026-07-10'
+search_keys:
+- Philippines Earthquake latest 2026
+- Philippines Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 3a2cc70ac29e5a9083ebb8af5f097177
+  source: USGS
+  source_id: us6000tadc
+external_keys:
+- source: USGS
+  source_id: us6000tadc
+  report_id: 3a2cc70ac29e5a9083ebb8af5f097177
+coverage_counts:
+  reports: 1
+  news: 5
+  logs: 1
+  official_sources: 1
+created_at: '2026-07-06T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

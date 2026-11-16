@@ -1,0 +1,37 @@
+schema: 2
+id: cc1d40007f614aa8b99ed8e8121ee077
+status: dormant
+display_name: Earthquake M5.0 China 2026-08-28
+slug: earthquake-m5-0-china-2026-08-28
+incident_type: Earthquake
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2026-08-28'
+event_date: '2026-08-28'
+last_verified_update: '2026-09-04'
+latest_coverage_at: '2026-09-04'
+status_changed_at: '2026-09-04'
+summary: A 5.1-magnitude earthquake struck China's Sichuan province on August 28, 2026, adding to regional concerns amid the Nepal flood crisis. Separately, a magnitude 5.0 earthquake hit Tibet, with China activating a Level-IV flood response in the region. Both events occurred within days of monster flash floods that devastated towns in Tibet and bordering areas.
+summary_updated: '2026-09-04'
+search_keys:
+- China Earthquake latest 2026
+- China Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: fa1fbcddc1c45d01883396cda7055246
+  source: GDACS
+  source_id: '1562260'
+external_keys:
+- source: GDACS
+  source_id: '1562260'
+  report_id: fa1fbcddc1c45d01883396cda7055246
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 1
+  official_sources: 1
+created_at: '2026-08-28T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

@@ -1,0 +1,37 @@
+schema: 2
+id: 956f8bc4ca7c5a059e94ff67df02f754
+status: dormant
+display_name: Marburg Sidama, Ethiopia 2026-01-26
+slug: marburg-sidama-ethiopia-2026-01-26
+incident_type: Marburg
+country_code: AO
+country_name: Angola
+region: Africa
+first_seen: '2026-01-26'
+event_date: '2026-01-26'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A one-year-old child has died in a Marburg virus outbreak in Uganda, marking a fatal case. Concurrently, the US embassy in Uganda issued an alert over a suspected Marburg outbreak in the country’s western region.
+summary_updated: '2026-07-08'
+search_keys:
+- Marburg Ethiopia update 2026
+- Marburg Ethiopia 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: a320b767347352dc95e41102d2ae6f68
+  source: WHO
+  source_id: 555e13f3-7aa5-445b-83eb-36e2f050a55c
+external_keys:
+- source: WHO
+  source_id: 555e13f3-7aa5-445b-83eb-36e2f050a55c
+  report_id: a320b767347352dc95e41102d2ae6f68
+coverage_counts:
+  reports: 1
+  news: 3
+  logs: 2
+  official_sources: 1
+created_at: '2026-01-26T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

@@ -1,0 +1,46 @@
+schema: 2
+id: 5a76e343c6b4508a84a06d78d51e87ed
+status: dormant
+display_name: Forest Fire Pyrenees-Orientales, France 2026-07-04
+slug: forest-fire-pyrenees-orientales-france-2026-07-04
+incident_type: Forest Fire
+country_code: FR
+country_name: France
+region: Europe
+first_seen: '2026-07-03'
+event_date: '2026-07-04'
+last_verified_update: '2026-08-10'
+latest_coverage_at: '2026-08-21'
+status_changed_at: '2026-08-10'
+summary: In early August 2026, 420 people were arrested in connection with starting the French wildfires, including 166 minors. Volunteers continued to douse small flare-ups, and World War II munitions emerged and detonated in the fire-ravaged Lanton area. Additionally, a new fast-moving wildfire broke out in the Lozère region on August 9, forcing evacuations and drawing over 200 firefighters.
+summary_updated: '2026-08-10'
+search_keys:
+- France Forest Fire latest 2026
+- France Forest Fire 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 1b93bc58ac615b6c997284727d4f80f9
+  source: GDACS
+  source_id: '1029331'
+external_keys:
+- source: GDACS
+  source_id: '1029331'
+  report_id: 1b93bc58ac615b6c997284727d4f80f9
+- source: GDACS
+  source_id: '1029643'
+  report_id: 73f1215d914f5fe4b1470f6215d4ead5
+- source: GDACS
+  source_id: '1029794'
+  report_id: b737dd0ea19b542a953185ee5c51afe8
+- source: ERCC
+  source_id: '5760'
+  report_id: d3cff7ff5ce259eda1c524dd48cf266a
+coverage_counts:
+  reports: 4
+  news: 69
+  logs: 5
+  official_sources: 2
+created_at: '2026-07-03T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

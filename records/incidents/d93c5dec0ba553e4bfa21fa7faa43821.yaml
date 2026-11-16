@@ -1,0 +1,40 @@
+schema: 2
+id: d93c5dec0ba553e4bfa21fa7faa43821
+status: dormant
+display_name: Oropouche La Paz, Bolivia 2024-08-23
+slug: oropouche-la-paz-bolivia-2024-08-23
+incident_type: Oropouche
+country_code: BO
+country_name: Bolivia
+region: Americas
+first_seen: '2024-08-23'
+event_date: '2024-08-23'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: Recent reports indicate that Oropouche virus outbreaks have emerged in the Caribbean, Central America, and South America, with cases identified among Canadian and American travelers since late 2023. The virus, which causes febrile illness similar to dengue and Zika, is more prevalent in Latin America than previously recognized, and there are early indications that infections during pregnancy may pose risks to unborn babies.
+summary_updated: '2026-07-08'
+search_keys:
+- Oropouche Bolivia update 2024
+- Oropouche Bolivia 2024
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 82ec6dcb86c35610a705d690789221a7
+  source: WHO
+  source_id: 2c107c5c-bebf-42eb-bff6-4a1200c7b33c
+external_keys:
+- source: WHO
+  source_id: 2c107c5c-bebf-42eb-bff6-4a1200c7b33c
+  report_id: 82ec6dcb86c35610a705d690789221a7
+- source: WHO
+  source_id: 4f827f7b-fe18-4435-869e-a603de252228
+  report_id: 51219aabef545fd6a624de8949e331fc
+coverage_counts:
+  reports: 2
+  news: 2
+  logs: 1
+  official_sources: 1
+created_at: '2024-08-23T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

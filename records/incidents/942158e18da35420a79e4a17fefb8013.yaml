@@ -1,0 +1,43 @@
+schema: 2
+id: 942158e18da35420a79e4a17fefb8013
+status: dormant
+display_name: Flood Hunan, China 2026-06-06
+slug: flood-hunan-china-2026-06-06
+incident_type: Flood
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2016-01-01'
+event_date: '2026-06-06'
+last_verified_update: '2026-09-09'
+latest_coverage_at: '2026-09-18'
+status_changed_at: '2026-09-09'
+summary: Typhoon Saudel brought heavy rain to Jiangxi province, triggering a mudslide that has killed at least 3 people with 9 still missing. Additionally, a dam burst due to the typhoon released nearly 900 snakes into nearby villages.
+summary_updated: '2026-09-09'
+search_keys:
+- China Flood latest 2026
+- China Flood 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: e4938e83504c51b187ce5c7d2bbdbf33
+  source: GDACS
+  source_id: '1103933'
+external_keys:
+- source: GDACS
+  source_id: '1103933'
+  report_id: e4938e83504c51b187ce5c7d2bbdbf33
+- source: GDACS
+  source_id: '1104051'
+  report_id: c1bcbec375ea546eb8ee888b8500b277
+- source: GDACS
+  source_id: '1104081'
+  report_id: c4fad59ab01e5760823883939b8f8937
+coverage_counts:
+  reports: 3
+  news: 82
+  logs: 14
+  official_sources: 1
+created_at: '2016-01-01T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

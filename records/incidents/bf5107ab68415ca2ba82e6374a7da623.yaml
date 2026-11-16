@@ -1,0 +1,37 @@
+schema: 2
+id: bf5107ab68415ca2ba82e6374a7da623
+status: dormant
+display_name: Acute Respiratory China 2025-01-07
+slug: acute-respiratory-china-2025-01-07
+incident_type: Trends of acute respiratory
+country_code: CN
+country_name: China
+region: Asia
+first_seen: '2025-01-07'
+event_date: '2025-01-07'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A study published in *Pediatric Investigation* reports that COVID-19 restrictions have significantly altered how common respiratory pathogens spread and interact in hospitalized children, with infections rebounding and shifting after restrictions were lifted. These findings highlight changes in acute respiratory infection trends relevant to the Northern Hemisphere.
+summary_updated: '2026-07-08'
+search_keys:
+- Acute Respiratory China update 2025
+- Acute Respiratory China 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c84f96a2878c5bf28d6b2da15caecfd1
+  source: WHO
+  source_id: 9ce8c544-fe69-411d-a71e-44fe097e90a6
+external_keys:
+- source: WHO
+  source_id: 9ce8c544-fe69-411d-a71e-44fe097e90a6
+  report_id: c84f96a2878c5bf28d6b2da15caecfd1
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-01-07T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

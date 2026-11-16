@@ -1,0 +1,37 @@
+schema: 2
+id: de49e9dbfe3c5b43936be963ba3df3f4
+status: dormant
+display_name: Earthquake M7.4 Davao Oriental, Philippines 2025-10-10
+slug: earthquake-m7-4-davao-oriental-philippines-2025-10-10
+incident_type: Earthquake
+country_code: PH
+country_name: Philippines
+region: Asia
+first_seen: '2025-10-10'
+event_date: '2025-10-10'
+last_verified_update: '2026-06-08'
+latest_coverage_at: '2026-06-08'
+status_changed_at: '2026-06-08'
+summary: A powerful 7.4 magnitude earthquake struck off the southeastern coast of the Philippines on Friday morning, October 10, 2025, causing panic among residents who fled into the streets. The earthquake occurred near the Davao Oriental region.
+summary_updated: '2026-06-08'
+search_keys:
+- Philippines Earthquake latest 2025
+- Philippines Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: bc89a85055395f26bdf95b581802f681
+  source: GDACS
+  source_id: '1504268'
+external_keys:
+- source: GDACS
+  source_id: '1504268'
+  report_id: bc89a85055395f26bdf95b581802f681
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-10-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

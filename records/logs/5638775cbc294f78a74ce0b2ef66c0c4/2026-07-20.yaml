@@ -1,0 +1,8 @@
+schema: 2
+incident_id: 5638775cbc294f78a74ce0b2ef66c0c4
+log_date: '2026-07-20'
+summary: A magnitude 5.6 earthquake struck off the coast of Vancouver Island near Port McNeill, Canada. No tsunami advisories were issued and no damage was reported. The quake was felt as far as the Seattle area.
+news_ids:
+- 0fd3d289aa8a557e883ff5054b520e6b
+- 287162d0e902529f89a34a101300ef49
+- edbb3a7d7aec5574aa7a7fcd02b920b4

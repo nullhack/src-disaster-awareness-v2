@@ -1,0 +1,43 @@
+schema: 2
+id: 859497ac74eb46749d0e6131574b2964
+status: dormant
+display_name: Severe Weather 2026-09-10
+slug: severe-weather-2026-09-10
+incident_type: Severe Weather
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-09-10'
+event_date: '2026-09-10'
+last_verified_update: '2026-10-07'
+latest_coverage_at: '2026-10-07'
+status_changed_at: '2026-10-07'
+summary: Tropical Depression Nine formed in the Gulf of Mexico, expected to strengthen into a hurricane and impact the Gulf Coast, leading Florida to declare a state of emergency in 25 counties and communities in Alabama to prepare. San Diego confirmed a local emergency ahead of a heavy El Niño season, while Spanish authorities issued orange alerts for torrential rain across the Catalunya coastline.
+summary_updated: '2026-10-07'
+search_keys:
+- Severe Weather latest 2026
+- Severe Weather 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 0983faa5437f5e8ca4c026956440361c
+  source: ERCC
+  source_id: '5783'
+external_keys:
+- source: ERCC
+  source_id: '5783'
+  report_id: 0983faa5437f5e8ca4c026956440361c
+- source: ERCC
+  source_id: '5788'
+  report_id: 0fe7b9a00cc754f1a25b520062860b9d
+- source: ERCC
+  source_id: '5790'
+  report_id: 36e48dbf6973535c890accc2ad13ec4d
+coverage_counts:
+  reports: 3
+  news: 201
+  logs: 15
+  official_sources: 1
+created_at: '2026-09-10T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

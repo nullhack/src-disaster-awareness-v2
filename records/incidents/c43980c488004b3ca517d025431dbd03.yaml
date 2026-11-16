@@ -1,0 +1,37 @@
+schema: 2
+id: c43980c488004b3ca517d025431dbd03
+status: active
+display_name: Earthquake M5.7 Khuzdar, Pakistan 2026-10-17
+slug: earthquake-m5-7-khuzdar-pakistan-2026-10-17
+incident_type: Earthquake
+country_code: PK
+country_name: Pakistan
+region: Asia
+first_seen: '2026-10-17'
+event_date: '2026-10-17'
+last_verified_update: '2026-10-18'
+latest_coverage_at: '2026-10-18'
+status_changed_at: '2026-10-18'
+summary: According to reports, a 5.9-magnitude earthquake struck Balochistan's Khuzdar district on October 17, 2026, causing one death when a falling rock struck a man in the Naal area. The earthquake also damaged several traditional mud houses. The epicenter was located 48 kilometers northwest of Khuzdar at a depth of 25 kilometers.
+summary_updated: '2026-10-18'
+search_keys:
+- Pakistan Earthquake latest 2026
+- Pakistan Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 0694800ee1bc56dca42ba9307b5c1058
+  source: USGS
+  source_id: us6000u2y1
+external_keys:
+- source: USGS
+  source_id: us6000u2y1
+  report_id: 0694800ee1bc56dca42ba9307b5c1058
+coverage_counts:
+  reports: 1
+  news: 20
+  logs: 2
+  official_sources: 1
+created_at: '2026-10-17T00:00:00Z'
+migrated_at: '2026-11-16T09:00:22Z'

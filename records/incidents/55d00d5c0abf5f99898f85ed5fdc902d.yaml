@@ -1,0 +1,37 @@
+schema: 2
+id: 55d00d5c0abf5f99898f85ed5fdc902d
+status: dormant
+display_name: Earthquake M5.6 Tigrai, Ethiopia 2025-10-11
+slug: earthquake-m5-6-tigrai-ethiopia-2025-10-11
+incident_type: Earthquake
+country_code: ET
+country_name: Ethiopia
+region: Africa
+first_seen: '2025-10-11'
+event_date: '2025-10-11'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: Ethiopia's Afar and Oromia regions have experienced several earthquakes and tremors since early 2025, with the strongest being a magnitude 5.7 event on 4 January. The article explores the connection between these earthquakes and volcanic activity in the area.
+summary_updated: '2026-07-08'
+search_keys:
+- Ethiopia Earthquake latest 2025
+- Ethiopia Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 61b0bf9b85975e3fb3527e622424b351
+  source: GDACS
+  source_id: '1504616'
+external_keys:
+- source: GDACS
+  source_id: '1504616'
+  report_id: 61b0bf9b85975e3fb3527e622424b351
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-10-11T00:00:00Z'
+migrated_at: '2026-11-16T09:00:21Z'

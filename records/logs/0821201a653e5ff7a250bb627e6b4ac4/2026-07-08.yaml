@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 0821201a653e5ff7a250bb627e6b4ac4
+log_date: '2026-07-08'
+summary: On June 8, 2026, a 6.1 magnitude earthquake struck off the coast of Cuba near Mantua and was widely felt across Florida, causing temporary closures of some rides at Disney World. The quake is among the strongest ever recorded in the Gulf of Mexico. A 4.9 aftershock was reported a week later in the same area.
+news_ids:
+- 91b9b1abe82d55d8946e95179d9500c5
+- aa165b6758135c42bd2cff3ee78e67b4
+- aa61e59e088450d2b2d7274ffe1c505a
+- eac589f365a359bb94dececbe87d75dc
+- fd0d38db15f958c9883cec3fb7180d15

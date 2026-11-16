@@ -1,0 +1,15 @@
+id: c0f82627cc2a5532b53bebc80552b6c3
+source: GDACS
+source_id: '1103957'
+incident_type: Flood
+name: Flood Green
+report_date: '2026-06-19'
+news_searched_at: ''
+places: []
+raw_fields:
+  alertlevel: Green
+  severity: 'Magnitude 0 '
+  population: 0
+  episodeid: '4'
+schema: 2
+content_hash: 83b2bbd9bfc4f16cbdb5881717486a6021f878cc234e470d3fde342bbd1434d9

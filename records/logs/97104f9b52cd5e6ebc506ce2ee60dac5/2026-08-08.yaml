@@ -1,0 +1,10 @@
+schema: 2
+incident_id: 97104f9b52cd5e6ebc506ce2ee60dac5
+log_date: '2026-08-08'
+summary: A magnitude 5.9 earthquake struck off the Philippines coast at a shallow depth, and a magnitude 4.7 quake hit Davao Occidental on August 6, 2026. These events add to the sequence of aftershocks following the major June 26 earthquake in the region.
+news_ids:
+- 41b93ab0c38d5d47bf7bb46c20f68105
+- 54383fc0fd1357b6a71088f4546e5b53
+- 7e0d9efd741158b7909507ffa0062234
+- 9d31df3d07ea5ca6a9faf5eed29f7e2f
+- bc74c6a1ca6755b29de88bb56c5b48ec

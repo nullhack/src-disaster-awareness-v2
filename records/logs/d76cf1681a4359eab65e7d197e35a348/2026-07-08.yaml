@@ -1,0 +1,9 @@
+schema: 2
+incident_id: d76cf1681a4359eab65e7d197e35a348
+log_date: '2026-07-08'
+summary: A powerful earthquake with a magnitude between 7.4 and 7.7 struck off the northeast coast of Japan on April 20, 2026, prompting a short-lived tsunami warning for coastal areas. The Japan Meteorological Agency issued alerts, and local residents were advised to evacuate to higher ground. Additionally, misinformation about an "artificial earthquake" began spreading online following the event.
+news_ids:
+- 63e6c28f812a57acab76eb33396a1d14
+- b281fe52eaed5a3fa392f801423b29b5
+- b561f93d63a55add8a774bf0642ad9dd
+- d8d0e265920b571ca58608a657ce904d

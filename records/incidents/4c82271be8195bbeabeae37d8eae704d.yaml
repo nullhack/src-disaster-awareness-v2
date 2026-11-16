@@ -1,0 +1,37 @@
+schema: 2
+id: 4c82271be8195bbeabeae37d8eae704d
+status: dormant
+display_name: Earthquake M5.7 Kermadec Islands, New Zealand 2025-07-15
+slug: earthquake-m5-7-kermadec-islands-new-zealand-2025-07-15
+incident_type: Earthquake
+country_code: NZ
+country_name: New Zealand
+region: Oceania
+first_seen: '2025-07-15'
+event_date: '2025-07-15'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: A magnitude 6.8 earthquake struck the Kermadec Islands region near New Zealand on July 15, 2025, at a depth of 10 km. The tremor occurred northeast of New Zealand just before 11am AEDT.
+summary_updated: '2026-07-08'
+search_keys:
+- New Zealand Earthquake latest 2025
+- New Zealand Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 759ffed770ed5db7b41832190372ec95
+  source: USGS
+  source_id: us7000qcrv
+external_keys:
+- source: USGS
+  source_id: us7000qcrv
+  report_id: 759ffed770ed5db7b41832190372ec95
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-07-15T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

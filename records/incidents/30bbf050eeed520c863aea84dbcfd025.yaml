@@ -1,0 +1,37 @@
+schema: 2
+id: 30bbf050eeed520c863aea84dbcfd025
+status: dormant
+display_name: Earthquake M7.0 2025 Hubbard Glacier Earthquake, Canada 2025-12-06
+slug: earthquake-m7-0-2025-hubbard-glacier-earthquake-canada-2025-12-06
+incident_type: Earthquake
+country_code: CA
+country_name: Canada
+region: Americas
+first_seen: '2025-12-06'
+event_date: '2025-12-06'
+last_verified_update: '2026-07-08'
+latest_coverage_at: '2026-07-08'
+status_changed_at: '2026-07-08'
+summary: On December 6, 2025, a magnitude 7.0 earthquake struck the St. Elias mountain range, triggering mile-long landslides and significant destruction. The event aligns with the reported incident type, name, and date.
+summary_updated: '2026-07-08'
+search_keys:
+- Canada Earthquake latest 2025
+- Canada Earthquake 2025
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: f029b1943af95b959c04c261d667f2eb
+  source: USGS
+  source_id: us6000rsy1
+external_keys:
+- source: USGS
+  source_id: us6000rsy1
+  report_id: f029b1943af95b959c04c261d667f2eb
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 1
+  official_sources: 1
+created_at: '2025-12-06T00:00:00Z'
+migrated_at: '2026-11-16T09:00:20Z'

@@ -1,0 +1,11 @@
+schema: 2
+incident_id: 8a1e62b17f6e49e9ad462dd2080d0653
+log_date: '2026-09-24'
+summary: Severe storms caused damage in Hattiesburg, Mississippi, with crews working to repair the aftermath. Additionally, a late-week coastal storm (nor'easter) is forecast to impact the New York City area with gusty winds, high surf, and potential coastal flooding.
+news_ids:
+- 1cd052c32bd95572b0f7fe68caed50fc
+- 20a298276fee52099ee61feec2990439
+- 5bcf7434fb71590aaacd2158b2557814
+- 6dc14a61714b58e9840616173f5324d0
+- b8d40a5cf03c52738a5b13c711274de5
+- c3a759fe690f5f2b8d23b3a286ba2b95
