@@ -374,10 +374,16 @@ def main_ingest() -> None:
     args = parser.parse_args()
     _configure_logging(args.verbose)
     load_settings(args.config)
-    writer = RecordWriter(args.data)
+    writer = RecordWriter(
+        args.data,
+        load_news=False,
+        load_logs=False,
+        load_links=False,
+        report_keys_only=True,
+    )
     kept = ingest_source_reports(list(adapter_registry().values()), writer)
     writer.flush()
-    print(f"ingested {kept} new reports; {writer.counts()}")
+    print(f"ingested {kept} new reports")
 
 
 def main_search_news() -> None:

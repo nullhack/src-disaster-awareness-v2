@@ -86,10 +86,23 @@ def _place_model(place: dict[str, Any]) -> ReportPlace:
 class RecordWriter:
     """Mutable v2 canonical store used by the ingestion and submission pipelines."""
 
-    def __init__(self, root: str | Path, *, now: str | None = None) -> None:
+    def __init__(
+        self,
+        root: str | Path,
+        *,
+        now: str | None = None,
+        load_news: bool = True,
+        load_logs: bool = True,
+        load_links: bool = True,
+        report_keys_only: bool = False,
+    ) -> None:
         self.root = Path(root)
         self.now = now or utc_now_iso()
         self.today = self.now[:10]
+        self._load_news = load_news
+        self._load_logs = load_logs
+        self._load_links = load_links
+        self._report_keys_only = report_keys_only
         self.incidents: dict[str, dict[str, Any]] = {}
         self.reports: dict[str, dict[str, Any]] = {}
         self.news: dict[str, dict[str, Any]] = {}
@@ -121,35 +134,56 @@ class RecordWriter:
             self.incidents[incident_id] = data
 
         for path in iter_yaml(self.root / "records" / "reports", recursive=False):
-            data = load_yaml(path)
+            if self._report_keys_only:
+                data = self._report_key_header(path)
+            else:
+                data = load_yaml(path)
             report_id = str(data.get("id") or path.stem)
             data["id"] = report_id
             self.reports[report_id] = data
             self._report_by_key[(str(data.get("source") or ""), str(data.get("source_id") or ""))] = report_id
 
-        for path in iter_yaml(self.root / "records" / "news", recursive=False):
-            data = load_yaml(path)
-            news_id = str(data.get("id") or path.stem)
-            data["id"] = news_id
-            self.news[news_id] = data
-            self._index_news_urls(data, news_id)
+        if self._load_news:
+            for path in iter_yaml(self.root / "records" / "news", recursive=False):
+                data = load_yaml(path)
+                news_id = str(data.get("id") or path.stem)
+                data["id"] = news_id
+                self.news[news_id] = data
+                self._index_news_urls(data, news_id)
 
-        logs_root = self.root / "records" / "logs"
-        if logs_root.is_dir():
-            for incident_dir in sorted(p for p in logs_root.iterdir() if p.is_dir()):
-                for path in iter_yaml(incident_dir, recursive=False):
-                    data = load_yaml(path)
-                    log_date = str(data.get("log_date") or path.stem)
-                    data["log_date"] = log_date
-                    data["incident_id"] = str(data.get("incident_id") or incident_dir.name)
-                    self.logs.setdefault(incident_dir.name, {})[log_date] = data
+        if self._load_logs:
+            logs_root = self.root / "records" / "logs"
+            if logs_root.is_dir():
+                for incident_dir in sorted(p for p in logs_root.iterdir() if p.is_dir()):
+                    for path in iter_yaml(incident_dir, recursive=False):
+                        data = load_yaml(path)
+                        log_date = str(data.get("log_date") or path.stem)
+                        data["log_date"] = log_date
+                        data["incident_id"] = str(data.get("incident_id") or incident_dir.name)
+                        self.logs.setdefault(incident_dir.name, {})[log_date] = data
 
-        for path in sorted((self.root / "links").glob("*.jsonl")):
-            self.links.extend(read_jsonl(path))
-        for path in sorted((self.root / "events").glob("*.jsonl")):
-            self.events.extend(read_jsonl(path))
-        for link in self.links:
-            self._index_link(link)
+        if self._load_links:
+            for path in sorted((self.root / "links").glob("*.jsonl")):
+                self.links.extend(read_jsonl(path))
+            for path in sorted((self.root / "events").glob("*.jsonl")):
+                self.events.extend(read_jsonl(path))
+            for link in self.links:
+                self._index_link(link)
+
+    @staticmethod
+    def _report_key_header(path: Path) -> dict[str, Any]:
+        source = ""
+        source_id = ""
+        with path.open(encoding="utf-8") as fh:
+            for _ in range(12):
+                line = fh.readline()
+                if not line:
+                    break
+                if line.startswith("source:"):
+                    source = line.split(":", 1)[1].strip().strip("\"'")
+                elif line.startswith("source_id:"):
+                    source_id = line.split(":", 1)[1].strip().strip("\"'")
+        return {"source": source, "source_id": source_id}
 
     def _index_news_urls(self, data: dict[str, Any], news_id: str) -> None:
         for value in (data.get("url"), data.get("canonical_url")):
