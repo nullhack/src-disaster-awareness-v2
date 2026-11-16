@@ -109,6 +109,7 @@ def _nav(site: dict[str, Any], active: str) -> str:
     links = [
         ("", "Situation"),
         ("incidents/", "Incidents"),
+        ("trends/", "Trends"),
         ("following/", "Following"),
         ("about/", "About"),
         ("submit/", "Submit a report"),
@@ -144,7 +145,7 @@ def _page(
 <meta property="og:title" content="{_h(full_title)}">
 <meta property="og:description" content="{_h(description)}">
 <meta property="og:type" content="website">
-<meta name="theme-color" content="#0b3b5c">
+<meta name="theme-color" content="#a30f1c">
 <link rel="stylesheet" href="assets/styles.css">
 <script defer src="assets/app.js"></script>
 </head>
@@ -166,8 +167,8 @@ def _page(
 </main>
 <footer class="site-footer">
   <div class="wrap footer-inner">
-    <p><strong>{_h(site['title'])}</strong> is an independent reference, not an official warning service. Always follow local authorities for emergencies.</p>
-    <p><a href="about/">About &amp; method</a> · <a href="status/">Data status</a> · <a href="submit/">Submit a correction</a> · <a href="feed.xml">RSS</a> · <a href="https://github.com/{_h(site['repo'])}">GitHub</a></p>
+    <p><strong>{_h(site['title'])}</strong> is an independent reference, not an official warning service. It is not affiliated with the Red Cross or Red Crescent Movement. Always follow local authorities for emergencies.</p>
+    <p><a href="about/">About &amp; method</a> · <a href="trends/">Trends</a> · <a href="status/">Data status</a> · <a href="submit/">Submit a correction</a> · <a href="feed.xml">RSS</a> · <a href="https://github.com/{_h(site['repo'])}">GitHub</a></p>
     <p class="small">Data checked <span data-data-as-of>—</span>. Built from the <code>{_h(site['data_branch'])}</code> branch.</p>
   </div>
 </footer>
@@ -276,15 +277,121 @@ def type_slug(value: str) -> str:
     return region_slug(value)
 
 
-def render_home(site: dict[str, Any], index: dict[str, Any], summaries: list[dict[str, Any]], status: dict[str, Any]) -> str:
+def _chart_columns(months: list[dict[str, Any]], value_key: str, *, label: str, compact: bool = False) -> str:
+    values = [int(month.get(value_key) or 0) for month in months]
+    peak = max(values, default=0) or 1
+    total = sum(values)
+    rows: list[str] = []
+    table_rows: list[str] = []
+    for month, value in zip(months, values, strict=False):
+        height = max(0, min(100, round(value / peak * 100)))
+        short_label = str(month.get("short_label") or month.get("label") or "")
+        full_label = str(month.get("label") or short_label)
+        rows.append(
+            f'<li class="chart-column" aria-label="{_h(full_label)}: {value}">'
+            f'<span class="chart-column__plot"><span class="chart-column__bar" style="--bar-height:{height}%"></span></span>'
+            f'<span class="chart-column__value">{value}</span>'
+            f'<span class="chart-column__label">{_h(short_label)}</span></li>'
+        )
+        table_rows.append(f"<tr><th scope=\"row\">{_h(full_label)}</th><td>{value}</td></tr>")
+    rows_html = "".join(rows)
+    table_html = "".join(table_rows)
+    empty = '<p class="chart-empty">No activity in this period.</p>' if total == 0 else ""
+    compact_class = " chart--compact" if compact else ""
+    return f"""<figure class="chart{compact_class}">
+  <figcaption class="chart__caption">{_h(label)}</figcaption>
+  {empty}
+  <ol class="chart-columns" aria-label="{_h(label)}">{rows_html}</ol>
+  <details class="chart__table"><summary>View as table</summary>
+    <table><caption>{_h(label)}</caption><thead><tr><th>Month</th><th>Count</th></tr></thead><tbody>{table_html}</tbody></table>
+  </details>
+</figure>"""
+
+
+def _chart_bars(items: list[dict[str, Any]], *, label: str, tone: str = "red", limit: int | None = None) -> str:
+    selected = items[:limit] if limit else items
+    if not selected:
+        return f'<p class="chart-empty">{_h(label)}: no active incidents.</p>'
+    peak = max((int(item.get("count") or 0) for item in selected), default=0) or 1
+    rows: list[str] = []
+    table_rows: list[str] = []
+    for item in selected:
+        name = str(item.get("label") or "Unknown")
+        count = int(item.get("count") or 0)
+        width = max(2, min(100, round(count / peak * 100)))
+        rows.append(
+            f'<li class="chart-bar" aria-label="{_h(name)}: {count}">'
+            f'<span class="chart-bar__label">{_h(name)}</span>'
+            f'<span class="chart-bar__track"><span class="chart-bar__fill" style="--bar-width:{width}%"></span></span>'
+            f'<span class="chart-bar__value">{count}</span></li>'
+        )
+        table_rows.append(f"<tr><th scope=\"row\">{_h(name)}</th><td>{count}</td></tr>")
+    rows_html = "".join(rows)
+    table_html = "".join(table_rows)
+    hidden = len(items) - len(selected)
+    note = f'<p class="chart-note">Showing the top {len(selected)} of {len(items)}.</p>' if hidden > 0 else ""
+    return f"""<figure class="chart chart--bars chart--{_h(tone)}">
+  <figcaption class="chart__caption">{_h(label)}</figcaption>
+  <ul class="chart-bars" aria-label="{_h(label)}">{rows_html}</ul>
+  {note}
+  <details class="chart__table"><summary>View as table</summary>
+    <table><caption>{_h(label)}</caption><thead><tr><th>Group</th><th>Active incidents</th></tr></thead><tbody>{table_html}</tbody></table>
+  </details>
+</figure>"""
+
+
+def _pulse_panel(trends: dict[str, Any]) -> str:
+    months = as_list(trends.get("months"))
+    active_by_type = as_list(trends.get("active_by_type"))
+    active_by_region = as_list(trends.get("active_by_region"))
+    new_last_30 = int(trends.get("new_last_30_days") or 0)
+    active = int(trends.get("active_count") or 0)
+    regions = len(active_by_region)
+    return f"""<section class="section pulse" aria-labelledby="pulse-heading">
+  <div class="section-head">
+    <div><p class="eyebrow">Pulse</p><h2 id="pulse-heading">Situation at a glance</h2></div>
+    <a class="text-link" href="trends/">All trends →</a>
+  </div>
+  <p class="section-note">These counts describe what this site tracks, not disaster frequency or severity.</p>
+  <div class="pulse-grid">
+    <article class="pulse-card">
+      <p class="kicker">Newly tracked · 30 days</p>
+      <p class="pulse-number">{new_last_30}</p>
+      <p class="pulse-note">Incidents added to the record in the last 30 days.</p>
+      {_chart_columns(months, "new_incidents", label="Newly tracked incidents per month", compact=True)}
+    </article>
+    <article class="pulse-card">
+      <p class="kicker">Active by hazard</p>
+      <p class="pulse-number">{active}</p>
+      <p class="pulse-note">Active incidents across {len(active_by_type)} hazard types.</p>
+      {_chart_bars(active_by_type, label="Active incidents by hazard type", tone="red", limit=5)}
+    </article>
+    <article class="pulse-card">
+      <p class="kicker">Active by region</p>
+      <p class="pulse-number">{regions}</p>
+      <p class="pulse-note">Regions with at least one active incident.</p>
+      {_chart_bars(active_by_region, label="Active incidents by region", tone="blue", limit=5)}
+    </article>
+  </div>
+</section>"""
+
+
+def render_home(
+    site: dict[str, Any],
+    index: dict[str, Any],
+    summaries: list[dict[str, Any]],
+    status: dict[str, Any],
+    trends: dict[str, Any],
+) -> str:
     counts = index.get("counts", {})
     body = f"""<section class="hero">
   <p class="eyebrow">Situation</p>
   <h1>What changed, and what deserves your attention.</h1>
   <p class="lede">Tracking <strong>{int(counts.get('active', 0))}</strong> active incidents across <strong>{int(counts.get('countries', 0))}</strong> countries. Data checked <time datetime="{_h(index.get('as_of'))}">{_human_date(str(index.get('as_of') or ''))}</time>.</p>
-  <p class="hero-note"><a href="status/">Data status</a> · <a href="about/">How this works</a></p>
+  <p class="hero-note"><a href="trends/">Trends</a> · <a href="status/">Data status</a> · <a href="about/">How this works</a></p>
 </section>
 {_visit_panel()}
+{_pulse_panel(trends)}
 {_latest_panel(summaries)}
 {_following_panel()}
 {_browse_regions(summaries)}"""
@@ -628,6 +735,58 @@ def render_coverage(
     )
 
 
+def render_trends(site: dict[str, Any], trends: dict[str, Any]) -> str:
+    months = as_list(trends.get("months"))
+    active_by_type = as_list(trends.get("active_by_type"))
+    active_by_region = as_list(trends.get("active_by_region"))
+    body = f"""<section class="page-head">
+  <p class="eyebrow">Reference</p>
+  <h1>Trends</h1>
+  <p class="lede">A compact view of what this record contains, how it changes, and where the active incidents are. Data as of <time datetime="{_h(trends.get('as_of'))}">{_human_date(str(trends.get('as_of') or ''))}</time>.</p>
+</section>
+<section class="trend-stats" aria-label="Trend summary">
+  <div class="trend-stat"><p class="kicker">Active incidents</p><p class="trend-stat__value">{int(trends.get('active_count') or 0)}</p><p class="trend-stat__note">Currently monitored</p></div>
+  <div class="trend-stat"><p class="kicker">Newly tracked · 30 days</p><p class="trend-stat__value">{int(trends.get('new_last_30_days') or 0)}</p><p class="trend-stat__note">Added to the record</p></div>
+  <div class="trend-stat"><p class="kicker">Updated · 30 days</p><p class="trend-stat__value">{int(trends.get('updated_last_30_days') or 0)}</p><p class="trend-stat__note">Incidents with a verified update</p></div>
+  <div class="trend-stat"><p class="kicker">Countries</p><p class="trend-stat__value">{int(trends.get('country_count') or 0)}</p><p class="trend-stat__note">Represented in the record</p></div>
+</section>
+<p class="notice">These charts describe the tracked record, not the frequency or severity of disasters. Coverage volume is also not a severity measure.</p>
+<section class="section" aria-labelledby="new-trend-heading">
+  <div class="section-head"><div><p class="eyebrow">Volume</p><h2 id="new-trend-heading">Newly tracked incidents</h2></div></div>
+  <p class="section-note">The month an incident first entered this record. This reflects monitoring and source coverage, not when the event began.</p>
+  {_chart_columns(months, "new_incidents", label="Newly tracked incidents per month")}
+</section>
+<section class="section" aria-labelledby="update-trend-heading">
+  <div class="section-head"><div><p class="eyebrow">Activity</p><h2 id="update-trend-heading">Incidents with verified updates</h2></div></div>
+  <p class="section-note">An incident counts once per month when it has at least one verified update. Raw article counts are deliberately excluded.</p>
+  {_chart_columns(months, "updated_incidents", label="Incidents with verified updates per month")}
+</section>
+<div class="trends-grid">
+  <section class="section" aria-labelledby="type-trend-heading">
+    <div class="section-head"><div><p class="eyebrow">Composition</p><h2 id="type-trend-heading">Active by hazard</h2></div></div>
+    {_chart_bars(active_by_type, label="Active incidents by hazard type", tone="red")}
+  </section>
+  <section class="section" aria-labelledby="region-trend-heading">
+    <div class="section-head"><div><p class="eyebrow">Geography</p><h2 id="region-trend-heading">Active by region</h2></div></div>
+    {_chart_bars(active_by_region, label="Active incidents by region", tone="blue")}
+  </section>
+</div>
+<section class="section prose" aria-labelledby="trend-method-heading">
+  <h2 id="trend-method-heading">How to read these charts</h2>
+  <p><strong>Active</strong> means an incident has a verified update within the last 30 days. <strong>Newly tracked</strong> is the month it first entered the record. <strong>Updated</strong> counts incidents with at least one verified update that month; it does not count every article.</p>
+  <p>“Unclassified” means the record has no hazard type, and “Unlocated” means it has no country. They are kept visible rather than silently dropped.</p>
+  <p>The record contains {int(trends.get('total_incidents') or 0)} incidents in total. Every chart has a table alternative, and the underlying counts are available as <a href="data/trends.json">JSON</a>.</p>
+</section>"""
+    return _page(
+        site,
+        title="Trends",
+        description="Tracked incident volume, update activity, hazard mix, and regional distribution.",
+        body=body,
+        path="/trends/",
+        active="trends",
+    )
+
+
 def render_following(site: dict[str, Any], summaries: list[dict[str, Any]]) -> str:
     body = """<section class="page-head">
   <p class="eyebrow">Saved in this browser</p>
@@ -744,7 +903,7 @@ def render_feed(site: dict[str, Any], summaries: list[dict[str, Any]], as_of: st
 
 
 def render_sitemap(site: dict[str, Any], summaries: list[dict[str, Any]]) -> str:
-    urls = ["/", "/incidents/", "/following/", "/submit/", "/about/", "/status/"]
+    urls = ["/", "/incidents/", "/trends/", "/following/", "/submit/", "/about/", "/status/"]
     urls.extend(item["url"] for item in summaries)
     urls.extend(item["coverage_url"] for item in summaries)
     entries = "".join(
@@ -766,10 +925,11 @@ def render_site(
     details: dict[str, dict[str, Any]],
     summaries: list[dict[str, Any]],
     status: dict[str, Any],
+    trends: dict[str, Any],
 ) -> None:
     site = _site_context(config)
     as_of = str(index.get("as_of") or "")
-    _write(out_root / "index.html", render_home(site, index, summaries, status))
+    _write(out_root / "index.html", render_home(site, index, summaries, status, trends))
     _write(out_root / "incidents" / "index.html", render_incidents_index(site, summaries))
     for region in sorted({str(item.get("region") or "Unknown") for item in summaries}):
         subset = [item for item in summaries if str(item.get("region") or "Unknown") == region]
@@ -808,6 +968,7 @@ def render_site(
             out_root / "i" / incident_id / slug / "coverage" / "index.html",
             render_coverage(site, detail, coverage),
         )
+    _write(out_root / "trends" / "index.html", render_trends(site, trends))
     _write(out_root / "following" / "index.html", render_following(site, summaries))
     _write(out_root / "submit" / "index.html", render_submit(site))
     _write(out_root / "about" / "index.html", render_about(site))

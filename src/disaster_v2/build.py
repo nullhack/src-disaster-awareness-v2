@@ -14,6 +14,7 @@ from .countries import country_label, region_for_country
 from .key_links import select_key_links, source_links
 from .render import render_site
 from .store import Store
+from .trends import build_trends
 from .util import as_dict, as_list, max_date, utc_now_iso, write_json
 
 _ALERT_RANK = {"green": 1, "yellow": 2, "orange": 3, "red": 4}
@@ -327,6 +328,7 @@ def build(
         ),
         reverse=True,
     )
+    trends = build_trends(summaries, resolved_as_of)
     index = {
         "schema": 2,
         "generated_at": generated_at,
@@ -393,6 +395,7 @@ def build(
         for item in summaries
     ])
     write_json(out_root / "data" / "status.json", status)
+    write_json(out_root / "data" / "trends.json", trends)
     write_json(out_root / "data" / "redirects.json", {})
 
     day_entries: dict[str, list[dict[str, Any]]] = {}
@@ -445,6 +448,7 @@ def build(
         details=details,
         summaries=summaries,
         status=status,
+        trends=trends,
     )
 
     return {

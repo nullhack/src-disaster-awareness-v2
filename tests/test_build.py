@@ -60,8 +60,16 @@ def test_build_writes_slim_index_and_incident_detail(tmp_path: Path) -> None:
     assert detail["key_links"][0]["url"] == "https://example.test/event"
     coverage = json.loads((site / "data" / "coverage" / "i1.json").read_text())
     assert coverage["articles"][0]["news_id"] == "n1"
+    trends = json.loads((site / "data" / "trends.json").read_text())
+    assert trends["active_count"] == 1
+    assert trends["new_last_30_days"] == 1
+    assert trends["updated_last_30_days"] == 1
+    assert trends["active_by_type"][0] == {"label": "Earthquake", "count": 1}
+    assert trends["months"][-1]["key"] == "2026-01"
     html = (site / "i" / "i1" / detail["slug"] / "index.html").read_text()
     assert "Read the sources" in html
     assert "Last verified update" in html
     assert (site / "assets" / "app.js").is_file()
     assert (site / "feed.xml").read_text().startswith("<?xml")
+    assert "Newly tracked incidents" in (site / "trends" / "index.html").read_text()
+    assert "Situation at a glance" in (site / "index.html").read_text()

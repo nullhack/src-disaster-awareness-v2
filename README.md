@@ -7,6 +7,7 @@ An incident reference with a change feed. Static pages are generated from a Git-
 - **The incident is the primary object.** The home page is a change feed, the incident page is canonical and shareable, and coverage is a subpage instead of a drawer.
 - **Write model and read model are separate.** The `data` branch holds canonical records and append-only links. The site is a generated read model: a small index, slim day files, one JSON file per incident, and one coverage file per incident.
 - **No 3.8 MB daily digest.** A day file is a few KB of incident references. Full coverage is fetched only when a visitor opens it.
+- **Trends are generated counts, not a map.** The home page has a compact pulse; `/trends/` has accessible charts with table alternatives. They describe the tracked record, not disaster frequency.
 - **GitHub stays the host.** GitHub Pages serves the static site; the `data` branch is the audit trail; GitHub Issues are the submission and correction queue.
 
 ## Repository layout
