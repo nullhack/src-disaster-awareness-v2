@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.yahoo.com/news/weather-news/articles/columbus-weather-rain-returns-wednesday-083651178.html
 content_hash: 4078042f4dce4acd2ca009a699fa366b261c57dba7e4ce18b3eda0080bab4f57
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

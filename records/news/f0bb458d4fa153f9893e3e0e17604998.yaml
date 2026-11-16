@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/other/severe-storms-possible-across-ny-wednesday-heres-when-and-where/ar-AA2bRI1K
 content_hash: b736c4cd955c3f64622b583ef2da18f2e80c4a0d8bba015d270e644e26034fab
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

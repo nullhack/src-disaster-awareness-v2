@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-in/news/world/peru-earthquake-scary-videos-show-aftermath-in-ayacucho-as-67-magnitude-quake-shakes-region/ar-AA2aA508
 content_hash: d9fd1c24635a44ec9deb419ccd00164460084278ad6b7a64c13270d2c9ec175d
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

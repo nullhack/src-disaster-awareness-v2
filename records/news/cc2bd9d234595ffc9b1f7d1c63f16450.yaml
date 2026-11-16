@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.freep.com/story/news/wildfires/2026/08/07/emergency-conflagration-act-invoked-for-wrights-spring-fire/91217337007
 content_hash: 37b15beb9e7b3b3e39cc026aa5c1ede1895b57be64c4662c496814e99a4a5d65
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

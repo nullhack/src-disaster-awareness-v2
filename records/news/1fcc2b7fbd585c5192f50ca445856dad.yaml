@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/other/big-sur-wildfires-grow-as-40-mile-stretch-of-highway-1-and-businesses-close/ar-AA2b8uCe
 content_hash: 326350746112dde0a1106fa2b1ae13fc894d09a4fe8b3edaceb8d11dee268177
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

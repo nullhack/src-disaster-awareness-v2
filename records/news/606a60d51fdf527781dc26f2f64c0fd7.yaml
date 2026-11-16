@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.fayobserver.com/story/sports/college/football/2026/09/05/duke-football-tulane-delayed-due-to-severe-weather/91506835007
 content_hash: d718afd4c7ea48bda531214f786d337bebcd64f16b08c27e5422ed9dddca38ea
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

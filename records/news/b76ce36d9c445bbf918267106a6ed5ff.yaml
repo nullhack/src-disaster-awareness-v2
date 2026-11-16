@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-gb/news/world/strong-earthquake-strikes-central-peru-no-damage-reported/ar-AA2aA9Sx
 content_hash: a7dc56aa35147e06bcedba0258fd1f4910fe8f4b71f5acc4cbd5fb14458d241e
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

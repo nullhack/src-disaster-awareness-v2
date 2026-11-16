@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.thejakartapost.com/opinion/2026/08/29/wildfires-all-hands-on-deck
 content_hash: 6802051587f87983fa215d9d5498c7c31917ae0f0ec4499e2da3831c1ed293dd
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.newsday.com/news/nation/ebola-outbreak-congo-uganda-who-cdc-m83059
 content_hash: 753c0a78a37829958418b586be485fea3aac1380f4fad7e592631cc6e73de23d
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

@@ -9,11 +9,11 @@ country_name: Nepal
 region: Asia
 first_seen: '2026-05-21'
 event_date: '2026-08-26'
-last_verified_update: '2026-11-15'
-latest_coverage_at: '2026-11-15'
+last_verified_update: '2026-11-16'
+latest_coverage_at: '2026-11-16'
 status_changed_at: '2026-11-15'
-summary: Recent photos from the Bagmati flood aftermath show a porter using a temporary bridge to transport vegetables in Syaphrubesi, Rasuwa, underscoring ongoing recovery and infrastructure damage. Additional images depict a rescued survivor in the hospital and search teams continuing their operations in Kathmandu.
-summary_updated: '2026-11-15'
+summary: A new editorial critiques the timing of Nepal’s flash-flood warnings and calls for improvements, citing 1,455 confirmed deaths and more than 5,000 people missing. The flood-hit 111 MW Rasuwagadhi Hydropower Project reported a cumulative loss of Rs 2.87 billion as successive disasters and prolonged shutdowns worsened its financial condition.
+summary_updated: '2026-11-16'
 search_keys:
 - Nepal Flood latest 2026
 - Nepal Flood 2026
@@ -25,19 +25,19 @@ genesis:
   source: GDACS
   source_id: '1104124'
 external_keys:
+- source: ERCC
+  source_id: '5799'
+  report_id: 1d2bce591fa25d6c9baace8314f8cdba
 - source: GDACS
   source_id: '1104124'
   report_id: a8ad2e22323f5859a662bf4f04a464b0
 - source: ERCC
   source_id: '5785'
   report_id: ddfff7daebbe5a2a87c47f040f8dff20
-- source: ERCC
-  source_id: '5799'
-  report_id: 1d2bce591fa25d6c9baace8314f8cdba
 coverage_counts:
   reports: 3
-  news: 1213
-  logs: 66
+  news: 1216
+  logs: 67
   official_sources: 2
 created_at: '2026-05-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

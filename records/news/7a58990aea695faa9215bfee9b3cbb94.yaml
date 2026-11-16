@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://divyamarathi.bhaskar.com/international/news/peru-earthquake-tremors-felt-south-region-news-138789341.html
 content_hash: 5c1132d0dc2b6db9e5b29fe402dcf33eaf158384e41ed71f58aa9d509183be60
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

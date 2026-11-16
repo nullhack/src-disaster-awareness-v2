@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://kutv.com/news/local/helicopter-crashes-while-fighting-massive-widemouth-2-fire-in-central-utah
 content_hash: 98bfb67530449324f0cf6a809bd6822307a6dd1efbf8a110e1aa2e85e3f62032
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

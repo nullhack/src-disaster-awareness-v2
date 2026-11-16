@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/us/firefighting-helicopter-crashes-while-responding-to-utah-wildfire/ar-AA29CIgs
 content_hash: 2de432d4064054190b4285e25cf83a2818d1908074b3d968bd7768bb65d22add
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

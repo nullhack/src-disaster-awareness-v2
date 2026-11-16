@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.netnewsledger.com/2026/08/28/northeast-wildfire-update-no-new-fires-confirmed-17-remain-active
 content_hash: 45788ba28a76d81e81d52ed4472778bcc2755bd44fe6b21f5424e00202408440
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

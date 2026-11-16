@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://apnews.com/article/wildfire-utah-helicopter-crash-a42a74bfa41c20a12313de6d5972ed23
 content_hash: a2bc663370a16d2e87750401424c275a957fe94e70674893a5d29ea3bfb615f9
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

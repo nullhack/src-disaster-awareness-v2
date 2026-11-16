@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.aol.com/articles/missouri-could-see-more-storms-160613838.html
 content_hash: 5196756dbdb0e606088284007de54f2caa666d3896689236430e4c936cc5478d
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

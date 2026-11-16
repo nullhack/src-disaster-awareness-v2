@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.wral.com/sports/blue-devils-stuff-tulane-home-opener-september-2026
 content_hash: 40b060781825a9fcbe43dbe619f12d33609adc452563a70cbae14037a7ccdd79
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

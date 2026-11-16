@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.rgj.com/story/news/wildfires/2026/08/07/fire-crews-responding-to-two-blazes-in-west-reno/91223639007
 content_hash: a83015c2e6c37c0ea81daef1533645b7c985792d56b714f93622db21a74b33e9
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

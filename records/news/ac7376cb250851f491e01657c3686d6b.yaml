@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.bostonherald.com/2026/07/23/ebola-outbreak-congo-uganda-kills-over-thousand-people
 content_hash: 849031ea1589f3ab85601cf6967805ba5693745ae7e4bf1f39f897ca90a89718
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

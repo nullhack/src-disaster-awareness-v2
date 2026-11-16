@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.npr.org/2026/07/23/nx-s1-5902980/ebola-congo-outbreak-deaths
 content_hash: f5d01586cdc18a89aa56c2a2d8f98df8da742dea59add905e5494049f42bd516
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

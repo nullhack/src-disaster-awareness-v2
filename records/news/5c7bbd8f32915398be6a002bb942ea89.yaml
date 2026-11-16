@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.silive.com/weather/2026/09/ny-weather-severe-storms-damaging-winds-to-threaten-parts-of-the-state.html
 content_hash: fa808e954047ced140cadf9054b390169d62ce2a952a130727a76965c9b1f6db
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

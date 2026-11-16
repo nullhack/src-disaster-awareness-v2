@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.usatoday.com/story/news/local/2026/08/27/big-sur-fires-trigger-evacuations-and-road-closures/91498304007
 content_hash: 0e69b853f15d9f3e6059da0de560135c982e521a046d96b0638df519addabcfd
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

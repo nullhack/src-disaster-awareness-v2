@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.thecalifornian.com/story/news/local/california/2026/08/28/big-sur-plaskett-fire-timber-fire-size-location-containment-evacuations-injuries-road-closures/91513015007
 content_hash: 145cafb69f077f4d5111649ad321e230a37ec3c04cedb4565ccb9b822bc7b5b1
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

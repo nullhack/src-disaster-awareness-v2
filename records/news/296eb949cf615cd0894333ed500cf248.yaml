@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.yahoo.com/news/weather-news/articles/level-2-storm-threat-means-181500313.html
 content_hash: 5e4e1291d629ce16145b67872ef5bb11792037b16dd64e05304d7794499a1d16
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

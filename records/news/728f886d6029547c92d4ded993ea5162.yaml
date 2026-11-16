@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/weather/topstories/new-wildfire-southeast-of-bend-prompts-level-3-go-now-evacuations/ar-AA29Cxhj
 content_hash: 76d94b4a076401e7c5d355901e337843de82b0c3ebc4ac4665962c3b61b85eb4
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

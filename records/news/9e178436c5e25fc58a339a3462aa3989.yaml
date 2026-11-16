@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://factcheck.afp.com/doc.afp.com.C67J8KE
 content_hash: 617f61072426147131788f60d6c7218479a4e4f1611770b493340b0412cd10a4
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

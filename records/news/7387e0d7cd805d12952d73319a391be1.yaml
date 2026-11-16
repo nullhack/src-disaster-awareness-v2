@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.wkyt.com/2026/08/13/nws-software-glitch-delayed-tornado-warnings-during-eastern-kentucky-severe-weather
 content_hash: 770e9c2333912d3094b3fafbd03fe2044c7e2ed0b89bb36c0395c88bf21f3240
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

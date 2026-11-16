@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://kesq.com/news/2026/08/20/peru-earthquake-raises-concern-about-activity-along-the-ring-of-fire
 content_hash: a46e070d32879401707b3144ae9bd216db079fb60806332f702fabeb547c9998
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

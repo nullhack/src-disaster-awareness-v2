@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://sports.yahoo.com/articles/severe-weather-forces-college-gameday-135810953.html
 content_hash: 28499116f575ed033d2831371131309aeb555807ba024b32c01d32535b869c3a
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

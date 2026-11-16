@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/other/fema-approves-36-million-in-disaster-funding-for-ohio-michigan-wisconsin-after-severe-weather/ar-AA2bBiqm
 content_hash: 4fb15459fe764ba4e785065158c4639007c67a81c1616bbd184bd9aae9d4a919
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

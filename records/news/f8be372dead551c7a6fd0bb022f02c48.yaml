@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.cbc.ca/news/world/earthquake-peru-9.7314436
 content_hash: f3c405c9b111cdef1437540af9e43aa4329460aa8dd2cc8b3ce51d132b072369
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

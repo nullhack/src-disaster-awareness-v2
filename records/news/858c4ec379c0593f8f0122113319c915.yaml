@@ -1,0 +1,16 @@
+schema: 2
+id: 858c4ec379c0593f8f0122113319c915
+url: https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=13&eventtype=DR
+title: Event summary
+body: GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve awareness, information exchange and coordination in the first phase after major sudden-onset disasters.
+published_date: '2026-05-21'
+source: Global Disaster Alert and Coordination System
+domain: www.gdacs.org
+image: ''
+author: ''
+sitename: gdacs.org
+canonical_url: https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=13&eventtype=DR
+content_hash: 9715e9e129fff2e6e8cdb8434c891de145baea42eb485204388aa74c8376f350
+is_aggregator: false
+log_dates:
+- '2026-11-16'

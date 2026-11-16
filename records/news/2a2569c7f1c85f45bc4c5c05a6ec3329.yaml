@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.kctv5.com/video/2026/08/18/severe-weather-threat-looms-overnight-with-chance-heavy-rain-flooding-more
 content_hash: c1cc66a1b5121e31e1b31b7e9341dcb7e5f01574ef01b734e84bebc1e27663bb
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

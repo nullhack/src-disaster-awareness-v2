@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.ntnews.com/national/a-massive-earthquake-occurred-in-south-peru-2489854
 content_hash: 1e33dc7a294b1674b5a49f99781ccc3c92ef5f12c7e1d6f00379a16ec745fe6d
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://wgno.com/weather/lack-of-rain-only-worsens-the-latest-drought-monitor
 content_hash: 5fbeeb6436d5d6e27462ba5d5565c07ca20fbab3b70c8ea75b65558133452b30
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

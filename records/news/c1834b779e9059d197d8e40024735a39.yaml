@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.wpbf.com/article/labor-day-severe-weather-in-palm-beaches-treasure-coast-september-7-2026/73634310
 content_hash: 822cee42a7bb8138cd4fdf9f71ca93efa7f873137060a805cf25315e87c0c95c
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

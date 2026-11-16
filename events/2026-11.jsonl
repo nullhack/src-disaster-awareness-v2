@@ -280,3 +280,149 @@
 {"at": "2026-11-16T13:25:12Z", "report_id": "f50f413f9a735cd4855f218df4a038e5", "source": "GDACS", "source_id": "1033883", "type": "report_ingested"}
 {"at": "2026-11-16T13:25:12Z", "report_id": "fa7db44f1c5a5684a4cf0c046666b174", "source": "GDACS", "source_id": "1033882", "type": "report_ingested"}
 {"at": "2026-11-16T13:25:12Z", "report_id": "bf67391c96de5eccadc87047faeb62c8", "source": "GDACS", "source_id": "1104285", "type": "report_ingested"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "d1444b41e05754e0a46ddab2753ffa0a", "type": "news_ingested", "url": "https://www.myjoyonline.com/el-nino-west-african-governments-urged-to-prepare-for-food-and-health-threats/"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "name": "Incident 3297d2d3", "type": "incident_created"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "d1444b41e05754e0a46ddab2753ffa0a", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "report_id": "a0e3912b49435acc987a20a3dc15ea38", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "858c4ec379c0593f8f0122113319c915", "type": "news_ingested", "url": "https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=13&eventtype=DR"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "858c4ec379c0593f8f0122113319c915", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "report_id": "a0e3912b49435acc987a20a3dc15ea38", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "1754ffb1b4bc5712921700f5cc4898b5", "type": "news_ingested", "url": "https://eastleighvoice.co.ke/regional/423179/drought-conflict-threaten-emergency-level-food-insecurity-in-tigray-report"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "1754ffb1b4bc5712921700f5cc4898b5", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "3297d2d388534125bba81556259f4256", "report_id": "a0e3912b49435acc987a20a3dc15ea38", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "e4440a4ee19150c6871b03279940137b", "type": "news_ingested", "url": "https://www.bloomberg.com/news/articles/2026-11-16/congo-ebola-outbreak-2026-record-crisis-defies-control-six-months-in"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "e4440a4ee19150c6871b03279940137b", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "153908bb9e6150998b43116259d9959d", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "153908bb9e6150998b43116259d9959d", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "153908bb9e6150998b43116259d9959d", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "67eef9baf0ad55269754a8a7bf60eedf", "type": "news_ingested", "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "67eef9baf0ad55269754a8a7bf60eedf", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "153908bb9e6150998b43116259d9959d", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "861f6071032d51bfa24ee450592ae74b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "861f6071032d51bfa24ee450592ae74b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "861f6071032d51bfa24ee450592ae74b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "861f6071032d51bfa24ee450592ae74b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "3b69e486bf63577db3256597b6f72033", "type": "news_ingested", "url": "https://travel.yahoo.com/advice/safety/articles/infection-outbreak-triggers-level-2-040300625.html;_ylt=A2RQfYpIDftq2AIAVaTQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEEdnRpZAMEc2VjA3Ny"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "80de1a97a55c5febbc9cf43f8310b4d6", "news_id": "3b69e486bf63577db3256597b6f72033", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "80de1a97a55c5febbc9cf43f8310b4d6", "report_id": "e9e91d72b1dd5c539371e17de6ab7166", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "26b1957a57a4532fb1de33fc433ec354", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control/ar-AA2huABR?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "26b1957a57a4532fb1de33fc433ec354", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "f266e199a46e5802ae4e9e1121396e1b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "216c0d698c1555c0b798ac0ed1901968", "type": "news_ingested", "url": "https://telanganatoday.com/dr-congo-ebola-outbreak-spreads-to-remote-areas-as-violence-hampers-response"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "216c0d698c1555c0b798ac0ed1901968", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "f266e199a46e5802ae4e9e1121396e1b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "f266e199a46e5802ae4e9e1121396e1b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "f266e199a46e5802ae4e9e1121396e1b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "f266e199a46e5802ae4e9e1121396e1b", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "c9c54fafdd915cd4b6c65a6c3e98f354", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "c9c54fafdd915cd4b6c65a6c3e98f354", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "c9c54fafdd915cd4b6c65a6c3e98f354", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "c9c54fafdd915cd4b6c65a6c3e98f354", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "c9c54fafdd915cd4b6c65a6c3e98f354", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d524d60e67e3505ba00b77190675d3da", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d524d60e67e3505ba00b77190675d3da", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d524d60e67e3505ba00b77190675d3da", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d524d60e67e3505ba00b77190675d3da", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d524d60e67e3505ba00b77190675d3da", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a128ab331f335ba2999704982064be22", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a128ab331f335ba2999704982064be22", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a128ab331f335ba2999704982064be22", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "e4124e8f691f5d5db1ca9f6560f09d7c", "type": "news_ingested", "url": "https://www.inquirer.com/news/nation-world/ebola-congo-deadliest-outbreak-uncontrolled-20261115.html"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "e4124e8f691f5d5db1ca9f6560f09d7c", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a128ab331f335ba2999704982064be22", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "news_id": "2ec9adf331b25ac3a8daa328ab7552df", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/cruise-ship-passenger-linked-to-hantavirus-infection/vi-AA23b6Rx?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "b1a7f2cb68cc531ba1d9be66fd646c6c", "news_id": "2ec9adf331b25ac3a8daa328ab7552df", "type": "news_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "b1a7f2cb68cc531ba1d9be66fd646c6c", "report_id": "3f2be6faf925510c9354dae764ba5346", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a2a36743f5cf5cb88e826eaf61778c2a", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a2a36743f5cf5cb88e826eaf61778c2a", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a2a36743f5cf5cb88e826eaf61778c2a", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "a2a36743f5cf5cb88e826eaf61778c2a", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d63e619dff4057ca833e17e12d5af845", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d63e619dff4057ca833e17e12d5af845", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d63e619dff4057ca833e17e12d5af845", "type": "report_linked"}
+{"at": "2026-11-16T14:01:01Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "d63e619dff4057ca833e17e12d5af845", "type": "report_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "ab30bc0761b9527cb50ea427b079de61", "type": "news_ingested", "url": "https://www.dhakastream.net/health/dengue-claims-3-more-lives-toll-rises-502-201316"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "ab30bc0761b9527cb50ea427b079de61", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "8d89168582415325a3a86b2f2ed98774", "type": "news_ingested", "url": "https://www.daily-sun.com/health/909321/dengue-death-toll-nears-500-this-year"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "8d89168582415325a3a86b2f2ed98774", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "7c0a2853279157b3904ed2900ad55122", "type": "news_ingested", "url": "https://www.dhakastream.net/health/dengue-toll-inches-towards-500-eight-more-succumb-day-201271"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "7c0a2853279157b3904ed2900ad55122", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "94bdfaa69ebb5474a5233043872dd91a", "type": "news_ingested", "url": "https://www.daily-sun.com/health/909492/dengue-death-toll-crosses-500-this-year"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "94bdfaa69ebb5474a5233043872dd91a", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "f5ad59e6c32e598e81f72a3ab4c7ec44", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/live-cyclone-akvan-may-form-today-turn-very-severe-in-3-days-says-imd/ar-AA2huU29?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "f5ad59e6c32e598e81f72a3ab4c7ec44", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "685e45426d285d49bfb8013035993f70", "type": "news_ingested", "url": "https://www.moneycontrol.com/education/cyclone-akvan-explained-what-does-the-name-mean-who-named-it-and-why-is-the-bay-of-bengal-storm-called-akvan-article-14080809.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "685e45426d285d49bfb8013035993f70", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "c166a59d8bb155dba2d4ab1966a4c41f", "type": "news_ingested", "url": "https://www.indiatoday.in/topic/cyclone-akvan"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "c166a59d8bb155dba2d4ab1966a4c41f", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "a8041fad71dc597c9722cd8c1d2979c3", "type": "news_ingested", "url": "https://www.outlookindia.com/national/cyclone-akvan-explained-bay-of-bengal-storm-tracker-andhra-pradesh-odisha-rainfall-forecast-cyclone-naming-process"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "a8041fad71dc597c9722cd8c1d2979c3", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "eb10881e39ee5f4e9d76d65568b8623a", "type": "news_ingested", "url": "https://www.educationtimes.com/news/cyclone-akvan-explained-meaning-origin-of-the-name-and-who-named-the-bay-of-bengal-storm/articleshow/135869740.cms"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "eb10881e39ee5f4e9d76d65568b8623a", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "13a0d3d4584754e1aa8232b6d54e72e5", "type": "news_ingested", "url": "https://www.msn.com/en-us/money/general/southwest-sees-sharp-decline-in-hydropower-amid-ongoing-drought/ar-AA2hwhWB?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "13a0d3d4584754e1aa8232b6d54e72e5", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "ca88df2384bc53518b2b99891aea8447", "type": "news_ingested", "url": "https://www.newindianexpress.com/states/karnataka/2026/Nov/16/karnataka-drought-delays-migratory-birds-visit-to-and-sanctuaries-this-winter"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "ca88df2384bc53518b2b99891aea8447", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "99bafff8240f50139c2b40207de646a6", "type": "news_ingested", "url": "https://ijr.com/discover/communities-urge-water-conservation-amid-drought-sewer-costs-6ba1fa14"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "99bafff8240f50139c2b40207de646a6", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "7a9c2f85c8a256058ee30576905dff1f", "type": "news_ingested", "url": "https://newsinfo.inquirer.net/2342315/bohol-eyes-state-of-calamity-as-el-nino-damage-reaches-p360m"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "7a9c2f85c8a256058ee30576905dff1f", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "863ef0a20e6b577794bfc2c89ce18dac", "type": "news_ingested", "url": "https://www.yahoo.com/news/science/articles/part-5-arbuckle-reservoir-matagorda-125500331.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "863ef0a20e6b577794bfc2c89ce18dac", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "c1a9aed7b4365239a0513c5c0caeac37", "type": "news_ingested", "url": "https://www.msn.com/en-za/news/other/water-allocation-cuts-announced-for-western-cape-as-concern-mounts-over-declining-dam-storage/ar-AA2hxq7P?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "c1a9aed7b4365239a0513c5c0caeac37", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "9d68caf2533a5f029e503e8e5b796269", "type": "news_ingested", "url": "https://www.msn.com/en-xl/africa/nigeria/ebola-outbreak-kills-over-5400-in-dr-congo-as-conflict-hampers-response/ar-AA2hutpW?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "9d68caf2533a5f029e503e8e5b796269", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "e4d565ea6f185724b8d16d4be9970816", "type": "news_ingested", "url": "https://www.dailynebraskan.com/news/nebraska-forest-service-rebuilds-after-historic-wildfires-this-year/article_9a642a33-de33-4b8f-a44e-dc615010318b.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "e4d565ea6f185724b8d16d4be9970816", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "db38ddeb9077518f9062fcb5f3d3c69a", "type": "news_ingested", "url": "https://www.thejakartapost.com/world/2026/11/16/president-prabowo-conveys-apology-to-singapore-malaysia-over-wildfire-haze"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "db38ddeb9077518f9062fcb5f3d3c69a", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "b7d243a8d888512d902d05178ac2d1fd", "type": "news_ingested", "url": "https://www.ksl.com/article/news/utah/environment/fire-seasons-are-becoming-fire-years-will-congress-act/51645794"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "b7d243a8d888512d902d05178ac2d1fd", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "894fed50be5f5780b03fd5bfb54b5a29", "type": "news_ingested", "url": "https://www.msn.com/en-ph/news/other/indonesia-apologizes-to-malaysia-singapore-over-wildfire-haze/ar-AA2hvSN7?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "894fed50be5f5780b03fd5bfb54b5a29", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "ad7c215bafc658f68f976b75ee38e894", "type": "news_ingested", "url": "https://english.elpais.com/usa/2026-11-16/what-would-happen-if-puerto-rico-looked-more-towards-the-antilles.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "ad7c215bafc658f68f976b75ee38e894", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "2b45a9d33f305f0990b01bb0d0dff02a", "type": "news_ingested", "url": "https://lasvegassun.com/news/2026/nov/13/bombings-in-russia-kill-a-military-officer-and-inj/"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "2b45a9d33f305f0990b01bb0d0dff02a", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "d63af0a5477a5d499bf361b3ff70c56e", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/zelensky-appeals-trump-musk-lift-113108664.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "d63af0a5477a5d499bf361b3ff70c56e", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "35f95c0515a050088b9312d7789c8555", "type": "news_ingested", "url": "https://www.msn.com/en-xl/money/general/flood-hit-rasuwagadhi-hydropower-s-cumulative-loss-reaches-rs-2-87-billion/ar-AA2hxk8H?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "35f95c0515a050088b9312d7789c8555", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "0cb69407582f5ac2ac10c79e090d698e", "type": "news_ingested", "url": "https://maritime-executive.com/editorials/flash-flood-warning-in-nepal-came-far-too-late-how-could-it-be-improved"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "0cb69407582f5ac2ac10c79e090d698e", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "7eca1ca00fd2572d8a656cf7af5ed764", "type": "news_ingested", "url": "https://www.upi.com/News_Photos/view/upi/b076a65583ded401f55b04237f763928/Nepali-rescue-teams-pull-survivors-from-deadly-Himalayan-glacial-floods/"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "7eca1ca00fd2572d8a656cf7af5ed764", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "07689654e8e1593ba42e694f59749464", "type": "news_ingested", "url": "https://colombiaone.com/2026/11/15/can-the-shamonda-virus-detected-in-a-human-in-france-reach-the-americas/"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "08e51208cb5c41daa06a3c14df4a0661", "news_id": "07689654e8e1593ba42e694f59749464", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "9195df9768e7523c8a25d1883c6839af", "type": "news_ingested", "url": "https://travel.yahoo.com/advice/safety/articles/infection-outbreak-triggers-level-2-040300625.html;_ylt=A2RQhbYOEftq_QIApW3QtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEEdnRpZAMEc2VjA3Ny"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "c7c537cf25114dbf8531a4aec164b085", "news_id": "9195df9768e7523c8a25d1883c6839af", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "83d1acb8af2a540398566c99ceb81687", "type": "news_ingested", "url": "https://www.indiatvnews.com/news/india/bay-of-bengal-cyclone-alert-imd-warns-of-severe-cyclonic-storm-4-states-brace-for-heavy-rainfall-2026-11-16-1059554"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "83d1acb8af2a540398566c99ceb81687", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "05e942ef7f09588aa3d8134d6b06e96a", "type": "news_ingested", "url": "https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "05e942ef7f09588aa3d8134d6b06e96a", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "1c25bbb76deb5502b31d767cb7a50288", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/slow-heavy-storms-could-bring-120912445.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "1c25bbb76deb5502b31d767cb7a50288", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "7b112a9175aa56db956709e338312261", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/live-cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-on-nov-20-as-very-severe-cyclonic-storm/ar-AA2huU29?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "7b112a9175aa56db956709e338312261", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "1d16bdb6fba75a9cabad1774a3f79929", "type": "news_ingested", "url": "https://www.moneycontrol.com/city/severe-cyclone-akvan-to-bring-heavy-rains-to-chennai-tamil-nadu-districts-imd-article-14080921.html"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "1d16bdb6fba75a9cabad1774a3f79929", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "224370a30385509a82fc1ee66a68274e", "type": "news_ingested", "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "224370a30385509a82fc1ee66a68274e", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "d619dacba5e35664afbb71edd74f97b4", "type": "news_ingested", "url": "https://www.severe-weather.eu/global-weather/intense-zonal-flow-jet-stream-atlantic-storms-heavy-rain-europe-november-2026-mk/"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "d619dacba5e35664afbb71edd74f97b4", "type": "news_linked"}
+{"at": "2026-11-16T14:06:25Z", "news_id": "678bed9ad0a25fe9a2f2860192b657f5", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/cyclone-akvan-when-and-where-will-the-cyclone-make-landfall-date-time-and-location/ar-AA2hw7jD?ocid=BingNewsVerp"}
+{"at": "2026-11-16T14:06:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "678bed9ad0a25fe9a2f2860192b657f5", "type": "news_linked"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "028aa4b82a6f4a5ab8221414723ba24b", "log_date": "2026-11-16", "news": 6, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "log_date": "2026-11-16", "news": 3, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "292b6914941d46ebaad75a590f18f204", "log_date": "2026-11-16", "news": 14, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "2cedb4ff217b424288a8bcb1e7240b12", "log_date": "2026-11-16", "news": 11, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-16", "news": 3, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "3297d2d388534125bba81556259f4256", "log_date": "2026-11-16", "news": 3, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "4fdd952a2a3f43ce95b8d35e423d2e19", "log_date": "2026-11-16", "news": 8, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "log_date": "2026-11-16", "news": 6, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "958c61ef29644d69af501240d5eba680", "log_date": "2026-11-16", "news": 9, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "cf976147e6724a9a9757afc517043e91", "log_date": "2026-11-16", "news": 9, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-16", "news": 6, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "da225cf9e73441ec86fddff2036068b0", "log_date": "2026-11-16", "news": 3, "type": "log_created"}
+{"at": "2026-11-16T14:21:32Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-16", "news": 4, "type": "log_created"}

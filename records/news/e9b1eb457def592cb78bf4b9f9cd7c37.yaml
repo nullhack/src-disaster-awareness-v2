@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/other/video-from-colombia-quake-falsely-linked-to-peru-tremor/ar-AA2aWif3
 content_hash: 1cb1db30a3cc80667714f84df84a44c8d95bec47a27f53599dd3b1e7aa369fc5
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

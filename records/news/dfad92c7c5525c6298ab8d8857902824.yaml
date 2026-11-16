@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.kitv.com/news/hurricane-lala-closures-and-evacuation-shelters-in-hawaii/article_edd0220c-1543-4928-bf70-8b6cf398ddb2.html
 content_hash: 0b9fed41e3b121c34c7ff6a6de2f4a3bee275273836ba89569020570f17077ef
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

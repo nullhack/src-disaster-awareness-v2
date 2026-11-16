@@ -10,7 +10,7 @@ region: Europe
 first_seen: '2026-01-01'
 event_date: '2026-07-27'
 last_verified_update: '2026-10-17'
-latest_coverage_at: '2026-11-14'
+latest_coverage_at: '2026-11-16'
 status_changed_at: '2026-10-17'
 summary: France's insurance federation reported that the summer wildfires resulted in around 22,500 insurance claims, with total losses estimated at up to 563 million euros ($634 million).
 summary_updated: '2026-10-17'
@@ -28,30 +28,30 @@ external_keys:
 - source: ERCC
   source_id: '5738'
   report_id: 5dd080650d8b5874a0d91cabb303e6bf
-- source: GDACS
-  source_id: '1029958'
-  report_id: ead76339587b55fd8ba8550ae9eda0f6
-- source: ERCC
-  source_id: '5742'
-  report_id: 93d3624ea1ac5f53af4af9805dfbc681
-- source: ERCC
-  source_id: '5744'
-  report_id: a13cb8dafd2f56dca4f7bf851fac042a
 - source: ERCC
   source_id: '5747'
   report_id: 87c926acc1d857cb95310c483740c4c1
 - source: ERCC
-  source_id: '5767'
-  report_id: c5175b0e06ab53dabcb69e4cc2db4d9d
+  source_id: '5742'
+  report_id: 93d3624ea1ac5f53af4af9805dfbc681
 - source: ERCC
   source_id: '5795'
   report_id: 99c2d96872915ea6af63a69bbf46753d
 - source: ERCC
+  source_id: '5744'
+  report_id: a13cb8dafd2f56dca4f7bf851fac042a
+- source: ERCC
   source_id: '5833'
   report_id: a7c81d9d4eb350e2a4a52fe7df048a06
+- source: ERCC
+  source_id: '5767'
+  report_id: c5175b0e06ab53dabcb69e4cc2db4d9d
+- source: GDACS
+  source_id: '1029958'
+  report_id: ead76339587b55fd8ba8550ae9eda0f6
 coverage_counts:
   reports: 8
-  news: 1181
+  news: 1185
   logs: 13
   official_sources: 2
 created_at: '2026-01-01T00:00:00Z'

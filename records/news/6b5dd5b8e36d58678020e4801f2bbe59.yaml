@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.timesnownews.com/world/peru-earthquake-strong-6-7-magnitude-quake-rocks-upahuacho-in-peru-article-155912521
 content_hash: c5bb5fd67cc1b88ce6e06b325818cc72fd29d15f3e174eb8c190f088add5fea7
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

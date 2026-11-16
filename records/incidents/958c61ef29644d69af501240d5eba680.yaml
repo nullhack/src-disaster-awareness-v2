@@ -1,6 +1,6 @@
 schema: 2
 id: 958c61ef29644d69af501240d5eba680
-status: dormant
+status: active
 display_name: Blue Devils stuff Tulane 17-3 in home opener for 2026 season
 slug: blue-devils-stuff-tulane-17-3-in-home-opener-for-2026-season
 incident_type: Unknown
@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2026-09-05'
 event_date: '2026-09-05'
-last_verified_update: '2026-09-10'
-latest_coverage_at: '2026-09-11'
-status_changed_at: '2026-09-10'
-summary: Potential severe storms are forecast for Friday night, with a threat of heavy rain continuing through the weekend and early next week. The Washington, D.C., region is under a severe thunderstorm threat due to persistent heat and humidity, and local alerts are in effect for isolated severe storms.
-summary_updated: '2026-09-10'
+last_verified_update: '2026-11-16'
+latest_coverage_at: '2026-11-16'
+status_changed_at: '2026-11-16T14:21:32Z'
+summary: Duke’s 2026 home opener against Tulane was delayed about 90 minutes as severe weather moved through central North Carolina on Saturday. After the delay, the Blue Devils beat Tulane 17-3, led by Nate Sheppard’s career-high 227 rushing yards.
+summary_updated: '2026-11-16'
 search_keys:
 - Severe Weather latest 2026
 - Severe Weather 2026
@@ -25,7 +25,7 @@ external_keys: []
 coverage_counts:
   reports: 0
   news: 13
-  logs: 1
+  logs: 2
   official_sources: 0
 created_at: '2026-09-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:21Z'

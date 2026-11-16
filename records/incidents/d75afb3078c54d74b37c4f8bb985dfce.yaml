@@ -9,13 +9,11 @@ country_name: Ecuador
 region: Americas
 first_seen: '2025-04-15'
 event_date: '2026-05-11'
-last_verified_update: '2026-11-15'
-latest_coverage_at: '2026-11-15'
+last_verified_update: '2026-11-16'
+latest_coverage_at: '2026-11-16'
 status_changed_at: '2026-11-15'
-summary: |-
-  An opinion piece urges California to modernize its water accounting systems to better handle drought shortages. The UN reports on the ongoing struggle and preparedness efforts in Central America's Dry Corridor, where farming families face severe rain deficits. The Philippines' El Niño-related drought losses are approaching ₱10 billion in farm damage.
-  Telangana Chief Minister Revanth Reddy met Prime Minister Modi on November 15 to seek drought relief as the state's agricultural crisis deepens. Ahus Island in Papua New Guinea suffers severe water shortages with dry creeks and contaminated rain, while Frankfurt's apple wine orchards are adapting to drought conditions. Colorado Springs Utilities drew down its water storage to the lowest level since 2014 to cope with persistent drought.
-summary_updated: '2026-11-15'
+summary: Bohol is seeking a state of calamity declaration after El Niño-driven drought damage there reached P360 million amid worsening drought projections. The Western Cape announced cuts to domestic and industrial water allocations of 7% and irrigation allocations of 15% as dam storage declines, while officials in Sooke and Bend urged residents to conserve water through the winter. Drought in Karnataka has delayed migratory bird arrivals at the Magadi Bird Sanctuary and Ankasamudra Bird Conservation Reserve this winter, and reporting along the Colorado River to Matagorda Bay focused on upstream communities conserving water for the next drought.
+summary_updated: '2026-11-16'
 search_keys:
 - Belize Drought latest 2026
 - Belize Drought 2026
@@ -27,19 +25,19 @@ genesis:
   source: GDACS
   source_id: '1027449'
 external_keys:
+- source: ERCC
+  source_id: '5835'
+  report_id: 4f55165eceb752a9b5e600013bf3b0ee
 - source: GDACS
   source_id: '1027449'
   report_id: c354147d8711521399704a007db460fa
 - source: ERCC
   source_id: '5763'
   report_id: de71476231625797a7b966d1455ef80c
-- source: ERCC
-  source_id: '5835'
-  report_id: 4f55165eceb752a9b5e600013bf3b0ee
 coverage_counts:
   reports: 3
-  news: 1159
-  logs: 83
+  news: 1165
+  logs: 84
   official_sources: 2
 created_at: '2025-04-15T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-xl/asia/pakistan/indonesia-records-over-2100-aftershockspublished-on-august-18-2026-1045-pm/ar-AA2apyAr
 content_hash: d2c0b191a024f1861595f3e498d83deacc71511d17693f9a6c334b393ae5d324
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

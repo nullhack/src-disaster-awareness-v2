@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.aljazeera.com/video/newsfeed/2026/7/23/ebola-death-toll-in-dr-congo-surpasses-1000
 content_hash: d6b6f665c78e9955140a14fbe737b12648ea93cc19e85a0f700ad02695a72601
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

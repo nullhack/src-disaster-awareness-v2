@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.applevalleynewsnow.com/news/level-3-go-now-evacuations-ordered-for-three-queens-fire-burning-more-than-880-acres/article_2bcbdbe0-4b62-47e6-a7a6-881682a634c8.html
 content_hash: 83c4a300ceb6cf6d81b820664d92461a6cc6bc9e7ef4267da614cf5a3dbe195a
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://apnews.com/photo-gallery/people-await-aid-after-powerful-earthquake-indonesia-photos-3696677a5dc54d5ab4dc52ff05e9b6fb
 content_hash: e0c34754768e5f787fe6c086f59f1022a04ca22c84d9c2e2d6f017d577ee34f1
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

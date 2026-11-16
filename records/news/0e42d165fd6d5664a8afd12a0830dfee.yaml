@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.daytondailynews.com/nation-world/indonesia-earthquake/image_c58e3ce1-7f81-5561-8c17-52df629e720b.html
 content_hash: 9fccac91e0302b0078e1af3a0411795e13bd395b6d464b9cd239c2d34e53aaf7
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

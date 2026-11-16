@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-gb/news/world/strong-7-2-earthquake-in-ayacucho-shakes-southern-peru-latest-details-and-aftershocks/ar-AA2aN0kr
 content_hash: 8dc0db36b53a0ad1379edb5b10fa6b7de21cf4296cf6e9a2b88e7cb03707ce4a
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

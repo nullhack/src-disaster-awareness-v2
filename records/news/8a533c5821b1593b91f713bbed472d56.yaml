@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://abc11.com/post/67-magnitude-earthquake-shakes-perus-southern-andes/19709314
 content_hash: 7c75dcea9894b3dfc4c3c24bb9bac4f96586db8e9d83dfd64bfe1f8be55e89d2
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

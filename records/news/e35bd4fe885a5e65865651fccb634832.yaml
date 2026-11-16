@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.usnews.com/news/world/articles/2026-07-22/congos-ebola-outbreak-has-killed-nearly-1-000-people
 content_hash: 97850e645b356ddc3b7c70b8a77fc5b52bda72f272dc3aa6e218ed1e09ee3317
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

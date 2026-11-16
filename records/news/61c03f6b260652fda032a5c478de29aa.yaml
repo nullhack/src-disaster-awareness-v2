@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.kxan.com/weather/austin-2026-weather-data
 content_hash: 55761092bf8e150e232428121be2d7244162762440f4ddb3ee70cc48b16d5a07
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

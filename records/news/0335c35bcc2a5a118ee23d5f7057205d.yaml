@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/world/peru-earthquake-leaves-three-injured-and-buildings-damaged/ar-AA2aDDx3
 content_hash: 85243e2dec581a5aab39ae4e2078942159896dbf26e9dd3c9a41237ca2f2fba2
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

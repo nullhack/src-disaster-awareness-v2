@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-us/news/world/a-magnitude-67-earthquake-has-shaken-perus-southern-andes-no-immediate-damages-reported/ar-AA2azXDu
 content_hash: bed3d91cfdc39897a72fcf392bed611aa0df03565473b065fb5f2c94de3acf15
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

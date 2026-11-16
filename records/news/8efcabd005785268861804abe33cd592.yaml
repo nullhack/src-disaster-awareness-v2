@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.sfgate.com/news/world/article/at-least-930-people-have-died-in-congo-s-ebola-22351807.php
 content_hash: 6abd2bed038e19b0bd7a53897c0bf6bae42d52c0940b9630911544fd58949d03
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

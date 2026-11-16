@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://hoodline.com/2026/08/wildfire-near-maple-grove-campground-forces-new-evacuations-in-millard-county
 content_hash: 8c7a12ecbbc0d8574f353d907c6dfb53a119d0d13d1d4546c0f08f68500e2e84
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

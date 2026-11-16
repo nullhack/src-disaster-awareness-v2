@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.usatoday.com/press-release/story/38018/as-ebola-death-toll-surpasses-930-within-two-months-nanoviricides-has-applied-to-the-dr-congo-regulatory-agency-for-approval-for-a-phase-ii-clinical-trial-of-nv-387-oral-gummies-as-a-treatment-for-ebo
 content_hash: 00dc813a66532a9530b75b94737441f2718ee22f59be36ea7c3e854263e7ccd3
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-16'

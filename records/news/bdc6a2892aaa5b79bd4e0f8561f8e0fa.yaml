@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-in/news/other/one-el-nino-india-can-handle-two-could-break-the-granary/ar-AA2hsdmz
 content_hash: cc8ee17d966b6c518f66635f1a7fadbaa8eb142916d9f9e5c1fb7771dc67caa6
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'

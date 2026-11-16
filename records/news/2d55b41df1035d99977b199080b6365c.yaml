@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.aol.com/articles/iowa-state-fair-prepared-rain-131615310.html
 content_hash: e6086d38284a723eb36c067eb69cf2dfe299faa635c05475c93c157a8756630b
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-16'
