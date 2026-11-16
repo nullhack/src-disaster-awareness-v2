@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import argparse
 import shutil
-from collections import Counter
 from dataclasses import dataclass, field
 from datetime import date, timedelta
 from pathlib import Path
@@ -10,7 +9,6 @@ from typing import Any
 
 from .countries import country_label, region_for_country
 from .util import (
-    as_dict,
     as_list,
     canonical_url,
     content_hash,
@@ -68,6 +66,8 @@ def _record_report(
         previous = tree.reports[report_id]
         if previous != data:
             tree.warnings.append(f"duplicate report id with different content: {report_id}")
+        if incident_id and tree.report_incident.get(report_id) is None:
+            tree.report_incident[report_id] = incident_id
         return
     tree.reports[report_id] = data
     tree.report_incident[report_id] = incident_id
@@ -79,21 +79,24 @@ def _record_news(
     incident_id: str | None,
     log_date: str | None,
     path: Path,
-) -> None:
+) -> str:
     news_id = str(data.get("id") or path.stem)
     if not news_id:
         tree.warnings.append(f"news without id: {path}")
-        return
-    if news_id in tree.news:
-        previous = tree.news[news_id]
-        if previous != data:
-            tree.warnings.append(f"duplicate news id with different content: {news_id}")
-    else:
-        tree.news[news_id] = data
+        return ""
+    if news_id in tree.news and tree.news[news_id] != data:
+        duplicate = f"{news_id}--{content_hash(data.get('url'), data.get('title'), data.get('body'))[:8]}"
+        tree.warnings.append(
+            f"duplicate news id with different content: {news_id} (preserved as {duplicate})"
+        )
+        news_id = duplicate
+        data = {**data, "id": news_id, "duplicate_of": news_id.split("--", 1)[0]}
+    tree.news.setdefault(news_id, data)
     if incident_id:
         tree.news_incidents.setdefault(news_id, set()).add(incident_id)
     if incident_id and log_date:
         tree.news_logs.setdefault(news_id, set()).add((incident_id, log_date))
+    return news_id
 
 
 def _scan_tree(source_root: Path) -> SourceTree:
@@ -140,10 +143,9 @@ def _scan_tree(source_root: Path) -> SourceTree:
             news_ids: list[str] = []
             for path in iter_yaml(log_dir / "news", recursive=False):
                 data = load_yaml(path)
-                news_id = str(data.get("id") or path.stem)
+                news_id = _record_news(tree, data, incident_id, log_date, path)
                 if news_id:
                     news_ids.append(news_id)
-                _record_news(tree, data, incident_id, log_date, path)
             tree.logs.setdefault(incident_id, {})[log_date] = {
                 "log_date": log_date,
                 "summary": str(log_data.get("summary") or ""),

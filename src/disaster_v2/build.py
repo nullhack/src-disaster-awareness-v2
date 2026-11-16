@@ -14,7 +14,7 @@ from .countries import country_label, region_for_country
 from .key_links import select_key_links, source_links
 from .render import render_site
 from .store import Store
-from .util import as_dict, as_list, max_date, min_date, utc_now_iso, write_json
+from .util import as_dict, as_list, max_date, utc_now_iso, write_json
 
 _ALERT_RANK = {"green": 1, "yellow": 2, "orange": 3, "red": 4}
 _NEWS_KEYS = ("id", "url", "title", "body", "published_date", "source", "domain", "image", "is_aggregator")
@@ -209,7 +209,7 @@ def _build_incident(store: Store, incident_id: str, *, as_of: str, config: dict[
     last_verified = max_date(*(log["log_date"] for log in log_views)) or str(incident.get("last_verified_update") or "")
     latest_coverage = max_date(
         *(item.get("published_date") for item in news_views),
-        *((log["log_date"] for log in log_views)),
+        *(log["log_date"] for log in log_views),
     ) or last_verified
     status = _status_for(last_verified, as_of)
     coverage_dates = [str(item.get("published_date") or "")[:10] for item in news_views if item.get("published_date")]

@@ -1,0 +1,89 @@
+name: News submission
+description: Send a news article that should be linked to a disaster incident.
+title: "News submission: "
+labels: ["submission-pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. A person reviews uncertain submissions. This is not an emergency channel.
+  - type: input
+    id: url
+    attributes:
+      label: Article URL
+      description: The full link to the article.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: headline
+    attributes:
+      label: Headline (optional)
+      description: Only if the page title is ambiguous.
+      placeholder: Headline
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category hint (optional)
+      description: The classifier is still the primary decision.
+      options:
+        - Let the AI classify
+        - Earthquake
+        - Flood
+        - Tropical cyclone
+        - Wildfire
+        - Drought
+        - Landslide
+        - Disease outbreak
+        - Volcano
+        - Tsunami
+        - Other
+    validations:
+      required: false
+  - type: dropdown
+    id: country
+    attributes:
+      label: Country hint (optional)
+      description: Used only if the article text does not identify a country.
+      options:
+        - None
+        - Afghanistan
+        - Argentina
+        - Australia
+        - Bangladesh
+        - Brazil
+        - Canada
+        - Chile
+        - China
+        - Colombia
+        - DR Congo
+        - Egypt
+        - Ethiopia
+        - France
+        - Germany
+        - Greece
+        - India
+        - Indonesia
+        - Iran
+        - Italy
+        - Japan
+        - Kenya
+        - Mexico
+        - Nepal
+        - Nigeria
+        - Pakistan
+        - Peru
+        - Philippines
+        - Somalia
+        - South Africa
+        - Spain
+        - Sudan
+        - Türkiye
+        - Ukraine
+        - United Kingdom
+        - United States
+        - Yemen
+    validations:
+      required: false

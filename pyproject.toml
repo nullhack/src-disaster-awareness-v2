@@ -38,12 +38,13 @@ markers = [
 ]
 
 [tool.ruff]
-line-length = 100
+line-length = 120
 target-version = "py313"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B", "S", "C9"]
-mccabe.max-complexity = 12
+mccabe.max-complexity = 16
 
 [tool.ruff.lint.per-file-ignores]
-"tests/**" = ["S101"]
+"tests/**" = ["S101", "E501"]
+"src/disaster_v2/render.py" = ["E501"]

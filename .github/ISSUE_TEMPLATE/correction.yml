@@ -1,0 +1,38 @@
+name: Correction request
+description: Report a wrong place, date, scope, or link on an incident page.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections are reviewed by a person. Include the incident page URL and the specific problem.
+  - type: input
+    id: incident
+    attributes:
+      label: Incident
+      description: Paste the incident page URL or ID.
+      placeholder: https://nullhack.github.io/src-disaster-awareness-v2/i/...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Combines unrelated events
+        - Links an unrelated article
+        - Wrong place
+        - Wrong date
+        - Broken link
+        - Outdated summary
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change?
+      description: Be specific. Link the source if you have one.
+    validations:
+      required: true

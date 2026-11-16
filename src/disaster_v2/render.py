@@ -2,17 +2,25 @@ from __future__ import annotations
 
 import html
 import json
-from datetime import date, datetime, timezone
+from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote, urlparse
+from urllib.parse import urlparse, urlsplit
 
-from .countries import country_label
 from .util import as_dict, as_list, load_json
 
 
 def _h(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
+
+
+def _safe_url(value: object) -> str:
+    text = str(value or "").strip()
+    try:
+        parsed = urlsplit(text)
+    except ValueError:
+        return "#"
+    return text if parsed.scheme in {"http", "https"} and parsed.netloc else "#"
 
 
 def _json(value: object) -> str:
@@ -44,6 +52,24 @@ def _human_month(value: str) -> str:
     return parsed.strftime("%b %Y")
 
 
+def _rfc822(value: str) -> str:
+    text = (value or "").strip()
+    if not text:
+        return ""
+    parsed: datetime | None = None
+    try:
+        parsed = datetime.fromisoformat(text.replace("Z", "+00:00"))
+    except ValueError:
+        try:
+            parsed = datetime.fromisoformat(f"{text[:10]}T00:00:00+00:00")
+        except ValueError:
+            return ""
+    if parsed.tzinfo is None:
+
+        parsed = parsed.replace(tzinfo=UTC)
+    return parsed.astimezone(UTC).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+
 def _human_datetime(value: str) -> str:
     text = (value or "").strip()
     if not text:
@@ -52,7 +78,7 @@ def _human_datetime(value: str) -> str:
         parsed = datetime.fromisoformat(text.replace("Z", "+00:00"))
     except ValueError:
         return _human_date(text)
-    parsed = parsed.astimezone(timezone.utc)
+    parsed = parsed.astimezone(UTC)
     return parsed.strftime("%d %b %Y %H:%M UTC").lstrip("0")
 
 
@@ -328,7 +354,7 @@ def _key_links_html(detail: dict[str, Any]) -> str:
         cards.append(
             f"""<li class="key-link">
   <div class="key-link__top">{_tier_badge(str(link.get('tier') or 'news'))}<span class="reason">{_h(link.get('reason'))}</span></div>
-  <a href="{_h(link.get('url'))}" rel="noopener noreferrer">{_h(link.get('label'))}</a>
+  <a href="{_h(_safe_url(link.get('url')))}" rel="noopener noreferrer">{_h(link.get('label'))}</a>
   <p class="meta">{_h(link.get('source'))}{(' · ' + _human_date(str(link.get('date') or ''))) if link.get('date') else ''}</p>
 </li>"""
         )
@@ -529,7 +555,7 @@ def _coverage_clusters_items(clusters: list[dict[str, Any]]) -> str:
         items.append(
             f"""<li class="coverage-cluster">
   <div class="cluster-main">
-    <a class="cluster-title" href="{_h(cluster.get('url'))}" rel="noopener noreferrer">{_h(cluster.get('title'))}</a>
+    <a class="cluster-title" href="{_h(_safe_url(cluster.get('url')))}" rel="noopener noreferrer">{_h(cluster.get('title'))}</a>
     <p class="meta">{_h(cluster.get('outlet'))} · {_h(outlet_text)} · {_h(date_text)}</p>
   </div>
   {article_links}
@@ -555,7 +581,7 @@ def render_coverage(
     )
     official = as_list(coverage.get("official"))
     official_items = "".join(
-        f'<li><a href="{_h(item.get("url"))}" rel="noopener noreferrer">{_h(item.get("label"))}</a><span class="meta">{_h(item.get("type"))} · {_human_date(str(item.get("date") or ""))}</span></li>'
+        f'<li><a href="{_h(_safe_url(item.get("url")))}" rel="noopener noreferrer">{_h(item.get("label"))}</a><span class="meta">{_h(item.get("type"))} · {_human_date(str(item.get("date") or ""))}</span></li>'
         for item in official
     ) or '<li class="empty">No official source links are available.</li>'
     updates = as_list(detail.get("updates"))
@@ -710,10 +736,10 @@ def render_feed(site: dict[str, Any], summaries: list[dict[str, Any]], as_of: st
     for item in summaries[:30]:
         url = _canonical(site, item["url"])
         items.append(
-            f"""<item><title>{_xml_escape(item.get('display_title'))}</title><link>{_xml_escape(url)}</link><guid>{_xml_escape(url)}</guid><pubDate>{_xml_escape(_human_date(str(item.get('last_verified_update') or as_of)))}</pubDate><description>{_xml_escape(item.get('summary_short') or '')}</description></item>"""
+            f"""<item><title>{_xml_escape(item.get('display_title'))}</title><link>{_xml_escape(url)}</link><guid>{_xml_escape(url)}</guid><pubDate>{_xml_escape(_rfc822(str(item.get('last_verified_update') or as_of)))}</pubDate><description>{_xml_escape(item.get('summary_short') or '')}</description></item>"""
         )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>{_xml_escape(site['title'])}</title><link>{_xml_escape(site['base_url'])}/</link><description>{_xml_escape(site['tagline'])}</description><lastBuildDate>{_xml_escape(_human_datetime(as_of))}</lastBuildDate>{''.join(items)}</channel></rss>
+<rss version="2.0"><channel><title>{_xml_escape(site['title'])}</title><link>{_xml_escape(site['base_url'])}/</link><description>{_xml_escape(site['tagline'])}</description><lastBuildDate>{_xml_escape(_rfc822(as_of))}</lastBuildDate>{''.join(items)}</channel></rss>
 """
 
 
