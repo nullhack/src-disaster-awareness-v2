@@ -1,29 +1,47 @@
 schema: 2
 incident_id: 13763def03ab448898154124734fe728
 log_date: '2026-11-17'
-summary: The USS Theodore Roosevelt arrived in the Middle East as a third U.S. aircraft carrier while Iran escalated threats and a tanker was struck in the Strait of Hormuz. Bahrain was rattled by a second Iranian drone attack, and U.S. intelligence reports said Iran was developing plans to detonate a dirty bomb in Washington and target senior Trump administration officials. Political fallout continued as a whistleblower alleged the Pentagon ignored warnings before a Kuwait drone attack killed six U.S. service members, Trump attacked CBS over its report, and JD Vance promised the war would not become a “forever war” and would end by 2028.
+summary: |-
+  The USS Theodore Roosevelt arrived in the Middle East as a third U.S. aircraft carrier while Iran escalated threats and a tanker was struck in the Strait of Hormuz. Bahrain was rattled by a second Iranian drone attack, and U.S. intelligence reports said Iran was developing plans to detonate a dirty bomb in Washington and target senior Trump administration officials. Political fallout continued as a whistleblower alleged the Pentagon ignored warnings before a Kuwait drone attack killed six U.S. service members, Trump attacked CBS over its report, and JD Vance promised the war would not become a “forever war” and would end by 2028.
+  Iran fired multiple one-way attack drones at a US radar facility at Sheikh Isa air base in Bahrain, described as a third round of strikes ending a roughly two-month lull; US Central Command said the drones were intercepted and US forces retaliated against Iranian targets along a key shipping route. Reporting on US intelligence alleging Iranian plans to detonate a "dirty bomb" in Washington targeting senior officials drew a warning from President Trump that Iran would pay a "major price," while a US lawmaker dismissed the threat as intimidation. Photographs published by Iranian media also suggested US forces may have used graphite "blackout bombs" against Iranian infrastructure in recent days.
 news_ids:
+- 01f752edb0e45a0eac28df45f0bfebb7
+- 0ff923a67b655790a6179657587a6a1b
+- 18b3e3d89cba5cf08055e74fd3e487d9
 - 200214bac0a75b6389114f4702d6a453
 - 214360b8292659fbb4cce93790338529
 - 29709f9eb71d52249f05063f66a39690
+- 3e9dd57728fe5251aff285950342d9da
 - 405c01f6c7575272ac24e20b3e3bf62d
+- 44a595c84bb45abba49b3527938bc38d
 - 5bc50acadb3359e2a02a9a8069f7e565
 - 654694c6e2b555c1819119f469630b24
 - 6b76a05e7f7e508381a796f8ac4c14c2
+- 6cd0b6cbd2a752a7aec31b4f02d8392b
 - 6d5c3c055dd556349680d56ce60ddd47
 - 7698007e37b85b6984f9f89f931e3450
 - 828aed3bc57b5615b8b8439bf9c1985a
 - 87742672661552978341f5dcb9ed061e
 - 887c07db45005dbebc1738f0f250a124
 - 8a3ba56685915f81a73e93df5557ebf6
+- 8c787bb8a732525e94d21a7f2cd58ef7
 - 911d031f6b945677afcedd24f1483ed2
+- 91a2b38de53d59928a2ba73970eada93
 - 9897aba3f90a5b298f3ac13ddf3e3da7
+- 9c59f93e173a5bebab61f15157b62dc9
+- 9ef419c9ec8f5d09a17f30a209f7e9a7
 - 9f75987c6b105023a8d1432dae260d94
+- acddcb300b9d5b2e9a19faf8abd39d20
+- adc813827b685df38fc277182ce07781
 - b86edebf24115d92afc5f3f828f9395e
+- bac356b9d6af534d94e526ca48d44b0b
 - c1112ab8d9905e6abaaac7bb80223f57
 - c1df9b13e52b5092ae69fa00cfd41b5b
+- cea924f799ff514b92c4403acda8ea91
 - d39af30d025d53b9adbdc19b550be990
+- d7958da50b6d5d2cbd0340658be464ad
 - f1103529fec951799cef05a566e0fa43
 - f1804d5bf3515400bcef123e06995fd2
 - f573eef7bb6e51049dbe070d35ea80bc
+- f81381eaaba458a884259353b4d1c1bc
 - faffdd02f04e53ad99acd947fc81dad0

@@ -12,4 +12,5 @@ sitename: The Asian Age
 canonical_url: https://dailyasianage.com/news/360212/dengue-death-toll-crosses-500
 content_hash: 7ef7ab7c932a6cf1818ac5efdda35092edd23f179e860729d1953b159a125dea
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-17'

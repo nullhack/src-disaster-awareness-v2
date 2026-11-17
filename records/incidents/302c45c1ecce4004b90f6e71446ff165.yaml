@@ -12,7 +12,9 @@ event_date: '2026-07-30'
 last_verified_update: '2026-11-17'
 latest_coverage_at: '2026-11-17'
 status_changed_at: '2026-11-14'
-summary: Powerful storms are expected to bring heavy mountain snow and possible flooding to western drought-affected regions this week. Colorado Springs is looking to a snowy winter to help replenish water reserves after avoiding drought restrictions despite widespread drought across Colorado. In Tennessee, damage from recent drought and extreme heat is showing up widely, including trees killed by unusually hot, dry fall weather.
+summary: |-
+  Powerful storms are expected to bring heavy mountain snow and possible flooding to western drought-affected regions this week. Colorado Springs is looking to a snowy winter to help replenish water reserves after avoiding drought restrictions despite widespread drought across Colorado. In Tennessee, damage from recent drought and extreme heat is showing up widely, including trees killed by unusually hot, dry fall weather.
+  Maharashtra ordered drought assessments across every district and declared four additional talukas drought-hit, while approving Rs 83.18 crore for 212 water supply schemes and Rs 400 crore for retrofitting. Drought expanded in central Illinois as rainfall deficits deepened, and Jackson, Mississippi’s water utility reported that drought is leading to more water main breaks. In Karnataka, Krishi Mela highlighted three new resilient crop varieties amid drought concerns, and a stolen car from 2010 was recovered from the Big Black River in Hinds County after drought lowered water levels.
 summary_updated: '2026-11-17'
 search_keys:
 - Drought latest 2026
@@ -30,7 +32,7 @@ external_keys:
   report_id: c5b147e478285c89a23256083b1a7d45
 coverage_counts:
   reports: 1
-  news: 704
+  news: 710
   logs: 71
   official_sources: 1
 created_at: '2026-01-01T00:00:00Z'

@@ -39,7 +39,7 @@ external_keys:
   report_id: eac53687ee165016b1fb0c2d80ab477b
 coverage_counts:
   reports: 4
-  news: 150
+  news: 153
   logs: 7
   official_sources: 2
 created_at: '2019-09-12T00:00:00Z'

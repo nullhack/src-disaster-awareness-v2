@@ -12,4 +12,5 @@ sitename: bioengineer.org
 canonical_url: https://bioengineer.org/sudan-dengue-outbreak-documents-13371-cases-across-ten-states-during-conflict
 content_hash: aaf7b5c18160fa1aecd85b69cd1c11e382e5a47f0ab6ef67aeeeea5d6dcbfc99
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-17'

@@ -10,7 +10,7 @@ region: Global
 first_seen: '2026-04-21'
 event_date: '2026-04-21'
 last_verified_update: '2026-11-16'
-latest_coverage_at: '2026-11-16'
+latest_coverage_at: '2026-11-17'
 status_changed_at: '2026-11-16'
 summary: A report warns that drought and conflict are threatening Emergency-level food insecurity in Tigray, while projecting some seasonal improvements in parts of southern and southeastern Ethiopia. Separately, experts urged West African governments to prepare for delayed rainfall, prolonged dry spells, and rising temperatures that could threaten harvests, water supplies, and public health in 2026–2027. A GDACS event summary provides only general disaster-awareness context without incident-specific details.
 summary_updated: '2026-11-16'
@@ -30,7 +30,7 @@ external_keys:
   report_id: a0e3912b49435acc987a20a3dc15ea38
 coverage_counts:
   reports: 1
-  news: 3
+  news: 8
   logs: 1
   official_sources: 1
 created_at: '2026-11-16T14:01:01Z'

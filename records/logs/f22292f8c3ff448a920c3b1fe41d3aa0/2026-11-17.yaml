@@ -1,15 +1,28 @@
 schema: 2
 incident_id: f22292f8c3ff448a920c3b1fe41d3aa0
 log_date: '2026-11-17'
-summary: Ukraine struck the Crimea bridge in what Russia called the war's largest drone attack, while President Zelensky said U.S. negotiators floated the idea of trading Ukrainian territory for NATO membership and appealed to Trump and Musk to lift Starshield "restrictions." Reporting also described a covert French mission training Ukrainian troops inside the country, car bombings in Moscow and St. Petersburg that killed a Russian military officer and critically injured an adviser to a former Ukrainian prime minister, and an early Russian bombing campaign aimed at stripping Kyiv and other cities of heat, water and sanitation this winter. Bunge Global separately reported damage to its oilseed refining facilities in Ukraine.
+summary: |-
+  Ukraine struck the Crimea bridge in what Russia called the war's largest drone attack, while President Zelensky said U.S. negotiators floated the idea of trading Ukrainian territory for NATO membership and appealed to Trump and Musk to lift Starshield "restrictions." Reporting also described a covert French mission training Ukrainian troops inside the country, car bombings in Moscow and St. Petersburg that killed a Russian military officer and critically injured an adviser to a former Ukrainian prime minister, and an early Russian bombing campaign aimed at stripping Kyiv and other cities of heat, water and sanitation this winter. Bunge Global separately reported damage to its oilseed refining facilities in Ukraine.
+  Ukraine struck the bridge linking mainland Russia to occupied Crimea for a second consecutive night, with President Zelenskyy confirming the operation targeted Russian defenses around the crossing and Moscow acknowledging structural damage to the span; Russian missiles, meanwhile, damaged two major bridges in Kyiv. The exchanges took place days before a planned Trump-Putin-Xi meeting, and Kushner described a US postwar plan for Ukraine resting on security guarantees, a path toward EU accession, and an economic recovery program. France's foreign minister also insisted Paris is not a "co-belligerent" despite French personnel training Ukrainian soldiers, while Russian lawmakers moved to toughen penalties for war-related offences.
 news_ids:
+- 0a4add00b1c05cdda2f267c71aaf36c9
+- 0b6fdfd2a23958a68f9e48289630c414
 - 0c598b05fd555e548b775f1d6ed248e0
+- 122c9f6206725dbd9748f7ddea67766e
 - 1d604c6d7091529f95cefe5e973e334c
 - 1f9fb433a4625aadbb25474c1ec18533
 - 2b45a9d33f305f0990b01bb0d0dff02a
 - 31c85c570a2b5b35b2e54a1b4d92971a
+- 36734b43513c5bc1b21f0caf5ebc06f5
+- 37e5a2568c45503b925c2fd2a3cb5a13
+- 7739d0bfaa77532e83feede0ce7ca379
 - 846c46a44795502aa6b3d4defeaa62c7
 - 876fe76785565f4882f3d7fd209a3599
 - 914ce05b05f95e1c9755948d4465e7ac
+- 97f8387c25095b359a4eab2f495886d5
+- ac93e1fc89985bf4acb8e11406af4a2f
+- b3e3571a61375519a82e9fdf12067aa5
 - ceccd807820a573cb2347b8d78073bdb
+- d2ebaba280895da08791ef60077df396
 - d63af0a5477a5d499bf361b3ff70c56e
+- e8ee6906a1c65612902cedcdff5fc389
