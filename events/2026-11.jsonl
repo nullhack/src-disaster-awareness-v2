@@ -426,3 +426,242 @@
 {"at": "2026-11-16T14:21:32Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-16", "news": 6, "type": "log_created"}
 {"at": "2026-11-16T14:21:32Z", "incident_id": "da225cf9e73441ec86fddff2036068b0", "log_date": "2026-11-16", "news": 3, "type": "log_created"}
 {"at": "2026-11-16T14:21:32Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-16", "news": 4, "type": "log_created"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "1f5c5a1b569551bcbcaeb5151003eb90", "source": "USGS", "source_id": "us7000tyqi", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "aa90d64850055f5c9fcadc6da5618f61", "source": "USGS", "source_id": "us7000tyq5", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "96325b67ef3a5895909030aeb39e6920", "source": "USGS", "source_id": "us7000tyns", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "source": "USGS", "source_id": "us7000tymu", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "07494f1505b457d5a78c034ac8acc27f", "source": "USGS", "source_id": "us7000tymc", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "0931b50e02815bb9b4a3f8000b996218", "source": "USGS", "source_id": "us7000tym8", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "0db4d1a2aefe537f9d31ba9c01144b19", "source": "USGS", "source_id": "us7000tykk", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "5bb8eec2316b529fbfafe5e4e6376f1e", "source": "USGS", "source_id": "us7000tykh", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "e1f3f080891b56aa8321197d7479af29", "source": "USGS", "source_id": "us7000tyjz", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "0492d4f8451b502b9df02dcb05f05c66", "source": "USGS", "source_id": "us7000tyjy", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "e6bd5e4b75255fb7a7e1a806aa866532", "source": "USGS", "source_id": "us7000tyjx", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "9a0c1c05197a5d36b65a0670c9076335", "source": "USGS", "source_id": "us7000tvt3", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "c89df52d8ba25977b189350a9ee0ddaa", "source": "USGS", "source_id": "us7000txlu", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "54c92420b4365fc1b7d6e164aabb2287", "source": "USGS", "source_id": "us7000tw1i", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "858002a1d95455d38c0ca2a2628dd924", "source": "USGS", "source_id": "us7000tw1g", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "97e7b12a4ae8589a9d5b2daf654b4ea2", "source": "GDACS", "source_id": "1577743", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "1ba0a43bce8957d3800b7aa17eb316de", "source": "GDACS", "source_id": "1577735", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "5c76f7e7ab1658f893b866e5449ca3e2", "source": "GDACS", "source_id": "1104287", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "113035edba5a5c65914a13a2a2a9c675", "source": "GDACS", "source_id": "1104286", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "60d95696d4345ace9c3a7fd8cb348963", "source": "GDACS", "source_id": "1033903", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "source": "GDACS", "source_id": "1001351", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "c90180c1bd0d5016933b3997aa29ca99", "source": "GDACS", "source_id": "1577702", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "5b316f77c3015fe492cd7e842e8d630a", "source": "GDACS", "source_id": "1577696", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "49e09383a5015a97b4c662fad48d477b", "source": "GDACS", "source_id": "1577706", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "2891d6e121ad5d43bcee38fa220720ff", "source": "GDACS", "source_id": "1577691", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "e7db1921caca5d0aa07d5953eb1df429", "source": "GDACS", "source_id": "1577669", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "213abf789edd54c288d2a64c735c7a35", "source": "GDACS", "source_id": "1577663", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "713baa6f1af35949a9951d9b721ed6e0", "source": "GDACS", "source_id": "1577651", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "5fb1cdb2d0325a0782ab33c271a8f627", "source": "GDACS", "source_id": "1577632", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "2d047ba58a5b57cabf7373d15bd7c094", "source": "GDACS", "source_id": "1577631", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "4a2cbeeda91859b8961377fc06d69f68", "source": "GDACS", "source_id": "1033902", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "f4aa9105e84156e8b4ce871635d8121a", "source": "GDACS", "source_id": "1033901", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "7dbcd22174af5f179317f085d26637be", "source": "GDACS", "source_id": "1033900", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "3d518d09bf4a586fbe42aa8ad74aabcb", "source": "GDACS", "source_id": "1033899", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "34eab2a7aa5451d39bb5040c7e9ea292", "source": "GDACS", "source_id": "1033898", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "c8f3673d5ec2581187355fdb5bb2ccbd", "source": "GDACS", "source_id": "1033897", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "af9dab7b33a452f99cae85d151490ec9", "source": "GDACS", "source_id": "1033896", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "f682a1f480a853458a100806d50cbc61", "source": "GDACS", "source_id": "1033895", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "7597110c71075a09b8f5fcc238c7d6e0", "source": "GDACS", "source_id": "1033894", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "e9895fadba9f59eca72923794c7ea5cc", "source": "GDACS", "source_id": "1033893", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "1a7a5b914a845b51ab565d4797c23279", "source": "GDACS", "source_id": "1033892", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "7cf3a0daa7075903b4f770c05d67dcae", "source": "GDACS", "source_id": "1033891", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "bd6f282883e65e688a92040e1882933c", "source": "GDACS", "source_id": "1033890", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "04a553ef7952549db728858d052af44a", "source": "GDACS", "source_id": "1033889", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "e807151edf1652f79f823c6e57da133e", "source": "GDACS", "source_id": "1033888", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "22644e76b95052a6aa87c9e76238b6fb", "source": "GDACS", "source_id": "1033887", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "554e01eae85b5b958d852270fb188812", "source": "GDACS", "source_id": "1033886", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:13Z", "report_id": "c1d62846edd85664a39f2e797d9a670b", "source": "ERCC", "source_id": "5845", "type": "report_ingested"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "a8fd5d1362755d8db8e4a63cc45fa4fb", "type": "news_ingested", "url": "https://www.exitosanoticias.pe/mundo/terremoto-magnitud-66-azota-indonesiamarina-guerra-pronuncia-sobre-alerta-tsunami-n188369"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "name": "Incident 7ff25bed", "type": "incident_created"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "a8fd5d1362755d8db8e4a63cc45fa4fb", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "a949371f6622572b9c023fa09f2e7f12", "type": "news_ingested", "url": "https://www.minuto60.com/mundo/terremoto-indonesia-hoy-16-noviembre-magnitud-epicentro/19048"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "a949371f6622572b9c023fa09f2e7f12", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "03c8d48c7f735c728ddb9220d97be42e", "type": "news_ingested", "url": "https://www.tvazteca.com/aztecanoticias/hay-alerta-de-tsunami-terremoto-de-magnitud-preliminar-66-sacude-indonesia/"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "03c8d48c7f735c728ddb9220d97be42e", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "6c5ece5de09455f1af7aacf90b19445b", "type": "news_ingested", "url": "https://berita.mediacorp.sg/dunia/gempa-68-richter-landa-laut-banda-gegaran-dirasai-di-timur-indonesia-1087671"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "6c5ece5de09455f1af7aacf90b19445b", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "c78c5f72cad15b80a515b1d3c71c9825", "type": "news_ingested", "url": "https://fakti.bg/en/world/1101633-an-earthquake-measuring-up-to-68-shook-indonesia"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "c78c5f72cad15b80a515b1d3c71c9825", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "9e1fa80ee52f513bbba497cbe4095506", "type": "news_ingested", "url": "https://www.observerbd.com/news/606694"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "9e1fa80ee52f513bbba497cbe4095506", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "bd053c6479c257eeb3d5b00f40361285", "type": "news_ingested", "url": "https://en.tempo.co/read/2123786/m7-1-earthquake-strikes-maluku-poses-no-tsunami-threat"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "bd053c6479c257eeb3d5b00f40361285", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "490a2835961553c7987973f75e1c3a67", "type": "news_ingested", "url": "https://ilkha.com/english/world/magnitude-66-earthquake-strikes-off-indonesia-no-tsunami-threat-reported-576319"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "490a2835961553c7987973f75e1c3a67", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "4e67fdfc025256609700e4ac00224194", "type": "news_ingested", "url": "https://www.aa.com.tr/en/asia-pacific/magnitude-66-earthquake-strikes-off-indonesias-tual/4127190"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "4e67fdfc025256609700e4ac00224194", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "d2e4d07b2022588b87ac3c7add60d920", "type": "news_ingested", "url": "https://jakartaglobe.id/news/71magnitude-earthquake-strikes-maluku-tremors-felt-in-papua"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "d2e4d07b2022588b87ac3c7add60d920", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "4e88a3f81f0a565384aba2156af699da", "type": "news_ingested", "url": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka-after-6-6-magnitude-quake-off-Indonesia/108-355026"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "4e88a3f81f0a565384aba2156af699da", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "3b1c6da2f65a542c9cfb7a9b4807360c", "type": "news_ingested", "url": "https://www.hindusthanpost.com/special/earthquake-alert-powerful-earthquake-strikes-near-the-city-of-tual-indonesia-what-is-the-level-of-risk/"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "3b1c6da2f65a542c9cfb7a9b4807360c", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "fb5dcb3ca0d956bd98081a467237d57e", "type": "news_ingested", "url": "https://www.primicias.ec/internacional/terremoto-sismo-indonesia-epicentro-norte-australia-137288/"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "fb5dcb3ca0d956bd98081a467237d57e", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "797fd5a72063558fad4489e0324a3cb4", "type": "news_ingested", "url": "https://www.news24.com.au/news/australia/tremors-have-rumbled-across-darwin-and-the-northern-territory-after-a-66magnitude-earthquake-hit-indonesia/news-story/14606af9873eddbf828461d3d2483537"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "797fd5a72063558fad4489e0324a3cb4", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "eec4424fa97953a8a778f224fd2fa7df", "type": "news_ingested", "url": "https://telugu.oneindia.com/news/international/earthquake-today-magnitude-6-6-on-the-richter-scale-struck-in-west-pacific-sea-of-tual-in-indonesia-515265.html"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "eec4424fa97953a8a778f224fd2fa7df", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "report_id": "9337dfaccc8252e7bd1ed659b7c5bbfc", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "a6238637b9e258bcab3a9b4d5895bf9c", "type": "news_ingested", "url": "https://english.dainikjagranmpcg.com/national/cyclone-akvan-andhra-pradesh-braces-for-landfall-on-november-20/article-44656"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "a6238637b9e258bcab3a9b4d5895bf9c", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "5a84bbc18a985b089d595044859cf1e2", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/India/live-weather-system-likely-to-turn-into-cyclone-akvan-today-odisha-orders-evacuation-ap-warns-fishermen/ar-AA2huU29?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "5a84bbc18a985b089d595044859cf1e2", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "4774bca9c44354cebf14c8aea05eb37c", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/cyclone-akvan-landfall-window-spans-310-miles-of-coast-bloggers-cite-ai-models-pointing-to-chennai/ar-AA2hzqdc?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "4774bca9c44354cebf14c8aea05eb37c", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "d9e19fa0af9852b394e70f4827961b46", "type": "news_ingested", "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-threatens-andhra-coast-after-arnab-and-murasu-know-the-meaning-and-origin-of-its-name-10336436"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "d9e19fa0af9852b394e70f4827961b46", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "type": "report_linked"}
+{"at": "2026-11-17T07:54:31Z", "news_id": "fff7db3b8b6d5f148b15574f610d5b76", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/from-rescue-teams-to-evacuations-how-odisha-is-preparing-for-cyclone-akvan-the-third-storm-in-three-weeks/ar-AA2hAn28?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "fff7db3b8b6d5f148b15574f610d5b76", "type": "news_linked"}
+{"at": "2026-11-17T07:54:31Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "report_id": "eac53687ee165016b1fb0c2d80ab477b", "type": "report_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "b7c9e204f08b543ca915750143ab31b6", "type": "news_ingested", "url": "https://dailyasianage.com/news/360212/dengue-death-toll-crosses-500"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "b7c9e204f08b543ca915750143ab31b6", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "1ff710be00a350a3993e01142e0dd74c", "type": "news_ingested", "url": "https://bioengineer.org/sudan-dengue-outbreak-documents-13371-cases-across-ten-states-during-conflict/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "1ff710be00a350a3993e01142e0dd74c", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "c1df9b13e52b5092ae69fa00cfd41b5b", "type": "news_ingested", "url": "https://www.pakistantoday.com.pk/2026/11/17/iranian-fm-meets-field-marshal-munir-as-pakistan-pursues-us-iran-peace-efforts"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "c1df9b13e52b5092ae69fa00cfd41b5b", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "911d031f6b945677afcedd24f1483ed2", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/iran-faces-worsening-gas-shortages-as-us-war-strains-economy-fuels-unrest-fears/ar-AA2hzhPW?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "911d031f6b945677afcedd24f1483ed2", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "f1804d5bf3515400bcef123e06995fd2", "type": "news_ingested", "url": "https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "f1804d5bf3515400bcef123e06995fd2", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "87742672661552978341f5dcb9ed061e", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/iran-weighs-dirty-bomb-chemical-235557658.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "87742672661552978341f5dcb9ed061e", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "5bc50acadb3359e2a02a9a8069f7e565", "type": "news_ingested", "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "5bc50acadb3359e2a02a9a8069f7e565", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "f1103529fec951799cef05a566e0fa43", "type": "news_ingested", "url": "https://www.travelweekly.com/Middle-East-Africa-Travel/no-relief-for-uae-and-saudi-hotels"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "f1103529fec951799cef05a566e0fa43", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "c1112ab8d9905e6abaaac7bb80223f57", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/donald-trump-tells-reporter-careful-211828432.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "c1112ab8d9905e6abaaac7bb80223f57", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "7698007e37b85b6984f9f89f931e3450", "type": "news_ingested", "url": "https://www.bizpacreview.com/2026/11/16/mr-president-end-the-iran-war-now-to-bring-inflation-down-1667713/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "7698007e37b85b6984f9f89f931e3450", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "faffdd02f04e53ad99acd947fc81dad0", "type": "news_ingested", "url": "https://www.aol.com/articles/donald-trumps-praying-soldiers-video-131124000.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "faffdd02f04e53ad99acd947fc81dad0", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "b86edebf24115d92afc5f3f828f9395e", "type": "news_ingested", "url": "https://indianexpress.com/article/world/world-news-today-live-updates-us-iran-war-dirty-bomb-plan-nvidia-crisis-us-flight-updates-10966151/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "b86edebf24115d92afc5f3f828f9395e", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "405c01f6c7575272ac24e20b3e3bf62d", "type": "news_ingested", "url": "https://www.iranintl.com/en/202611166572"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "405c01f6c7575272ac24e20b3e3bf62d", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "d39af30d025d53b9adbdc19b550be990", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/trump-s-pick-for-navy-secretary-likely-to-face-iran-war-questions-during-confirmation-hearing/ar-AA2hAFVw?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "d39af30d025d53b9adbdc19b550be990", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "654694c6e2b555c1819119f469630b24", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/khanna-proposes-1-700-iran-192245381.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "654694c6e2b555c1819119f469630b24", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "214360b8292659fbb4cce93790338529", "type": "news_ingested", "url": "https://www.newsday.com/news/nation/mideast-news-israel-gaza-iran-houthis-november-16-2026-s44129"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "214360b8292659fbb4cce93790338529", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "828aed3bc57b5615b8b8439bf9c1985a", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/donald-trump-just-got-handed-a-warning-end-the-iran-war-and-fix-the-economy-or-the-gop-faces-a-generational-defeat-in-2028/ar-AA2hz0jO?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "828aed3bc57b5615b8b8439bf9c1985a", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "9f75987c6b105023a8d1432dae260d94", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/how-trump-and-netanyahu-launched-the-2026-war-against-iran-the-first-72-hours-of-attacks-and-retaliation/vi-AA2hxkX1?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "9f75987c6b105023a8d1432dae260d94", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "8a3ba56685915f81a73e93df5557ebf6", "type": "news_ingested", "url": "https://www.msn.com/en-au/news/other/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases/ar-AA2hwV3X?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "8a3ba56685915f81a73e93df5557ebf6", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "9897aba3f90a5b298f3ac13ddf3e3da7", "type": "news_ingested", "url": "https://www.msn.com/en-xl/asia/pakistan/blasts-rattle-bahrain-after-iran-launches-drone-attackpublished-on-november-16-2026-1046-am/ar-AA2hw63g?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "9897aba3f90a5b298f3ac13ddf3e3da7", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "200214bac0a75b6389114f4702d6a453", "type": "news_ingested", "url": "https://www.realitytea.com/2026/11/16/trump-60-minutes-iran-war-report-cbs-backlash/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "200214bac0a75b6389114f4702d6a453", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "6b76a05e7f7e508381a796f8ac4c14c2", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/rasmussen-68-favor-ending-iran-military-campaign/ar-AA2hyINT?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "6b76a05e7f7e508381a796f8ac4c14c2", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "29709f9eb71d52249f05063f66a39690", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/jd-vance-promises-iran-won-t-turn-into-forever-war-and-trump-will-end-it-by-2028/ar-AA2hzMcp?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "29709f9eb71d52249f05063f66a39690", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "f573eef7bb6e51049dbe070d35ea80bc", "type": "news_ingested", "url": "https://www.washingtonpost.com/national-security/2026/11/16/third-us-aircraft-carrier-arrives-middle-east-iran-blockade-continues/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "f573eef7bb6e51049dbe070d35ea80bc", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "6d5c3c055dd556349680d56ce60ddd47", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/news/pentagon-ignored-warnings-before-iran-drone-killed-6-us-service-members-in-kuwait-whistleblower-claims/ar-AA2hwXBx?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "6d5c3c055dd556349680d56ce60ddd47", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "887c07db45005dbebc1738f0f250a124", "type": "news_ingested", "url": "https://time.com/article/2026/11/16/army-whistleblower-ramsbottom-port-shuaiba-warnings-iran-war-hegseth-democrats/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "887c07db45005dbebc1738f0f250a124", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "51ee3c20dcfa597f8156a25ff57cc7c1", "type": "news_ingested", "url": "https://www.renewableenergyworld.com/hydro-power/with-drought-in-the-colorado-river-basin-hydropower-in-the-southwest-hits-record-lows/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "51ee3c20dcfa597f8156a25ff57cc7c1", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "e0371f7975385a1893bb808a5ac3852c", "type": "news_ingested", "url": "https://www.crossroadstoday.com/news/drought-conditions-update-in-texas/article_0eee2b54-d08d-46f5-a02a-12d77725af44.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "e0371f7975385a1893bb808a5ac3852c", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "3c6af77682495a02875b5320b61effb4", "type": "news_ingested", "url": "https://www.monitor.co.ug/uganda/news/national/drought-deepens-hunger-domestic-violence-in-lamwo-5673378"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "3c6af77682495a02875b5320b61effb4", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "769a20ed23025aed8f82725158ba540e", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/drought-measures-sought-due-to-low-reservoir-levels/ar-AA2hzjBF?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "769a20ed23025aed8f82725158ba540e", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "379fe2f3f04951fcb459f32818a919ca", "type": "news_ingested", "url": "https://pr.valdostadailytimes.com/article/Invivyd-Reports-Third-Quarter-2026-Financial-Results-and-Recent-Business-Highlights/6afaf125cf37ec61d091b10f"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "news_id": "379fe2f3f04951fcb459f32818a919ca", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "e6a91da0a6f8558f9e55ea6ad934c1f2", "type": "news_ingested", "url": "https://www.gurufocus.com/news/9201618/invivyd-inc-reports-q3-2026-revenue-of-154-million-exceeding-estimates-net-loss-per-share-narrower-at-010"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "news_id": "e6a91da0a6f8558f9e55ea6ad934c1f2", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "3fd5e0e038d352beaaf85534307faee7", "type": "news_ingested", "url": "https://www.modbee.com/news/nation-world/national/article318100278.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "3fd5e0e038d352beaaf85534307faee7", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "64b2414718b55cd1a7820876f99c9ee3", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/downed-power-line-sparks-20-acre-woods-fire-in-jasper-county/ar-AA2hzKkn?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "64b2414718b55cd1a7820876f99c9ee3", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "7d0b9f592a6a5329bf8a40b520bab58c", "type": "news_ingested", "url": "https://www.washingtonpost.com/weather/2026/11/16/rain-snow-coming-drought-regions-it-could-be-preview-wild-winter/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "7d0b9f592a6a5329bf8a40b520bab58c", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "ad6ddc80fd8a59fc8619facf9a825b2e", "type": "news_ingested", "url": "https://krdo.com/news/2026/11/16/a-snowy-winter-could-be-critical-for-colorado-springs-water-reserves/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "ad6ddc80fd8a59fc8619facf9a825b2e", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "e11328ab939f55c5bb41844d9c5a6536", "type": "news_ingested", "url": "https://www.wsmv.com/2026/11/17/damage-recent-drought-extreme-heat-showing-up-everywhere/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "e11328ab939f55c5bb41844d9c5a6536", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "1d604c6d7091529f95cefe5e973e334c", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/us-floated-idea-swapping-ukrainian-141204161.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "1d604c6d7091529f95cefe5e973e334c", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "ceccd807820a573cb2347b8d78073bdb", "type": "news_ingested", "url": "https://eaworldview.com/2026/11/ukraine-what-democrats-in-the-new-us-congress-should-do/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "ceccd807820a573cb2347b8d78073bdb", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "0c598b05fd555e548b775f1d6ed248e0", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/ukraine-hits-putins-prized-bridge-181550176.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "0c598b05fd555e548b775f1d6ed248e0", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "876fe76785565f4882f3d7fd209a3599", "type": "news_ingested", "url": "https://www.gurufocus.com/news/9202364/bunge-global-bg-faces-refinery-damage-in-ukraine-amid-conflict-shares-dip"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "876fe76785565f4882f3d7fd209a3599", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "1f9fb433a4625aadbb25474c1ec18533", "type": "news_ingested", "url": "https://pragativadi.com/wars-and-world-peace-trump-outlines-ukraine-iran-war-denuclearisation-agenda-ahead-of-historic-trilateral-summit-with-xi-and-putin-in-shenzhen/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "1f9fb433a4625aadbb25474c1ec18533", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "914ce05b05f95e1c9755948d4465e7ac", "type": "news_ingested", "url": "https://theconversation.com/forced-fighters-are-being-lured-into-ukraine-war-under-false-pretences-296420"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "914ce05b05f95e1c9755948d4465e7ac", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "31c85c570a2b5b35b2e54a1b4d92971a", "type": "news_ingested", "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "31c85c570a2b5b35b2e54a1b4d92971a", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "846c46a44795502aa6b3d4defeaa62c7", "type": "news_ingested", "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "846c46a44795502aa6b3d4defeaa62c7", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "1c78f3cd5cd45d3eab1edd686d32020b", "type": "news_ingested", "url": "https://www.msn.com/ja-jp/science/microbiology/医師解説-ペストは再び大流行する-ロシアでの感染疑惑と現代でもなくならない理由/ar-AA2hAE1K?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "ada415b4095d414daa519f26c1623bbe", "news_id": "1c78f3cd5cd45d3eab1edd686d32020b", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "b1ceb74e8bf85f13a4c326aa50502129", "type": "news_ingested", "url": "https://www.miragenews.com/shamonda-virus-still-surprises-researchers-1778043/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "08e51208cb5c41daa06a3c14df4a0661", "news_id": "b1ceb74e8bf85f13a4c326aa50502129", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "f8734f4478995e91b9bfc578c4d56742", "type": "news_ingested", "url": "https://travel.yahoo.com/advice/safety/articles/infection-outbreak-triggers-level-2-040300625.html;_ylt=A2RReBNqC_xq3QIAtRfQtDMD;_ylu=Y29sbwN1cy1lYXN0LTEEcG9zAzEEdnRpZAMEc2VjA3Ny"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "c7c537cf25114dbf8531a4aec164b085", "news_id": "f8734f4478995e91b9bfc578c4d56742", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "1ce25d925ec95b9fa22e88aac1c2c2bd", "type": "news_ingested", "url": "https://www.hindustantimes.com/india-news/cyclone-akvan-landfall-live-updates-imd-rain-alert-odisha-andhra-pradesh-schools-closed-bay-of-bengal-cyclone-tracker-101794883521691.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "1ce25d925ec95b9fa22e88aac1c2c2bd", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "6a030445941153b5a4f2db55743cbadd", "type": "news_ingested", "url": "https://www.thehindu.com/news/national/cyclone-akvan-what-you-need-to-know-about-the-third-bay-of-bengal-storm-in-three-weeks/article71706612.ece"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "6a030445941153b5a4f2db55743cbadd", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "3075fcacd650527dad6eeb7f8a7a2ce0", "type": "news_ingested", "url": "https://www.newindianexpress.com/india/2026/Nov/16/cyclone-akvan-likely-to-intensify-into-very-severe-storm-cross-andhra-coast-on-november-20"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "3075fcacd650527dad6eeb7f8a7a2ce0", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "8b9971dce39158e8a2dceaf60caec903", "type": "news_ingested", "url": "https://kmph.com/news/local/pismo-beach-pier-closes-temporarily-due-to-severe-weather"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "8b9971dce39158e8a2dceaf60caec903", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "d1ab62e12e7152a7bda4946f9af01901", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/India/deep-depression-live-updates-odisha-steps-up-preparedness-as-imd-warns-of-another-cyclonic-storm-over-bay-of-bengal/ar-AA2huU29?ocid=BingNewsVerp"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "d1ab62e12e7152a7bda4946f9af01901", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "91210c66d2eb526ca0b918605a4d5055", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/monster-waves-batter-california-coastal-031500397.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "91210c66d2eb526ca0b918605a4d5055", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "4e3f8b6c05c156bba22a251cc8a41050", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/twin-waterspouts-erupt-over-san-235148122.html"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "4e3f8b6c05c156bba22a251cc8a41050", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "c725b904d03b56258e66c60214feca3f", "type": "news_ingested", "url": "https://www.wdwmagic.com/other/severe-weather-information/news/16nov2026-flood-watch-issued-for-walt-disney-world-area-with-up-to-12-inches-of-rain-possible.htm"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "c725b904d03b56258e66c60214feca3f", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "35b4b125fc995080abff676fe8aaabf9", "type": "news_ingested", "url": "https://deultimominuto.com/en/international/strong-5-4-magnitude-earthquake-strikes-peru/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "35b4b125fc995080abff676fe8aaabf9", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "8e84057de57755e3bb15b4a264464731", "type": "news_ingested", "url": "https://www.hirunews.lk/goldfmnews/500931/no-tsunami-threat-to-sri-lanka-after-6-6-magnitude-earthquake-near-indonesia"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "8e84057de57755e3bb15b4a264464731", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "1562d424df2f589a89bccf57f12bb2c6", "type": "news_ingested", "url": "https://www.sbs.com.au/language/assyrian/en/podcast-episode/news-bulletin-17-november-2026/6grigkf35"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "1562d424df2f589a89bccf57f12bb2c6", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "cb4f85ef1fa554e1a9312d4ff1b46bc5", "type": "news_ingested", "url": "https://www.sbs.com.au/news/podcast-episode/government-eases-backpacker-visa-cap-midday-news-bulletin-17-november-2026/3ydm6jues"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "cb4f85ef1fa554e1a9312d4ff1b46bc5", "type": "news_linked"}
+{"at": "2026-11-17T07:56:25Z", "news_id": "dba0ada0568e5414845b2e87b874ec7b", "type": "news_ingested", "url": "https://www.thesun.ie/news/17928084/tremors-felt-australia-indonesia-earthquake/"}
+{"at": "2026-11-17T07:56:25Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "news_id": "dba0ada0568e5414845b2e87b874ec7b", "type": "news_linked"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "13763def03ab448898154124734fe728", "log_date": "2026-11-17", "news": 24, "type": "log_created"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "log_date": "2026-11-17", "news": 3, "type": "log_created"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-17", "news": 3, "type": "log_created"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "log_date": "2026-11-17", "news": 16, "type": "log_created"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "7ff25bed3f2f4eada8725352bc9c24aa", "log_date": "2026-11-17", "news": 19, "type": "log_created"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-17", "news": 4, "type": "log_created"}
+{"at": "2026-11-17T08:10:59Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-17", "news": 10, "type": "log_created"}

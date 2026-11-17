@@ -1,6 +1,6 @@
 schema: 2
 id: 2f3c72555a054e87be304baaeb83af7c
-status: active
+status: dormant
 display_name: Forest Fire 2026-07-27
 slug: forest-fire-2026-07-27
 incident_type: Forest Fire
@@ -10,8 +10,8 @@ region: Europe
 first_seen: '2026-01-01'
 event_date: '2026-07-27'
 last_verified_update: '2026-10-17'
-latest_coverage_at: '2026-11-16'
-status_changed_at: '2026-10-17'
+latest_coverage_at: '2026-11-17'
+status_changed_at: '2026-11-17T07:56:25Z'
 summary: France's insurance federation reported that the summer wildfires resulted in around 22,500 insurance claims, with total losses estimated at up to 563 million euros ($634 million).
 summary_updated: '2026-10-17'
 search_keys:
@@ -51,7 +51,7 @@ external_keys:
   report_id: ead76339587b55fd8ba8550ae9eda0f6
 coverage_counts:
   reports: 8
-  news: 1185
+  news: 1187
   logs: 13
   official_sources: 2
 created_at: '2026-01-01T00:00:00Z'

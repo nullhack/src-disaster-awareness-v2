@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.kctv5.com/2026/11/13/kansas-city-health-departments-urge-vaccinations-ahead-holiday-gatherings
 content_hash: 4c1cdcb79454af7b5149131d1063a189bd590658dc94a6601e8f6bef0837e9a4
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-17'

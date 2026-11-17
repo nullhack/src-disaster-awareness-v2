@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-in/news/other/cyclone-akvan-when-and-where-will-the-cyclone-make-landfall-date-time-and-location/ar-AA2hw7jD
 content_hash: 5807560af26b20779b7667f53897edc8bb3425cd2984ab7499924564c09b6fbe
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-17'

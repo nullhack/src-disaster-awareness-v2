@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.indiatvnews.com/news/india/bay-of-bengal-cyclone-alert-imd-warns-of-severe-cyclonic-storm-4-states-brace-for-heavy-rainfall-2026-11-16-1059554
 content_hash: c48a0f86cf558542113d6834ee9af703e5e0ddd612ac9b85b90e1dfa9ab867a8
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-17'

@@ -10,7 +10,7 @@ region: Asia
 first_seen: '2019-09-12'
 event_date: '2026-10-26'
 last_verified_update: '2026-11-13'
-latest_coverage_at: '2026-11-16'
+latest_coverage_at: '2026-11-17'
 status_changed_at: '2026-11-13'
 summary: Cyclone Arnab has been identified as the first of two cyclones that struck the same region within six days, with Cyclone Murasu making landfall on November 3, 2026. This rare double strike has renewed discussions about climate change and the increasing vulnerability of the Bay of Bengal to sequential storms.
 summary_updated: '2026-11-13'
@@ -34,9 +34,12 @@ external_keys:
 - source: GDACS
   source_id: '1001346'
   report_id: 833281e75ed15be08ee0661f2cb5fd32
+- source: GDACS
+  source_id: '1001351'
+  report_id: eac53687ee165016b1fb0c2d80ab477b
 coverage_counts:
-  reports: 3
-  news: 145
+  reports: 4
+  news: 150
   logs: 7
   official_sources: 2
 created_at: '2019-09-12T00:00:00Z'

@@ -12,4 +12,5 @@ sitename: Las Vegas Sun
 canonical_url: https://lasvegassun.com/news/2026/nov/13/bombings-in-russia-kill-a-military-officer-and-inj
 content_hash: 7b8ccf87fc88ecaf079563bee8920d3e699fd59a3acd648416a5a099e448e612
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-17'

@@ -1,0 +1,47 @@
+schema: 2
+id: 9337dfaccc8252e7bd1ed659b7c5bbfc
+source: USGS
+source_id: us7000tymu
+incident_type: Earthquake
+name: Earthquake M6.6 Tual, Indonesia 2026-11-16
+report_date: '2026-11-16'
+news_searched_at: '2026-11-17T07:54:31Z'
+places:
+- country_code: ID
+  subdivision: Maluku
+  locality: Tual
+raw_fields:
+  mag: 6.6
+  place: 148 km WSW of Tual, Indonesia
+  time: 1794863480515
+  updated: 1794893469040
+  tz: null
+  url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu
+  detail: https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000tymu.geojson
+  felt: 10
+  cdi: 3.4
+  mmi: 5.355
+  alert: green
+  status: reviewed
+  tsunami: 0
+  sig: 674
+  net: us
+  code: 7000tymu
+  ids: ',us7000tymu,'
+  sources: ',us,'
+  types: ',dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,'
+  nst: 129
+  dmin: 6.729
+  rms: 0.78
+  gap: 21
+  magType: mww
+  type: earthquake
+  title: M 6.6 - 148 km WSW of Tual, Indonesia
+  geometry:
+    type: Point
+    coordinates:
+    - 131.4868
+    - -6.0804
+    - 68
+  depth: 68
+content_hash: 098abe87b2d066e4bb5e17f05dab7b53cf27759e8de5050c22421f5e61e6fa59

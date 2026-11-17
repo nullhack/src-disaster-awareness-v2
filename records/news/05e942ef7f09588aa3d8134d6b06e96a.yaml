@@ -12,4 +12,5 @@ sitename: The Hindu
 canonical_url: https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece
 content_hash: 6ebea34de626704b5c39daa3badf7586ba7f6435c3c45abf7ce099f258a1523a
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-17'

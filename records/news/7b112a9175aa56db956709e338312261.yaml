@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-in/news/other/live-cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-on-nov-20-as-very-severe-cyclonic-storm/ar-AA2huU29
 content_hash: a8885cd66fbce4e106f2599c42bee0fd655ef8f703b009621de7522cf1580653
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-17'

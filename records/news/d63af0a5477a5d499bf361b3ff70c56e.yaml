@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/politics/articles/zelensky-appeals-trump-musk-lift-113108664.html
 content_hash: 4cb2aac2644c8313fac7988c4219298e2b66ac9673313251a8178039c4007143
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-17'

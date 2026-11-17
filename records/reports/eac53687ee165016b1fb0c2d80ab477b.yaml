@@ -1,0 +1,65 @@
+schema: 2
+id: eac53687ee165016b1fb0c2d80ab477b
+source: GDACS
+source_id: '1001351'
+incident_type: Tropical Cyclone
+name: Tropical Cyclone AKVAN-26 India 2026-11-16
+report_date: '2026-11-16'
+news_searched_at: '2026-11-17T07:54:31Z'
+places:
+- country_code: IN
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.134 million in Tropical Storm).
+  description: 'From 16/11/2026 to 17/11/2026, a Tropical Storm (maximum wind speed of 102 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (16.134 million in tropical storm).'
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/tc/1001351/1001351_2_tn.png
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351
+  pubDate: Mon, 16 Nov 2026 20:06:39 GMT
+  dateadded: Mon, 16 Nov 2026 20:06:39 GMT
+  datemodified: Tue, 17 Nov 2026 05:35:22 GMT
+  iscurrent: 'true'
+  fromdate: Mon, 16 Nov 2026 18:00:00 GMT
+  todate: Tue, 17 Nov 2026 00:00:00 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: TC2
+  guid: TC1001351
+  guid_isPermaLink: 'false'
+  geo_lat: 11.6
+  geo_long: 87.2
+  bbox: 72.4261720139041 98.4261720139041 -0.040636801189418 25.9593631988106
+  point: 11.6 87.2
+  cap: https://www.gdacs.org/contentdata/resources/TC/1001351/cap_1001351.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Orange/TC.png
+  version: '2'
+  eventtype: TC
+  alertlevel: Orange
+  alertscore: '2'
+  episodealertlevel: Orange
+  episodealertscore: '2'
+  eventname: AKVAN-26
+  eventid: '1001351'
+  episodeid: '2'
+  calculationtype: tropicalcycloneonly
+  severity: Tropical Storm (maximum wind speed of 102 km/h)
+  severity_unit: km/h
+  severity_value: '101.8512'
+  population: Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (16.101 million in Tropical Storm)
+  population_unit: Pop74
+  population_value: '0'
+  vulnerability: High
+  vulnerability_value: '3'
+  iso3: IND
+  country: India
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 9076cff82e5259d002d955e0b906c8ebf2e8eb98b2909d20bd1ceeb66177799e

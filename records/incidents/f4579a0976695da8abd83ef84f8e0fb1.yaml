@@ -10,7 +10,7 @@ region: Global
 first_seen: '2015-11-12'
 event_date: '2024-05-30'
 last_verified_update: '2026-11-16'
-latest_coverage_at: '2026-11-16'
+latest_coverage_at: '2026-11-17'
 status_changed_at: '2026-11-15'
 summary: Bangladesh's dengue death toll crossed 500 this year, reaching 502 after three more deaths were reported, following an earlier single-day report of eight deaths and 1,952 new hospitalizations. In the latest 24-hour span, 1,598 more patients were hospitalized, bringing the 2026 total caseload to 164,107. For comparison, the country recorded 101,214 dengue infections and 575 deaths in 2024.
 summary_updated: '2026-11-16'
@@ -29,7 +29,7 @@ external_keys:
   report_id: 87a05b33f106553bb98143f41aa7cc71
 coverage_counts:
   reports: 1
-  news: 229
+  news: 231
   logs: 57
   official_sources: 1
 created_at: '2015-11-12T00:00:00Z'
