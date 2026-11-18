@@ -10,7 +10,7 @@ region: Global
 first_seen: '2026-11-11'
 event_date: '2026-11-17'
 last_verified_update: '2026-11-17'
-latest_coverage_at: '2026-11-17'
+latest_coverage_at: '2026-11-18'
 status_changed_at: '2026-11-17'
 summary: Ukrainian strikes partially destroyed the Kerch Bridge linking Russia to occupied Crimea, an attack Zelenskyy cast as retaliation for continued Russian attacks, while Russia and Ukraine exchanged large-scale strikes for a second straight day, damaging critical bridges in Crimea and Kyiv. Separately, Iran targeted US military facilities in Bahrain three times in five days, ending a roughly two-month lull, as the USS Theodore Roosevelt carrier strike group arrived in the region. Trump's pick for Navy secretary acknowledged that the Iran war is straining US military resources.
 summary_updated: '2026-11-17'
@@ -30,7 +30,7 @@ external_keys:
   report_id: 658c3e69300859f6adbbaec31d775f7b
 coverage_counts:
   reports: 1
-  news: 11
+  news: 12
   logs: 1
   official_sources: 1
 created_at: '2026-11-17T20:55:51Z'

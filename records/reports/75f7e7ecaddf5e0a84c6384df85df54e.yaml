@@ -1,0 +1,65 @@
+schema: 2
+id: 75f7e7ecaddf5e0a84c6384df85df54e
+source: GDACS
+source_id: '1033945'
+incident_type: Forest Fire
+name: Forest Fire Vakaga, Central African Republic 2026-11-12
+report_date: '2026-11-12'
+news_searched_at: ''
+places:
+- country_code: CF
+  subdivision: Vakaga
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in Central African Republic
+  description: On 12/11/2026, a forest fire started in Central African Republic,  until 18/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033945
+  pubDate: Wed, 18 Nov 2026 16:22:30 GMT
+  dateadded: Wed, 18 Nov 2026 16:22:30 GMT
+  datemodified: Wed, 18 Nov 2026 20:12:05 GMT
+  iscurrent: 'true'
+  fromdate: Thu, 12 Nov 2026 00:00:00 GMT
+  todate: Wed, 18 Nov 2026 00:00:00 GMT
+  durationinweek: '1'
+  year: '2026'
+  subject: WF1
+  guid: WF1033945
+  guid_isPermaLink: 'false'
+  geo_lat: 9.27347682098148
+  geo_long: 21.62734817808561
+  bbox: 17.6273481780856 25.6273481780856 5.27347682098148 13.2734768209815
+  point: 9.27347682098148 21.627348178085612
+  cap: https://www.gdacs.org/contentdata/resources/WF/1033945/cap_1033945.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1033945'
+  episodeid: '2'
+  calculationtype: ''
+  severity: Green impact for forestfire in 18138 ha
+  severity_unit: ha
+  severity_value: '18138'
+  population: 0 people affected in the area
+  population_unit: ''
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: CAF
+  country: Central African Republic
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 8edbc9e3afb10b4e11d409fdecb184f3e419851fef96a1ec6a3cc0bcd52a22cc

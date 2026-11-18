@@ -1,0 +1,11 @@
+schema: 2
+incident_id: 80de1a97a55c5febbc9cf43f8310b4d6
+log_date: '2026-11-18'
+summary: Selected news reports a CDC Level 2 travel alert tied to an infection outbreak, urging travelers to obtain targeted vaccinations 10 days before departure. India has proposed draft airport rules that could require a six-day quarantine for unvaccinated travelers arriving from yellow fever-affected countries. A separate report says rights groups accused Nigerian immigration officials at Lagos airport of yellow-card extortion.
+news_ids:
+- 0a48d79199de5d36a54d32959a9db6d3
+- 245fcd6291a351958c98132445e8e510
+- 3b69e486bf63577db3256597b6f72033
+- 4f7a25d3e50a5988b230cabc32aaed1c
+- 6766de689795556da9bf1ce1822f2589
+- a8825789dd8c509fac8efa0196f34b28

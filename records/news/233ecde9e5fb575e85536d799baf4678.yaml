@@ -12,4 +12,5 @@ sitename: Zacks Investment Research
 canonical_url: https://www.zacks.com/stock/news/3028961/mrna-stock-up-3-since-q3-earnings-release-how-to-play-the-stock
 content_hash: ca735ec868e5b5b032c623a4528630e101ca903c725248a9ae651ad6f484ace8
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-18'

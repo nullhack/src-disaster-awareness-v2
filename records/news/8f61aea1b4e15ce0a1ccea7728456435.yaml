@@ -12,4 +12,5 @@ sitename: Medical Xpress
 canonical_url: https://medicalxpress.com/news/2026-11-successful-human-dengue-serotype-vaccine.html
 content_hash: 0ee52ba5ddeea6dc8665f9779e6812c346bf307af9dd87c9b1d6115e75ddfe2c
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-18'
