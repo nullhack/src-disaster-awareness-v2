@@ -12,4 +12,5 @@ sitename: Mirage News
 canonical_url: https://www.miragenews.com/shamonda-virus-still-surprises-researchers-1778043
 content_hash: c87af594a8c2c0badb5a18af8d8c530400004d41533a6876ef0836ba0625fee7
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-18'

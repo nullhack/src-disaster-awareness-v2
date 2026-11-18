@@ -9,11 +9,11 @@ country_name: France
 region: Europe
 first_seen: '2026-11-02'
 event_date: '2026-11-02'
-last_verified_update: '2026-11-12'
-latest_coverage_at: '2026-11-17'
+last_verified_update: '2026-11-18'
+latest_coverage_at: '2026-11-18'
 status_changed_at: '2026-11-12'
-summary: The first reported case of Shamonda virus in a human has been documented, prompting discussions among veterinary and health professionals about the risks it poses to people. The article highlights concerns regarding the virus's potential threat to human health.
-summary_updated: '2026-11-12'
+summary: Coverage of the human Shamonda case in France examines whether the virus could reach the Americas and what remains unknown about human infection. Reports note that the patient was hospitalized in France and that the virus had been considered non-transmissible to humans before this detection. An article on a fatal avian virus infection in a cancer immunotherapy patient is unrelated to Shamonda.
+summary_updated: '2026-11-18'
 search_keys:
 - Shamonda France update 2026
 - Shamonda France 2026
@@ -31,7 +31,7 @@ external_keys:
 coverage_counts:
   reports: 1
   news: 7
-  logs: 1
+  logs: 2
   official_sources: 1
 created_at: '2026-11-02T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

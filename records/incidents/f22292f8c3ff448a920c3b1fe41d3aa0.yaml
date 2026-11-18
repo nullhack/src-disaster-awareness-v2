@@ -9,13 +9,11 @@ country_name: Ukraine
 region: Europe
 first_seen: '2026-03-05'
 event_date: '2026-07-15'
-last_verified_update: '2026-11-17'
-latest_coverage_at: '2026-11-17'
+last_verified_update: '2026-11-18'
+latest_coverage_at: '2026-11-18'
 status_changed_at: '2026-11-15'
-summary: |-
-  Ukraine struck the Crimea bridge in what Russia called the war's largest drone attack, while President Zelensky said U.S. negotiators floated the idea of trading Ukrainian territory for NATO membership and appealed to Trump and Musk to lift Starshield "restrictions." Reporting also described a covert French mission training Ukrainian troops inside the country, car bombings in Moscow and St. Petersburg that killed a Russian military officer and critically injured an adviser to a former Ukrainian prime minister, and an early Russian bombing campaign aimed at stripping Kyiv and other cities of heat, water and sanitation this winter. Bunge Global separately reported damage to its oilseed refining facilities in Ukraine.
-  Ukraine struck the bridge linking mainland Russia to occupied Crimea for a second consecutive night, with President Zelenskyy confirming the operation targeted Russian defenses around the crossing and Moscow acknowledging structural damage to the span; Russian missiles, meanwhile, damaged two major bridges in Kyiv. The exchanges took place days before a planned Trump-Putin-Xi meeting, and Kushner described a US postwar plan for Ukraine resting on security guarantees, a path toward EU accession, and an economic recovery program. France's foreign minister also insisted Paris is not a "co-belligerent" despite French personnel training Ukrainian soldiers, while Russian lawmakers moved to toughen penalties for war-related offences.
-summary_updated: '2026-11-17'
+summary: President Trump said Putin is "backing down a bit" on Ukraine, adding that the Russian leader "could have been much tougher." Trump is traveling to China, where he plans to discuss limiting nuclear weapons and ending the war in Ukraine with Xi Jinping and Putin. Separately, Ukrainian paratroopers have converted a 2007 Land Rover Freelander into a remote-controlled war machine that is already in service.
+summary_updated: '2026-11-18'
 search_keys:
 - Ukraine Conflict latest 2026
 - Ukraine Conflict 2026
@@ -47,8 +45,8 @@ external_keys:
   report_id: d81fc37c31e45d768a2e1fd1b84313ef
 coverage_counts:
   reports: 6
-  news: 2209
-  logs: 108
+  news: 2212
+  logs: 109
   official_sources: 1
 created_at: '2026-03-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

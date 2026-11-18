@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.forbes.com/sites/unicefusa/2026/11/16/disaster-preparedness-training-saves-lives-in-nepal-floods
 content_hash: e94d86959992f52789ae2ffd34eb92fb8b0dbcdff8d2d023e192ad478d457e79
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-18'

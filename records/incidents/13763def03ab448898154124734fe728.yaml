@@ -9,13 +9,11 @@ country_name: Iran
 region: Asia
 first_seen: '2016-01-01'
 event_date: '2026-07-26'
-last_verified_update: '2026-11-17'
-latest_coverage_at: '2026-11-17'
+last_verified_update: '2026-11-18'
+latest_coverage_at: '2026-11-18'
 status_changed_at: '2026-11-15'
-summary: |-
-  The USS Theodore Roosevelt arrived in the Middle East as a third U.S. aircraft carrier while Iran escalated threats and a tanker was struck in the Strait of Hormuz. Bahrain was rattled by a second Iranian drone attack, and U.S. intelligence reports said Iran was developing plans to detonate a dirty bomb in Washington and target senior Trump administration officials. Political fallout continued as a whistleblower alleged the Pentagon ignored warnings before a Kuwait drone attack killed six U.S. service members, Trump attacked CBS over its report, and JD Vance promised the war would not become a “forever war” and would end by 2028.
-  Iran fired multiple one-way attack drones at a US radar facility at Sheikh Isa air base in Bahrain, described as a third round of strikes ending a roughly two-month lull; US Central Command said the drones were intercepted and US forces retaliated against Iranian targets along a key shipping route. Reporting on US intelligence alleging Iranian plans to detonate a "dirty bomb" in Washington targeting senior officials drew a warning from President Trump that Iran would pay a "major price," while a US lawmaker dismissed the threat as intimidation. Photographs published by Iranian media also suggested US forces may have used graphite "blackout bombs" against Iranian infrastructure in recent days.
-summary_updated: '2026-11-17'
+summary: A U.S. fighter jet used precision munitions to strike a missile launch site on Iran's Qeshm Island, while Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending its run of attacks on Gulf states. At his confirmation hearing, acting Navy chief Hung Cao was pressed by lawmakers over the strain the war has placed on maritime forces, opaque leadership shake-ups and low crew morale. Separately, Rep. Ro Khanna proposed $1,700 refund checks for every U.S. family to offset the war's economic impact, and Iran claimed Israel was behind reports of a dirty-bomb threat in Washington.
+summary_updated: '2026-11-18'
 search_keys:
 - Iran Conflict latest 2026
 - Iran Conflict 2026
@@ -36,8 +34,8 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 2
-  news: 3492
-  logs: 108
+  news: 3507
+  logs: 109
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

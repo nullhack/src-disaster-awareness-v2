@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://medicalxpress.com/news/2026-11-unusual-pathogen-fatal-viral-infection.html
 content_hash: acb0d237dbf4c8189cb08d06ecba14d3b7d3292e91f1db8ffae7296625326154
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-18'
