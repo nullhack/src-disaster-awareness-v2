@@ -12,4 +12,5 @@ schema: 2
 canonical_url: https://www.msn.com/en-gb/news/other/top-hamas-commander-who-plotted-october-7-attacks-assassinated-by-israel/ar-AA2htVwN
 content_hash: 902bb96c8ebd1a1d847be631f6507442ff5510e1692776edd17f3ec05099492c
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-19'

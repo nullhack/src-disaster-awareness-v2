@@ -9,13 +9,11 @@ country_name: Yemen
 region: Asia
 first_seen: '2026-03-01'
 event_date: '2026-10-22'
-last_verified_update: '2026-11-18'
-latest_coverage_at: '2026-11-18'
+last_verified_update: '2026-11-19'
+latest_coverage_at: '2026-11-19'
 status_changed_at: '2026-11-15'
-summary: |-
-  Vice President JD Vance vowed that the U.S. will not make a long-term commitment to the Iran war, according to a report. A separate analysis examined how Democrats may shift national security policy and oversight of the Iran war once they take over Congress.
-  Iran widened its attacks on Gulf neighbors by targeting a US air base in Kuwait and sites in Bahrain after American strikes on Qeshm Island, while Tehran warned Washington against “miscalculation” and a tanker was hit. Saudi Arabia intercepted a Houthi cruise missile, and fighting in Yemen has made the Bab el-Mandeb crossing more dangerous. Separately, Democratic Rep. Ro Khanna proposed $1,700 refund checks for all US families to offset the Iran war’s economic impact, and the Trump-Xi-Putin summit was expected to address the conflict involving Iran.
-summary_updated: '2026-11-18'
+summary: The IEA's chief said the Iran war has produced the largest threat to energy security in history, warning the energy world will not return to its pre-war state. Shipping through the Strait of Hormuz continues to face Iranian restrictions, tanker attacks and a US naval blockade, with a $64 million insurance claim illustrating the maritime cost, while GlobalData assessed that the US stands to gain most from the conflict's reshaping of global LNG trade. Reporting also found that estimates of when the Gulf conflict will end differ sharply between Washington and Riyadh.
+summary_updated: '2026-11-19'
 search_keys:
 - Conflict latest 2026
 - Conflict 2026
@@ -35,8 +33,8 @@ external_keys:
   report_id: 90d58e287f5e58038d700244dc3e4c39
 coverage_counts:
   reports: 2
-  news: 423
-  logs: 26
+  news: 430
+  logs: 27
   official_sources: 1
 created_at: '2026-03-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

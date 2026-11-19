@@ -9,11 +9,11 @@ country_name: Palestine
 region: Asia
 first_seen: '2026-08-31'
 event_date: '2026-09-03'
-last_verified_update: '2026-11-15'
-latest_coverage_at: '2026-11-15'
+last_verified_update: '2026-11-19'
+latest_coverage_at: '2026-11-19'
 status_changed_at: '2026-11-15'
-summary: Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days. Analysis pieces also highlight that the ceasefire has not brought peace and that the conflict’s effects are spreading to Western societies.
-summary_updated: '2026-11-15'
+summary: Israeli tanks advanced beyond the "Yellow Line" in Gaza, forcing Palestinians to flee again, while a top Hamas commander who helped plot the October 7 attacks was assassinated in a Gaza strike. Separately, Israel's army beat a journalist covering a settler attack near Jericho, as the Knesset elected a new speaker amid chaotic scenes. An investigative report also detailed how Deutsche Bank financed gearboxes for Israel's Merkava 4 tanks, and an opinion column urged Ireland's EU Presidency to act against impunity rather than merely talk.
+summary_updated: '2026-11-19'
 search_keys:
 - Palestine Conflict latest 2026
 - Palestine Conflict 2026
@@ -30,8 +30,8 @@ external_keys:
   report_id: edf46783f02d5e65aea0e9279c11a5c0
 coverage_counts:
   reports: 1
-  news: 864
-  logs: 62
+  news: 868
+  logs: 63
   official_sources: 1
 created_at: '2026-08-31T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

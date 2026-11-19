@@ -9,11 +9,11 @@ country_name: Iran
 region: Asia
 first_seen: '2016-01-01'
 event_date: '2026-07-26'
-last_verified_update: '2026-11-18'
-latest_coverage_at: '2026-11-18'
+last_verified_update: '2026-11-19'
+latest_coverage_at: '2026-11-19'
 status_changed_at: '2026-11-15'
-summary: A U.S. fighter jet used precision munitions to strike a missile launch site on Iran's Qeshm Island, while Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending its run of attacks on Gulf states. At his confirmation hearing, acting Navy chief Hung Cao was pressed by lawmakers over the strain the war has placed on maritime forces, opaque leadership shake-ups and low crew morale. Separately, Rep. Ro Khanna proposed $1,700 refund checks for every U.S. family to offset the war's economic impact, and Iran claimed Israel was behind reports of a dirty-bomb threat in Washington.
-summary_updated: '2026-11-18'
+summary: Iran targeted U.S. drone and missile sites at a Kuwait air base and sites in Bahrain, widening Gulf attacks after an American strike on an Iranian island. The U.S. military returned to two aircraft carriers supporting Iran operations in the Middle East, while the IEA said the war has caused the largest disruption ever to global oil and gas trade and could cut world oil demand by more than 4% by 2035 through accelerated electrification. Separately, President Trump grew frustrated with Vice President Vance over his Iran war critique, and the acting counterterrorism chief said Iran’s leadership has not moderated, undercutting hopes for a diplomatic reset.
+summary_updated: '2026-11-19'
 search_keys:
 - Iran Conflict latest 2026
 - Iran Conflict 2026
@@ -34,8 +34,8 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 2
-  news: 3507
-  logs: 109
+  news: 3523
+  logs: 110
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

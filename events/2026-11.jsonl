@@ -1204,3 +1204,156 @@
 {"at": "2026-11-18T20:50:48Z", "incident_id": "80de1a97a55c5febbc9cf43f8310b4d6", "log_date": "2026-11-18", "news": 6, "type": "log_created"}
 {"at": "2026-11-18T20:50:48Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-18", "news": 13, "type": "log_created"}
 {"at": "2026-11-18T20:50:48Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-18", "news": 4, "type": "log_created"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "ac4957b2322f53b5a6e14050fcd0b082", "source": "USGS", "source_id": "us6000uby4", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "dc4b9687bd17575e9356438a796a9ddb", "source": "USGS", "source_id": "us6000ubxg", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "077df7451bee53f58977d85ec40cf640", "source": "USGS", "source_id": "us6000ubxb", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "81f4002c46b95db08e00546924112617", "source": "USGS", "source_id": "us6000ubxa", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "9928c81f964d5f1eba43e37a90ff10b7", "source": "USGS", "source_id": "us6000ubwa", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "1c344488cc545c79b2ba8d985b2b4de7", "source": "USGS", "source_id": "us6000ubw3", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "543cae256af85965ad249682dddc62b5", "source": "USGS", "source_id": "us6000ubvu", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "f36352acea1a51278f374cbc8d0d5077", "source": "USGS", "source_id": "us7000tyyp", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "3fefef5b84135bcdb0406001fe9e0213", "source": "USGS", "source_id": "us7000tyzy", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "b356f0d4bbe05c5badf377e25b948651", "source": "USGS", "source_id": "us7000ty06", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "ef96b0d2932a5f2ea22c719900669da6", "source": "USGS", "source_id": "us7000tva1", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "5c1d2430976d5a4d95435ef2912d6f75", "source": "GDACS", "source_id": "1578130", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "cb050b0fbcb35d868dd1d7da30cef164", "source": "GDACS", "source_id": "1578112", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "543aa69d5b015c9f8cbab525d8173ab8", "source": "GDACS", "source_id": "1578098", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "c45bcc33afb65881bc832f0b60969ee7", "source": "GDACS", "source_id": "1578099", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "b35be53985a35431ad50fa0e7f92e1b3", "source": "GDACS", "source_id": "1033952", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "c7476d2b116f5d2b9f0c3b1eb3391b60", "source": "GDACS", "source_id": "1033951", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "61bc2ccb414b5f64b76a678ad6a7bce2", "source": "GDACS", "source_id": "1578073", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "d0a9eac5d2205687adae40c1a07c1b63", "source": "GDACS", "source_id": "1578066", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "3299cba9a1a75476b94730dc5bdf80cf", "source": "GDACS", "source_id": "1578070", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "d90bf1a563dd5807975087f4b8929235", "source": "GDACS", "source_id": "1577962", "type": "report_ingested"}
+{"at": "2026-11-19T07:24:43Z", "report_id": "d7106f67dbd55e009f0874ee582af7ff", "source": "GDACS", "source_id": "1577745", "type": "report_ingested"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "03e5ba3adeab510ba1387cbba3ba9a07", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/iran-fires-at-kuwait-after-us-strike-on-iranian-island/ar-AA2hIGMf?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "03e5ba3adeab510ba1387cbba3ba9a07", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "5b782f770ae5519a8d1f36fa2610f12f", "type": "news_ingested", "url": "https://www.iranintl.com/en/202611185206"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "5b782f770ae5519a8d1f36fa2610f12f", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "8daef937752d53e78dd13374eef173bb", "type": "news_ingested", "url": "https://www.mysanantonio.com/news/local/article/iran-attacks-22537084.php"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "8daef937752d53e78dd13374eef173bb", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "fd5a9f5fb01f554baef02e251d15de9c", "type": "news_ingested", "url": "https://www.morningstar.com/news/dow-jones/202611185292/boes-bailey-sees-length-of-iran-war-as-key-to-rate-path"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "fd5a9f5fb01f554baef02e251d15de9c", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "71afa77a2fbb5928b847a28170cf25ae", "type": "news_ingested", "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "71afa77a2fbb5928b847a28170cf25ae", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "2ab61e5037bd55348d1f7d25d32e982b", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/sorry-donald-trump-the-iran-war-is-far-from-over-as-tehran-keeps-attack-and-america-keeps-massive-firepower-close-by/ar-AA2hJag8?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "2ab61e5037bd55348d1f7d25d32e982b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "fb36f545803556aaace49a63fbd20487", "type": "news_ingested", "url": "https://jewishinsider.com/2026/11/counterterrorism-chief-says-irans-leadership-has-not-moderated-undercutting-vances-hopes-for-diplomatic-reset/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "fb36f545803556aaace49a63fbd20487", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "052449f2c45051719b2d7509779822c9", "type": "news_ingested", "url": "https://www.reuters.com/business/energy/energy-security-response-iran-war-could-cut-oil-demand-by-4-by-2035-iea-says-2026-11-19/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "052449f2c45051719b2d7509779822c9", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "793e25d5f05a54068d6dd5e003067d3d", "type": "news_ingested", "url": "https://www.twincities.com/2026/11/18/iran-gulf-attacks-us-air-base-kuwait/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "793e25d5f05a54068d6dd5e003067d3d", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "93f886455baf591889d8a01c2d18c9b6", "type": "news_ingested", "url": "https://www.indiatoday.in/world/video/trilateral-summit-discusses-ukraine-iran-and-the-strait-of-hormuz-ytvd-3042116-2026-11-19"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "93f886455baf591889d8a01c2d18c9b6", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "255f323993ab5b239cd2cbfb56941bb0", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tanker-attacked-084617784.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "255f323993ab5b239cd2cbfb56941bb0", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "f4c9f017a312571ebce496a676228e8f", "type": "news_ingested", "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "f4c9f017a312571ebce496a676228e8f", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "8e4d31d17d3f53b1b392c8bfb4674fa2", "type": "news_ingested", "url": "https://www.afr.com/companies/energy/iran-war-turmoil-accelerating-world-shift-to-renewables-iea-20261119-p61evf"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "8e4d31d17d3f53b1b392c8bfb4674fa2", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "72a2bd17acb951988856db3476e4e802", "type": "news_ingested", "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "72a2bd17acb951988856db3476e4e802", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "f0d650f5863757969661b39dece61a17", "type": "news_ingested", "url": "https://www.reflector.com/news/national/ap-news-summary-at-2-06-a-m-est/article_7002ad2a-785d-5319-88de-8b9a1dfdf7bf.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "f0d650f5863757969661b39dece61a17", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "81cf7e4626db5c69b82e0a5435f7bef4", "type": "news_ingested", "url": "https://apnews.com/article/iran-war-aircraft-carrier-uss-george-washington-f72d5aa085500412989183e606bfadfd"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "81cf7e4626db5c69b82e0a5435f7bef4", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "19c7fda123a6542eb090c6961c68c1c0", "type": "news_ingested", "url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "19c7fda123a6542eb090c6961c68c1c0", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "b23a9f1a90f056f7af1423f8287e0fa1", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/cyclone-akvan-the-fascinating-persian-mythology-story-behind-its-name/ar-AA2hKGSO?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "b23a9f1a90f056f7af1423f8287e0fa1", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "1d29d6cb5f2f53c5b6c059bb1c59816e", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/cyclone-akvan-update-landfall-expected-between-narsapur-and-puri-on-november-20-odisha-closes-schools-in-six-districts/ar-AA2hK5el?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "1d29d6cb5f2f53c5b6c059bb1c59816e", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "ade17065332f58ef8ec389f4b7243e76", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/why-is-cyclone-akvan-moving-so-slowly-is-that-a-bigger-danger-what-science-says/ar-AA2hFVDc?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "ade17065332f58ef8ec389f4b7243e76", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "9b086bfb170f516c97ec82187f028067", "type": "news_ingested", "url": "https://www.educationtimes.com/news/cyclone-akvan-odisha-closes-schools-anganwadis-in-6-districts-till-nov-21-as-cyclone-is-due-to-make-landfall/articleshow/135975405.cms"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "9b086bfb170f516c97ec82187f028067", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "16d62beebf4f5bafbcdaa5e6b6d158c9", "type": "news_ingested", "url": "https://www.jagonews24.com/en/national/news/98503"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "16d62beebf4f5bafbcdaa5e6b6d158c9", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "31faf2911b365ea58de08dcc49e87533", "type": "news_ingested", "url": "https://www.denverpost.com/2026/11/18/orphaned-bear-cubs-colorado-rehabilitation/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "31faf2911b365ea58de08dcc49e87533", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "a5f6d8d0334f506e92a6c480c4aaade4", "type": "news_ingested", "url": "https://www.yahoo.com/news/articles/fiji-declares-state-disaster-amid-010921828.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "a5f6d8d0334f506e92a6c480c4aaade4", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "37758298236a5c9bab37ba6283c062ba", "type": "news_ingested", "url": "https://www.bbc.com/news/articles/cm2kl5ze01k2o"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "37758298236a5c9bab37ba6283c062ba", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "086e29b6066952f3abbdfa96076a428a", "type": "news_ingested", "url": "https://www.wunc.org/environment/2026-11-18/winter-weather-rain-drought-el-nino-north-carolina"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "086e29b6066952f3abbdfa96076a428a", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "aa2ccdd046eb553cb6fe3f82d7415ec1", "type": "news_ingested", "url": "https://samoaglobalnews.com/tonga-declares-state-of-emergency/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "aa2ccdd046eb553cb6fe3f82d7415ec1", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "c1ad481b908252018247216095b7d27b", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/lake-powell-drops-dangerously-close-020100271.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "c1ad481b908252018247216095b7d27b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "de73e3149ee35b7cb9f7385a48fa5a61", "type": "news_ingested", "url": "https://www.rigzone.com/news/iran_conflict_reshapes_global_lng_trade-18-nov-2026-185112-article/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "de73e3149ee35b7cb9f7385a48fa5a61", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "94d0350ab58b56849ac89bc9958c7972", "type": "news_ingested", "url": "https://www.telegraph.co.uk/world-news/2026/11/18/theyre-in-it-to-win-or-die-why-irans-regime/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "94d0350ab58b56849ac89bc9958c7972", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "ec3dc7ecd23757e4be2f11015c381bd9", "type": "news_ingested", "url": "https://www.usnews.com/news/world/articles/2026-11-18/zelenskiy-says-ukrainian-battlefield-positions-strong-cites-defence-against-attacks-on-two-cities"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "ec3dc7ecd23757e4be2f11015c381bd9", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "aa906a584dc35acf97a750e8f8e1346d", "type": "news_ingested", "url": "https://www.reuters.com/world/middle-east/gulf-conflict-end-date-depends-who-you-ask-2026-11-18/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "aa906a584dc35acf97a750e8f8e1346d", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "779e18cb954d5b4a8f718917469755d4", "type": "news_ingested", "url": "https://www.economist.com/the-world-ahead/2026/11/18/the-most-consequential-conflicts-in-2027-may-not-be-those-you-expect"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "779e18cb954d5b4a8f718917469755d4", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "89394dc7bff8550f9b76e7866af8d92e", "type": "news_ingested", "url": "https://www.timesofisrael.com/iran-war-sparked-largest-threat-to-energy-security-in-history-says-energy-agency/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "89394dc7bff8550f9b76e7866af8d92e", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "4d1c45add0aa55488d200fc09a6987ca", "type": "news_ingested", "url": "https://www.outlookindia.com/international/strait-of-hormuz-shipping-crisis-hung-cao-64-million-insurance-claim-iran-war-us-blockade"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "4d1c45add0aa55488d200fc09a6987ca", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "e173d5ef4ceb5dc7bc8bc3f592536ff3", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/ukraine-live-kyiv-bombs-bridge-to-crimea-in-third-blow-for-putin/ar-AA2hJQqs?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "e173d5ef4ceb5dc7bc8bc3f592536ff3", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "9cf5259d55d0520aa8d7a92a1e122b5c", "type": "news_ingested", "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "9cf5259d55d0520aa8d7a92a1e122b5c", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "222f9e80ce9e58ddac3ea64335c1c3f5", "type": "news_ingested", "url": "https://www.irishtimes.com/world/europe/2026/11/19/crimea-bridge-strike-another-blow-to-russia-in-black-sea-battle-with-ukraine/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "222f9e80ce9e58ddac3ea64335c1c3f5", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "b086589f02e95c1d802cb66d3554ab9b", "type": "news_ingested", "url": "https://nltimes.nl/2026/11/19/employees-dutch-arms-firm-destinus-taking-part-ukraine-war-report"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "b086589f02e95c1d802cb66d3554ab9b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "6db87f94cb665dac91009dcddef7764c", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/ukraine-live-russian-military-plane-crash-kills-all-19-on-board/ar-AA2hF8pf?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "6db87f94cb665dac91009dcddef7764c", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "f6612cd107aa594faa98f35e189bbe6b", "type": "news_ingested", "url": "https://www.theguardian.com/world/2026/nov/18/russian-attacks-kyiv-power-outages-mayor-in-perilous-position"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "f6612cd107aa594faa98f35e189bbe6b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "17b3a75cb29b5e0480cec11899093dcd", "type": "news_ingested", "url": "https://wsvn.com/news/local/miami-dade/miami-dade-public-schools-set-to-close-on-thursday-due-to-severe-weather-officials-say/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "17b3a75cb29b5e0480cec11899093dcd", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "9d4c8df22cd159a697eb4907625a777f", "type": "news_ingested", "url": "https://www.eastbaytimes.com/2026/11/18/thunderstorms-with-damaging-winds-in-san-mateo-county-wednesday-severe-threat-level/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "9d4c8df22cd159a697eb4907625a777f", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "2b9b61f4e238549ca90a04baade590e1", "type": "news_ingested", "url": "https://www.wftv.com/news/local/volusia-county-schools-will-close-thursday-friday-due-severe-weather/YBDCSNWBCBGOZB5LFPIOGUWRH4/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "2b9b61f4e238549ca90a04baade590e1", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "8a33832b32e95b67aeb215fe5082397d", "type": "news_ingested", "url": "https://www.msn.com/en-us/weather/extreme-weather-events/flooded-streets-remain-in-rockledge-neighborhood-as-severe-weather-moves-through/vi-AA2hJpUy?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "8a33832b32e95b67aeb215fe5082397d", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "62e27ea23af55fc08e16799e72dde068", "type": "news_ingested", "url": "https://wsvn.com/news/local/broward/video-shows-ceiling-collapse-inside-memorial-regional-hospital-in-hollywood-due-to-severe-water-damage/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "62e27ea23af55fc08e16799e72dde068", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "ab3d1ef694ba5cd8a791a14a7d02f62b", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/live-updates-overnight-rain-in-brevard-raises-flood-concerns/ar-AA2hGTJJ?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "ab3d1ef694ba5cd8a791a14a7d02f62b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "75029bcd6a215ad78862330e8d39f824", "type": "news_ingested", "url": "https://www.kqed.org/news/12110338/bay-area-storm-brings-5-inches-of-rain-high-winds-flight-delays-and-power-outages"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "75029bcd6a215ad78862330e8d39f824", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "68d42c99bab051479de4561c4abe336b", "type": "news_ingested", "url": "https://www.accuweather.com/en/weather-news/see-it-twin-waterspouts-swirl-over-san-francisco-bay/1959873"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "68d42c99bab051479de4561c4abe336b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "44371249c94d544a8252545eb497447b", "type": "news_ingested", "url": "https://weather.com/2026/11/18/news/weather/san-francisco-flooding-storm-waymo-stranded-rain-record"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "44371249c94d544a8252545eb497447b", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "c305fb7491525cf188d910b7fc9e87f4", "type": "news_ingested", "url": "https://gizmodo.com/super-el-ninos-first-major-atmospheric-river-slams-california-with-rain-feet-of-snow-and-a-possible-tornado-2000841647"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "c305fb7491525cf188d910b7fc9e87f4", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "1b70be1f4a7f5c3196df93b4a0415a57", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/live-updates-potentially-catastrophic-rainfall-targets-florida/ar-AA2hH4OL?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "1b70be1f4a7f5c3196df93b4a0415a57", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "87dade56a4a95b20860661d69db1f828", "type": "news_ingested", "url": "https://www.riotimesonline.com/veracruz-cold-front-6-floods-one-dead-16-municipalities-2026/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "87dade56a4a95b20860661d69db1f828", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "c1935eeb046352848669a6f2c7675b7e", "type": "news_ingested", "url": "https://indianexpress.com/article/india/tamil-nadu-chennai-rains-weather-forecast-today-live-updates-cyclone-akvan-odisha-andhra-pradesh-landfall-evacuations-10969294/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "c1935eeb046352848669a6f2c7675b7e", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "f2c0cb20c927512c9c2cfd5d39a030ae", "type": "news_ingested", "url": "https://ktla.com/news/california/waymo-stalls-san-francisco-floodwaters/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "f2c0cb20c927512c9c2cfd5d39a030ae", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "b78cda707ad85269a227b4718b44f7dd", "type": "news_ingested", "url": "https://www.msn.com/en-in/weather/extreme-weather-events/cyclone-akvan-live-severe-cyclone-akvan-advances-northwards-3-trains-rescheduled/ar-AA2hJR7w?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "b78cda707ad85269a227b4718b44f7dd", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "da6537e985f9504290d0aff04e88c193", "type": "news_ingested", "url": "https://www.msn.com/en-us/weather/general/flooded-streets-remain-in-rockledge-neighborhood-as-severe-weather-moves-through/vi-AA2hJpUy?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "da6537e985f9504290d0aff04e88c193", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "c3e381b193f358c0ae802c97977f2aa5", "type": "news_ingested", "url": "https://mg.co.za/news/south-africa/2026-11-18-search-for-11-year-old-girl-swept-away-by-floods-suspended-in-dobsonville/"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "c3e381b193f358c0ae802c97977f2aa5", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "a76d13afac1252d788a11587d05c219d", "type": "news_ingested", "url": "https://www.msn.com/en-in/weather/general/odisha-evacuates-72000-people-ahead-of-cyclone-akvan-landfall-today/ar-AA2hKZGe?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e6b92301e2a2467bb2e43e4802ce9195", "news_id": "a76d13afac1252d788a11587d05c219d", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "36e8e66ba2bf598caf3c3c3373ff1fe3", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/world/what-does-israel-s-new-ground-offensive-mean-for-palestinians-in-gaza/ar-AA2hJnV5?ocid=BingNewsVerp"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "36e8e66ba2bf598caf3c3c3373ff1fe3", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "c2be231db2b455649d886f74906f494d", "type": "news_ingested", "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "c2be231db2b455649d886f74906f494d", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "5fe28ddfff3e56609ab3e0700be9d9d3", "type": "news_ingested", "url": "https://www.newslaundry.com/2026/11/18/palestinians-killed-hospitals-shelled-how-deutsche-bank-arms-israel"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "5fe28ddfff3e56609ab3e0700be9d9d3", "type": "news_linked"}
+{"at": "2026-11-19T07:26:41Z", "news_id": "1ba60ba9ecc95cdd872c20f8c3e3d4bb", "type": "news_ingested", "url": "https://www.irishexaminer.com/opinion/commentanalysis/arid-41939178.html"}
+{"at": "2026-11-19T07:26:41Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "1ba60ba9ecc95cdd872c20f8c3e3d4bb", "type": "news_linked"}
+{"at": "2026-11-19T07:38:53Z", "incident_id": "13763def03ab448898154124734fe728", "log_date": "2026-11-19", "news": 16, "type": "log_created"}
+{"at": "2026-11-19T07:38:53Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-19", "news": 6, "type": "log_created"}
+{"at": "2026-11-19T07:38:53Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "log_date": "2026-11-19", "news": 7, "type": "log_created"}
+{"at": "2026-11-19T07:38:53Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "log_date": "2026-11-19", "news": 5, "type": "log_created"}
+{"at": "2026-11-19T07:38:53Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-19", "news": 6, "type": "log_created"}
