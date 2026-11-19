@@ -1,20 +1,41 @@
 schema: 2
 incident_id: 13763def03ab448898154124734fe728
 log_date: '2026-11-19'
-summary: Iran targeted U.S. drone and missile sites at a Kuwait air base and sites in Bahrain, widening Gulf attacks after an American strike on an Iranian island. The U.S. military returned to two aircraft carriers supporting Iran operations in the Middle East, while the IEA said the war has caused the largest disruption ever to global oil and gas trade and could cut world oil demand by more than 4% by 2035 through accelerated electrification. Separately, President Trump grew frustrated with Vice President Vance over his Iran war critique, and the acting counterterrorism chief said Iran’s leadership has not moderated, undercutting hopes for a diplomatic reset.
+summary: |-
+  Iran targeted U.S. drone and missile sites at a Kuwait air base and sites in Bahrain, widening Gulf attacks after an American strike on an Iranian island. The U.S. military returned to two aircraft carriers supporting Iran operations in the Middle East, while the IEA said the war has caused the largest disruption ever to global oil and gas trade and could cut world oil demand by more than 4% by 2035 through accelerated electrification. Separately, President Trump grew frustrated with Vice President Vance over his Iran war critique, and the acting counterterrorism chief said Iran’s leadership has not moderated, undercutting hopes for a diplomatic reset.
+  President Trump claimed Iran is developing bioweapons and threatened to "wipe out" Iran in the event of an attack, while saying the US will "see what happens" in the conflict after January 1. The war's estimated cost rose to $48.3 billion as of November 13 amid lawmakers' demands for unreleased base-damage estimates, a GAO watchdog found the Pentagon has no department-wide plan to fix munitions shortages, and Senate Republicans blocked a Democratic war powers measure 48–51 in the first such vote since the midterms, with Democrats weighing a December shutdown fight over war funding. Meanwhile, Netanyahu reportedly told aides a renewed war with Iran is "unavoidable" as Trump weighs options, even as energy markets eased — crude and US gasoline prices fell (gas below $4 a gallon) despite 2.8 billion barrels of supply disrupted — with the IEA warning the Hormuz crisis could permanently reshape global energy markets.
 news_ids:
 - 03e5ba3adeab510ba1387cbba3ba9a07
 - 052449f2c45051719b2d7509779822c9
+- 0718b2138cb050c4a59d25fa102e0866
 - 255f323993ab5b239cd2cbfb56941bb0
 - 2ab61e5037bd55348d1f7d25d32e982b
+- 36805c65346e5500b38e503314c5c0fd
+- 4d05b42cfb5d569d83c1b35b23adb78f
+- 4f26894a6d525640a2275010210fe915
+- 5aea0b1d27285fcdaa6387eab5ad54e3
 - 5b782f770ae5519a8d1f36fa2610f12f
+- 5e0462b4755f5b26b531fc32177cde1b
+- 7159eb69555c5c839efd616e0d6d4193
 - 71afa77a2fbb5928b847a28170cf25ae
 - 72a2bd17acb951988856db3476e4e802
 - 793e25d5f05a54068d6dd5e003067d3d
+- 7bc351f22f0b5310853a4ad1741eba07
 - 81cf7e4626db5c69b82e0a5435f7bef4
 - 8daef937752d53e78dd13374eef173bb
 - 8e4d31d17d3f53b1b392c8bfb4674fa2
+- 909b0c8ce0c050d08a5011950033a632
 - 93f886455baf591889d8a01c2d18c9b6
+- 968672856fd0520bba72cc515ec6afb5
+- 97a3037000165fa1a6fa0429dd85b0c1
+- a05342453b535184bc3b9262cd8057ed
+- a33c724fd06756698a0662d199a196e3
+- a95f42cf93545699902efa267babcdbd
+- b425fbfa86095a2481b6d21b705d6c13
+- bff7bdc52a505e9f9fb0eb27ffc74d8b
+- c8e3b34956e950a09f83d7d039e8ead7
+- d0f7713552b25a9d9e4f2510f77a4372
+- e6f4619ac093590eb43df42b61da3bb2
 - f0d650f5863757969661b39dece61a17
 - f4c9f017a312571ebce496a676228e8f
 - fb36f545803556aaace49a63fbd20487

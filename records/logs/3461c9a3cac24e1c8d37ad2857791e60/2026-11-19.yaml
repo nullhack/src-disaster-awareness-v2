@@ -1,12 +1,19 @@
 schema: 2
 incident_id: 3461c9a3cac24e1c8d37ad2857791e60
 log_date: '2026-11-19'
-summary: The IEA's chief said the Iran war has produced the largest threat to energy security in history, warning the energy world will not return to its pre-war state. Shipping through the Strait of Hormuz continues to face Iranian restrictions, tanker attacks and a US naval blockade, with a $64 million insurance claim illustrating the maritime cost, while GlobalData assessed that the US stands to gain most from the conflict's reshaping of global LNG trade. Reporting also found that estimates of when the Gulf conflict will end differ sharply between Washington and Riyadh.
+summary: |-
+  The IEA's chief said the Iran war has produced the largest threat to energy security in history, warning the energy world will not return to its pre-war state. Shipping through the Strait of Hormuz continues to face Iranian restrictions, tanker attacks and a US naval blockade, with a $64 million insurance claim illustrating the maritime cost, while GlobalData assessed that the US stands to gain most from the conflict's reshaping of global LNG trade. Reporting also found that estimates of when the Gulf conflict will end differ sharply between Washington and Riyadh.
+  A report said children in Gaza face displacement, loss of family, and poor living conditions. Separately, Tucker Carlson claimed that President Trump wants to de-escalate the Iran conflict, prompting Laura Loomer to dispute that account; she said Trump called Carlson a “loser.”
 news_ids:
+- 1405f57c3bfc554da5449ee9549820e9
+- 1a06bc9cbf6c5071b0d71a6cf5eb2596
+- 30ed2c27aa795fd789224f9cea9d288a
 - 4d1c45add0aa55488d200fc09a6987ca
 - 779e18cb954d5b4a8f718917469755d4
 - 89394dc7bff8550f9b76e7866af8d92e
 - 94d0350ab58b56849ac89bc9958c7972
+- 97fc12214e8b5b58ba086ca7a202a3af
 - aa906a584dc35acf97a750e8f8e1346d
 - de73e3149ee35b7cb9f7385a48fa5a61
 - ec3dc7ecd23757e4be2f11015c381bd9
+- f5bdbf980fa8593f80648d37b00f2bea

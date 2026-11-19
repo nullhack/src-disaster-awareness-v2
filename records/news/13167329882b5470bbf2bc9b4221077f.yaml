@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/articles/drought-reveals-stolen-car-hidden-165655487.html
 content_hash: 871fe76065daa91604d11ac2c05dfc3c2150c389acb8da2fa56231669f834ed8
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-19'

@@ -10,7 +10,7 @@ region: Europe
 first_seen: '2026-11-02'
 event_date: '2026-11-02'
 last_verified_update: '2026-11-18'
-latest_coverage_at: '2026-11-18'
+latest_coverage_at: '2026-11-19'
 status_changed_at: '2026-11-12'
 summary: Coverage of the human Shamonda case in France examines whether the virus could reach the Americas and what remains unknown about human infection. Reports note that the patient was hospitalized in France and that the virus had been considered non-transmissible to humans before this detection. An article on a fatal avian virus infection in a cancer immunotherapy patient is unrelated to Shamonda.
 summary_updated: '2026-11-18'
@@ -30,7 +30,7 @@ external_keys:
   report_id: 527032fc2a3a56f78bbfc18d457ab5cb
 coverage_counts:
   reports: 1
-  news: 8
+  news: 9
   logs: 2
   official_sources: 1
 created_at: '2026-11-02T00:00:00Z'

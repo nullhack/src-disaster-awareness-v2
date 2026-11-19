@@ -12,4 +12,5 @@ sitename: Hoodline
 canonical_url: https://hoodline.com/2026/11/louisiana-businesses-hit-by-drought-have-until-dec-10-to-claim-2m-sba-loans
 content_hash: 01e5131d6ddfbb257bd1fe555fd70229ceb91e11bbcf4093c9c9442046dfb1bf
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-19'

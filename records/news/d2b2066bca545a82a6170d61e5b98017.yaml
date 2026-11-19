@@ -12,4 +12,5 @@ sitename: The Gazette
 canonical_url: https://gazette.com/2026/11/17/guest-opinion-2026-historic-drought-and-the-value-of-being-prepared
 content_hash: 5a4ac8876bb043518eaeaffb0bfefeda796c5112bce9eaf5d17162986705cafc
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-19'

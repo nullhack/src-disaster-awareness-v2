@@ -12,4 +12,5 @@ sitename: Online Khabar
 canonical_url: https://www.onlinekhabar.com/2026/11/2060177/timure-flood-victims-return-to-their-homes-after-pitching-tents
 content_hash: 75af151ef85f675745efd011706ea0e9e2c59c096ccb82b3c2af3c9cb300b386
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-19'

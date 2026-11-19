@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/us/articles/16-ecuadorian-fishermen-sue-us-181457107.html
 content_hash: f9d1c8efc44a2c4f9a61c6436f72eaff7b57460183325f62f7e7d6ad0d67ea87
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-19'

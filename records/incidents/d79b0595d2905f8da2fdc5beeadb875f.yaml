@@ -1,6 +1,6 @@
 schema: 2
 id: d79b0595d2905f8da2fdc5beeadb875f
-status: dormant
+status: active
 display_name: Drought 2025-12-21
 slug: drought-2025-12-21
 incident_type: Drought
@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2025-12-21'
 event_date: '2025-12-21'
-last_verified_update: '2026-07-16'
-latest_coverage_at: '2026-07-16'
-status_changed_at: '2026-07-16'
-summary: Severe drought and heat across Europe are shrinking harvests, notably French maize, and causing water shortages in the Netherlands. The Rhine River has hit its lowest July level for decades, threatening energy and logistics, while Greek islands face drought during the tourist season; economists warn this extreme heat could raise food prices next year.
-summary_updated: '2026-07-16'
+last_verified_update: '2026-11-19'
+latest_coverage_at: '2026-11-19'
+status_changed_at: '2026-11-19T20:54:55Z'
+summary: Corpus Christi has leaned heavily on groundwater to get through the worst of its drought, with experts cautioning against prolonged well dependence, while Germany pledged about US$3.2 million for emergency boreholes in drought-stressed Namibia. Hawaii will launch a free monthly climate portal on July 1 giving residents localized rainfall and drought updates, and global wine production is projected at 225 million hectolitres in 2026 — roughly 7% below the five-year average — as Italy recorded its second-smallest harvest this century. Northwest Colorado is meanwhile waiting to see whether snowfall can pull the region out of storage deficits and drought.
+summary_updated: '2026-11-19'
 search_keys:
 - Drought latest 2025
 - Drought 2025
@@ -30,8 +30,8 @@ external_keys:
   report_id: c892ccdaf15e5014b1e1efb3d551fcfe
 coverage_counts:
   reports: 1
-  news: 11
-  logs: 1
+  news: 17
+  logs: 2
   official_sources: 1
 created_at: '2025-12-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'
