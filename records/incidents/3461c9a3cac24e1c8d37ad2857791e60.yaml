@@ -10,7 +10,7 @@ region: Asia
 first_seen: '2026-03-01'
 event_date: '2026-10-22'
 last_verified_update: '2026-11-19'
-latest_coverage_at: '2026-11-19'
+latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-15'
 summary: |-
   The IEA's chief said the Iran war has produced the largest threat to energy security in history, warning the energy world will not return to its pre-war state. Shipping through the Strait of Hormuz continues to face Iranian restrictions, tanker attacks and a US naval blockade, with a $64 million insurance claim illustrating the maritime cost, while GlobalData assessed that the US stands to gain most from the conflict's reshaping of global LNG trade. Reporting also found that estimates of when the Gulf conflict will end differ sharply between Washington and Riyadh.
@@ -35,7 +35,7 @@ external_keys:
   report_id: 90d58e287f5e58038d700244dc3e4c39
 coverage_counts:
   reports: 2
-  news: 435
+  news: 437
   logs: 27
   official_sources: 1
 created_at: '2026-03-01T00:00:00Z'

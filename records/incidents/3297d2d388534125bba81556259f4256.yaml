@@ -10,7 +10,7 @@ region: Global
 first_seen: '2026-04-21'
 event_date: '2026-04-21'
 last_verified_update: '2026-11-19'
-latest_coverage_at: '2026-11-19'
+latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-16'
 summary: The African Development Bank warns that climate change is worsening food insecurity, displacement and resource conflicts across Africa, with adaptation funding far below needs and calls for greater investment in resilience and peacebuilding. Forecasters' El Niño warnings envisage heavier rains in parts of Africa and drought in others, while funding gaps hamper translating those warnings into protection for clinics and communities, and analysts caution a super El Niño could turn Africa's food crisis into conflict. Other items in the batch cover U.S. local drought effects—Oklahoma conditions, Colorado's record drought year, Jackson water main breaks, Louisiana SBA loan deadlines, and a car exposed by low water—which are unrelated to this incident.
 summary_updated: '2026-11-19'
@@ -30,7 +30,7 @@ external_keys:
   report_id: a0e3912b49435acc987a20a3dc15ea38
 coverage_counts:
   reports: 1
-  news: 11
+  news: 15
   logs: 2
   official_sources: 1
 created_at: '2026-11-16T14:01:01Z'

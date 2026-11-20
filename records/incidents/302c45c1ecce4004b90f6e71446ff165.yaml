@@ -9,13 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2026-01-01'
 event_date: '2026-07-30'
-last_verified_update: '2026-11-19'
-latest_coverage_at: '2026-11-19'
+last_verified_update: '2026-11-20'
+latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-14'
-summary: |-
-  Fiji declared a national state of disaster and Tonga declared a state of emergency due to El Niño-driven drought and severe water shortages. In the U.S., a Colorado wildlife center treated a record 47 orphaned bear cubs amid drought-related malnutrition, Lake Powell dropped dangerously close to a critical hydropower threshold, and North Carolina experts said winter precipitation from a potentially record-strong El Niño is the state’s best chance to break the drought. South West Water said tap-water rationing remains a last-resort drought contingency not expected this winter.
-  Maharashtra added six talukas to its drought-hit list, raising the total to 310, while Karnataka said the central government had not yet responded to three memorandums seeking drought aid. North Carolina’s drought worsened, with 26% of the state under extreme conditions and 39 counties in extreme drought, prompting conservation appeals; meanwhile, a very strong El Niño is putting Brazil’s 2026–27 wheat and corn harvests at risk. Other reports noted Telangana activists seeking to postpone a global summit and a stolen car recovered from the drought-shrunk Big Black River in Mississippi.
-summary_updated: '2026-11-19'
+summary: North Carolina’s latest drought report shows more than half the state’s population—about 6.2 million people—living in drought-affected areas, with nearly 40 counties in extreme drought and Triangle reservoirs continuing to drop as officials urge water conservation. In North Dakota, Governor Kelly Armstrong ended the statewide drought disaster declaration, citing improved soil moisture, though severe and extreme drought remains in parts of the state.
+summary_updated: '2026-11-20'
 search_keys:
 - Drought latest 2026
 - Drought 2026
@@ -32,8 +30,8 @@ external_keys:
   report_id: c5b147e478285c89a23256083b1a7d45
 coverage_counts:
   reports: 1
-  news: 734
-  logs: 73
+  news: 740
+  logs: 74
   official_sources: 1
 created_at: '2026-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'
