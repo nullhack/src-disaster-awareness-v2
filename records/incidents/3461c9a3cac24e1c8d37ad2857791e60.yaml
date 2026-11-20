@@ -9,13 +9,11 @@ country_name: Yemen
 region: Asia
 first_seen: '2026-03-01'
 event_date: '2026-10-22'
-last_verified_update: '2026-11-19'
+last_verified_update: '2026-11-20'
 latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-15'
-summary: |-
-  The IEA's chief said the Iran war has produced the largest threat to energy security in history, warning the energy world will not return to its pre-war state. Shipping through the Strait of Hormuz continues to face Iranian restrictions, tanker attacks and a US naval blockade, with a $64 million insurance claim illustrating the maritime cost, while GlobalData assessed that the US stands to gain most from the conflict's reshaping of global LNG trade. Reporting also found that estimates of when the Gulf conflict will end differ sharply between Washington and Riyadh.
-  A report said children in Gaza face displacement, loss of family, and poor living conditions. Separately, Tucker Carlson claimed that President Trump wants to de-escalate the Iran conflict, prompting Laura Loomer to dispute that account; she said Trump called Carlson a “loser.”
-summary_updated: '2026-11-19'
+summary: A Houthi missile struck Riyadh’s tallest skyscraper, damaging the PIF Tower and nearby buildings, with no injuries reported. The U.S. Senate rejected a resolution to withdraw troops from the Iran conflict by a 51-48 vote and blocked another Democratic effort to end the war. President Trump also signaled he is not rushing a decision on new military action against Iran, pointing to January 1.
+summary_updated: '2026-11-20'
 search_keys:
 - Conflict latest 2026
 - Conflict 2026
@@ -35,8 +33,8 @@ external_keys:
   report_id: 90d58e287f5e58038d700244dc3e4c39
 coverage_counts:
   reports: 2
-  news: 437
-  logs: 27
+  news: 444
+  logs: 28
   official_sources: 1
 created_at: '2026-03-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

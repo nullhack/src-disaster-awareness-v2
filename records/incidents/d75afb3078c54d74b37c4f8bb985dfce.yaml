@@ -9,11 +9,11 @@ country_name: Ecuador
 region: Americas
 first_seen: '2025-04-15'
 event_date: '2026-05-11'
-last_verified_update: '2026-11-18'
-latest_coverage_at: '2026-11-18'
+last_verified_update: '2026-11-20'
+latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-15'
-summary: Recent drought conditions in Carroll County, Mississippi, revealed a stolen car that had been hidden in the Big Black River for 16 years. Barbados remains under a hydrological drought warning for the next four months despite recording its wettest month of the year in October, with very strong El Niño conditions threatening further dry spells. Fiji declared a national state of natural disaster over an ongoing El Niño drought, and the U.S. Small Business Administration made drought-related disaster relief loans available to affected businesses and non-profits.
-summary_updated: '2026-11-18'
+summary: New York’s Drought Watch was expanded to 13 counties, including Onondaga County and parts of the Finger Lakes and Southern Tier. A self-taught farmer in Rajshahi, Bangladesh, developed a drought-tolerant rice variety after seven years of research. The batch also included drought-monitor reporting that one of the driest Octobers on record coincided with expanding drought conditions, along with a map analysis of why Central Europe stands out on drought maps.
+summary_updated: '2026-11-20'
 search_keys:
 - Belize Drought latest 2026
 - Belize Drought 2026
@@ -25,9 +25,6 @@ genesis:
   source: GDACS
   source_id: '1027449'
 external_keys:
-- source: ERCC
-  source_id: '5835'
-  report_id: 4f55165eceb752a9b5e600013bf3b0ee
 - source: GDACS
   source_id: '1027449'
   report_id: c354147d8711521399704a007db460fa
@@ -35,9 +32,9 @@ external_keys:
   source_id: '5763'
   report_id: de71476231625797a7b966d1455ef80c
 coverage_counts:
-  reports: 3
-  news: 1173
-  logs: 86
+  reports: 2
+  news: 1178
+  logs: 87
   official_sources: 2
 created_at: '2025-04-15T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

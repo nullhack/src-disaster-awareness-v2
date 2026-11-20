@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-in/news/India/cyclone-akvan-live-cyclone-akvan-weakens-before-landfall-likely-to-cross-andhra-odisha-coast-by-forenoon/ar-AA2hOp42
 content_hash: fb635d4065c6e50547a5766236b9715c071873994245b8b70d61e96ace4f28fb
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-20'

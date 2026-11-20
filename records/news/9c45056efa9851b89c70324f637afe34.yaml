@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-in/news/India/cyclone-akvan-landfall-live-heavy-rainfall-thunderstorms-forecast-for-odisha-andhra-as-landfall-likely-tomorrow/ar-AA2hJR7w
 content_hash: b2d24b2fbac82ed4c4f56fde0110c918620a4c5b0f6bee6d2e73346b4284b211
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-20'

@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2026-11-11'
 event_date: '2026-11-13'
-last_verified_update: '2026-11-19'
+last_verified_update: '2026-11-20'
 latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-15'
-summary: Broward County Public Schools will remain closed on Friday due to the effects of severe weather, while Miami-Dade schools are set to resume operations. Palm Beach County canceled after-school activities, Port Canaveral remained open as heavy rain and wind slowed cruise travel, and the Edgewater mayor provided an update on the severe weather threat.
-summary_updated: '2026-11-19'
+summary: Heavy rain and flooding shifted north along Florida’s Atlantic coast, prompting flood rescues, road closures, and states of emergency in parts of Volusia and Flagler counties. The St. Johns River reached a record flood level, and forecasters warned that a developing storm system could bring more tropical rain, wind, and coastal flooding northward while threatening early Thanksgiving travel. A separate set of reports concerned Cyclone Akvan in India and was not related to this incident.
+summary_updated: '2026-11-20'
 search_keys:
 - Severe Weather latest 2026
 - Severe Weather 2026
@@ -30,8 +30,8 @@ external_keys:
   report_id: fa33a1f8256e5b30ae67485a8174526e
 coverage_counts:
   reports: 1
-  news: 66
-  logs: 6
+  news: 75
+  logs: 7
   official_sources: 1
 created_at: '2026-11-11T00:00:00Z'
 migrated_at: '2026-11-16T09:00:21Z'

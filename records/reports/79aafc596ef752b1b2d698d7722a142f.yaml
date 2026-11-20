@@ -1,0 +1,65 @@
+schema: 2
+id: 79aafc596ef752b1b2d698d7722a142f
+source: GDACS
+source_id: '1033974'
+incident_type: Forest Fire
+name: Forest Fire Kebbi, Nigeria 2026-11-17
+report_date: '2026-11-17'
+news_searched_at: ''
+places:
+- country_code: NG
+  subdivision: Kebbi
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in Nigeria
+  description: On 17/11/2026, a forest fire started in Nigeria,  until 20/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033974
+  pubDate: Fri, 20 Nov 2026 16:03:52 GMT
+  dateadded: Fri, 20 Nov 2026 16:03:52 GMT
+  datemodified: Fri, 20 Nov 2026 20:04:13 GMT
+  iscurrent: 'true'
+  fromdate: Tue, 17 Nov 2026 00:00:00 GMT
+  todate: Fri, 20 Nov 2026 00:00:00 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: WF1
+  guid: WF1033974
+  guid_isPermaLink: 'false'
+  geo_lat: 11.900300351610998
+  geo_long: 4.800708130048484
+  bbox: 0.800708130048484 8.80070813004848 7.900300351611 15.900300351611
+  point: 11.900300351610998 4.8007081300484842
+  cap: https://www.gdacs.org/contentdata/resources/WF/1033974/cap_1033974.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1033974'
+  episodeid: '2'
+  calculationtype: ''
+  severity: Green impact for forestfire in 5932 ha
+  severity_unit: ha
+  severity_value: '5932'
+  population: 31 people affected in the area
+  population_unit: ''
+  population_value: '31'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: NGA
+  country: Nigeria
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 89d8f913c1a8e5c992692d3154c160d39e74dde638ba60b9f527f12e2d611ec8

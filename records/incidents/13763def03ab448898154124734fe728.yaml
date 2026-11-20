@@ -12,7 +12,9 @@ event_date: '2026-07-26'
 last_verified_update: '2026-11-20'
 latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-15'
-summary: Renewed U.S.-Iran exchanges of fire ended a roughly two-month lull, with Iran targeting drone and missile sites at bases in Kuwait and Bahrain and a U.S. fighter jet striking a missile launch site on Iran's Qeshm Island. The Senate again rejected a resolution directing President Trump to end the war or seek congressional authorization, 48–51, with three Republicans joining Democrats, while the IRGC declared Iran International a military target and the Mossad chief reportedly pressed Washington for renewed U.S.-Israeli strikes. A symbolic Trump-Xi-Putin "peace declaration" omitted the Iran war entirely, a GAO watchdog found the Pentagon has no department-wide plan to fix munitions shortfalls, and crude and gasoline prices edged higher on escalation fears.
+summary: |-
+  Renewed U.S.-Iran exchanges of fire ended a roughly two-month lull, with Iran targeting drone and missile sites at bases in Kuwait and Bahrain and a U.S. fighter jet striking a missile launch site on Iran's Qeshm Island. The Senate again rejected a resolution directing President Trump to end the war or seek congressional authorization, 48–51, with three Republicans joining Democrats, while the IRGC declared Iran International a military target and the Mossad chief reportedly pressed Washington for renewed U.S.-Israeli strikes. A symbolic Trump-Xi-Putin "peace declaration" omitted the Iran war entirely, a GAO watchdog found the Pentagon has no department-wide plan to fix munitions shortfalls, and crude and gasoline prices edged higher on escalation fears.
+  Iran widened its attacks on Gulf neighbors, striking a U.S. air base in Kuwait and sites in Bahrain in what reporting describes as an effort to force a resolution to the nine-month conflict on Tehran's terms. President Trump signaled a waiting game, telling an Israeli outlet that his next move on Iran may not come until 2027 and dismissing concerns about a reported dirty-bomb plot against Washington, even as Israeli Prime Minister Netanyahu urged a joint air campaign to "finish the job." Separately, Iran's embassy in South Africa issued a "we will find you" threat against two officers of the USS Spruance as the destroyer returned to San Diego, and Senate Republicans blocked a Democratic effort to end the war for the first time since the midterms, with the Pentagon putting the conflict's cost at $48.3 billion.
 summary_updated: '2026-11-20'
 search_keys:
 - Iran Conflict latest 2026
@@ -34,7 +36,7 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 2
-  news: 3556
+  news: 3567
   logs: 111
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'

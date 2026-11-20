@@ -12,4 +12,5 @@ sitename: Baltimore Sun
 canonical_url: https://www.baltimoresun.com/2026/11/19/congress-war-powers-iran-war
 content_hash: 0101036589e0ceaf83ee8d6196c22cd1d90a78c021370faf9a2655baabf4a166
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-20'

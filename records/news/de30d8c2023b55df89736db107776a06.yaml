@@ -12,4 +12,5 @@ sitename: Sight Magazine
 canonical_url: https://sightmagazine.com.au/features/saving-lives-as-ebola-spreads-in-congo-faith-leaders-reach-communities-health-workers-struggle-to-access
 content_hash: a51ddee17959a05b55843b1001a14d958d5365e5b9f4a40be5907ae4d296bfe2
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-20'

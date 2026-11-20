@@ -1,0 +1,68 @@
+schema: 2
+id: 9b13b53c9e415f859da56e3b450ff543
+source: GDACS
+source_id: '1033983'
+incident_type: Forest Fire
+name: Forest Fire Western Bahr el Ghazal, South Sudan 2026-11-18
+report_date: '2026-11-18'
+news_searched_at: ''
+places:
+- country_code: SS
+  subdivision: Western Bahr el Ghazal
+  locality: ''
+- country_code: CF
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in South Sudan, Central African Republic
+  description: On 18/11/2026, a forest fire started in South Sudan, Central African Republic,  until 20/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033983
+  pubDate: Fri, 20 Nov 2026 20:02:57 GMT
+  dateadded: Fri, 20 Nov 2026 20:02:57 GMT
+  datemodified: Fri, 20 Nov 2026 20:02:55 GMT
+  iscurrent: 'true'
+  fromdate: Wed, 18 Nov 2026 00:00:00 GMT
+  todate: Fri, 20 Nov 2026 00:00:00 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: WF1
+  guid: WF1033983
+  guid_isPermaLink: 'false'
+  geo_lat: 8.204716352934026
+  geo_long: 25.169223479994212
+  bbox: 21.1692234799942 29.1692234799942 4.20471635293403 12.204716352934
+  point: 8.2047163529340263 25.169223479994212
+  cap: https://www.gdacs.org/contentdata/resources/WF/1033983/cap_1033983.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1033983'
+  episodeid: '1'
+  calculationtype: ''
+  severity: Green impact for forestfire in 6161 ha
+  severity_unit: ha
+  severity_value: '6161'
+  population: 0 people affected in the area
+  population_unit: ''
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: SSD
+  country: South Sudan, Central African Republic
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 91e4ad9c24aa5be147a7db3e08757d4d2a0e53d9d5659f6395659e8991d8d7a3

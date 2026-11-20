@@ -12,7 +12,9 @@ event_date: '2025-12-21'
 last_verified_update: '2026-11-20'
 latest_coverage_at: '2026-11-20'
 status_changed_at: '2026-11-19T20:54:55Z'
-summary: More than half of Arkansas is in exceptional drought, with the entire state experiencing some level of drought. Climatologists expect a powerful El Niño to bring warmer, drier weather to the already drought-affected Central Plains into spring. Heavy fall rains raised Lake Powell about 20 feet and federal forecasts show it staying above critical levels next year, though winter snow will ultimately determine its outlook.
+summary: |-
+  More than half of Arkansas is in exceptional drought, with the entire state experiencing some level of drought. Climatologists expect a powerful El Niño to bring warmer, drier weather to the already drought-affected Central Plains into spring. Heavy fall rains raised Lake Powell about 20 feet and federal forecasts show it staying above critical levels next year, though winter snow will ultimately determine its outlook.
+  Drought conditions in Arkansas have pushed 25 counties, including Jefferson, into extreme wildfire danger this fall. In Europe, drought combined with demand shifts is threatening the EU potato market, with the 2026 harvest showing how quickly conditions can change. Dry conditions are also expected to challenge Alabama deer hunters as gun season opens.
 summary_updated: '2026-11-20'
 search_keys:
 - Drought latest 2025
@@ -30,7 +32,7 @@ external_keys:
   report_id: c892ccdaf15e5014b1e1efb3d551fcfe
 coverage_counts:
   reports: 1
-  news: 21
+  news: 24
   logs: 3
   official_sources: 1
 created_at: '2025-12-21T00:00:00Z'

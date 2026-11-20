@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-us/news/other/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation/ar-AA2hNyWU
 content_hash: 2b0e7dbc5524b9f4d041af2bb29671632f47b481b16f4dd5ea0d647a5b3cf112
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-20'

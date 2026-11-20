@@ -12,4 +12,5 @@ sitename: News Talk 105.9 WMAL-FM
 canonical_url: https://www.wmal.com/2026/11/20/trump-signals-no-rush-on-new-military-action-against-iran-points-to-january-1
 content_hash: 2956d8f3cafa99a15dece0460beada03d8d8fe7e0acbc5634c99e7576529bdcf
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-20'

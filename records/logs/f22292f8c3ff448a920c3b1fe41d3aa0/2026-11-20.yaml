@@ -1,18 +1,29 @@
 schema: 2
 incident_id: f22292f8c3ff448a920c3b1fe41d3aa0
 log_date: '2026-11-20'
-summary: U.S. envoy Jared Kushner said in Berlin, after briefing European allies with Steve Witkoff, that Russia is "comfortable" with NATO-like security guarantees for postwar Ukraine, as Washington sought to reassure Kyiv's partners about Trump's meeting with Putin in China. The Trump–Putin–Xi trilateral in Shenzhen produced a "Declaration on Peace" that reportedly made no mention of Ukraine, and Trump questioned Europe's billions in Ukraine aid during a call to allied leaders from Air Force One. Meanwhile, Ukraine struck the Crimean/Kerch bridge for a third time in four days and Putin vowed retaliation, while UK Prime Minister Andy Burnham said Europe is "ready to enter negotiations."
+summary: |-
+  U.S. envoy Jared Kushner said in Berlin, after briefing European allies with Steve Witkoff, that Russia is "comfortable" with NATO-like security guarantees for postwar Ukraine, as Washington sought to reassure Kyiv's partners about Trump's meeting with Putin in China. The Trump–Putin–Xi trilateral in Shenzhen produced a "Declaration on Peace" that reportedly made no mention of Ukraine, and Trump questioned Europe's billions in Ukraine aid during a call to allied leaders from Air Force One. Meanwhile, Ukraine struck the Crimean/Kerch bridge for a third time in four days and Putin vowed retaliation, while UK Prime Minister Andy Burnham said Europe is "ready to enter negotiations."
+  Russia launched a large missile and drone barrage at Ukraine — more than 110 missiles, including 27 ballistic, and over 400 drones — shortly after Putin met with Trump. During the attack, two Russian Kh-101 missiles and a drone came down in Poland, prompting Warsaw to activate air defenses and seek NATO support over the airspace violation. UNICEF reported that child deaths and injuries in Ukraine this year have already surpassed recent levels and are approaching 2022 figures.
 news_ids:
 - 0056d141a29e583681cead2b623c86c6
+- 107017f9a6995372a79427399b17c995
 - 126f9c2d55df507b873096c300e55f73
+- 2694572d188252ed973cef4eaaefe8bc
 - 2a69370171725fcbb4ac134cfeaa358d
+- 2b82ab50d10b5f478819c4190fd24913
 - 45a9dd1c388d53218d4641a3a6c71d61
 - 460ac58036be5506a59bdb12218018f1
 - 4b019155acab554c9d5b32b2749a4ebc
+- 506a9bb0a57a524da5ce1e8df47df63e
 - 64813fe74f185e4a8d5f2946a485385a
+- 66a7c6a100d65c6d879f05d48958dbfd
 - 68f34cebbcc25676b51fc19989e247ab
 - 873675c4ab34554197d03593a6100d51
+- 936f7afc11e45ed5a529287660a17216
 - 974a62ce8f8f5d03a3b41de092956cb3
+- 9c1447e58036558782a87034bb2b225d
 - c38337a5047555189d01c5a8317baab8
+- d028f8e1d4d05bd69eba8ec718941c93
+- ec4a8d00876853419b899895f1eca582
 - fb43a4453b765589959a2fd4d9656620
 - fe0151b5ff395875b8047537d9ba9b17
