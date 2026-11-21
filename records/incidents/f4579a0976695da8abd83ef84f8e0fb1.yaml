@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2015-11-12'
 event_date: '2024-05-30'
-last_verified_update: '2026-11-18'
-latest_coverage_at: '2026-11-19'
+last_verified_update: '2026-11-21'
+latest_coverage_at: '2026-11-21'
 status_changed_at: '2026-11-15'
-summary: Hillsborough County, Florida, saw its dengue case count climb from 385 to 407, the highest total in the state, as scientists work to prevent the virus from becoming endemic there. In Delhi, dengue cases fell from 90 to 61 this month as colder weather set in. Researchers at the University of Maryland School of Medicine and the Institute of Human Virology announced the first successful human challenge model for dengue serotype 4, which could accelerate vaccine and drug testing. In Bangladesh, one more dengue death raised the 2026 toll to 508, with total confirmed cases reaching 167,318.
-summary_updated: '2026-11-18'
+summary: Bangladesh reported two more dengue-related deaths, raising the 2026 death toll to 510, along with 1,615 new hospitalizations across the country. Other coverage in this batch repeats Florida's previously reported 2026 total of 624 locally acquired cases and offers only general commentary on how extreme weather is heightening dengue risk.
+summary_updated: '2026-11-21'
 search_keys:
 - Dengue update 2024
 extended_monitoring: false
@@ -29,8 +29,8 @@ external_keys:
   report_id: 87a05b33f106553bb98143f41aa7cc71
 coverage_counts:
   reports: 1
-  news: 242
-  logs: 59
+  news: 243
+  logs: 60
   official_sources: 1
 created_at: '2015-11-12T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

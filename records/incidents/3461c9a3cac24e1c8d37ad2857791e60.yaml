@@ -29,10 +29,13 @@ external_keys:
   source_id: '5839'
   report_id: 57c57f9fc70a503e99d1ade5ccf23244
 - source: ERCC
+  source_id: '5846'
+  report_id: 658c3e69300859f6adbbaec31d775f7b
+- source: ERCC
   source_id: '5822'
   report_id: 90d58e287f5e58038d700244dc3e4c39
 coverage_counts:
-  reports: 2
+  reports: 3
   news: 444
   logs: 28
   official_sources: 1

@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://touchdownwire.usatoday.com/story/news/2026/11/13/florida-dengue-cases-624/92738266007
 content_hash: b9618b468e6ff02ac32552a4917a2128ee56a942a221032caaff913b398eec59
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-21'

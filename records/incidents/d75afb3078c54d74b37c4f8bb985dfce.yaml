@@ -9,11 +9,11 @@ country_name: Ecuador
 region: Americas
 first_seen: '2025-04-15'
 event_date: '2026-05-11'
-last_verified_update: '2026-11-20'
-latest_coverage_at: '2026-11-20'
+last_verified_update: '2026-11-21'
+latest_coverage_at: '2026-11-21'
 status_changed_at: '2026-11-15'
-summary: New York’s Drought Watch was expanded to 13 counties, including Onondaga County and parts of the Finger Lakes and Southern Tier. A self-taught farmer in Rajshahi, Bangladesh, developed a drought-tolerant rice variety after seven years of research. The batch also included drought-monitor reporting that one of the driest Octobers on record coincided with expanding drought conditions, along with a map analysis of why Central Europe stands out on drought maps.
-summary_updated: '2026-11-20'
+summary: This batch reports that drought in Louisiana is depleting water supplies needed for the upcoming crawfish season and that answers have been reported for a California river that dried up for months. A Dalhousie-led study found intensifying drought risk across Nova Scotia, especially in fall, while Western farmers and ranchers are focusing on proactive water-supply adaptation.
+summary_updated: '2026-11-21'
 search_keys:
 - Belize Drought latest 2026
 - Belize Drought 2026
@@ -33,8 +33,8 @@ external_keys:
   report_id: de71476231625797a7b966d1455ef80c
 coverage_counts:
   reports: 2
-  news: 1178
-  logs: 87
+  news: 1182
+  logs: 88
   official_sources: 2
 created_at: '2025-04-15T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

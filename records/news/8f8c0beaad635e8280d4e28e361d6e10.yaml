@@ -12,4 +12,5 @@ sitename: english.news.cn
 canonical_url: https://english.news.cn/20261119/85a5014d24a742018bda5b58047d0c1f/c.html
 content_hash: 122b0bf603f384183fdeb32b01b87773b74200f4a72c10451dc9d91f7fcca067
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-21'

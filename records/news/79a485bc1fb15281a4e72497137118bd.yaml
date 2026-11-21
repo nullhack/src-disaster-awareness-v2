@@ -12,4 +12,5 @@ sitename: The Altamont Enterprise
 canonical_url: https://altamontenterprise.com/11192026/states-doc-new-yorkers-flu-spikes-get-vaccinated
 content_hash: 2e0b9841d23d6565e0f32f069660b016c2b6b1815c4408ee68588f5c22278088
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-21'

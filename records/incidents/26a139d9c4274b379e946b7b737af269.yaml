@@ -7,13 +7,13 @@ incident_type: Flood
 country_code: NP
 country_name: Nepal
 region: Asia
-first_seen: '2026-05-21'
+first_seen: '2017-05-01'
 event_date: '2026-08-26'
-last_verified_update: '2026-11-19'
-latest_coverage_at: '2026-11-19'
+last_verified_update: '2026-11-21'
+latest_coverage_at: '2026-11-21'
 status_changed_at: '2026-11-15'
-summary: In Timure, Rasuwa, 48 of the 68 households displaced by the August flood have returned to their original area and are living in temporary tents. A disaster risk reduction panel warned that recovery must help businesses restart, not just rebuild roads and infrastructure, while other coverage described aid workers shifting to community rebuilding and examined stalled loss-and-damage financing for Nepal at COP31.
-summary_updated: '2026-11-19'
+summary: Nearly three months after the Bhotekoshi flood, scholarships for affected students are being delayed by a lack of verified data, while resettlement efforts face challenges beyond simply providing new homes. Nepal’s inflation reached a 36-month high amid supply disruptions following the Aug. 26 floods and landslides, and relief continues through aid to the family of a missing flood victim as well as rebuilding work led by women survivors and aid workers.
+summary_updated: '2026-11-21'
 search_keys:
 - Nepal Flood latest 2026
 - Nepal Flood 2026
@@ -36,8 +36,8 @@ external_keys:
   report_id: ddfff7daebbe5a2a87c47f040f8dff20
 coverage_counts:
   reports: 3
-  news: 1225
-  logs: 69
+  news: 1229
+  logs: 70
   official_sources: 2
 created_at: '2026-05-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

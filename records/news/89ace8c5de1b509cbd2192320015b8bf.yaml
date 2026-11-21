@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://thetyee.ca/News/2026/11/20/Online-Long-Covid-Clinic-MSP-Billing
 content_hash: 9a8e0ed5a20c14dbe7f9df06c30047a01749d0d369a0a52e06e96ac0e7d603d6
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-21'

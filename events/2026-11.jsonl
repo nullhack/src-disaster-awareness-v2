@@ -1901,3 +1901,162 @@
 {"at": "2026-11-20T20:36:14Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-20", "news": 3, "type": "log_created"}
 {"at": "2026-11-20T20:36:14Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "log_date": "2026-11-20", "news": 4, "type": "log_created"}
 {"at": "2026-11-20T20:36:14Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-20", "news": 9, "type": "log_created"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "6abdaced0ebf594b81bc1c8f40ba7c08", "source": "USGS", "source_id": "us6000uchd", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "bbcba0d9eab756019e3d97ddf35c03d4", "source": "USGS", "source_id": "us6000ucgj", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "5c4cc352d93852d58d0b41df1303e8b5", "source": "USGS", "source_id": "us6000ucga", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "aca46e43dccc52a7aa5fe60bb98c7abc", "source": "USGS", "source_id": "us6000ucg8", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "15f58d8210f3552f883082443a501f90", "source": "USGS", "source_id": "us6000ucfm", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "76a385f088055b40a64dd51ff9807190", "source": "USGS", "source_id": "us6000ucf0", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "cbaff165a8615234aafe48e449fdec59", "source": "USGS", "source_id": "us7000tyme", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "c9425fc6f4c655ca8588efa37fbc8a0e", "source": "USGS", "source_id": "us7000tylj", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "841589f4db705c3e8e8e4c0fe1fe338d", "source": "USGS", "source_id": "us7000tx5g", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "6e0d6524d71258f6a692471e2c172e6f", "source": "USGS", "source_id": "us7000twkx", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "3f3be807df2f59068888bf8d139bc397", "source": "GDACS", "source_id": "1578506", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "8049457d27b1518e9d39a5751ca42be7", "source": "GDACS", "source_id": "1578488", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "a8e7f765e0e055d086e74866b4d09804", "source": "GDACS", "source_id": "1578474", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "4508a17162905ca99c09c8e4cf9fe042", "source": "GDACS", "source_id": "1578473", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "d5edf645010c55c0978c4e59a3d6da25", "source": "GDACS", "source_id": "1578468", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "ec9dc71b1079587ea73d72b5ddc12753", "source": "GDACS", "source_id": "1578459", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "d7a00648b47b5429b163b7191a10cb78", "source": "GDACS", "source_id": "1033992", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "21eea505a43f5898bfc3f92dbcc0ced6", "source": "GDACS", "source_id": "1033991", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "9dbf8f5ed6235b8dbec18740c4ac3fcd", "source": "GDACS", "source_id": "1033990", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "ce091e1413ae5a958a63752b14bedafb", "source": "GDACS", "source_id": "1033989", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "38f39f6ba72c5b94a483319247e63415", "source": "GDACS", "source_id": "1578187", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:36Z", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "source": "WHO", "source_id": "ed3972c6-2e78-492e-b669-6348f77c6b12", "type": "report_ingested"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "8860e791983b51ceb00ad2213e101736", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/peru-earthquake-67-magnitude-tremor-hits-carhuamayo-near-lima/ar-AA2hSHpL"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "8860e791983b51ceb00ad2213e101736", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "424f2d8dd2ae558fb79eb5e42903e340", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/news/magnitude-6-7-earthquake-shakes-peru-s-andes-with-no-damage-or-casualties-immediately-reported/ar-AA2hT3NW"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "424f2d8dd2ae558fb79eb5e42903e340", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "e329aa2eefb751feba222306f3df8fb0", "type": "news_ingested", "url": "https://deultimominuto.com/en/world/magnitude-6-7-earthquake-strikes-central-peru/"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "e329aa2eefb751feba222306f3df8fb0", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "a00c741ca9c75dabb06dee3975829fe2", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/strong-magnitude-6-7-earthquake-010437777.html"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "a00c741ca9c75dabb06dee3975829fe2", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "e851ff0374aa56c991c1750dde607934", "type": "news_ingested", "url": "https://www.nytimes.com/interactive/2026/11/20/world/americas/earthquake-peru-map-tracker.html"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "e851ff0374aa56c991c1750dde607934", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "a75024470f5c50e6a19f6072c083bc6b", "type": "news_ingested", "url": "https://www.dimsumdaily.hk/magnitude-6-7-earthquake-shakes-central-peru-with-no-immediate-casualties-reported/"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "a75024470f5c50e6a19f6072c083bc6b", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "0a410ce6faf45c06abad619db58fae4f", "type": "news_ingested", "url": "https://www.tbsnews.net/world/magnitude-67-earthquake-hits-perus-andes-no-immediate-reports-casualties-or-damage-1609216"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "0a410ce6faf45c06abad619db58fae4f", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "969a4fbe5aac5cbea3a88576f75d41ff", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/magnitude-68-quake-strikes-peru-sending-lima-residents-from-homes/ar-AA2hSMBs"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "969a4fbe5aac5cbea3a88576f75d41ff", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "061e6b86f9de577d97a1c3ff3ce48e3f", "type": "news_ingested", "url": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "061e6b86f9de577d97a1c3ff3ce48e3f", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "eeafd43136da5031a4eacc848b735747", "type": "news_ingested", "url": "https://ijr.com/discover/world-2026-11-21-strong-peru-quake-prompts-lima-evacuations-8f4ac063"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "eeafd43136da5031a4eacc848b735747", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "0713e83952f95610a4b724dce3a22f92", "type": "news_ingested", "url": "https://www.newsbeast.gr/world/arthro/13512133/ischyros-seismos-67-richter-sto-perou-aisthitos-mechri-tin-protevousa-lima"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "0713e83952f95610a4b724dce3a22f92", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "c66f3442d8595c10926d01ff20207776", "type": "news_ingested", "url": "https://www.msn.com/es-us/noticias/other/fuerte-sismo-de-6-7-sacude-perú-y-llega-hasta-lima-qué-daños-dejó/ar-AA2hT9uE"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "c66f3442d8595c10926d01ff20207776", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "d3d2f10b2e3c5e74b84ca5bdde6ca7e5", "type": "news_ingested", "url": "https://www.msn.com/el-gr/news/other/σεισμός-68-ρίχτερ-στο-περού-οι-πολίτες-εγκαταλείπουν-τα-σπίτια-τους-δείτε-βίντεο/ar-AA2hTdWP"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "d3d2f10b2e3c5e74b84ca5bdde6ca7e5", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "2203b370588c5649bc357c2037c8ded4", "type": "news_ingested", "url": "https://www.atv.pe/noticia/sismo-de-6-7-en-junin-asi-se-vivio-en-lima-y-otras-regiones/"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "2203b370588c5649bc357c2037c8ded4", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "cc4ce11f55cf58a3bd55564b6a895726", "type": "news_ingested", "url": "https://www.c5n.com/mundo/terremoto-peru-junin-sismo-lima-heridos-victimas-viernes-20-noviembre-2026"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "news_id": "cc4ce11f55cf58a3bd55564b6a895726", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "8ea3e85de3c253b78d076b80bc0b3a4b", "type": "news_ingested", "url": "https://www.thedailyscrumnews.com/dr-congo-ebola-response-cannot-succeed-without-broader-humanitarian-effort/"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "8ea3e85de3c253b78d076b80bc0b3a4b", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "4dcca3d53491564f81e1fcfa4693667d", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/ebola-vaccine-trials-launches-amid-111358168.html"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "4dcca3d53491564f81e1fcfa4693667d", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "47732a3b3d495f98a5578491e58cb070", "type": "news_ingested", "url": "https://www.aol.co.uk/articles/ebola-killed-46-members-one-110030000.html"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "47732a3b3d495f98a5578491e58cb070", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "ac78fd54b632564cb53059dbb61e2cbf", "type": "news_ingested", "url": "https://ozarab.media/ebola-survivor-warns-family-after-46-relatives-die/"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "ac78fd54b632564cb53059dbb61e2cbf", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "3a3a1c75dbc253ac8f98c5f9422443c6", "type": "news_ingested", "url": "https://www.independent.co.ug/ebola-government-suspends-concerts-in-high-risk-border-districts/"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "3a3a1c75dbc253ac8f98c5f9422443c6", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "news_id": "cab20abd9eba5c82adc2966be48c4310", "type": "news_ingested", "url": "https://www.usnews.com/news/world/articles/2026-11-20/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-ukmto-says"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "cab20abd9eba5c82adc2966be48c4310", "type": "news_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-21T07:06:55Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "c99b1c4940345b099cba917109ce761b", "type": "news_ingested", "url": "https://voi.id/info-sehat/603323/perubahan-cuaca-ekstrem-picu-peningkatan-risiko-dengue"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "c99b1c4940345b099cba917109ce761b", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "9034571514bc5896ab7fbf1cca986ea7", "type": "news_ingested", "url": "https://www.benzinga.com/news/politics/26/11/63514571/vance-trump-iran-war-midterm"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "9034571514bc5896ab7fbf1cca986ea7", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "413e31ece4f05eb0a034050635f1b1e0", "type": "news_ingested", "url": "https://www.politico.com/newsletters/inside-congress/2026/11/20/dems-draft-a-curb-on-iran-war-cash-01177672"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "413e31ece4f05eb0a034050635f1b1e0", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "11016e2de24e507998614c1bdf594b52", "type": "news_ingested", "url": "https://www.washingtonpost.com/world/2026/11/21/strait-of-hormuz-swimmer-lewis-pugh/dcf4e420-e569-11f1-a99e-b3e3805c6b8b_story.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "11016e2de24e507998614c1bdf594b52", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "f00a05b4e92154f8bcdc34466e839e04", "type": "news_ingested", "url": "https://www.newsmax.com/newsmax-tv/andy-harris-democrats-iran/2026/11/20/id/1277013/"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "f00a05b4e92154f8bcdc34466e839e04", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "26358f44fee55098b7cd76ecab8b38d5", "type": "news_ingested", "url": "https://www.forbes.com/sites/michaellynch/2026/11/20/the-iran-war-wont-change-world-energy/"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "26358f44fee55098b7cd76ecab8b38d5", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "fe8ee98a449254aba85514928b4b53f4", "type": "news_ingested", "url": "https://www.outlookindia.com/national/bay-of-bengal-cyclones-season-explained-three-cyclones-monsoon-wind-shear-el-nino-november"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "a394893e12924f7eb5f4918ec3ce62b7", "news_id": "fe8ee98a449254aba85514928b4b53f4", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "9692fa9c4e68501bbffd7bee0a80f544", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/louisiana-drought-creates-challenges-crawfish-235508622.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "9692fa9c4e68501bbffd7bee0a80f544", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "b6c48ead613d57edb373287fa45a04de", "type": "news_ingested", "url": "https://www.dal.ca/news/2026/11/20/nova-scotia-drought-dalhousie-study.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "b6c48ead613d57edb373287fa45a04de", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "eab1189cdc9654e2a0aa9d7eb7e71c67", "type": "news_ingested", "url": "https://www.santafenewmexican.com/news/environment/drought-forces-western-farmers-ranchers-to-be-proactive-with-water-supply/article_5eec9762-a681-404e-8a9f-fe9468044143.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "eab1189cdc9654e2a0aa9d7eb7e71c67", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "a9d603ddaddb57c68adf97322657eb91", "type": "news_ingested", "url": "https://www.yahoo.com/news/science/articles/mystery-california-river-drying-months-230000647.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "a9d603ddaddb57c68adf97322657eb91", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "477cb6bfd91e589caa5330a3b92b64f4", "type": "news_ingested", "url": "https://www.pentictonherald.ca/spare_news/article_061cba7f-d105-56f4-a6a2-a864563378d5.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "news_id": "477cb6bfd91e589caa5330a3b92b64f4", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "c3531e9812fd5593814880a6e14fc9be", "type": "news_ingested", "url": "https://www.cidrap.umn.edu/ebola/uganda-south-sudan-intensify-efforts-keep-ebola-out-amid-burgeoning-dr-congo-outbreak"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "c3531e9812fd5593814880a6e14fc9be", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "bd41c6438aa15cd7af6e0661c93f7777", "type": "news_ingested", "url": "https://www.insurancebusinessmag.com/asia/news/catastrophe/philippine-farm-coverage-gap-widens-as-drought-season-deepens-598276.aspx"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "bd41c6438aa15cd7af6e0661c93f7777", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "6c9ebf07abd0561db809d3b62e9a8f4c", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/luxury-developer-says-building-pond-182800299.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "6c9ebf07abd0561db809d3b62e9a8f4c", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "9798023a58465e5396e336340e37b17d", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/record-highlights-growing-water-crisis-234500836.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "9798023a58465e5396e336340e37b17d", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "8efd62c74ae05585b026ca75e764e3db", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/flying-objects-violated-polish-airspace-during-russian-attack-live/ar-AA2hPB3j?ocid=BingNewsVerp"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "8efd62c74ae05585b026ca75e764e3db", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "169ac9842f365179b8b0e67ea9802dc2", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-hold-line-berlin-102126110.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "169ac9842f365179b8b0e67ea9802dc2", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "744070c9d2b25b22b73143cef27fdf9e", "type": "news_ingested", "url": "https://www.yahoo.com/news/articles/ukraine-child-death-toll-climbs-125315185.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "744070c9d2b25b22b73143cef27fdf9e", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "bad5e263e00d5e0baddea7e3fcf7dfee", "type": "news_ingested", "url": "https://www.directrelief.org/2026/11/critical-medications-depart-for-ukraine-midwife-kits-reach-uganda/"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "bad5e263e00d5e0baddea7e3fcf7dfee", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "7c941d534c475d009bbe19b68d185787", "type": "news_ingested", "url": "https://www.plataformamedia.com/en/2026/11/20/donald-tusk-says-a-russian-missile-crash-in-poland-is-an-intentional-provocation-as-ukraine-allies-hold-drills/"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "7c941d534c475d009bbe19b68d185787", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "2c7ca1f86ffc538fa170586a18da50ae", "type": "news_ingested", "url": "https://www.sfgate.com/news/article/russia-dusts-off-its-prewar-demands-as-the-us-22542820.php"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "2c7ca1f86ffc538fa170586a18da50ae", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "24233c2f3aec5a13a653f405ab69fe3f", "type": "news_ingested", "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-vladimir-putin-ties-russia-ukraine-attacks-security-guarantees-3043661-2026-11-21"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "24233c2f3aec5a13a653f405ab69fe3f", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "e8ccb0b3e87d5b8faebcddcebe06f437", "type": "news_ingested", "url": "https://www.bizpacreview.com/2026/11/20/zelenskyy-wants-more-american-missiles-but-us-has-already-burned-through-most-of-its-supply-1668391/"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "e8ccb0b3e87d5b8faebcddcebe06f437", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "c4082b790a8d5c63b0bdbfd08c0e100a", "type": "news_ingested", "url": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "c4082b790a8d5c63b0bdbfd08c0e100a", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "11c216d4ea8252f2b0df2a4b7f162299", "type": "news_ingested", "url": "https://www.msn.com/en-xl/asia/nepal/lack-of-verified-data-delays-scholarships-for-flood-hit-students/ar-AA2hRpcW?ocid=BingNewsVerp"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "11c216d4ea8252f2b0df2a4b7f162299", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "24d0fe3c74fc57ae81a88747f99b16db", "type": "news_ingested", "url": "https://www.msn.com/en-xl/asia/nepal/resettling-disaster-survivors-takes-more-than-finding-them-new-homes/ar-AA2hTeBj?ocid=BingNewsVerp"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "24d0fe3c74fc57ae81a88747f99b16db", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "b70ab8ccc47c58b8b283b7a34ed05bc2", "type": "news_ingested", "url": "https://www.onlinekhabar.com/2026/11/2062129/independent-drivers-association-provides-assistance-to-the-family-of-govinda-who-went-missing-in-the-bhotekoshi-flood"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "b70ab8ccc47c58b8b283b7a34ed05bc2", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "a9e42ec52da354b09e7c4923a8849217", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/israeli-settlers-move-into-a-palestinian-neighborhood-brings-deadly-violence-to-jerichos-doorstep/ar-AA2hUd6q?ocid=BingNewsVerp"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "a9e42ec52da354b09e7c4923a8849217", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "37bc6d2bec435b4e9834c49131b05bce", "type": "news_ingested", "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "37bc6d2bec435b4e9834c49131b05bce", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "2684926981e45beca2a917ca92308658", "type": "news_ingested", "url": "https://www.sfgate.com/news/bayarea/article/marin-co-severe-weather-emergency-shelter-to-be-22542866.php"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "2684926981e45beca2a917ca92308658", "type": "news_linked"}
+{"at": "2026-11-21T07:09:06Z", "news_id": "5a40bb5899bd5ee789fb1f3bfeddfe1c", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/watch-viral-sf-flood-video-173645368.html"}
+{"at": "2026-11-21T07:09:06Z", "incident_id": "5f60e62071f246e085d621d269c4f3e3", "news_id": "5a40bb5899bd5ee789fb1f3bfeddfe1c", "type": "news_linked"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "13763def03ab448898154124734fe728", "log_date": "2026-11-21", "news": 5, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "log_date": "2026-11-21", "news": 5, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "log_date": "2026-11-21", "news": 4, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "log_date": "2026-11-21", "news": 6, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-21", "news": 4, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-21", "news": 3, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-21", "news": 8, "type": "log_created"}
+{"at": "2026-11-21T07:20:51Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-21", "news": 3, "type": "log_created"}

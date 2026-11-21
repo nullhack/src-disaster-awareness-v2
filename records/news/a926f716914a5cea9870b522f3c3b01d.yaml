@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.usatoday.com/story/life/health-wellness/2026/11/18/can-you-get-your-covid-and-flu-shot-at-the-same-time/92325752007
 content_hash: 875260aa3e183ed0d6953dc16f89686a66364bd68cece3754ec78f6956f960fd
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-21'
