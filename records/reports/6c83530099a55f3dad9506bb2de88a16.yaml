@@ -1,0 +1,68 @@
+schema: 2
+id: 6c83530099a55f3dad9506bb2de88a16
+source: GDACS
+source_id: '1033996'
+incident_type: Forest Fire
+name: Forest Fire Western Bahr el Ghazal, South Sudan 2026-11-17
+report_date: '2026-11-17'
+news_searched_at: ''
+places:
+- country_code: SS
+  subdivision: Western Bahr el Ghazal
+  locality: ''
+- country_code: SD
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in South Sudan, Sudan
+  description: On 17/11/2026, a forest fire started in South Sudan, Sudan,  until 21/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033996
+  pubDate: Sat, 21 Nov 2026 20:01:40 GMT
+  dateadded: Sat, 21 Nov 2026 20:01:40 GMT
+  datemodified: Mon, 23 Nov 2026 00:04:31 GMT
+  iscurrent: 'true'
+  fromdate: Tue, 17 Nov 2026 00:00:00 GMT
+  todate: Sun, 22 Nov 2026 00:00:00 GMT
+  durationinweek: '1'
+  year: '2026'
+  subject: WF1
+  guid: WF1033996
+  guid_isPermaLink: 'false'
+  geo_lat: 8.906967938601515
+  geo_long: 24.80664323990699
+  bbox: 20.806643239907 28.806643239907 4.90696793860151 12.9069679386015
+  point: 8.9069679386015146 24.80664323990699
+  cap: https://www.gdacs.org/contentdata/resources/WF/1033996/cap_1033996.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1033996'
+  episodeid: '5'
+  calculationtype: ''
+  severity: Green impact for forestfire in 11376 ha
+  severity_unit: ha
+  severity_value: '11376'
+  population: 0 people affected in the area
+  population_unit: ''
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: SSD
+  country: South Sudan, Sudan
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 7aa6aa7ed92d7fad5fc5a143b5d5e79077b78f918f184e1c78df2a2f2931b222

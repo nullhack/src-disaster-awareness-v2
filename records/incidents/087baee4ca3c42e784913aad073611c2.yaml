@@ -1,0 +1,37 @@
+schema: 2
+id: 087baee4ca3c42e784913aad073611c2
+status: active
+display_name: Earthquake M6.8 Lospalos, Timor-Leste 2026-11-21
+slug: earthquake-m6-8-lospalos-timor-leste-2026-11-21
+incident_type: Earthquake
+country_code: TL
+country_name: Timor-Leste
+region: Asia
+first_seen: '2026-11-21'
+event_date: '2026-11-21'
+last_verified_update: '2026-11-23'
+latest_coverage_at: '2026-11-23'
+status_changed_at: '2026-11-23'
+summary: A magnitude 6.8 earthquake struck deep beneath the Timor/Banda Sea region on Saturday, Nov. 21, with USGS listing the reviewed depth at 132.1 km. Shaking was felt in Dili and hundreds of miles away in Darwin, Australia, according to reports. Australia's Bureau of Meteorology reported no tsunami watches or warnings, and no casualties or damage were reported.
+summary_updated: '2026-11-23'
+search_keys:
+- Timor-Leste Earthquake latest 2026
+- Timor-Leste Earthquake 2026
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: b21a67bfeb8d501fb17daef9a2723212
+  source: USGS
+  source_id: us6000ucij
+external_keys:
+- source: USGS
+  source_id: us6000ucij
+  report_id: b21a67bfeb8d501fb17daef9a2723212
+coverage_counts:
+  reports: 1
+  news: 4
+  logs: 1
+  official_sources: 1
+created_at: '2026-11-23T07:38:11Z'
+pipeline_created_at: '2026-11-23T07:38:11Z'

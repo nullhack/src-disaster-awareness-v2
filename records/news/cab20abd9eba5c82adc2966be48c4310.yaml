@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.usnews.com/news/world/articles/2026-11-20/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-ukmto-says
 content_hash: 8ae8eaef30f3c612e5d731d0b9babf7895ca6bbfe5fb0a339909ddadfbffb545
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-23'

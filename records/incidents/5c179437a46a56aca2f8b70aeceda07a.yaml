@@ -9,11 +9,11 @@ country_name: DR Congo
 region: Africa
 first_seen: '2025-09-05'
 event_date: '2025-09-05'
-last_verified_update: '2026-11-21'
-latest_coverage_at: '2026-11-21'
+last_verified_update: '2026-11-23'
+latest_coverage_at: '2026-11-23'
 status_changed_at: '2026-11-15'
-summary: Uganda suspended concerts, festivals, rallies, and other mass gatherings in high-risk border districts as part of stepped-up measures to prevent Ebola importation from the Democratic Republic of Congo. Uganda and South Sudan intensified efforts to keep the virus out, while the head of a global vaccine organization said clinical trials of three Bundibugyo Ebola vaccines could lead to a breakthrough early in 2027. In Bunia, an Ebola survivor urged relatives to follow precautions after 46 members of his family died, and large-scale vaccine trials were launched in the outbreak’s epicenter amid security concerns.
-summary_updated: '2026-11-21'
+summary: New reports put the DRC Ebola outbreak at roughly 11,645–11,680 confirmed cases, with deaths near or above 5,700; one report says 500 cases and 246 deaths were added in a week. WHO warned that escalating fighting in eastern DRC, including near hospitals and in Ituri, is disrupting Ebola response efforts and that staff were trapped in a maternity ward, prompting calls for peace and safe evacuation.
+summary_updated: '2026-11-23'
 search_keys:
 - Ebola DR Congo update 2026
 - Ebola DR Congo 2026
@@ -87,8 +87,8 @@ external_keys:
   report_id: ff79fd21b0c954d0999ebb4963b52b92
 coverage_counts:
   reports: 20
-  news: 1158
-  logs: 99
+  news: 1168
+  logs: 100
   official_sources: 2
 created_at: '2025-09-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:21Z'

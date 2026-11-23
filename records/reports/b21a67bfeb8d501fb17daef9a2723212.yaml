@@ -1,0 +1,47 @@
+schema: 2
+id: b21a67bfeb8d501fb17daef9a2723212
+source: USGS
+source_id: us6000ucij
+incident_type: Earthquake
+name: Earthquake M6.8 Lospalos, Timor-Leste 2026-11-21
+report_date: '2026-11-21'
+news_searched_at: '2026-11-23T07:38:11Z'
+places:
+- country_code: TL
+  subdivision: Lautém
+  locality: Lospalos
+raw_fields:
+  mag: 6.8
+  place: 105 km NE of Lospalos, Timor Leste
+  time: 1795254129120
+  updated: 1795344403086
+  tz: null
+  url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij
+  detail: https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ucij.geojson
+  felt: 41
+  cdi: 3.6
+  mmi: 5.298
+  alert: green
+  status: reviewed
+  tsunami: 0
+  sig: 726
+  net: us
+  code: 6000ucij
+  ids: ',us6000ucij,'
+  sources: ',us,'
+  types: ',dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,'
+  nst: 106
+  dmin: 6.186
+  rms: 1.13
+  gap: 21
+  magType: mww
+  type: earthquake
+  title: M 6.8 - 105 km NE of Lospalos, Timor Leste
+  geometry:
+    type: Point
+    coordinates:
+    - 127.5407
+    - -7.7324
+    - 132.055
+  depth: 132.055
+content_hash: a96a560824bf916e187859aa362f45bf03f6505583502de988df9ae421b8246b

@@ -1,6 +1,6 @@
 schema: 2
 id: b1a7f2cb68cc531ba1d9be66fd646c6c
-status: dormant
+status: active
 display_name: Hantavirus Argentina 2026-05-04
 slug: hantavirus-argentina-2026-05-04
 incident_type: Hantavirus cluster linked to cruise ship travel, Multi-country
@@ -9,11 +9,11 @@ country_name: Argentina
 region: Americas
 first_seen: '2026-05-04'
 event_date: '2026-05-04'
-last_verified_update: '2026-07-09'
-latest_coverage_at: '2026-11-19'
-status_changed_at: '2026-07-09'
-summary: A Canadian passenger tested positive for Andes hantavirus after returning from the cruise ship, making Canada the fourth country with a confirmed case linked to the outbreak. The U.S. Centers for Disease Control and Prevention ended its response to the hantavirus cluster, and all 18 U.S. passengers from the MV Hondius returned to their home states. Additionally, an American passenger, Angela Perryman, was ordered by Health Secretary RFK Jr. to remain in quarantine against her will, sparking a controversy over her confinement.
-summary_updated: '2026-07-09'
+last_verified_update: '2026-11-23'
+latest_coverage_at: '2026-11-23'
+status_changed_at: '2026-11-23T08:04:18Z'
+summary: A newly reported analysis found no definitive link between the hantavirus strain responsible for the cruise ship outbreak and the outbreak strain circulating in Argentina, undercutting the assumption of a straightforward common source. Separately, a University of Geneva study was described as pinpointing the origin and mode of transmission of the Andes virus that spread aboard the cruise ship. Other coverage in this batch revisits earlier developments, including the evacuation of three patients and the hypothesis that a couple was infected during a bird-watching outing before boarding, while a Bariloche hospital report describes a hantavirus patient improving without specifying any connection to the ship cluster.
+summary_updated: '2026-11-23'
 search_keys:
 - Hantavirus Argentina update 2026
 - Hantavirus Argentina 2026
@@ -42,8 +42,8 @@ external_keys:
   report_id: 928b3cc8c18a5e9bbbc9231fc1926f47
 coverage_counts:
   reports: 5
-  news: 32
-  logs: 2
+  news: 36
+  logs: 3
   official_sources: 1
 created_at: '2026-05-04T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

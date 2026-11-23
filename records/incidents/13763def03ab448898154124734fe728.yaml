@@ -9,11 +9,11 @@ country_name: Iran
 region: Asia
 first_seen: '2016-01-01'
 event_date: '2026-07-26'
-last_verified_update: '2026-11-21'
-latest_coverage_at: '2026-11-21'
+last_verified_update: '2026-11-23'
+latest_coverage_at: '2026-11-23'
 status_changed_at: '2026-11-15'
-summary: 'Reporting this batch focuses on Washington politics rather than the fighting: a group of Democrats is said to be closing in on a proposal that would cut off funding for the Iran war as part of a spending deal intended to avert a shutdown, drawing pushback from Republicans such as Rep. Andy Harris, who argued that defunding the campaign would hand Iran a victory. Separately, Vice President JD Vance declined to endorse President Trump''s Iran strikes despite having earlier blamed the war for the GOP''s midterm losses. Other items in the batch were peripheral, including a swim in the Strait of Hormuz staged to highlight environmental threats to wildlife and a commentary arguing the war will not transform global energy.'
-summary_updated: '2026-11-21'
+summary: Iran massed more than 14 tankers at its most important crude export terminal and released footage of a new underground missile launcher, while an Iranian attack set a civilian industrial facility in Bahrain on fire and Tehran claimed it targeted US military positions there. Two tankers were reported on fire near the Strait of Hormuz after hitting mines, a tanker incident involving military forces was reported, and the UAE and Oman continued searching for a Jordanian sailor missing after a Hormuz tanker attack. The Houthis claimed strikes on a Saudi oil refinery and port, and Israeli military intelligence reportedly warned Netanyahu that an Israeli attack on Iran could spark a multifront war.
+summary_updated: '2026-11-23'
 search_keys:
 - Iran Conflict latest 2026
 - Iran Conflict 2026
@@ -34,8 +34,8 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 2
-  news: 3572
-  logs: 112
+  news: 3592
+  logs: 113
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

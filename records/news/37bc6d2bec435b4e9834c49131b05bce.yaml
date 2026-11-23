@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html
 content_hash: 49e4e0245a5dec8658b2fa8865eec8eea67d262d8ebf97468eabd02842666463
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-23'

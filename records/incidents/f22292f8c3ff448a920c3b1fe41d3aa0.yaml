@@ -9,11 +9,11 @@ country_name: Ukraine
 region: Europe
 first_seen: '2026-03-05'
 event_date: '2026-07-15'
-last_verified_update: '2026-11-21'
-latest_coverage_at: '2026-11-21'
+last_verified_update: '2026-11-23'
+latest_coverage_at: '2026-11-23'
 status_changed_at: '2026-11-15'
-summary: Trump declined to call Putin a friend of the United States while praising their personal relationship, speaking amid renewed Russian attacks on Ukraine and disagreement over postwar security guarantees. Polish PM Donald Tusk condemned a Russian Kh-101 missile crash in Poland as an intentional provocation during allied drills, and reporting said the Kremlin is reviving prewar demands as Washington raises discussing European security. Zelenskyy demanded that the Pentagon release Patriot missiles even as reports said the US has largely exhausted its own supply.
-summary_updated: '2026-11-21'
+summary: Suspected Ukrainian sea drones struck a Russian warship docked at the Benghazi naval base in Libya, sinking the vessel in a large explosion — an attack on Russian assets far from the Ukrainian front. Libyan officials warned that the country's territory must not be "turned into an arena for settling scores." Separately, a Levada poll found that only 6% of Russians believe Russia should answer for the destruction in Ukraine, while 65% blame the United States and NATO.
+summary_updated: '2026-11-23'
 search_keys:
 - Ukraine Conflict latest 2026
 - Ukraine Conflict 2026
@@ -45,8 +45,8 @@ external_keys:
   report_id: d81fc37c31e45d768a2e1fd1b84313ef
 coverage_counts:
   reports: 6
-  news: 2271
-  logs: 112
+  news: 2282
+  logs: 113
   official_sources: 1
 created_at: '2026-03-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

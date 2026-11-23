@@ -12,4 +12,5 @@ sitename: unige.ch
 canonical_url: https://www.unige.ch/lejournal/recherche/printemps-2026/hantavirus-croisiere-andes
 content_hash: a051bf65f5593086d81d1c544141045cb6eb983b391a21f86f6673f99c76d6f5
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-23'

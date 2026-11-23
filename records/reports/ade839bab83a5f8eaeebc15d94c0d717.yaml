@@ -1,0 +1,65 @@
+schema: 2
+id: ade839bab83a5f8eaeebc15d94c0d717
+source: GDACS
+source_id: '1034004'
+incident_type: Forest Fire
+name: Forest Fire Australia 2026-11-19
+report_date: '2026-11-19'
+news_searched_at: ''
+places:
+- country_code: AU
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in Australia
+  description: On 19/11/2026, a forest fire started in Australia,  until 22/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034004
+  pubDate: Sun, 22 Nov 2026 20:01:10 GMT
+  dateadded: Sun, 22 Nov 2026 20:01:10 GMT
+  datemodified: Mon, 23 Nov 2026 00:01:13 GMT
+  iscurrent: 'true'
+  fromdate: Thu, 19 Nov 2026 00:00:00 GMT
+  todate: Sun, 22 Nov 2026 00:00:00 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: WF1
+  guid: WF1034004
+  guid_isPermaLink: 'false'
+  geo_lat: -19.34954508382574
+  geo_long: 122.59592524948165
+  bbox: 118.595925249482 126.595925249482 -23.3495450838257 -15.3495450838257
+  point: -19.349545083825738 122.59592524948165
+  cap: https://www.gdacs.org/contentdata/resources/WF/1034004/cap_1034004.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1034004'
+  episodeid: '2'
+  calculationtype: ''
+  severity: Green impact for forestfire in 5211 ha
+  severity_unit: ha
+  severity_value: '5211'
+  population: 0 people affected in the area
+  population_unit: ''
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: AUS
+  country: Australia
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 0c5202087fb421be3e653212cf2881ad27aca3394c64bb42847244239bb334d3

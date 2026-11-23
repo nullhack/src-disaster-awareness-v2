@@ -1,0 +1,65 @@
+schema: 2
+id: 052702e47a5e5496a978ddc7f175bb59
+source: GDACS
+source_id: '1034012'
+incident_type: Forest Fire
+name: Forest Fire Moyen-Chari, Chad 2026-11-16
+report_date: '2026-11-16'
+news_searched_at: ''
+places:
+- country_code: TD
+  subdivision: Moyen-Chari
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in Chad
+  description: On 16/11/2026, a forest fire started in Chad,  until 22/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034012
+  pubDate: Sun, 22 Nov 2026 16:04:16 GMT
+  dateadded: Sun, 22 Nov 2026 16:04:16 GMT
+  datemodified: Mon, 23 Nov 2026 00:05:32 GMT
+  iscurrent: 'true'
+  fromdate: Mon, 16 Nov 2026 00:00:00 GMT
+  todate: Sun, 22 Nov 2026 00:00:00 GMT
+  durationinweek: '1'
+  year: '2026'
+  subject: WF1
+  guid: WF1034012
+  guid_isPermaLink: 'false'
+  geo_lat: 9.780320403816473
+  geo_long: 19.574677716571415
+  bbox: 15.5746777165714 23.5746777165714 5.78032040381647 13.7803204038165
+  point: 9.7803204038164733 19.574677716571415
+  cap: https://www.gdacs.org/contentdata/resources/WF/1034012/cap_1034012.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1034012'
+  episodeid: '2'
+  calculationtype: ''
+  severity: Green impact for forestfire in 6431 ha
+  severity_unit: ha
+  severity_value: '6431'
+  population: 69 people affected in the area
+  population_unit: ''
+  population_value: '69'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: TCD
+  country: Chad
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 1af05bc6a2405c0c815fd3e11fdfcd2bfe44c63477c1a785eb251a6e5d5b8c77

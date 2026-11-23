@@ -1,0 +1,68 @@
+schema: 2
+id: ccd64efdaa5558d1ae55f30ea2b64888
+source: GDACS
+source_id: '1033997'
+incident_type: Forest Fire
+name: Forest Fire Western Bahr el Ghazal, South Sudan 2026-11-16
+report_date: '2026-11-16'
+news_searched_at: ''
+places:
+- country_code: SS
+  subdivision: Western Bahr el Ghazal
+  locality: ''
+- country_code: CF
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in South Sudan, Central African Republic
+  description: On 16/11/2026, a forest fire started in South Sudan, Central African Republic,  until 21/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033997
+  pubDate: Sat, 21 Nov 2026 16:02:20 GMT
+  dateadded: Sat, 21 Nov 2026 16:02:20 GMT
+  datemodified: Mon, 23 Nov 2026 00:05:03 GMT
+  iscurrent: 'true'
+  fromdate: Mon, 16 Nov 2026 00:00:00 GMT
+  todate: Sun, 22 Nov 2026 00:00:00 GMT
+  durationinweek: '1'
+  year: '2026'
+  subject: WF1
+  guid: WF1033997
+  guid_isPermaLink: 'false'
+  geo_lat: 8.205648206238902
+  geo_long: 25.12862369437994
+  bbox: 21.1286236943799 29.1286236943799 4.2056482062389 12.2056482062389
+  point: 8.2056482062389016 25.128623694379939
+  cap: https://www.gdacs.org/contentdata/resources/WF/1033997/cap_1033997.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1033997'
+  episodeid: '4'
+  calculationtype: ''
+  severity: Green impact for forestfire in 21261 ha
+  severity_unit: ha
+  severity_value: '21261'
+  population: 0 people affected in the area
+  population_unit: ''
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: SSD
+  country: South Sudan, Central African Republic
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: fe0dde1b508d8b0292f92a68415092e09aa59439deb9e6106bbfd5e1d108e228
