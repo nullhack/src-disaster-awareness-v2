@@ -2710,3 +2710,159 @@
 {"at": "2026-11-24T10:12:50Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-24", "news": 4, "type": "log_created"}
 {"at": "2026-11-24T10:12:50Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-24", "news": 8, "type": "log_created"}
 {"at": "2026-11-24T10:12:50Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-24", "news": 3, "type": "log_created"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "8081a529fd9955b9bd23001ec3c9879b", "source": "USGS", "source_id": "us6000udbn", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "2f40cda4f56957eabe145db0e65c614f", "source": "USGS", "source_id": "us6000udb8", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "bf90edb4849b5e4b8a57c1a34fc5e57f", "source": "USGS", "source_id": "us6000ud7z", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "9a016fb102ed56189e005fafd2eb0370", "source": "USGS", "source_id": "us6000ud7h", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "618c0e541a5f5bdea03fc7f0b2023570", "source": "USGS", "source_id": "us6000ud73", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "dbb3dc3045fb531bb313100bec118b5f", "source": "USGS", "source_id": "us6000ud6z", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "40f197f7b00254a4b8c830808cc49b30", "source": "USGS", "source_id": "us6000ud6h", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "75460ebd11c354bc9375b8d1fa2bf8ae", "source": "USGS", "source_id": "us7000txv3", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "e15422ecd4685144b08a7a6060be86cb", "source": "USGS", "source_id": "us7000txjc", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "05d11d1321e1546ba65e8ee48a6632c0", "source": "USGS", "source_id": "us7000tw6p", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "e1f22f21b828536a984ce98f846ab057", "source": "USGS", "source_id": "us7000txlh", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "a7a832bce5d055a7908de5c620d8d1de", "source": "USGS", "source_id": "us7000txjt", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "1b52849253b95f01b253ab123dfa2728", "source": "USGS", "source_id": "us7000txjm", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "843e897deabd5bb99b0856a4ef6e7d2c", "source": "USGS", "source_id": "us7000twlx", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "9838fbf6b596522cb44ede72fd2166e8", "source": "USGS", "source_id": "us7000twlw", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "58c6b8c509675c90bbb55d895bc3fcd2", "source": "USGS", "source_id": "us7000ttyi", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "1d9ea364e40d57e3a4bc7bfe6f8305b4", "source": "GDACS", "source_id": "1579107", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "d95a5e87eb3c5d19baca421e2eb7501f", "source": "GDACS", "source_id": "1579097", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "604b7496aeb15e0aa888b67f7860e62e", "source": "GDACS", "source_id": "1579055", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "f68fc736288454d592b56dc41e8059f9", "source": "GDACS", "source_id": "1579030", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "226eea138bf35613a494d1c85f3bfa49", "source": "GDACS", "source_id": "1579018", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "845b94b6ac445e94b4f04243c3fa1197", "source": "GDACS", "source_id": "1579013", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "82218d4cfce25dc9ada7fe4dc581bc5a", "source": "GDACS", "source_id": "1579008", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "bd695724303a50da99798fd0882eb2be", "source": "GDACS", "source_id": "1104298", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "6e522a83e89b56a499bcb82519089f23", "source": "GDACS", "source_id": "1034057", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "9e6f58955f8e54c98c2e329349242db7", "source": "GDACS", "source_id": "1034056", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "0c2d874ab1c65f33aeeafe45c0ee6264", "source": "GDACS", "source_id": "1034055", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "21fb7705612d55058565f6e24bbb319d", "source": "GDACS", "source_id": "1034054", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "e97a896cf08855abbea544928128b26b", "source": "GDACS", "source_id": "1034053", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "1e7f5e6385fa5e06acbbee84e278bf4c", "source": "WHO", "source_id": "a7f77226-d760-4fb3-b32d-45c0bbc72c54", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "62991691ccea55e2ad46ecd500c3b692", "source": "WHO", "source_id": "2393a7eb-0b82-4096-bcc0-be1db2f3828a", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:36Z", "report_id": "58cf97eb239159469da86018e03808e5", "source": "ERCC", "source_id": "5857", "type": "report_ingested"}
+{"at": "2026-11-24T22:26:53Z", "news_id": "f3bf4271cda75f38813ad627bc2cab1e", "type": "news_ingested", "url": "https://www.indiatvnews.com/news/world/6-4-magnitude-earthquake-strikes-near-mauritius-no-tsunami-warning-issued-2026-11-24-1060271"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "name": "Incident 8121ca7f", "type": "incident_created"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "f3bf4271cda75f38813ad627bc2cab1e", "type": "news_linked"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-24T22:26:53Z", "news_id": "d6aadddb98fc54e796fb9dde4f88d0c6", "type": "news_ingested", "url": "https://www.ibtimes.co.uk/earthquake-near-mauritius-no-tsunami-threat-detected-1834439"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "d6aadddb98fc54e796fb9dde4f88d0c6", "type": "news_linked"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-24T22:26:53Z", "news_id": "78c28ad487ae51dca9b8f8080df8c7e2", "type": "news_ingested", "url": "https://www.dailymirror.lk/breaking-news/Magnitude-6-5-earthquake-recorded-in-Indian-Ocean-no-tsunami-threat-to-Sri-Lanka/108-355647"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "78c28ad487ae51dca9b8f8080df8c7e2", "type": "news_linked"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-24T22:26:53Z", "news_id": "06d065ad7eec52b394b8b4a0f199f354", "type": "news_ingested", "url": "https://www.riotimesonline.com/rodrigues-tsunami-watch-quake-november-2026/"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "06d065ad7eec52b394b8b4a0f199f354", "type": "news_linked"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-24T22:26:53Z", "news_id": "62e8302911565200be963a6d1ae370bd", "type": "news_ingested", "url": "https://www.virakesari.lk/article/267944"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "62e8302911565200be963a6d1ae370bd", "type": "news_linked"}
+{"at": "2026-11-24T22:26:53Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "817de23fb054598aac41833a97ded8ba", "type": "news_ingested", "url": "https://abc7.com/story/india-announces-16-billion-aid-package-nepals-flood-recovery/20069456/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "817de23fb054598aac41833a97ded8ba", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "ab2ef34394cf5aacbf93c5e5a8e20b3b", "type": "news_ingested", "url": "https://health.yahoo.com/conditions/infectious/coronavirus/articles/covid-flu-shots-together-doctors-100033114.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "news_id": "ab2ef34394cf5aacbf93c5e5a8e20b3b", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "102b670bf34a535e9be3163a57d8452b", "type": "news_ingested", "url": "https://www.msn.com/en-ph/news/other/catanauan-quezon-declares-state-of-calamity-as-drought-losses-hit-p147-million/ar-AA2i51Ac?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "102b670bf34a535e9be3163a57d8452b", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "2ce55f275c255c4baf2bda53f5b3bb01", "type": "news_ingested", "url": "https://www.thehindubusinessline.com/economy/agri-business/maharashtra-likely-to-see-sharp-dip-in-output-of-kharif-pulses-foodgrain-on-drought/article71738744.ece"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "2ce55f275c255c4baf2bda53f5b3bb01", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "7829c8d4d85f5dcebd7ab57055ee9486", "type": "news_ingested", "url": "https://www.riotimesonline.com/zimbabwe-sets-aside-us400m-for-drought/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "7829c8d4d85f5dcebd7ab57055ee9486", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "cfdd8daea93d5e93a15399bedf4f4c02", "type": "news_ingested", "url": "https://www.wlbt.com/2026/11/24/mississippi-cattle-farmer-says-drought-has-kept-ryegrass-growing/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "cfdd8daea93d5e93a15399bedf4f4c02", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "6b9b1b441e565a34939a21ac7684f3cc", "type": "news_ingested", "url": "https://www.msn.com/en-nz/news/national/pacific-governments-step-up-el-niño-response-as-drought-and-water-crisis-deepen/ar-AA2i8yvu?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "6b9b1b441e565a34939a21ac7684f3cc", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "b51bacd05b0456caa9733c5c7b907ec4", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/lingering-extreme-drought-extends-hinds-county-burn-ban-impacting-businesses/ar-AA2i5fKI?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "b51bacd05b0456caa9733c5c7b907ec4", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "1c44add0d02f5425a7794892e2a8dc96", "type": "news_ingested", "url": "https://www.manilatimes.net/2026/11/25/regions/state-of-calamity-declared-in-isabela/2477374"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "1c44add0d02f5425a7794892e2a8dc96", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "7d551d4a209b558193266a46d796da5f", "type": "news_ingested", "url": "https://www.riotimesonline.com/ethiopia-el-nino-drought-maize-prices-livestock-2026/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "7d551d4a209b558193266a46d796da5f", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "601092c6148e525a8123c822e46287f8", "type": "news_ingested", "url": "https://www.businessday.co.za/opinion/2026-11-24-wandile-sihlobo-heatwaves-drought-challenge-summer-crop-outlook/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "601092c6148e525a8123c822e46287f8", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "9c025edcbdb458b4a405d9def411485d", "type": "news_ingested", "url": "https://technode.global/2026/11/24/el-nino-threatens-southeast-asias-data-center-expansion-as-water-risks-mount-says-bmi/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "9c025edcbdb458b4a405d9def411485d", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "e466ca6d9e5a57a589208b6419a83bff", "type": "news_ingested", "url": "https://www.cachevalleydaily.com/news/new-usu-research-explains-utahs-missing-winter-identifies-warning-signs-of-future-droughts/article_fa28f4f2-1ea1-49eb-bc1f-1a8fe911bfe1.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "e466ca6d9e5a57a589208b6419a83bff", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "58916ffc11a358a79ec5574939181018", "type": "news_ingested", "url": "https://www.abc4.com/news/southern-utah/seeding-project-aims-to-restore-cottonwood-fire-burn-scar/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "58916ffc11a358a79ec5574939181018", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "46baabe15a325c5b8686c20fa2dac48c", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/fire-suppression-efforts-continue-2-200722942.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "46baabe15a325c5b8686c20fa2dac48c", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "0a8ce4d4edf85ab59fb934a36e1d05b8", "type": "news_ingested", "url": "https://www.wsls.com/news/local/2026/11/23/virginia-wildfires/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "0a8ce4d4edf85ab59fb934a36e1d05b8", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "5fb8c296d7a55762807f84926184e038", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/first-responders-burn-leaf-litter-131054458.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "5fb8c296d7a55762807f84926184e038", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "6726ab2311af5a8cbf774577c1f664f6", "type": "news_ingested", "url": "https://wgme.com/news/local/helicopter-helps-stop-45-acre-woods-fire-after-burn-pile-escapes-in-hiram"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "6726ab2311af5a8cbf774577c1f664f6", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "028cb4d9bb955bf5ba8bab93304a5bfa", "type": "news_ingested", "url": "https://www.theintermountain.com/news/local-news/2026/11/wildfire-near-marlinton-sends-smoke-over-state-line/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "028cb4d9bb955bf5ba8bab93304a5bfa", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "fc00da4a4bac5308a8a09a540be1305e", "type": "news_ingested", "url": "https://www.news18.com/world/over-1000-russian-soldiers-died-by-suicide-since-ukraine-war-began-report-ws-lr-10438337.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "fc00da4a4bac5308a8a09a540be1305e", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "f958bae06e7d5987ba523ee7bff71138", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/nato-warns-putin-could-strike-before-european-army-responds-points-to-us-as-military-model/ar-AA2i4jmY?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "f958bae06e7d5987ba523ee7bff71138", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "6e1e487b31005e88b2b2dd4e7df637c1", "type": "news_ingested", "url": "https://www.dailypress.com/2026/11/24/europe-ukraine-russia-sabotage/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "6e1e487b31005e88b2b2dd4e7df637c1", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "35eaf81017a75343ab4912e6cbeab8a9", "type": "news_ingested", "url": "https://www.detroitnews.com/story/news/world/2026/11/24/ukraine-insists-attack-russian-ships-in-libya-was-self-defense/92938929007/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "35eaf81017a75343ab4912e6cbeab8a9", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "c6dcc32fbb075d10b3bec44bb004c964", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/russia-may-have-lost-720000-soldiers-in-ukraine-leaked-data-suggests-one-death-every-four-minutes/ar-AA2i7IzB?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "c6dcc32fbb075d10b3bec44bb004c964", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "d3d4c99f173759bbbd0d730ca1103931", "type": "news_ingested", "url": "https://www.msn.com/en-gb/news/world/poland-blames-russia-for-drone-incursion-as-fears-grow-of-ukraine-conflict-escalation/ar-AA2i7yxv?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "d3d4c99f173759bbbd0d730ca1103931", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "8951b023d55a57f0b7d77ce70e8761c0", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone/vi-AA2i8QnQ?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "8951b023d55a57f0b7d77ce70e8761c0", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "9741072670f75c4eaaceb65082f681c5", "type": "news_ingested", "url": "https://www.baltimoresun.com/2026/11/24/russian-strike-ukraine/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "9741072670f75c4eaaceb65082f681c5", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "57b0a14ed45c579ca62269930a53fdc5", "type": "news_ingested", "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/11/24/could-russian-strikes-on-kyiv-prompt-an-exodus-and-test-us-resolve/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "57b0a14ed45c579ca62269930a53fdc5", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "5749e5f57f225bf7964725389f7e97ac", "type": "news_ingested", "url": "https://tulsaworld.com/news/state-regional/weather/article_32cc5d66-1d96-475b-a160-beb70eb6f8c5.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "5749e5f57f225bf7964725389f7e97ac", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "944462736e09591eb451e4a4a1210426", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/disaster-loan-deadline-approaching-louisiana-191910217.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "944462736e09591eb451e4a4a1210426", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "ff77f8ad99aa5253b508dc2169e96e7d", "type": "news_ingested", "url": "https://abc7chicago.com/post/drought-reveals-remnants-communities-beneath-jordan-lake/20071028/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "ff77f8ad99aa5253b508dc2169e96e7d", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "173b843f94e25683918d8d6a0ef1915f", "type": "news_ingested", "url": "https://www.yahoo.com/news/science/articles/thanksgiving-cranberries-climate-impacts-wisconsin-174950166.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "173b843f94e25683918d8d6a0ef1915f", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "f0f5bcbf2ba35f15a9b3632192f812f0", "type": "news_ingested", "url": "https://www.news-medical.net/news/20261124/Two-studies-provide-new-insights-into-deadly-cruise-ship-Andes-virus-outbreak.aspx"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "b1a7f2cb68cc531ba1d9be66fd646c6c", "news_id": "f0f5bcbf2ba35f15a9b3632192f812f0", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "439e363dc24f506c811794bb5fb8bd1a", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/why-a-powerful-quake-deep-beneath-vanuatu-caused-no-reported-damage/ar-AA2i86Pk?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "2c81d4781acf4a868a430f19741f04ca", "news_id": "439e363dc24f506c811794bb5fb8bd1a", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "14beb04824eb556fa239c009d4d82d21", "type": "news_ingested", "url": "https://www.vaticannews.va/ml/church/news/2026-11/ecuador-flood-affected-church-aid-to-need-conflicts-migration.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "d8b0e00d26504ed58a8997e958c91b71", "news_id": "14beb04824eb556fa239c009d4d82d21", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "fa860a778b455c838e4500c7256db37e", "type": "news_ingested", "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-satellite-032539761.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "fa860a778b455c838e4500c7256db37e", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "36bdf42cc023540ead86a66682faa40d", "type": "news_ingested", "url": "https://english.elpais.com/international/2026-11-24/colombia-marks-10-years-since-farc-peace-deal-as-de-la-espriella-threatens-its-future.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "36bdf42cc023540ead86a66682faa40d", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "5e63c111df5d53d9ba9ceaf4411a0c27", "type": "news_ingested", "url": "https://www.southcarolinapublicradio.org/news/2026-11-24/the-u-s-government-is-investigating-iranian-ties-to-as-many-as-50-hacked-commercial-vessels"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "5e63c111df5d53d9ba9ceaf4411a0c27", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "f3fe074e11825af09e7381ae4d8205cd", "type": "news_ingested", "url": "https://www.ynetnews.com/article/rksvhhmjmx"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "f3fe074e11825af09e7381ae4d8205cd", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "ab03b010bf665bba8a7eb1cd56bd5288", "type": "news_ingested", "url": "https://news.un.org/en/story/2026/11/1168866"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "ab03b010bf665bba8a7eb1cd56bd5288", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "91bed8361ca65ffc8d46bdd5996fdb82", "type": "news_ingested", "url": "https://www.mercurynews.com/2026/11/24/iran-no-talks-us-mideast-news/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "91bed8361ca65ffc8d46bdd5996fdb82", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "fd7814625db6521f8cf87a32120123f2", "type": "news_ingested", "url": "https://www.baltimoresun.com/2026/11/24/vance-rubio-qatari-pm-iran-war/"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "fd7814625db6521f8cf87a32120123f2", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "c43eca4d582753f19d6f41b484983c65", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/world/could-russia-ukraine-war-threaten-libya-s-fragile-reunification-process/ar-AA2i86Tq?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "c43eca4d582753f19d6f41b484983c65", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "0ba64a3cf3c853e5b73c8cd622fbbce3", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/drone-strikes-hit-khartoum-homes-and-un-facility-as-civilian-toll-rises-in-sudan/ar-AA2i9xmy?ocid=BingNewsVerp"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "0ba64a3cf3c853e5b73c8cd622fbbce3", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "968fd8ed2cc65ad09bb05393fdead7a7", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/donald-trump-2-word-reaction-170346646.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "968fd8ed2cc65ad09bb05393fdead7a7", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "95c9a06c500c51c8b8536451ab58a5f1", "type": "news_ingested", "url": "https://www.ntnews.com/international/earthquake-6-4-magnitude-earthquake-strikes-near-mauritius-no-tsunami-warning-issued-2568166"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "95c9a06c500c51c8b8536451ab58a5f1", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "eca8ee9da5c95cbe9a765cfd1a6289f1", "type": "news_ingested", "url": "https://defimedia.info/au-nord-est-de-rodrigues-un-seisme-de-magnitude-64-enregistre"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "eca8ee9da5c95cbe9a765cfd1a6289f1", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "ed907edec2a05259a636c8ecd7723f0f", "type": "news_ingested", "url": "https://jvpnews.com/article/6-5-magnitude-earthquake-in-the-indian-ocean-1795524201"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "ed907edec2a05259a636c8ecd7723f0f", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "7a844375af3a593f8c2846d2762be162", "type": "news_ingested", "url": "https://www.indiatv.in/world/around-the-world/earthquake-of-magnitude-6-4-hits-mauritius-people-in-panic-no-tsunami-alert-2026-11-24-1256130"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "7a844375af3a593f8c2846d2762be162", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "b2255121328b54c28bb1b8e60afe1493", "type": "news_ingested", "url": "https://www.andhrajyothy.com/2026/international/mauritius-64-magnitude-earthquake-reunion-island-suri-1579404.html"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "b2255121328b54c28bb1b8e60afe1493", "type": "news_linked"}
+{"at": "2026-11-24T22:28:37Z", "news_id": "416d24faf31e50da9a5219bfa35c7770", "type": "news_ingested", "url": "https://bombaysamachar.com/public/news/mauritius-64-magnitude-earthquake-panic-spreads-people"}
+{"at": "2026-11-24T22:28:37Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "416d24faf31e50da9a5219bfa35c7770", "type": "news_linked"}
+{"at": "2026-11-24T22:44:09Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-24", "news": 7, "type": "log_created"}
+{"at": "2026-11-24T22:44:09Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "log_date": "2026-11-24", "news": 10, "type": "log_created"}
+{"at": "2026-11-24T22:44:09Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "log_date": "2026-11-24", "news": 11, "type": "log_created"}
+{"at": "2026-11-24T22:44:09Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-24", "news": 4, "type": "log_created"}
+{"at": "2026-11-24T22:44:09Z", "incident_id": "d8b0e00d26504ed58a8997e958c91b71", "log_date": "2026-11-24", "news": 3, "type": "log_created"}
+{"at": "2026-11-24T22:44:09Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-24", "news": 9, "type": "log_created"}

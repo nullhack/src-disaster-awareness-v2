@@ -12,7 +12,9 @@ event_date: '2026-11-17'
 last_verified_update: '2026-11-24'
 latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-17'
-summary: Retired Colonel General Leonid Ivashov told Vladimir Putin on air that he had "lost" Ukraine and demanded an immediate ceasefire, a rare public challenge from within Russia's military. Zelenskyy hailed a Ukrainian operation that struck a Russian warship docked at a naval base in Libya and destroyed a military helicopter. Meanwhile, reporting described Trump continuing military operations against Iran, including a strike on Qeshm Island, despite Democrats taking control of Congress.
+summary: |-
+  Retired Colonel General Leonid Ivashov told Vladimir Putin on air that he had "lost" Ukraine and demanded an immediate ceasefire, a rare public challenge from within Russia's military. Zelenskyy hailed a Ukrainian operation that struck a Russian warship docked at a naval base in Libya and destroyed a military helicopter. Meanwhile, reporting described Trump continuing military operations against Iran, including a strike on Qeshm Island, despite Democrats taking control of Congress.
+  Drone strikes damaged homes and a UN facility in Khartoum, while the U.S. government investigated suspected Iranian ties to the hacking of as many as 50 commercial vessels amid the war with Iran. Moscow threatened a NATO member with “open war” over Estonia’s planned border closure, and leaked data suggested over 700,000 Russian troops have been killed in Ukraine since the invasion. Vance and Rubio met with Qatar’s prime minister as uncertainty mounted over Trump’s intentions toward Iran.
 summary_updated: '2026-11-24'
 search_keys:
 - Conflict latest 2026
@@ -27,7 +29,7 @@ genesis:
 external_keys: []
 coverage_counts:
   reports: 0
-  news: 36
+  news: 46
   logs: 5
   official_sources: 0
 created_at: '2026-11-17T20:55:51Z'

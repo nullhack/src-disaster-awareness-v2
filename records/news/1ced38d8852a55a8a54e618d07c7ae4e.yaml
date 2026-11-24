@@ -12,4 +12,5 @@ sitename: The Rio Times
 canonical_url: https://www.riotimesonline.com/ecuador-election-flood-evacuation-protocol-polling-sites
 content_hash: 8c106569641191df4ee26856bbc7f064ffeda1ca4032369733130ef3e09f95d5
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

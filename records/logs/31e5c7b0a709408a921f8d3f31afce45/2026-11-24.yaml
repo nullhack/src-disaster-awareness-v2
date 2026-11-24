@@ -1,10 +1,22 @@
 schema: 2
 incident_id: 31e5c7b0a709408a921f8d3f31afce45
 log_date: '2026-11-24'
-summary: Retired Colonel General Leonid Ivashov told Vladimir Putin on air that he had "lost" Ukraine and demanded an immediate ceasefire, a rare public challenge from within Russia's military. Zelenskyy hailed a Ukrainian operation that struck a Russian warship docked at a naval base in Libya and destroyed a military helicopter. Meanwhile, reporting described Trump continuing military operations against Iran, including a strike on Qeshm Island, despite Democrats taking control of Congress.
+summary: |-
+  Retired Colonel General Leonid Ivashov told Vladimir Putin on air that he had "lost" Ukraine and demanded an immediate ceasefire, a rare public challenge from within Russia's military. Zelenskyy hailed a Ukrainian operation that struck a Russian warship docked at a naval base in Libya and destroyed a military helicopter. Meanwhile, reporting described Trump continuing military operations against Iran, including a strike on Qeshm Island, despite Democrats taking control of Congress.
+  Drone strikes damaged homes and a UN facility in Khartoum, while the U.S. government investigated suspected Iranian ties to the hacking of as many as 50 commercial vessels amid the war with Iran. Moscow threatened a NATO member with “open war” over Estonia’s planned border closure, and leaked data suggested over 700,000 Russian troops have been killed in Ukraine since the invasion. Vance and Rubio met with Qatar’s prime minister as uncertainty mounted over Trump’s intentions toward Iran.
 news_ids:
+- 0ba64a3cf3c853e5b73c8cd622fbbce3
+- 36bdf42cc023540ead86a66682faa40d
 - 495cbd5cb9585edc8a54e78c825b9a9b
 - 5d58e4f0ccf05b29a70e51102ee43544
+- 5e63c111df5d53d9ba9ceaf4411a0c27
+- 91bed8361ca65ffc8d46bdd5996fdb82
+- 968fd8ed2cc65ad09bb05393fdead7a7
 - 9765f80bb8bc54c0b4f64120f88745fe
+- ab03b010bf665bba8a7eb1cd56bd5288
 - c05619266780593db390259d33948b4a
+- c43eca4d582753f19d6f41b484983c65
+- f3fe074e11825af09e7381ae4d8205cd
+- fa860a778b455c838e4500c7256db37e
+- fd7814625db6521f8cf87a32120123f2
 - ff155737054158758aab473146c62c3e

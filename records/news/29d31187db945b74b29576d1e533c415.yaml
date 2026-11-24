@@ -12,4 +12,5 @@ sitename: Yahoo! Finance
 canonical_url: https://finance.yahoo.com/markets/commodities/articles/grocers-sell-bananas-66-cents-080600812.html
 content_hash: 65493e432b5cc245bac6499ed6590b40449b0b3f1e8d2813cf80d26409763766
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-24'
