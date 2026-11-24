@@ -9,11 +9,11 @@ country_name: Nepal
 region: Asia
 first_seen: '2017-05-01'
 event_date: '2026-08-26'
-last_verified_update: '2026-11-21'
-latest_coverage_at: '2026-11-23'
+last_verified_update: '2026-11-24'
+latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-15'
-summary: Nearly three months after the Bhotekoshi flood, scholarships for affected students are being delayed by a lack of verified data, while resettlement efforts face challenges beyond simply providing new homes. Nepal’s inflation reached a 36-month high amid supply disruptions following the Aug. 26 floods and landslides, and relief continues through aid to the family of a missing flood victim as well as rebuilding work led by women survivors and aid workers.
-summary_updated: '2026-11-21'
+summary: During Prime Minister Balendra Shah's first visit to India since taking office, Indian Prime Minister Narendra Modi offered Nepal a $1.62 billion (240 billion Nepalese rupees) development cooperation package to help it rebuild after the August 26 glacier flood, which Nepali authorities say caused about $4.7 billion in losses; specific details of the package were not immediately disclosed, and the two sides also signed agreements on railway, hydropower and fuel infrastructure. Separately, reporting months after the disaster described survivors in Nuwakot still living with trauma, and a Malaysian relief team finding families and schools continuing to rebuild.
+summary_updated: '2026-11-24'
 search_keys:
 - Nepal Flood latest 2026
 - Nepal Flood 2026
@@ -36,8 +36,8 @@ external_keys:
   report_id: ddfff7daebbe5a2a87c47f040f8dff20
 coverage_counts:
   reports: 3
-  news: 1230
-  logs: 70
+  news: 1237
+  logs: 71
   official_sources: 2
 created_at: '2026-05-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

@@ -1,0 +1,35 @@
+schema: 2
+id: 67faf06dca3346c49febdcd59d3cc9ec
+status: active
+display_name: South Sudan 2026-11-23
+slug: south-sudan-2026-11-23
+incident_type: Unknown
+country_code: SS
+country_name: South Sudan
+region: Africa
+first_seen: '2026-11-23'
+event_date: '2026-11-23'
+last_verified_update: '2026-11-23'
+latest_coverage_at: '2026-11-23'
+status_changed_at: '2026-11-23'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: e147a57015925a309b31df0791023783
+  source: ERCC
+  source_id: '5852'
+external_keys:
+- source: ERCC
+  source_id: '5852'
+  report_id: e147a57015925a309b31df0791023783
+coverage_counts:
+  reports: 1
+  news: 1
+  logs: 0
+  official_sources: 1
+created_at: '2026-11-23T23:53:28Z'
+pipeline_created_at: '2026-11-23T23:53:28Z'

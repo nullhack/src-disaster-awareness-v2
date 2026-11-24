@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yourhorse.co.uk/news/shav-virus-concern
 content_hash: 47f5ea2e101ecbf0fc208517e920290146aa84c64ee55d3fb71f443ce8fa1c5f
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

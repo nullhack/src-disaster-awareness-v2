@@ -9,11 +9,11 @@ country_name: Ecuador
 region: Americas
 first_seen: '2025-04-15'
 event_date: '2026-05-11'
-last_verified_update: '2026-11-21'
-latest_coverage_at: '2026-11-21'
+last_verified_update: '2026-11-24'
+latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-15'
-summary: This batch reports that drought in Louisiana is depleting water supplies needed for the upcoming crawfish season and that answers have been reported for a California river that dried up for months. A Dalhousie-led study found intensifying drought risk across Nova Scotia, especially in fall, while Western farmers and ranchers are focusing on proactive water-supply adaptation.
-summary_updated: '2026-11-21'
+summary: Southern Malawi’s drought crisis is compounding with aid cuts after COP31 failed to provide answers, leaving 2.6 million people hungry. In the U.S., the Allentown-area water utility urged customers to cut consumption by 10–15%, exceptional drought expanded across Mississippi and Arkansas, and receding Jordan Lake levels exposed remnants of submerged communities; Wisconsin cranberry growers and Czech carp harvests also reported drought-related losses. A winter outlook suggested a strong El Niño could help alleviate drought conditions.
+summary_updated: '2026-11-24'
 search_keys:
 - Belize Drought latest 2026
 - Belize Drought 2026
@@ -33,8 +33,8 @@ external_keys:
   report_id: de71476231625797a7b966d1455ef80c
 coverage_counts:
   reports: 2
-  news: 1182
-  logs: 88
+  news: 1191
+  logs: 89
   official_sources: 2
 created_at: '2025-04-15T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

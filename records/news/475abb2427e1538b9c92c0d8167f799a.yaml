@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-xl/news/other/months-after-flood-devastated-families-survivors-live-in-trauma/ar-AA2hZYdo
 content_hash: 36f600512ae136aa11b5b6b8ab5672abf4055d1a879e7cc99fdf8a70ba0f4d84
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-24'

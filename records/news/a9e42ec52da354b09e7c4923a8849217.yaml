@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-us/news/other/israeli-settlers-move-into-a-palestinian-neighborhood-brings-deadly-violence-to-jerichos-doorstep/ar-AA2hUd6q
 content_hash: 6203372e194fabe0866787586882c781c0cd0f7ab5eba238e61f2f6dfd30e2f6
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-24'

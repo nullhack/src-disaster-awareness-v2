@@ -9,11 +9,11 @@ country_name: Iran
 region: Asia
 first_seen: '2016-01-01'
 event_date: '2026-07-26'
-last_verified_update: '2026-11-23'
-latest_coverage_at: '2026-11-23'
+last_verified_update: '2026-11-24'
+latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-15'
-summary: Iran massed more than 14 tankers at its most important crude export terminal and released footage of a new underground missile launcher, while an Iranian attack set a civilian industrial facility in Bahrain on fire and Tehran claimed it targeted US military positions there. Two tankers were reported on fire near the Strait of Hormuz after hitting mines, a tanker incident involving military forces was reported, and the UAE and Oman continued searching for a Jordanian sailor missing after a Hormuz tanker attack. The Houthis claimed strikes on a Saudi oil refinery and port, and Israeli military intelligence reportedly warned Netanyahu that an Israeli attack on Iran could spark a multifront war.
-summary_updated: '2026-11-23'
+summary: Washington's military campaign against Iran has cost an estimated $48.3 billion while delivering a $21.6 billion windfall to nine African fossil-fuel exporters, and a new report projected the war will cost Gulf states $790 billion by 2030, including $200 billion in physical damage. President Trump is reportedly weighing postponing renewed strikes despite Israeli pressure for a joint campaign, even as he said Iranian attacks spiked over the past week and warned of possible new strikes next year, while Iran's foreign ministry vowed to use "all available means" against the US naval blockade and linked safe Strait of Hormuz passage to its conditions. In Washington, Senate Republicans signaled openness to a spending deal that would cut off war funding to avert a shutdown, Secretary of State Rubio prepared to meet Qatar's prime minister, and oil prices fell on rising Middle East flows and a Libyan pipeline restart.
+summary_updated: '2026-11-24'
 search_keys:
 - Iran Conflict latest 2026
 - Iran Conflict 2026
@@ -34,8 +34,8 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 2
-  news: 3592
-  logs: 113
+  news: 3607
+  logs: 114
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'
