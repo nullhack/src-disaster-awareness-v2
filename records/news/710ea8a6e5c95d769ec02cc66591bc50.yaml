@@ -12,4 +12,5 @@ sitename: Metroland Media
 canonical_url: https://www.thespec.com/news/canada/western-valley-sees-improved-potato-growing-season-after-2025-drought/article_310e0bc6-144e-54d9-81cc-050c69702f49.html
 content_hash: cfe99a1aa4a0efefa58bcc7333f1ba785fdf7fe64addc2d568bf51ddf9bdf65e
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

@@ -12,7 +12,9 @@ event_date: '2026-07-15'
 last_verified_update: '2026-11-24'
 latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-15'
-summary: Ukraine confirmed that naval drones sank the Russian warship Merkury and damaged a sanctioned Russian cargo vessel off Libya on Nov. 22, expanding its maritime operations far from the front. Leaked death-certificate data showed more than 1,000 Russian military suicides, while new estimates put Russian battlefield deaths above 700,000. Zelenskyy said intelligence indicated Russia is planning new strikes on Ukraine, as over 350,000 homes in Dnipropetrovsk Oblast remained without power after Nov. 21-22 attacks.
+summary: |-
+  Ukraine confirmed that naval drones sank the Russian warship Merkury and damaged a sanctioned Russian cargo vessel off Libya on Nov. 22, expanding its maritime operations far from the front. Leaked death-certificate data showed more than 1,000 Russian military suicides, while new estimates put Russian battlefield deaths above 700,000. Zelenskyy said intelligence indicated Russia is planning new strikes on Ukraine, as over 350,000 homes in Dnipropetrovsk Oblast remained without power after Nov. 21-22 attacks.
+  Ukraine's sea-drone attack off Libya that sank the Russian corvette Merkury — a Steregushchiy-class vessel delivered to the Russian Navy in 2023 — drew a public warning from a former U.S. national security adviser that the strike risks "serious escalation," while President Zelenskyy credited Ukrainian intelligence services with the operation. Director of National Intelligence Jay Clayton said Trump calling Putin a "friend" was "entirely appropriate" while stressing Putin is "not America's friend in Ukraine," and German Chancellor Friedrich Merz and NATO Secretary General Mark Rutte announced a further intensification of the military confrontation with Russia at a Berlin meeting.
 summary_updated: '2026-11-24'
 search_keys:
 - Ukraine Conflict latest 2026
@@ -45,7 +47,7 @@ external_keys:
   report_id: d81fc37c31e45d768a2e1fd1b84313ef
 coverage_counts:
   reports: 6
-  news: 2293
+  news: 2301
   logs: 114
   official_sources: 1
 created_at: '2026-03-05T00:00:00Z'

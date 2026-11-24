@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html
 content_hash: 2a747f42d86ad31f6c5253a963b9efa2161ccd000621fe9eaf80186d425253a1
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

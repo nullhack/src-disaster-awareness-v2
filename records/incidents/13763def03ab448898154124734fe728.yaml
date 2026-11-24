@@ -27,13 +27,16 @@ genesis:
   source_id: 8f810cc9f7e456ff
 external_keys:
 - source: ERCC
+  source_id: '5846'
+  report_id: 658c3e69300859f6adbbaec31d775f7b
+- source: ERCC
   source_id: '5824'
   report_id: 6fd1e02a192055b391eb490226305cbd
 - source: MANUAL
   source_id: 8f810cc9f7e456ff
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
-  reports: 2
+  reports: 3
   news: 3607
   logs: 114
   official_sources: 2

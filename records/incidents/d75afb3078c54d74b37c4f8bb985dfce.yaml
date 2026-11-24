@@ -12,7 +12,9 @@ event_date: '2026-05-11'
 last_verified_update: '2026-11-24'
 latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-15'
-summary: Southern Malawi’s drought crisis is compounding with aid cuts after COP31 failed to provide answers, leaving 2.6 million people hungry. In the U.S., the Allentown-area water utility urged customers to cut consumption by 10–15%, exceptional drought expanded across Mississippi and Arkansas, and receding Jordan Lake levels exposed remnants of submerged communities; Wisconsin cranberry growers and Czech carp harvests also reported drought-related losses. A winter outlook suggested a strong El Niño could help alleviate drought conditions.
+summary: |-
+  Southern Malawi’s drought crisis is compounding with aid cuts after COP31 failed to provide answers, leaving 2.6 million people hungry. In the U.S., the Allentown-area water utility urged customers to cut consumption by 10–15%, exceptional drought expanded across Mississippi and Arkansas, and receding Jordan Lake levels exposed remnants of submerged communities; Wisconsin cranberry growers and Czech carp harvests also reported drought-related losses. A winter outlook suggested a strong El Niño could help alleviate drought conditions.
+  The selected news reports Karnataka’s deputy chief minister criticizing the BJP over economic policy failures, including delays in drought relief aid, while South African cities tightened water restrictions as El Niño threatened drought. In the U.S., the SBA reminded drought victims of a loan deadline, Jackson County, Oregon remained in 100% drought with 87% of Oregon under some drought level, and Michigan’s Upper Peninsula faced wildfire risk from dry conditions; other reports highlighted IUCN nature-based drought solutions and UTA work using AI and satellites to strengthen drought resilience on Tribal lands.
 summary_updated: '2026-11-24'
 search_keys:
 - Belize Drought latest 2026
@@ -33,7 +35,7 @@ external_keys:
   report_id: de71476231625797a7b966d1455ef80c
 coverage_counts:
   reports: 2
-  news: 1191
+  news: 1198
   logs: 89
   official_sources: 2
 created_at: '2025-04-15T00:00:00Z'

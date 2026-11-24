@@ -12,4 +12,5 @@ sitename: Time
 canonical_url: https://time.com/article/2026/11/23/zelensky-says-ukraine-sank-russian-warship-at-naval-base-in-libya
 content_hash: 5107ce190727df077f1ed473704aaaeea1983c0a74beb3984d8d07839be59340
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

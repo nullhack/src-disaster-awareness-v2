@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.dhakastream.net/health/dengue-death-toll-rises-518-two-more-die-201583
 content_hash: 0bc7e89668231e6b2bbe05b2dfb9070d83715a5ec2723b535bb05e6ba58dc18a
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

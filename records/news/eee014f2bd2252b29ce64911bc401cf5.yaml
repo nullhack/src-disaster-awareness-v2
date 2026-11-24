@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.telugupost.com/international/earthquake-struck-coast-vanuatu-today-1626285
 content_hash: 8f6fa8ea4516956c4f95aac23de2d74b83b04ec09521caa28ff3f49dfe4ecf6f
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

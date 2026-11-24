@@ -1,13 +1,22 @@
 schema: 2
 incident_id: d75afb3078c54d74b37c4f8bb985dfce
 log_date: '2026-11-24'
-summary: Southern Malawi’s drought crisis is compounding with aid cuts after COP31 failed to provide answers, leaving 2.6 million people hungry. In the U.S., the Allentown-area water utility urged customers to cut consumption by 10–15%, exceptional drought expanded across Mississippi and Arkansas, and receding Jordan Lake levels exposed remnants of submerged communities; Wisconsin cranberry growers and Czech carp harvests also reported drought-related losses. A winter outlook suggested a strong El Niño could help alleviate drought conditions.
+summary: |-
+  Southern Malawi’s drought crisis is compounding with aid cuts after COP31 failed to provide answers, leaving 2.6 million people hungry. In the U.S., the Allentown-area water utility urged customers to cut consumption by 10–15%, exceptional drought expanded across Mississippi and Arkansas, and receding Jordan Lake levels exposed remnants of submerged communities; Wisconsin cranberry growers and Czech carp harvests also reported drought-related losses. A winter outlook suggested a strong El Niño could help alleviate drought conditions.
+  The selected news reports Karnataka’s deputy chief minister criticizing the BJP over economic policy failures, including delays in drought relief aid, while South African cities tightened water restrictions as El Niño threatened drought. In the U.S., the SBA reminded drought victims of a loan deadline, Jackson County, Oregon remained in 100% drought with 87% of Oregon under some drought level, and Michigan’s Upper Peninsula faced wildfire risk from dry conditions; other reports highlighted IUCN nature-based drought solutions and UTA work using AI and satellites to strengthen drought resilience on Tribal lands.
 news_ids:
 - 10519b4d6113538894c2b2013ac02fa9
 - 21687b25c4215f6eacd42cb4ed84dea5
+- 2b6b7b32505e578daa0d0be334302104
 - 2f7765411b5754f9b2b87e6b99edce9f
 - 3358a9356c9c5d86b28b26b910a5e40c
+- 3ed92601946552ca9e26e2bf77c747bf
+- 44050166b9ee5b75a59e4acab10b7d2c
+- 5c74205eb2625cfda8510cfbc3c9c6b3
 - 602d55fb18965408943f9983daa269e4
+- 64391a39a0675ebfb95292cd2eaa9699
+- 6c96467c9dd05c858b5d84e6261e782e
+- 6e08639ae72855c491bb51aa6ad13003
 - 9b2fe7030b7f5d078f8efeca43e66e4e
 - a33977114fc555f1ae4de62a788fe081
 - a765590974595c56af1eeb03c6a54b25

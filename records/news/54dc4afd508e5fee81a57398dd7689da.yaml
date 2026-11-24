@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.dhakatribune.com/opinion/editorial/425457/we-are-losing-the-fight-against-dengue
 content_hash: bee5494ee80cb901c256029521d073802e31faca9e51576243d22cd4e059890e
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

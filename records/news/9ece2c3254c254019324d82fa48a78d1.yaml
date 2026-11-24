@@ -12,4 +12,5 @@ sitename: Fox News
 canonical_url: https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report
 content_hash: 6d8892b99f50c4c19b4db7118b0092bb5ac1817b1d1e2f7f3b8aeef6a3ee30fc
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

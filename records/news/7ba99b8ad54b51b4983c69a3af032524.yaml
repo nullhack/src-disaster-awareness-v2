@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://apnews.com/article/armenia-new-constitution-azerbaijan-karabakh-f912a60316e544dbabfba9a1aef4e887
 content_hash: 916cdc82cea36448e90fce46bf0c52856ec0286e38b50f805d4afaf5295e5bab
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.detroitnews.com/story/news/world/2026/11/23/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/92923185007
 content_hash: 61758895c27895a99be597242af2577265381b17c11d278c3c2da44183568f0b
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-24'

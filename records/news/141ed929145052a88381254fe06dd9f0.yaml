@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-au/news/other/global-spread-of-deadly-ebola-virus-with-no-cure-is-still-possible-who-chief-warns/ar-AA2i3q51
 content_hash: 174b82b5e941a3c4741525b2937c4741d1b08d97000ee6bb56b8ac6c309dd3a1
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-24'

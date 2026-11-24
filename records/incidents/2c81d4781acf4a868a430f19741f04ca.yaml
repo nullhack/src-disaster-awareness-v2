@@ -9,11 +9,11 @@ country_name: Vanuatu
 region: Oceania
 first_seen: '2026-10-29'
 event_date: '2026-10-29'
-last_verified_update: '2026-11-23'
+last_verified_update: '2026-11-24'
 latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-23'
-summary: Multiple outlets reported a magnitude 6.5 earthquake in the Vanuatu Islands Region at a depth of about 614–615 kilometers. PHIVOLCS said there was no tsunami threat to the Philippines, and there were no immediate reports of casualties or damage. One report also noted a magnitude 4.9 earthquake in the same area and described shaking felt in Port Vila.
-summary_updated: '2026-11-23'
+summary: Reports citing GFZ measured a magnitude 6.2 earthquake in the Vanuatu Islands region at 0240 GMT, while a separate Xinhua report citing USGS put the same event at magnitude 6.5 at 1:40 p.m. local time. The provided excerpts did not include additional casualty, damage, or tsunami details.
+summary_updated: '2026-11-24'
 search_keys:
 - Vanuatu Earthquake latest 2026
 - Vanuatu Earthquake 2026
@@ -33,8 +33,8 @@ external_keys:
   report_id: 3ee3314473225279b54e9696f50e19a6
 coverage_counts:
   reports: 2
-  news: 7
-  logs: 1
+  news: 9
+  logs: 2
   official_sources: 1
 created_at: '2026-11-23T07:38:11Z'
 pipeline_created_at: '2026-11-23T07:38:11Z'

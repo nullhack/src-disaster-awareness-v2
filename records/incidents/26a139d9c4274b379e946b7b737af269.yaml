@@ -12,7 +12,9 @@ event_date: '2026-08-26'
 last_verified_update: '2026-11-24'
 latest_coverage_at: '2026-11-24'
 status_changed_at: '2026-11-15'
-summary: During Prime Minister Balendra Shah's first visit to India since taking office, Indian Prime Minister Narendra Modi offered Nepal a $1.62 billion (240 billion Nepalese rupees) development cooperation package to help it rebuild after the August 26 glacier flood, which Nepali authorities say caused about $4.7 billion in losses; specific details of the package were not immediately disclosed, and the two sides also signed agreements on railway, hydropower and fuel infrastructure. Separately, reporting months after the disaster described survivors in Nuwakot still living with trauma, and a Malaysian relief team finding families and schools continuing to rebuild.
+summary: |-
+  During Prime Minister Balendra Shah's first visit to India since taking office, Indian Prime Minister Narendra Modi offered Nepal a $1.62 billion (240 billion Nepalese rupees) development cooperation package to help it rebuild after the August 26 glacier flood, which Nepali authorities say caused about $4.7 billion in losses; specific details of the package were not immediately disclosed, and the two sides also signed agreements on railway, hydropower and fuel infrastructure. Separately, reporting months after the disaster described survivors in Nuwakot still living with trauma, and a Malaysian relief team finding families and schools continuing to rebuild.
+  During Prime Minister Balendra Shah's visit to New Delhi, Narendra Modi announced a $1.62 billion (roughly Rs 15,120 crore) package for Nepal's flood recovery, with the two leaders adopting a bilateral vision document alongside the aid. An accompanying analysis casts the package as India's effort to rebuild influence in Nepal amid China's expanding role, noting that Kathmandu remains reliant on Indian support despite Beijing's far greater financial capacity. Other items in the batch — the COP31 funding appeal and a September photo gallery of tunnel body recoveries — repeat previously reported material.
 summary_updated: '2026-11-24'
 search_keys:
 - Nepal Flood latest 2026
@@ -36,7 +38,7 @@ external_keys:
   report_id: ddfff7daebbe5a2a87c47f040f8dff20
 coverage_counts:
   reports: 3
-  news: 1237
+  news: 1244
   logs: 71
   official_sources: 2
 created_at: '2026-05-21T00:00:00Z'
