@@ -2986,3 +2986,134 @@
 {"at": "2026-11-25T08:50:14Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-25", "news": 7, "type": "log_created"}
 {"at": "2026-11-25T08:50:14Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "log_date": "2026-11-25", "news": 3, "type": "log_created"}
 {"at": "2026-11-25T08:50:14Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-25", "news": 4, "type": "log_created"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "a5cf67c97617550a919a14ae9c3daf99", "source": "USGS", "source_id": "us6000udht", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "6b6be974c6b358ab9f77a302f83756c2", "source": "USGS", "source_id": "us6000udf2", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "477b0240096d5a06a412927b909b843e", "source": "USGS", "source_id": "us6000udef", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "caa3af5d9d67587cb84c7b8e92f4dc1d", "source": "USGS", "source_id": "us7000tyyh", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "3a28ed8372c35596bda90fae49e71273", "source": "GDACS", "source_id": "1579265", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "48a57a34c15850899f892fd581a5216d", "source": "GDACS", "source_id": "1579203", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "9691cb0cc00955089df6ca2dd1d2876f", "source": "GDACS", "source_id": "1579182", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "0a1228a004b2535ebed2cc1e41a328af", "source": "GDACS", "source_id": "1034078", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "7f76535e01b55aa2a081154b6ba03b19", "source": "GDACS", "source_id": "1034077", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "54cec82df3265bd68075346ed27b4217", "source": "GDACS", "source_id": "1034076", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "4632a96d99cc58eeb97db1cdbd355c0a", "source": "GDACS", "source_id": "1034075", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "bacd22fd94685c20aef216647df384fa", "source": "GDACS", "source_id": "1034074", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "d8c15bdada885ec5ab7bf1b286fd2431", "source": "GDACS", "source_id": "1034073", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "5231e9a05d7d5760a5db1a00da886e74", "source": "GDACS", "source_id": "1034072", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "96cd25a2ea4d51b8a657216432546d6c", "source": "GDACS", "source_id": "1034071", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "7b6c49fb399e57908edf5360c38e7f80", "source": "GDACS", "source_id": "1034070", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "67b1099ccdf55bfbbc58fb5681b013c4", "source": "GDACS", "source_id": "1034069", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "f2025e6ee24f5fa8986e98884e941c57", "source": "GDACS", "source_id": "1034068", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "76844b1dbd3a50818a506e5fc32a2667", "source": "GDACS", "source_id": "1034067", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "1820bd6f7ec55784ba2c94cacace3f84", "source": "GDACS", "source_id": "1034066", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "838aa0e5846752a699b7e7a42a6b52ed", "source": "GDACS", "source_id": "1034065", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "4ae44d3cd13b5ab086e59ce3ba915f14", "source": "GDACS", "source_id": "1034064", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "78cd3175bc415071aa30f4007ea28e44", "source": "GDACS", "source_id": "1034063", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "975eea0c86ab5a6a8cd4aa3274d83fc2", "source": "GDACS", "source_id": "1104300", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:20Z", "report_id": "c708297e542750e7ace3ec592b12452a", "source": "ERCC", "source_id": "5859", "type": "report_ingested"}
+{"at": "2026-11-25T21:41:35Z", "news_id": "2d35264f339a558387e69530b3689755", "type": "news_ingested", "url": "https://www.lemonde.fr/en/international/article/2026/11/25/who-chief-says-staff-evacuated-from-dr-congo-hospital_6787750_4.html"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "name": "Incident ba9abcd4", "type": "incident_created"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "news_id": "2d35264f339a558387e69530b3689755", "type": "news_linked"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "report_id": "c708297e542750e7ace3ec592b12452a", "type": "report_linked"}
+{"at": "2026-11-25T21:41:35Z", "news_id": "b8510dd259c85e57b32a37c8d7cac5e6", "type": "news_ingested", "url": "https://www.msn.com/en-ae/news/other/who-warns-of-high-child-death-rate-in-dr-congo-ebola-outbreak/ar-AA2hU6lp"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "news_id": "b8510dd259c85e57b32a37c8d7cac5e6", "type": "news_linked"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "report_id": "c708297e542750e7ace3ec592b12452a", "type": "report_linked"}
+{"at": "2026-11-25T21:41:35Z", "news_id": "1bd0664b30fa50928d37a0fdd0298054", "type": "news_ingested", "url": "https://news.un.org/en/story/2026/11/1168858"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "news_id": "1bd0664b30fa50928d37a0fdd0298054", "type": "news_linked"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "report_id": "c708297e542750e7ace3ec592b12452a", "type": "report_linked"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "c708297e542750e7ace3ec592b12452a", "type": "report_linked"}
+{"at": "2026-11-25T21:41:35Z", "news_id": "98a6e411e86553efa061042a0db1b48d", "type": "news_ingested", "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-2026-11-22/"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "news_id": "98a6e411e86553efa061042a0db1b48d", "type": "news_linked"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "report_id": "c708297e542750e7ace3ec592b12452a", "type": "report_linked"}
+{"at": "2026-11-25T21:41:35Z", "news_id": "08677ec901bc5abfaa1987c125cd3aed", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region/ar-AA2hZoyw"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "news_id": "08677ec901bc5abfaa1987c125cd3aed", "type": "news_linked"}
+{"at": "2026-11-25T21:41:35Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "report_id": "c708297e542750e7ace3ec592b12452a", "type": "report_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "4a8ea37ada51563bbbc47a31614c1522", "type": "news_ingested", "url": "https://www.msn.com/en-my/news/national/govt-disburses-rm540000-aid-to-families-of-nepal-flood-victims/ar-AA2ibVzt?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "4a8ea37ada51563bbbc47a31614c1522", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "ea2fcd6795fa59f594934cf88772fa8d", "type": "news_ingested", "url": "https://www.malaysiakini.com/news/889856-certificate-of-presumed-death-for-nepal-flood-victims-to-be-issued-as-early-as-dec"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "ea2fcd6795fa59f594934cf88772fa8d", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "7e3370bd29d25e9c914ff7d127d29cf2", "type": "news_ingested", "url": "https://www.msn.com/en-my/lifestyle/other/families-of-missing-nepal-flood-victims-gradually-accepting-reality/vi-AA2idp25?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "7e3370bd29d25e9c914ff7d127d29cf2", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "a692c6d92aac565ca868281df72c684c", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQQ3TwVgdr3wIAJAjQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzYEdnRpZAMEc2VjA3Ny/RV=2/RE=1796852721/RO=10/RU=https://www.yahoo.com/news/weather-news/articles/drought-worsens-north-carolina-26-154430367.html?fr=sycsrp_catchall/RK=2/RS=huWyWnlykuNYf1Sz2TFARTlfVg4-"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "a692c6d92aac565ca868281df72c684c", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "9f244a1f3379588cb5384090bacfecde", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQQ3TwVgdr3wIAJwjQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzcEdnRpZAMEc2VjA3Ny/RV=2/RE=1796852721/RO=10/RU=https://www.yahoo.com/news/weather-news/articles/drought-monitor-november-19-2026-152430921.html?fr=sycsrp_catchall/RK=2/RS=NXaKkOPg_H9PNeK_c9jjEno5Yc4-"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "9f244a1f3379588cb5384090bacfecde", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "40f1be8edbcc56ae9527453e6e904061", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/drought-causes-temporary-water-discoloration-041921959.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "40f1be8edbcc56ae9527453e6e904061", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "fedb096bd5d258f7afca4183fea515b4", "type": "news_ingested", "url": "https://www.vaildaily.com/opinion/opinion-roman-eagle-county-unites-around-water/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "fedb096bd5d258f7afca4183fea515b4", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "d985a8d8b1e3511c961e3845311bbb0e", "type": "news_ingested", "url": "https://www.riotimesonline.com/jamaica-economy-shrinks-july-september-2026-melissa-drought/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "d985a8d8b1e3511c961e3845311bbb0e", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "50e27df794b05d66bb0db881f494f8e5", "type": "news_ingested", "url": "https://www.moroccoworldnews.com/2026/11/348099/um6p-turns-boudnib-irrigation-reservoir-into-a-floating-solar-power-plant/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "50e27df794b05d66bb0db881f494f8e5", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "9defc0ed52325dc881a3150cc0e65141", "type": "news_ingested", "url": "https://money.rediff.com/news/market/india-s-sugar-output-to-fall-15-in-2026-27-isma-forecast/58739020261125"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "9defc0ed52325dc881a3150cc0e65141", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "e7664efa0a3f5740aaf9ba4a91262fa4", "type": "news_ingested", "url": "https://www.yahoo.com/news/science/articles/seeding-project-aims-restore-cottonwood-200041555.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "e7664efa0a3f5740aaf9ba4a91262fa4", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "53b786286d695d97bee2396b7870cdc4", "type": "news_ingested", "url": "https://wgme.com/news/local/maine-forest-rangers-blame-downed-power-line-for-woodstock-fire"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "53b786286d695d97bee2396b7870cdc4", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "3b053fc5c46857298b3cbfb3a4cbc28f", "type": "news_ingested", "url": "https://www.courant.com/2026/11/25/congo-ebola-workers-evacuate/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "3b053fc5c46857298b3cbfb3a4cbc28f", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "443502c5677c58efafac51f34d84c925", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/ukraine-says-it-struck-a-major-russian-air-base-damaging-five-planes/ar-AA2icN7k?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "443502c5677c58efafac51f34d84c925", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "58c2a67ed8b65c48bac48a530eaf518a", "type": "news_ingested", "url": "https://www.iranintl.com/en/202611254651"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "58c2a67ed8b65c48bac48a530eaf518a", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "0e400f682c5f59eb93780aa91a1768eb", "type": "news_ingested", "url": "https://www.bostonherald.com/2026/11/25/congo-ebola-workers-evacuate/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "0e400f682c5f59eb93780aa91a1768eb", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "f1297f7531e45b9e8893d55a69d76712", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/last-man-standing-ukraine-run-072125843.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "f1297f7531e45b9e8893d55a69d76712", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "58c5120a22ae537d999387dfef8b6ec7", "type": "news_ingested", "url": "https://www.tbsnews.net/worldbiz/middle-east/prolonged-iran-conflict-threatens-gulf-economies-investment-plans-1613446"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "58c5120a22ae537d999387dfef8b6ec7", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "2fc04503ee7d557695cf3d0e7179de4b", "type": "news_ingested", "url": "https://www.bbc.com/news/articles/crd6128y1qn1o"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "2fc04503ee7d557695cf3d0e7179de4b", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "aec4874730f35ffba1451df3c852b8f6", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi/ar-AA2ie04S?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "aec4874730f35ffba1451df3c852b8f6", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "5c57f223fc6453b0ab824b3b9bb1fa53", "type": "news_ingested", "url": "https://www.msn.com/en-nz/news/other/the-scale-of-russia-s-war-in-ukraine-laid-bare-as-trump-embraces-putin/ar-AA2hN134?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "news_id": "5c57f223fc6453b0ab824b3b9bb1fa53", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "e5dba596a244544f89fc3f4f280c2c07", "type": "news_ingested", "url": "https://www.msn.com/en-gb/news/other/putin-reeling-as-staggering-death-toll-in-ukraine-revealed-by-russias-own-figures/ar-AA2ibA5M?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "e5dba596a244544f89fc3f4f280c2c07", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "36901d41cb9f5994b713a5f0060c6a3f", "type": "news_ingested", "url": "https://apnews.com/article/mideast-israel-gaza-ukraine-libya-israel-november-25-2026-6995de4ee91278459742a359eeb7439e"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "36901d41cb9f5994b713a5f0060c6a3f", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "339a172e08dc595c9c16d963330a17be", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/leaked-data-shows-490-000-113858764.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "339a172e08dc595c9c16d963330a17be", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "b0486b23039e51aa9457c4d47b661944", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/more-700-000-russian-soldiers-135415057.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "b0486b23039e51aa9457c4d47b661944", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "caa144b839ed54bd8524d7506011d0e0", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/majority-germans-oppose-more-weapons-153412092.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "caa144b839ed54bd8524d7506011d0e0", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "999c9fd6411c514eab77b415b2287d8d", "type": "news_ingested", "url": "https://politicalwire.com/2026/11/25/inside-the-scramble-to-avert-conflict-with-russia/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "999c9fd6411c514eab77b415b2287d8d", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "f4eea2caecc858fa85b3f3d7557afceb", "type": "news_ingested", "url": "https://www.msn.com/en-nz/news/other/five-key-moments-in-ukraine-and-iran-that-sent-energy-bills-soaring/ar-AA2idmrL?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "f4eea2caecc858fa85b3f3d7557afceb", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "9c666597957f50b989e8e2d81283601c", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/russias-own-figures-show-almost-500000-deaths-in-war-in-ukraine/ar-AA2i9Gy5?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "9c666597957f50b989e8e2d81283601c", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "76958041351755bd9de837f86b43bf12", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/how-ukraine-is-using-ai-to-track-and-destroy-russian-forces/ar-AA2ib6uh?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "76958041351755bd9de837f86b43bf12", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "28809cb737ab5edca54fb2bfede8e2c1", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/two-thirds-americans-disapprove-trumps-152116201.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "28809cb737ab5edca54fb2bfede8e2c1", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "21c6dd3a94fc58b59c1f19fb3f4ff18f", "type": "news_ingested", "url": "https://www.rte.ie/brainstorm/2026/1125/1600557-russia-forced-fighters-ukraine-war-human-trafficking/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "21c6dd3a94fc58b59c1f19fb3f4ff18f", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "46510d35408a5d8792f9750bdd4e23d2", "type": "news_ingested", "url": "https://www.japantimes.co.jp/news/2026/11/25/world/politics/ukraine-russia-ships-libya/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "46510d35408a5d8792f9750bdd4e23d2", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "d6ba637f1b80557b8760f7a77a0cec85", "type": "news_ingested", "url": "https://kyivindependent.com/ukrainian-journalists-outnumbered-30-to-1-by-russian-propagandists-during-oleshky-evacuation-reporter-says/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "d6ba637f1b80557b8760f7a77a0cec85", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "209f9dfdf65652b2bfc142ef2ba1202b", "type": "news_ingested", "url": "https://lasvegassun.com/news/2026/nov/25/melania-trump-reunites-her-seventh-group-of-ukrain/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "209f9dfdf65652b2bfc142ef2ba1202b", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "fbb16abe099457b4ab5db5de552080c5", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQsWwRWAdrowIAEDfQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEwBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1796853009/RO=10/RU=https://www.yahoo.com/news/weather-news/articles/louisiana-drought-creates-challenges-crawfish-235508622.html?fr=sycsrp_catchall/RK=2/RS=15XzBDxpVjv4guN6j2Dhfwi7blM-"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "fbb16abe099457b4ab5db5de552080c5", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "cda354e317025ad0b31aee53f444a09f", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/drought-forces-cattle-producers-sell-173400292.html"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "cda354e317025ad0b31aee53f444a09f", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "705664cc874251d8b84a6e7959f01342", "type": "news_ingested", "url": "https://respiratory-therapy.com/disorders-diseases/infectious-diseases/other-infections/studies-trace-cruise-ship-hantavirus-to-patagonia/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "b1a7f2cb68cc531ba1d9be66fd646c6c", "news_id": "705664cc874251d8b84a6e7959f01342", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "66f01018247251a69b1adacbfada562c", "type": "news_ingested", "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "66f01018247251a69b1adacbfada562c", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "56156346c39b56b28c7abca598ddc6ed", "type": "news_ingested", "url": "https://www.amnesty.org/en/documents/mde15/1636/2026/en/"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "56156346c39b56b28c7abca598ddc6ed", "type": "news_linked"}
+{"at": "2026-11-25T21:43:12Z", "news_id": "54b8e0993691538aa266f8c47828df94", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/trump-just-got-handed-a-warning-from-tehran-iran-calls-his-naval-blockade-military-aggression-and-says-it-can-use-any-means-to-respond/ar-AA2icBUV?ocid=BingNewsVerp"}
+{"at": "2026-11-25T21:43:12Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "54b8e0993691538aa266f8c47828df94", "type": "news_linked"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "log_date": "2026-11-25", "news": 3, "type": "log_created"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "log_date": "2026-11-25", "news": 5, "type": "log_created"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "3461c9a3cac24e1c8d37ad2857791e60", "log_date": "2026-11-25", "news": 9, "type": "log_created"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "ba9abcd4fec743ff858402fc9918c3b2", "log_date": "2026-11-25", "news": 5, "type": "log_created"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-25", "news": 4, "type": "log_created"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-25", "news": 4, "type": "log_created"}
+{"at": "2026-11-25T21:53:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-25", "news": 14, "type": "log_created"}

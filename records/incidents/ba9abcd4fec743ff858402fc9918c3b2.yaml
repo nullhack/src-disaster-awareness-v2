@@ -1,0 +1,32 @@
+schema: 2
+id: ba9abcd4fec743ff858402fc9918c3b2
+status: active
+display_name: DR Congo 2026-11-25
+slug: dr-congo-2026-11-25
+incident_type: Unknown
+country_code: CD
+country_name: DR Congo
+region: Africa
+first_seen: '2026-11-22'
+event_date: '2026-11-25'
+last_verified_update: '2026-11-25'
+latest_coverage_at: '2026-11-25'
+status_changed_at: '2026-11-25'
+summary: Heavy fighting near a hospital in Ituri province disrupted Ebola response efforts and forced emergency teams to take cover for more than 24 hours, according to WHO. WHO chief Tedros Adhanom Ghebreyesus said an Ebola team was temporarily evacuated from a hospital in Akwe after fierce conflict lasted over three days, and he called for peace. WHO also warned of a high death rate among children amid an outbreak of the rare Bundibugyo version of Ebola in DR Congo.
+summary_updated: '2026-11-25'
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: c708297e542750e7ace3ec592b12452a
+  source: ERCC
+  source_id: '5859'
+external_keys: []
+coverage_counts:
+  reports: 0
+  news: 5
+  logs: 1
+  official_sources: 0
+created_at: '2026-11-25T21:41:35Z'
+pipeline_created_at: '2026-11-25T21:41:35Z'

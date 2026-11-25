@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-xl/africa/top-stories/security-council-live-can-conflict-resolution-keep-pace-as-ai-and-drones-reshape-war/ar-AA2iatCK
 content_hash: 20150d590fa3764ffe0073d1e8e3fa7d30cd86bd7d7a863ee57d017a472b57e4
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-25'

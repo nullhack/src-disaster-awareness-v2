@@ -12,4 +12,5 @@ sitename: ABC15 Arizona in Phoenix (KNXV)
 canonical_url: https://www.abc15.com/news/local-news/colorado-river-and-salt-river-systems-see-water-level-gains-but-drought-conditions-persist-in-arizona
 content_hash: aae6d1eaf0e56d427609f312c99b0b86e853ca251f304a91e9ea472389814181
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-25'

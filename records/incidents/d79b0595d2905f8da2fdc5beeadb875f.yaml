@@ -9,13 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2025-12-21'
 event_date: '2025-12-21'
-last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-24'
+last_verified_update: '2026-11-25'
+latest_coverage_at: '2026-11-25'
 status_changed_at: '2026-11-19T20:54:55Z'
-summary: |-
-  Afghanistan's severe drought is pushing millions deeper into crisis, with residents of Bamyan province — one of the country's poorest regions — lacking access to safe drinking water amid widespread poverty. New Brunswick's Western Valley reported average or above-average potato crops in 2026 following the 2025 drought, while Greece is designing an alternative route for Ukrainian grain exports as attacks on Black Sea ports and Danube drought disrupt shipments. Separately, new research indicates solar-induced chlorophyll fluorescence can be unreliable as an early indicator of drought stress in Ginkgo biloba.
-  South African farmers are navigating El Niño uncertainty with early plantings and crop shifts as heatwaves and drought challenge the summer crop outlook. In Ethiopia, failed rains pushed maize prices to record highs, with IFPRI projecting 905,000 more Ethiopians falling into poverty in 2027. BMI warns that El Niño-driven water shortages could delay Southeast Asia's data center expansion, while new Utah State University research ties a warm, snow-poor winter to warning signs of more frequent future droughts.
-summary_updated: '2026-11-24'
+summary: Morocco’s UM6P has converted the Boudnib irrigation reservoir into a floating solar power plant as years of drought increase pressure on irrigation. India’s sugar output is forecast to fall 15% in 2026-27 because of poor rains and lower sugarcane availability, while Jamaica’s economy shrank an estimated 2.7% in July–September 2026 as Hurricane Melissa damage and drought weighed on activity. In Arizona, Lake Powell rose 24 feet after fall rains, but drought conditions persist as officials monitor early snowpack.
+summary_updated: '2026-11-25'
 search_keys:
 - Drought latest 2025
 - Drought 2025
@@ -32,8 +30,8 @@ external_keys:
   report_id: c892ccdaf15e5014b1e1efb3d551fcfe
 coverage_counts:
   reports: 1
-  news: 43
-  logs: 6
+  news: 46
+  logs: 7
   official_sources: 1
 created_at: '2025-12-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

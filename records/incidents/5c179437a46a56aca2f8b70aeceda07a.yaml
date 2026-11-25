@@ -10,7 +10,7 @@ region: Africa
 first_seen: '2025-09-05'
 event_date: '2025-09-05'
 last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-24'
+latest_coverage_at: '2026-11-25'
 status_changed_at: '2026-11-15'
 summary: WHO chief Tedros Adhanom Ghebreyesus pleaded for peace in Ebola-hit eastern DR Congo, stating that the frequency of attacks across the country's east has increased since the end of October and that heavy fighting near a hospital in Ituri Province has disrupted containment and endangered patients and health workers. Separately, Africa's top health official urged the UK and its allies to do more to tackle the rapidly spreading virus, warning that global spread of the deadly Ebola strain with no cure remains possible.
 summary_updated: '2026-11-24'
@@ -70,6 +70,9 @@ external_keys:
 - source: WHO
   source_id: 19668b4d-5e4f-45bf-94d5-4e2ebcb5a67d
   report_id: c4cf8b1c3d0559aeaf4627ff4841a2c7
+- source: ERCC
+  source_id: '5859'
+  report_id: c708297e542750e7ace3ec592b12452a
 - source: WHO
   source_id: 375711fd-e6fe-4251-8cd5-ebc3ef02d9fe
   report_id: c9c54fafdd915cd4b6c65a6c3e98f354
@@ -86,7 +89,7 @@ external_keys:
   source_id: d3961cc9-af4d-4a49-aa7b-6b97f4b0b4c3
   report_id: ff79fd21b0c954d0999ebb4963b52b92
 coverage_counts:
-  reports: 20
+  reports: 21
   news: 1173
   logs: 101
   official_sources: 2
