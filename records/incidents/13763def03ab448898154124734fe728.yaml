@@ -9,11 +9,11 @@ country_name: Iran
 region: Asia
 first_seen: '2016-01-01'
 event_date: '2026-07-26'
-last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-24'
+last_verified_update: '2026-11-25'
+latest_coverage_at: '2026-11-25'
 status_changed_at: '2026-11-15'
-summary: Washington's military campaign against Iran has cost an estimated $48.3 billion while delivering a $21.6 billion windfall to nine African fossil-fuel exporters, and a new report projected the war will cost Gulf states $790 billion by 2030, including $200 billion in physical damage. President Trump is reportedly weighing postponing renewed strikes despite Israeli pressure for a joint campaign, even as he said Iranian attacks spiked over the past week and warned of possible new strikes next year, while Iran's foreign ministry vowed to use "all available means" against the US naval blockade and linked safe Strait of Hormuz passage to its conditions. In Washington, Senate Republicans signaled openness to a spending deal that would cut off war funding to avert a shutdown, Secretary of State Rubio prepared to meet Qatar's prime minister, and oil prices fell on rising Middle East flows and a Libyan pipeline restart.
-summary_updated: '2026-11-24'
+summary: Iran reiterated that it will not hold talks with Washington until its seven conditions are met, as Vice President Vance and Secretary of State Rubio met Qatar's prime minister amid mounting uncertainty over President Trump's intentions; Trump separately told the New York Post that the war effort is "funded" through January and addressed Israel's stated goal of regime change in Tehran. In Washington, Senate negotiators scrambled for a fragile spending deal tied to Iran, raising the odds of a government shutdown, while the Saudi-led coalition struck Yemen's Hodeidah port and Houthi forces closed in on Aden. Iran also accused the U.S. of using AI to select targets in the war and urged UN regulation.
+summary_updated: '2026-11-25'
 search_keys:
 - Iran Conflict latest 2026
 - Iran Conflict 2026
@@ -37,8 +37,8 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 3
-  news: 3607
-  logs: 114
+  news: 3623
+  logs: 115
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

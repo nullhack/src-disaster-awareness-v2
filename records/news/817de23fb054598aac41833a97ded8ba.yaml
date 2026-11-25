@@ -12,4 +12,5 @@ sitename: ABC7 Los Angeles
 canonical_url: https://abc7.com/story/india-announces-16-billion-aid-package-nepals-flood-recovery/20069456
 content_hash: d1b5fcbbd0155cf7fdd0cada657fc3dfd7cd776c79b7f5c4060b10e789d5d9cf
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-25'

@@ -2866,3 +2866,123 @@
 {"at": "2026-11-24T22:44:09Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-24", "news": 4, "type": "log_created"}
 {"at": "2026-11-24T22:44:09Z", "incident_id": "d8b0e00d26504ed58a8997e958c91b71", "log_date": "2026-11-24", "news": 3, "type": "log_created"}
 {"at": "2026-11-24T22:44:09Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-24", "news": 9, "type": "log_created"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "2a6b6fae792e5941b9d98c7e1185c847", "source": "USGS", "source_id": "us6000ude3", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "5f68d2f09b595f0ab3185a92b88ba8af", "source": "USGS", "source_id": "us6000uddj", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "f46cefbbe72c51bead7ecb5964dedca8", "source": "USGS", "source_id": "us6000udd1", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "dd5a8c90e7ac5ce1a3f9bbd963aac85d", "source": "USGS", "source_id": "us6000udck", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "01fc277e4854537a94c33c685097ccbc", "source": "USGS", "source_id": "us6000udcc", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "52790d3a278d5106abd5ddff858a8bb0", "source": "USGS", "source_id": "us6000uda9", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "569349be788d5a13853b7910e8779c09", "source": "USGS", "source_id": "us7000tyqz", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "b71d368e39215cc09a723745270b39fc", "source": "USGS", "source_id": "us6000ud9m", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "90206dc4140e5b37bfaa6238eabb01b4", "source": "USGS", "source_id": "us6000ud8z", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "2f872284a8b4525498d7801a41bcb3e4", "source": "USGS", "source_id": "us6000ud8v", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "dd23267eaafd56b7937cc2ab66f2c3e3", "source": "GDACS", "source_id": "1579174", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "19151da6cf4b55abbbbb0f89117925e4", "source": "GDACS", "source_id": "1579161", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "734167677770539a9d48d7f30788b86d", "source": "GDACS", "source_id": "1579132", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "a6f74b3253885201ad0447b4386295c0", "source": "GDACS", "source_id": "1034062", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "8adc6bfa97af5453a881f61ccc80c32a", "source": "GDACS", "source_id": "1034061", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "2d9e81bd529b5b278f24662f63b0577b", "source": "GDACS", "source_id": "1034060", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "e552fa5bad6b520f8bb0990c30f90bc2", "source": "GDACS", "source_id": "1034059", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "f12e75e6294852fea394b6a17a468093", "source": "GDACS", "source_id": "1579123", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "893df1ef6b075241b6b0dc1e4b904a94", "source": "GDACS", "source_id": "1579159", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "b381186e992e5ee8ba30978786300736", "source": "GDACS", "source_id": "1104299", "type": "report_ingested"}
+{"at": "2026-11-25T08:33:10Z", "report_id": "4b8f2fe2ea94574f85b530363eee21b8", "source": "GDACS", "source_id": "1034058", "type": "report_ingested"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "1ce3520607685a2da4b29286101fdcf7", "type": "news_ingested", "url": "https://www.msn.com/en-ph/news/world/central-visayas-dengue-cases-up/ar-AA2i8We6?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "1ce3520607685a2da4b29286101fdcf7", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "d4551e4925965d4e9bd8bd27155325ee", "type": "news_ingested", "url": "https://www.tbsnews.net/bangladesh/health/dengue-claims-4-more-lives-24hrs-toll-hits-524-1612616"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "d4551e4925965d4e9bd8bd27155325ee", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "050df82126a655f4b3fc5acd6b20965c", "type": "news_ingested", "url": "https://cnm.mv/news/106156"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "050df82126a655f4b3fc5acd6b20965c", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "969ced3d2e03596eafdbb967f04f8000", "type": "news_ingested", "url": "https://www.onlinekhabar.com/2026/11/2064521/the-number-of-dengue-infected-people-in-kavre-has-reached-54"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "969ced3d2e03596eafdbb967f04f8000", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "aa98be2601b6599fb4ec264d6e1485c7", "type": "news_ingested", "url": "https://www.outlookindia.com/international/iran-war-oil-crisis-india-china-record-russian-crude-oil-imports-2026-strait-of-hormuz-us-sanctions-brent-price"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "aa98be2601b6599fb4ec264d6e1485c7", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "214dbc1b96ce557a8bf886ff0412b25f", "type": "news_ingested", "url": "https://apnews.com/article/mideast-iran-gaza-israel-houthis-libya-november-24-2026-ba01cb036a849ba69873da5000ee08d5"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "214dbc1b96ce557a8bf886ff0412b25f", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "e96edafbf44758c7b75e53eb518ece51", "type": "news_ingested", "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-strait-of-hormuz-oil-prices-saudi-houthi-attack-latest-news/liveblog/136141532.cms"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "e96edafbf44758c7b75e53eb518ece51", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "4ad027cae8925d9c998d6c64eca27250", "type": "news_ingested", "url": "https://www.mercurynews.com/2026/11/24/vance-rubio-qatari-pm-iran-war/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "4ad027cae8925d9c998d6c64eca27250", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "5904dbd892245e6bb5ff8d3a6bde1ef0", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east/ar-AA2i7SLg?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "5904dbd892245e6bb5ff8d3a6bde1ef0", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "53c6ffec9e1d5c4b86536199f0c4bfce", "type": "news_ingested", "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "53c6ffec9e1d5c4b86536199f0c4bfce", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "e2e8911b4df55af8b383d3612c40f9cc", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/iran-live-updates-tehran-says-strait-of-hormuz-will-be-safe-if-its-demands-are-met/ar-AA2i2ecW?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "e2e8911b4df55af8b383d3612c40f9cc", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "fdf66c7309465ae6a32e646c48193573", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/how-the-iran-war-drove-india-and-china-to-record-russian-oil-imports-in-2026-and-why-purchases-may-ease-in-2027/ar-AA2i8G1o?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "fdf66c7309465ae6a32e646c48193573", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "51f49757486c51b29013904590eacfc3", "type": "news_ingested", "url": "https://www.nationalreview.com/corner/will-iran-try-to-break-out-of-the-blockade"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "51f49757486c51b29013904590eacfc3", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "af7b2a40628a570581ecd677ea94061c", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/trump-says-iran-war-funded-through-january-and-addresses-israel-s-goal-of-tehran-regime-change/ar-AA2ia7NN?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "af7b2a40628a570581ecd677ea94061c", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "e62cea553e3b5fde9e42cf582d9d37d1", "type": "news_ingested", "url": "https://www.courant.com/2026/11/24/iran-no-talks-us-mideast-news/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "e62cea553e3b5fde9e42cf582d9d37d1", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "e2949f9f63b652e2ae5b595f1effe26d", "type": "news_ingested", "url": "https://www.aol.com/articles/iran-war-prices-drove-most-214410000.html"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "e2949f9f63b652e2ae5b595f1effe26d", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "3085d07b7d4b518ca408d3e869ef989b", "type": "news_ingested", "url": "https://stocktwits.com/news-articles/markets/equity/oil-market-midweek-wrap-brent-holds-near-90-despite-iran-tensions-opec-meeting-conoco-phillips-sale-in-focus/cNbH5X8R9lK"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "3085d07b7d4b518ca408d3e869ef989b", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "ccb8e963a9285169b8e300ff8b3d11ad", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/ex-mossad-chief-third-war-with-iran-inevitable-declares-diplomacy-will-never-work/ar-AA2i7nAE?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "ccb8e963a9285169b8e300ff8b3d11ad", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "d5dd19effc8a51cea3c312acbbd3f799", "type": "news_ingested", "url": "https://thehill.com/homenews/senate/6238725-senate-negotiators-avoid-shutdown/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "d5dd19effc8a51cea3c312acbbd3f799", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "b924396e669f5686a5f44f3a79f74d3d", "type": "news_ingested", "url": "https://www.nydailynews.com/2026/11/24/iran-no-talks-us-mideast-news/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "b924396e669f5686a5f44f3a79f74d3d", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "e3ac3ee9a8965146a7b0fabde25771c7", "type": "news_ingested", "url": "https://www.reuters.com/world/china/india-seizes-nepal-flood-crisis-rebuild-influence-china-gains-ground-2026-11-24/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "e3ac3ee9a8965146a7b0fabde25771c7", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "bd456cdb44e3550f84e3e8841a948eb5", "type": "news_ingested", "url": "https://www.upi.com/News_Photos/view/upi/971f66159bab394e13006f151c7aeea4/Nepali-rescue-teams-pull-survivors-from-deadly-Himalayan-glacial-floods/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "bd456cdb44e3550f84e3e8841a948eb5", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "e1a93899df3c51e3a7e8a5362b782262", "type": "news_ingested", "url": "https://abc7news.com/story/india-announces-16-billion-aid-package-nepals-flood-recovery/20069456/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "e1a93899df3c51e3a7e8a5362b782262", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "2fac932f0de25396aa7b9f883506677d", "type": "news_ingested", "url": "https://arthasarokar.com/2026/11/distribution-of-house-rent-to-flood-affected-families-begins-funds-for-970-families-directly-transferred-to-bank-accounts.html"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "2fac932f0de25396aa7b9f883506677d", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "79be9e86ed185abdaa62e62f30894c2d", "type": "news_ingested", "url": "https://www.onlinekhabar.com/2026/11/2064788/distribution-of-house-rent-money-to-970-families-affected-by-bhotekoshi-flood-begins"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "79be9e86ed185abdaa62e62f30894c2d", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "ad179ff369c9536d90e6e5d4edd5e5d7", "type": "news_ingested", "url": "https://www.malaymail.com/news/world/2026/11/25/el-nino-this-week-pacific-droughts-san-franciscotides-and-a-global-economic-threat/244571"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "ad179ff369c9536d90e6e5d4edd5e5d7", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "4dc0ba7ef946572595add40c33422ee9", "type": "news_ingested", "url": "https://abc13.com/post/drought-reveals-remnants-communities-beneath-jordan-lake/20071028/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "4dc0ba7ef946572595add40c33422ee9", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "16bc0480842c5095a8ba6b123e997958", "type": "news_ingested", "url": "https://abc11.com/post/demand-strong-nc-christmas-trees-despite-states-worst-droughts/20076122/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "16bc0480842c5095a8ba6b123e997958", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "d76c210a34a95f52acb8ced88a2b70a5", "type": "news_ingested", "url": "https://www.wymt.com/2026/11/24/never-seen-it-like-this-city-campton-declares-emergency-water-supply/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "d76c210a34a95f52acb8ced88a2b70a5", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "6e668a11cd475742a4dd8ddad381c365", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/emergency-water-restrictions-begin-in-bath-county/ar-AA2iaAOh?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "6e668a11cd475742a4dd8ddad381c365", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "c4b4090a650656a793499cef6b038238", "type": "news_ingested", "url": "https://jamaica-gleaner.com/article/world-news/20261125/region-urged-prepare-el-ninos-impact-dry-season"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "c4b4090a650656a793499cef6b038238", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "c195682ea09b5ddb86c15719e6195c47", "type": "news_ingested", "url": "https://www.msn.com/en-xl/news/other/europes-desertification-risk-grows-as-rising-temperatures-threaten-farmland-and-water-supplies/ar-AA2ia53w?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "c195682ea09b5ddb86c15719e6195c47", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "f51fe5f5cc4d5687962a68aaf8b12fdd", "type": "news_ingested", "url": "https://www.abc15.com/news/local-news/colorado-river-and-salt-river-systems-see-water-level-gains-but-drought-conditions-persist-in-arizona"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "f51fe5f5cc4d5687962a68aaf8b12fdd", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "1db482d75bb45ee588c9b7dc9f110db5", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/foot-creek-fire-in-bighorn-national-forest-100-contained/ar-AA2i9jay?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "1db482d75bb45ee588c9b7dc9f110db5", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "c15da04ab88157309952b5b0f88ad322", "type": "news_ingested", "url": "https://www.theintermountain.com/news/local-news/2026/11/wildfire-near-state-line-is-at-20-containment/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "c15da04ab88157309952b5b0f88ad322", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "591cf08a8d2f5af1a3317559148383d5", "type": "news_ingested", "url": "https://www.msn.com/en-us/money/general/seeding-project-aims-to-restore-cottonwood-fire-burn-scar/ar-AA2i95hk?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "591cf08a8d2f5af1a3317559148383d5", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "7bceeef6baf75181b6b83ed0cd917020", "type": "news_ingested", "url": "https://news.mongabay.com/2026/11/indonesia-fires-test-palm-oil-certification-scheme-as-ngos-question-rspo-accountability/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "7bceeef6baf75181b6b83ed0cd917020", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "2d0b6ef462fc54068e1cba2e08308d40", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/florida-system-may-develop-named-223050620.html"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "2d0b6ef462fc54068e1cba2e08308d40", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "edac8c4466f45f18be277b86a6880d57", "type": "news_ingested", "url": "https://www.thehindu.com/news/international/iran-rules-out-talks-with-us-until-its-seven-conditions-are-met/article71739875.ece"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "edac8c4466f45f18be277b86a6880d57", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "36ef7fd224785ae583530cc1e0825e0e", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars/ar-AA2ibbrI?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "36ef7fd224785ae583530cc1e0825e0e", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "c35c69bcfd2956bdbbf0c32e1dce5688", "type": "news_ingested", "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "c35c69bcfd2956bdbbf0c32e1dce5688", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "53c58654911953478edd5e1c305d1cb6", "type": "news_ingested", "url": "https://redstate.com/wardclark/2026/11/24/russia-threatens-open-war-after-tiny-nato-nation-decides-to-shut-its-border-n2209753"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "53c58654911953478edd5e1c305d1cb6", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "4ed9e439e76950bcb31d220dfd4a3230", "type": "news_ingested", "url": "https://www.msn.com/en-xl/africa/top-stories/security-council-live-can-conflict-resolution-keep-pace-as-ai-and-drones-reshape-war/ar-AA2iatCK?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "4ed9e439e76950bcb31d220dfd4a3230", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "71882845aeb45f82830d2e29cc7de197", "type": "news_ingested", "url": "https://www.bostonherald.com/2026/11/24/iran-no-talks-us-mideast-news/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "71882845aeb45f82830d2e29cc7de197", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "f3a02cd11ce55c139e4d96aba20ed20f", "type": "news_ingested", "url": "https://www.msn.com/en-gb/news/world/african-insurgents-take-war-to-the-skies-with-off-the-shelf-drones/ar-AA2ibsrZ?ocid=BingNewsVerp"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "f3a02cd11ce55c139e4d96aba20ed20f", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "fb6666947dd25a18b2d8baf6d87f503d", "type": "news_ingested", "url": "https://hindi.oneindia.com/videos/magnitude-6-4-earthquake-strikes-near-mauritius-and-reunion-residents-rush-outdoors-4330056.html"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "fb6666947dd25a18b2d8baf6d87f503d", "type": "news_linked"}
+{"at": "2026-11-25T08:35:34Z", "news_id": "9702c41b8e7e52eab382dab3b0d908b2", "type": "news_ingested", "url": "https://www.news19.lk/no-tsunami-threat-to-sri-lanka-from-indian-ocean-earthquake/"}
+{"at": "2026-11-25T08:35:34Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "9702c41b8e7e52eab382dab3b0d908b2", "type": "news_linked"}
+{"at": "2026-11-25T08:50:14Z", "incident_id": "13763def03ab448898154124734fe728", "log_date": "2026-11-25", "news": 16, "type": "log_created"}
+{"at": "2026-11-25T08:50:14Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "log_date": "2026-11-25", "news": 6, "type": "log_created"}
+{"at": "2026-11-25T08:50:14Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-25", "news": 7, "type": "log_created"}
+{"at": "2026-11-25T08:50:14Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "log_date": "2026-11-25", "news": 3, "type": "log_created"}
+{"at": "2026-11-25T08:50:14Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-25", "news": 4, "type": "log_created"}

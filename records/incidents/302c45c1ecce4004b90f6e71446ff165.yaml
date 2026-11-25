@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2025-06-09'
 event_date: '2026-07-30'
-last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-24'
+last_verified_update: '2026-11-25'
+latest_coverage_at: '2026-11-25'
 status_changed_at: '2026-11-14'
-summary: Drought losses prompted Catanauan, Quezon to declare a state of calamity after P147 million in damages, while Isabela declared a state of calamity following P2.881 billion in crop losses, mostly corn and palay. Maharashtra’s agriculture department expects sharp declines in kharif pulses, oilseeds, and foodgrain due to drought, as Pacific governments stepped up their El Niño response and Zimbabwe set aside US$400 million for a predicted drought. In Mississippi, lingering extreme drought extended Hinds County’s burn ban, and a cattle farmer reported that drought kept ryegrass from growing, forcing early hay feeding.
-summary_updated: '2026-11-24'
+summary: Drought has exposed remnants of communities dating to the 1700s beneath North Carolina’s Jordan Lake, while Christmas tree farms there report strong demand despite months of dry conditions and rising costs. Emergency water restrictions began in Bath County, and Campton, Kentucky declared a state of emergency because its lone water supply is critically low. Elsewhere, Caribbean officials urged preparation for El Niño’s impact on the upcoming dry season, Europe’s desertification risk was highlighted, and Pacific droughts were cited amid global economic concerns.
+summary_updated: '2026-11-25'
 search_keys:
 - Drought latest 2026
 - Drought 2026
@@ -30,8 +30,8 @@ external_keys:
   report_id: c5b147e478285c89a23256083b1a7d45
 coverage_counts:
   reports: 1
-  news: 752
-  logs: 76
+  news: 759
+  logs: 77
   official_sources: 1
 created_at: '2026-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

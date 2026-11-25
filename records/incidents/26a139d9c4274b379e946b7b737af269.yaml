@@ -9,13 +9,11 @@ country_name: Nepal
 region: Asia
 first_seen: '2017-05-01'
 event_date: '2026-08-26'
-last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-24'
+last_verified_update: '2026-11-25'
+latest_coverage_at: '2026-11-25'
 status_changed_at: '2026-11-15'
-summary: |-
-  During Prime Minister Balendra Shah's first visit to India since taking office, Indian Prime Minister Narendra Modi offered Nepal a $1.62 billion (240 billion Nepalese rupees) development cooperation package to help it rebuild after the August 26 glacier flood, which Nepali authorities say caused about $4.7 billion in losses; specific details of the package were not immediately disclosed, and the two sides also signed agreements on railway, hydropower and fuel infrastructure. Separately, reporting months after the disaster described survivors in Nuwakot still living with trauma, and a Malaysian relief team finding families and schools continuing to rebuild.
-  During Prime Minister Balendra Shah's visit to New Delhi, Narendra Modi announced a $1.62 billion (roughly Rs 15,120 crore) package for Nepal's flood recovery, with the two leaders adopting a bilateral vision document alongside the aid. An accompanying analysis casts the package as India's effort to rebuild influence in Nepal amid China's expanding role, noting that Kathmandu remains reliant on Indian support despite Beijing's far greater financial capacity. Other items in the batch — the COP31 funding appeal and a September photo gallery of tunnel body recoveries — repeat previously reported material.
-summary_updated: '2026-11-24'
+summary: Authorities have begun distributing house-rent cash assistance to flood-affected families in Bidur Municipality, Nuwakot, with funds transferred directly into the bank accounts of 970 households. The payments follow the federal government's pledge of rental support for people displaced by the Bhotekoshi flood. Other items in the batch, including reports on India's $1.62 billion aid package and a rescue photo gallery, repeat previously reported material.
+summary_updated: '2026-11-25'
 search_keys:
 - Nepal Flood latest 2026
 - Nepal Flood 2026
@@ -38,8 +36,8 @@ external_keys:
   report_id: ddfff7daebbe5a2a87c47f040f8dff20
 coverage_counts:
   reports: 3
-  news: 1245
-  logs: 71
+  news: 1250
+  logs: 72
   official_sources: 2
 created_at: '2026-05-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'
