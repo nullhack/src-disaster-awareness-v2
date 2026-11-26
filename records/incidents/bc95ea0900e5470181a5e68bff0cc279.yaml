@@ -1,0 +1,35 @@
+schema: 2
+id: bc95ea0900e5470181a5e68bff0cc279
+status: active
+display_name: Earthquake M5.7 Ocean 2026-11-26
+slug: earthquake-m5-7-ocean-2026-11-26
+incident_type: Earthquake
+country_code: ''
+country_name: Global
+region: Global
+first_seen: '2026-11-26'
+event_date: '2026-11-26'
+last_verified_update: '2026-11-26'
+latest_coverage_at: '2026-11-26'
+status_changed_at: '2026-11-26'
+summary: ''
+summary_updated: ''
+search_keys: []
+extended_monitoring: false
+aliases: []
+merged_into: null
+genesis:
+  report_id: 3aac7cb0f0ff5eee9a31dabe7d8d973b
+  source: USGS
+  source_id: us6000udq5
+external_keys:
+- source: USGS
+  source_id: us6000udq5
+  report_id: 3aac7cb0f0ff5eee9a31dabe7d8d973b
+coverage_counts:
+  reports: 1
+  news: 2
+  logs: 0
+  official_sources: 1
+created_at: '2026-11-26T21:31:25Z'
+pipeline_created_at: '2026-11-26T21:31:25Z'

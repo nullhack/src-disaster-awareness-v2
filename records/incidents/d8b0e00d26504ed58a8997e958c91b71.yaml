@@ -10,7 +10,7 @@ region: Americas
 first_seen: '2026-11-06'
 event_date: '2026-11-06'
 last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-24'
+latest_coverage_at: '2026-11-26'
 status_changed_at: '2026-11-18'
 summary: Vatican News reports that more than 100,000 people in Ecuador have been affected by heavy rains and flooding that have continued since late August. Ecuador’s electoral council has set out and tested a flood evacuation protocol for polling sites ahead of the 29 November 2026 local elections. A commodities article also notes that Ecuador has logged 851 floods since late August.
 summary_updated: '2026-11-24'
@@ -33,7 +33,7 @@ external_keys:
   report_id: 4f55165eceb752a9b5e600013bf3b0ee
 coverage_counts:
   reports: 2
-  news: 6
+  news: 7
   logs: 2
   official_sources: 1
 created_at: '2026-11-18T20:30:51Z'

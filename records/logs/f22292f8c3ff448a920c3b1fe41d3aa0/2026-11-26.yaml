@@ -1,15 +1,25 @@
 schema: 2
 incident_id: f22292f8c3ff448a920c3b1fe41d3aa0
 log_date: '2026-11-26'
-summary: US envoy Jared Kushner said Vladimir Putin had agreed not to use nuclear weapons even as negotiations on the territorial question reached a "complete impasse," and separately warned against any escalation of what he called a "proxy war." Ukraine said its forces struck a major Russian military base and destroyed five warplanes, with Kyiv telling Putin to "stop complaining" about attacks on Russian infrastructure. Reporting also examined Russia's use of Nvidia computer modules to pilot a drone that killed Ukrainian civilians, while Metinvest's chief warned the future of Ukraine's steel industry is in doubt amid fresh bombardment and EU tariff hikes.
+summary: |-
+  US envoy Jared Kushner said Vladimir Putin had agreed not to use nuclear weapons even as negotiations on the territorial question reached a "complete impasse," and separately warned against any escalation of what he called a "proxy war." Ukraine said its forces struck a major Russian military base and destroyed five warplanes, with Kyiv telling Putin to "stop complaining" about attacks on Russian infrastructure. Reporting also examined Russia's use of Nvidia computer modules to pilot a drone that killed Ukrainian civilians, while Metinvest's chief warned the future of Ukraine's steel industry is in doubt amid fresh bombardment and EU tariff hikes.
+  President Trump and NATO Secretary General Mark Rutte met at Mar-a-Lago and jointly urged Russia to avoid "any actions" that would expand the war with Ukraine. Britain has alerted about 100,000 military veterans to a possible wartime call-up amid rising tensions with Russia. NATO nations are also voicing growing anxiety over the war spreading to new regions as Ukraine attacks Russian ships in distant waters, while a Moscow court in the annexed Donetsk region sentenced a Colombian to 20 years for fighting for Kyiv.
 news_ids:
+- 00c09254c2425473b67e54bd4402e21c
 - 09c8bc739f2d58ce9cded57ab3ae156b
 - 2bdeaa291c005b83ae0e3d2e41e6d7e3
+- 52fdad9c98285cfc99c64c9545b26da3
 - 5cdd262d8f4452caa62689028066ed98
 - 6499aa14d0f55af0b8768d44713c894a
 - 650c21f0df265d01a806991f346c4e84
 - 79fcb2098d9e5ba2970420c50cedaa3a
+- 88c9fa12618559f68f8da5ae69a67ab3
 - a0635692309e5304832a489e6120c4fd
+- a28d84f2bc8a5dc99be6fad6c5a6f902
 - af19aec7447157b4b3e11770e61d107c
+- bef73a50cb855c6d977fac0e1670c62e
+- db357e1e41da5bed897884f8195f3696
 - eaf28c04b5d05ddd986411c96ae2eca4
+- f30a8ad0f2b55602be590fc1f130d894
 - f7c67f9d40f95c93b4257ece7fb0e099
+- fb647d472e5f5c5a9d6f7d38c67e64a5

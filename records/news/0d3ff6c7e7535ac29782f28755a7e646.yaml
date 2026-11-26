@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-us/news/other/proseccos-heroic-vines-offer-a-test-case-in-climate-resilience/ar-AA2ifqUY
 content_hash: 1e34935518a4d5e0500901e240a6a030695daaaccc610df104e992741d835ebb
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-26'

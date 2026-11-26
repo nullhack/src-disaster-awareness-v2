@@ -12,4 +12,5 @@ sitename: KUOW
 canonical_url: https://www.kuow.org/environment/2026-11-25/flood-drought-western-washingtons-got-it-all
 content_hash: a670f6125ddd4d88e6cc0606f16a2de4e5bf314416119b7f8dd8e7213f562a28
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-26'

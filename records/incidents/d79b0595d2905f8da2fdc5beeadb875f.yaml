@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2025-12-21'
 event_date: '2025-12-21'
-last_verified_update: '2026-11-25'
+last_verified_update: '2026-11-26'
 latest_coverage_at: '2026-11-26'
 status_changed_at: '2026-11-19T20:54:55Z'
-summary: Morocco’s UM6P has converted the Boudnib irrigation reservoir into a floating solar power plant as years of drought increase pressure on irrigation. India’s sugar output is forecast to fall 15% in 2026-27 because of poor rains and lower sugarcane availability, while Jamaica’s economy shrank an estimated 2.7% in July–September 2026 as Hurricane Melissa damage and drought weighed on activity. In Arizona, Lake Powell rose 24 feet after fall rains, but drought conditions persist as officials monitor early snowpack.
-summary_updated: '2026-11-25'
+summary: Water restrictions are looming for Western Cape farmers as agriculture faces reduced water availability. Hoover Dam is preparing unprecedented turbine stress tests amid Lake Mead’s decline, and India’s Kharif foodgrain output is estimated to fall 5.1% to 167.1 million tonnes in 2026-27 due to deficient rainfall and drought, with lower reservoir levels raising Rabi and food-inflation concerns.
+summary_updated: '2026-11-26'
 search_keys:
 - Drought latest 2025
 - Drought 2025
@@ -30,8 +30,8 @@ external_keys:
   report_id: c892ccdaf15e5014b1e1efb3d551fcfe
 coverage_counts:
   reports: 1
-  news: 48
-  logs: 7
+  news: 50
+  logs: 8
   official_sources: 1
 created_at: '2025-12-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'
