@@ -1,0 +1,65 @@
+schema: 2
+id: a18196751f6658d4954f0691e24cafe9
+source: GDACS
+source_id: '1034088'
+incident_type: Forest Fire
+name: Forest Fire Western Cape, South Africa 2026-11-21
+report_date: '2026-11-21'
+news_searched_at: ''
+places:
+- country_code: ZA
+  subdivision: Western Cape
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in South Africa
+  description: On 21/11/2026, a forest fire started in South Africa,  until 26/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034088
+  pubDate: Thu, 26 Nov 2026 08:02:53 GMT
+  dateadded: Thu, 26 Nov 2026 08:02:53 GMT
+  datemodified: Thu, 26 Nov 2026 08:02:52 GMT
+  iscurrent: 'true'
+  fromdate: Sat, 21 Nov 2026 00:00:00 GMT
+  todate: Thu, 26 Nov 2026 00:00:00 GMT
+  durationinweek: '1'
+  year: '2026'
+  subject: WF1
+  guid: WF1034088
+  guid_isPermaLink: 'false'
+  geo_lat: -34.196328137469074
+  geo_long: 19.53941576435751
+  bbox: 15.5394157643575 23.5394157643575 -38.1963281374691 -30.1963281374691
+  point: -34.196328137469074 19.539415764357511
+  cap: https://www.gdacs.org/contentdata/resources/WF/1034088/cap_1034088.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1034088'
+  episodeid: '1'
+  calculationtype: ''
+  severity: Green impact for forestfire in 5088 ha
+  severity_unit: ha
+  severity_value: '5088'
+  population: 163 people affected in the area
+  population_unit: ''
+  population_value: '163'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: ZAF
+  country: South Africa
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 741a31d5314f4276edb63304e6de2ceebe16411c2b04e439f98e08857bc86e05

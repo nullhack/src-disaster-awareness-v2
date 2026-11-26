@@ -9,11 +9,11 @@ country_name: Ecuador
 region: Americas
 first_seen: '2025-04-15'
 event_date: '2026-05-11'
-last_verified_update: '2026-11-25'
-latest_coverage_at: '2026-11-25'
+last_verified_update: '2026-11-26'
+latest_coverage_at: '2026-11-26'
 status_changed_at: '2026-11-15'
-summary: Drought in North Carolina has worsened, with 26% of the state now under extreme conditions according to the latest data. In Ramseur, North Carolina, the dry conditions caused temporary discoloration of the municipal water supply. The November 19, 2026 U.S. Drought Monitor update was also released, while an opinion piece reflected on Eagle County, Colorado's record-low snowpack and worst drought on record.
-summary_updated: '2026-11-25'
+summary: Pomegranate cultivation is being pitched as a drought-tolerant alternative crop for California growers in the Central Valley, where water shortages and declining soil quality are squeezing farming operations. NOAA reports the 2026–2027 El Niño continues to strengthen, with the eastern Pacific running 4.9°C above normal as Latin America braces for peak impacts.
+summary_updated: '2026-11-26'
 search_keys:
 - Belize Drought latest 2026
 - Belize Drought 2026
@@ -33,8 +33,8 @@ external_keys:
   report_id: de71476231625797a7b966d1455ef80c
 coverage_counts:
   reports: 2
-  news: 1202
-  logs: 90
+  news: 1205
+  logs: 91
   official_sources: 2
 created_at: '2025-04-15T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

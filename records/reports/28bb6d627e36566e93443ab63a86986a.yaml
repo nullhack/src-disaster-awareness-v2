@@ -1,0 +1,65 @@
+schema: 2
+id: 28bb6d627e36566e93443ab63a86986a
+source: GDACS
+source_id: '1034089'
+incident_type: Forest Fire
+name: Forest Fire Brazil 2026-11-19
+report_date: '2026-11-19'
+news_searched_at: ''
+places:
+- country_code: BR
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green forest fire notification in Brazil
+  description: On 19/11/2026, a forest fire started in Brazil,  until 26/11/2026.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: ''
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034089
+  pubDate: Thu, 26 Nov 2026 08:03:55 GMT
+  dateadded: Thu, 26 Nov 2026 08:03:55 GMT
+  datemodified: Thu, 26 Nov 2026 08:03:55 GMT
+  iscurrent: 'true'
+  fromdate: Thu, 19 Nov 2026 00:00:00 GMT
+  todate: Thu, 26 Nov 2026 00:00:00 GMT
+  durationinweek: '1'
+  year: '2026'
+  subject: WF1
+  guid: WF1034089
+  guid_isPermaLink: 'false'
+  geo_lat: -1.6690495451047127
+  geo_long: -55.06098897435307
+  bbox: -59.0609889743531 -51.0609889743531 -5.66904954510471 2.33095045489529
+  point: -1.6690495451047127 -55.060988974353073
+  cap: https://www.gdacs.org/contentdata/resources/WF/1034089/cap_1034089.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png
+  version: '0'
+  eventtype: WF
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1034089'
+  episodeid: '1'
+  calculationtype: ''
+  severity: Green impact for forestfire in 7056 ha
+  severity_unit: ha
+  severity_value: '7056'
+  population: 31 people affected in the area
+  population_unit: ''
+  population_value: '31'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: BRA
+  country: Brazil
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 20ed4824ed161a523578bd60f333f317c5eea02200cff9bbf77693ec92281c11

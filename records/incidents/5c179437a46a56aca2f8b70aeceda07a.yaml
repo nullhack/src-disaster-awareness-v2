@@ -9,11 +9,11 @@ country_name: DR Congo
 region: Africa
 first_seen: '2025-09-05'
 event_date: '2025-09-05'
-last_verified_update: '2026-11-24'
-latest_coverage_at: '2026-11-25'
+last_verified_update: '2026-11-26'
+latest_coverage_at: '2026-11-26'
 status_changed_at: '2026-11-15'
-summary: WHO chief Tedros Adhanom Ghebreyesus pleaded for peace in Ebola-hit eastern DR Congo, stating that the frequency of attacks across the country's east has increased since the end of October and that heavy fighting near a hospital in Ituri Province has disrupted containment and endangered patients and health workers. Separately, Africa's top health official urged the UK and its allies to do more to tackle the rapidly spreading virus, warning that global spread of the deadly Ebola strain with no cure remains possible.
-summary_updated: '2026-11-24'
+summary: Government data showed on November 26 that confirmed Ebola cases in the Democratic Republic of Congo have exceeded 12,000, as responders continue to struggle to contain the outbreak. Gavi, the Vaccine Alliance, secured access to up to 1.5 million doses of an experimental Ebola vaccine amid rising deaths, while the CDC extended its Ebola entry-ban authority over green-card holders for six months without a public comment period. Escalating fighting in eastern Congo forced Ebola workers to evacuate and blocked roads needed to reach patients, threatening the response.
+summary_updated: '2026-11-26'
 search_keys:
 - Ebola DR Congo update 2026
 - Ebola DR Congo 2026
@@ -90,8 +90,8 @@ external_keys:
   report_id: ff79fd21b0c954d0999ebb4963b52b92
 coverage_counts:
   reports: 21
-  news: 1173
-  logs: 101
+  news: 1178
+  logs: 102
   official_sources: 2
 created_at: '2025-09-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:21Z'

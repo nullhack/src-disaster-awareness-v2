@@ -12,4 +12,5 @@ sitename: Spectrum News
 canonical_url: https://spectrumlocalnews.com/us/snplus/international/2026/05/05/cruise-ship-hantavirus-outbreak-cape-verde-spain-health-concerns
 content_hash: 15864e27d76e9e8e4656f6c3453a844ee1185e2e5c341e6cef523a2e4e40c24a
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-26'

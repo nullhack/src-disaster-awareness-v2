@@ -9,11 +9,11 @@ country_name: Argentina
 region: Americas
 first_seen: '2026-05-04'
 event_date: '2026-05-04'
-last_verified_update: '2026-11-23'
-latest_coverage_at: '2026-11-25'
+last_verified_update: '2026-11-26'
+latest_coverage_at: '2026-11-26'
 status_changed_at: '2026-11-23T08:04:18Z'
-summary: A newly reported analysis found no definitive link between the hantavirus strain responsible for the cruise ship outbreak and the outbreak strain circulating in Argentina, undercutting the assumption of a straightforward common source. Separately, a University of Geneva study was described as pinpointing the origin and mode of transmission of the Andes virus that spread aboard the cruise ship. Other coverage in this batch revisits earlier developments, including the evacuation of three patients and the hypothesis that a couple was infected during a bird-watching outing before boarding, while a Bariloche hospital report describes a hantavirus patient improving without specifying any connection to the ship cluster.
-summary_updated: '2026-11-23'
+summary: Two newly published studies traced the Andes virus behind the fatal South Atlantic cruise ship outbreak to an established viral lineage from northern Patagonia, addressing both how the virus spread among passengers and crew and where the infection originated. A separate, earlier-dated report recapped the outbreak's initial phase, when WHO was examining seven cases—three deaths, one critically ill passenger removed from the ship, and three onboard with mild symptoms.
+summary_updated: '2026-11-26'
 search_keys:
 - Hantavirus Argentina update 2026
 - Hantavirus Argentina 2026
@@ -43,7 +43,7 @@ external_keys:
 coverage_counts:
   reports: 5
   news: 39
-  logs: 3
+  logs: 4
   official_sources: 1
 created_at: '2026-05-04T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

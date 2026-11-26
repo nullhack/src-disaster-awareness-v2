@@ -12,4 +12,5 @@ sitename: Amnesty International
 canonical_url: https://www.amnesty.org/en/documents/mde15/1636/2026/en
 content_hash: 8abccb153eb2273efa9389dfa28a0a1bc5390aa920e3965c70ef837b8001b38a
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-26'

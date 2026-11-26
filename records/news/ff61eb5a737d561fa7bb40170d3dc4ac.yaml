@@ -12,4 +12,5 @@ sitename: Yahoo Travel
 canonical_url: https://travel.yahoo.com/advice/safety/articles/infection-outbreak-triggers-level-2-040300625.html;_ylt=A2RQU_SdVv1qjgIAvWnQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEEdnRpZAMEc2VjA3Ny
 content_hash: c9bbb32707547c1164ac88a5cdcae143ddae0556d06d6b440422bc801ec7cc73
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-26'
