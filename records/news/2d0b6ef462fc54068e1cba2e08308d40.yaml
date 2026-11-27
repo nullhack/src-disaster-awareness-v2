@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/weather-news/articles/florida-system-may-develop-named-223050620.html
 content_hash: 4eeeaf5ea113f0b58806ec43783446d62bb176513ecd69b09e7e35abe9b2b832
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

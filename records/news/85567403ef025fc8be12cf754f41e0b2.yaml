@@ -12,4 +12,5 @@ sitename: Kaniva Tonga News
 canonical_url: https://kanivatonga.co.nz/2026/11/vavaʻu-rains-after-drought-emergency-declaration-spark-debate-over-gods-power-and-scientific-knowledge
 content_hash: f61d1dce17ba36a081a0c8b29053489618e6378f8a16042ee19588ce3c5d3e63
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

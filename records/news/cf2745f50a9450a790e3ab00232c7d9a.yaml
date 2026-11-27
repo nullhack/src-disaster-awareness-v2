@@ -12,4 +12,5 @@ sitename: Fox 10 News
 canonical_url: https://www.fox10tv.com/2026/11/24/beneficial-rain-tuesday-wednesday-drought-relief-expected-dry-chilly-thanksgiving
 content_hash: 940a030f2e7d1c6a553916f9aaca56e8030aad64046b7f537f42fb5ae3b6ac53
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

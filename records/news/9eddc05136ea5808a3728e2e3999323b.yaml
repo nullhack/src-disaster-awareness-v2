@@ -12,4 +12,5 @@ sitename: The Hindu
 canonical_url: https://www.thehindu.com/news/national/telangana/telanganas-district-with-deepest-groundwater-levels-announces-restrictions-on-borewell-drilling/article71721134.ece
 content_hash: 830fe552e2571f50d51b83668625819e3a21336d968eec9b8c12b8c25b6538e6
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

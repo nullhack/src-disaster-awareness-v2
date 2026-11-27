@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/articles/rudy-christmas-tree-farm-no-224844713.html
 content_hash: f113a3d74ba7e53affd1c96525031fa04584bcf8797d6fa4fc9eb936e565eaae
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

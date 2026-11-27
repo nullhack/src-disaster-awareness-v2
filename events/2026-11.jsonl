@@ -3526,3 +3526,147 @@
 {"at": "2026-11-27T08:42:11Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "log_date": "2026-11-27", "news": 3, "type": "log_created"}
 {"at": "2026-11-27T08:42:11Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-27", "news": 3, "type": "log_created"}
 {"at": "2026-11-27T08:42:11Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-27", "news": 5, "type": "log_created"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "9251afd18ef7525bb1b990df7f2a3d1e", "source": "USGS", "source_id": "us6000udwh", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "cedb8d1f2864532689a546cbb04a4448", "source": "USGS", "source_id": "us6000udw4", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "5aad43afadca5beca1df3c44348a9c85", "source": "USGS", "source_id": "us7000txlq", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "a13eccdf6c6c509298114b5897fd2418", "source": "USGS", "source_id": "us7000txlp", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "71e1af21edfd5f8d9bc1e8b2c688c968", "source": "USGS", "source_id": "us7000txlk", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "197b594d338257998a381d0fd8a97f35", "source": "GDACS", "source_id": "1579591", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "8e8f8e93e52853be9087dd0710e7659e", "source": "GDACS", "source_id": "1579583", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "8b0c2c3abbf05edd9bd3536cf86625f9", "source": "GDACS", "source_id": "1034124", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "334e5c032dbc5cb2a2ed6b22dc95633a", "source": "GDACS", "source_id": "1034123", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "32a32ec4b76b561a9cfd34aa2bd7280c", "source": "GDACS", "source_id": "1034122", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "f37d6cfcf5ae5404bf16cdc3872c0437", "source": "GDACS", "source_id": "1034121", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "4aece081d69c50f3aebace1b98f1f7a7", "source": "GDACS", "source_id": "1034120", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "fc13aa42fa605249b6b47e0a0f97d073", "source": "GDACS", "source_id": "1034119", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "ffbaa34d71255f58a69fe6e4612ab6bd", "source": "GDACS", "source_id": "1034118", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "712d3796a78f5f61854a399fd72023a5", "source": "GDACS", "source_id": "1034117", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "cb894da550225741948fd8b74a2c1026", "source": "GDACS", "source_id": "1034116", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "476209d617e855ea8d2bfe79c838ccbb", "source": "GDACS", "source_id": "1034115", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "1173cc327f1f5b5391d9516a87617dfd", "source": "GDACS", "source_id": "1034114", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "0d5c2535f2465f52be7544196705b5c0", "source": "GDACS", "source_id": "1034113", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "a77a6584f1df512797bed67df5cda30d", "source": "GDACS", "source_id": "1034112", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "fad79bbc721a5efa9449e736ab51f796", "source": "GDACS", "source_id": "1034111", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "a14e77c2e9fb53cb90e0061e686feca0", "source": "GDACS", "source_id": "1034110", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "3d6b48b0d5a45a209ad220967f869ee7", "source": "GDACS", "source_id": "1034109", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "5c57b12c75395a45996e8f8926cc9c07", "source": "GDACS", "source_id": "1034108", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:24Z", "report_id": "2b3febaedbd952ad98a73ab18ea6c7c1", "source": "ERCC", "source_id": "5861", "type": "report_ingested"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "12d85f95bd6445f1bb40f2c44860747f", "report_id": "15f58d8210f3552f883082443a501f90", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "8a7ec20dc7625c0ea63694d987456e8f", "type": "news_ingested", "url": "https://www.pna.gov.ph/article/ebola-cases-cross-12000-in-dr-congo"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "8a7ec20dc7625c0ea63694d987456e8f", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "b7f8aec85ce55253b0f064bac67ab7d8", "type": "news_ingested", "url": "https://english.news.cn/africa/20261126/b64d784260af4b0ca81c2ecf0c822a1f/c.html"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "b7f8aec85ce55253b0f064bac67ab7d8", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "report_id": "6c07882e141c5718a34669ea1c4fdd86", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "4689414944fe5cb191fb7da661145f9f", "type": "news_ingested", "url": "https://www.wishtv.com/news/international/un-report-says-conflict-aid-cuts-put-16-countries-at-risk-of-worsening-hunger/"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "4689414944fe5cb191fb7da661145f9f", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "26c3c9b4a0b751df96a3010b5c172691", "type": "news_ingested", "url": "https://www.msn.com/en-xl/asia/pakistan/islamabad-hosts-makkah-defence-alliance-summit-today-with-yemen-conflict-on-agendapublished-on-november-27-2026-944-am/ar-AA2ikstP?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "26c3c9b4a0b751df96a3010b5c172691", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "4eb3f7cd4a135c61b135d57ca519313a", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/a-sister-stuck-in-riyadh-a-family-waiting-in-india-the-human-cost-of-saudi-flight-ban/ar-AA2ilKgl?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "4eb3f7cd4a135c61b135d57ca519313a", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "abb14acc17d15502add11704725bf4c2", "type": "news_ingested", "url": "https://www.newsweek.com/iran-building-new-site-40-miles-from-pickaxe-mountain-us-think-tank-12772630"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "abb14acc17d15502add11704725bf4c2", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "aa72d93eefc95a73a5e2ee1ccf8020a5", "type": "news_ingested", "url": "https://news.un.org/en/story/2026/11/1168893"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "aa72d93eefc95a73a5e2ee1ccf8020a5", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "36f20225696f508fb49ea777239dc41e", "type": "news_ingested", "url": "https://www.telegraph.co.uk/us/news/2026/11/27/watch-us-strikes-cargo-ship-leaving-iranian-port/"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "36f20225696f508fb49ea777239dc41e", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:16:42Z", "news_id": "67838200d1dc5f2ca0172eb0c231e832", "type": "news_ingested", "url": "https://www.msn.com/en-ca/news/other/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks/ar-AA2inph5?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "67838200d1dc5f2ca0172eb0c231e832", "type": "news_linked"}
+{"at": "2026-11-27T21:16:42Z", "incident_id": "13763def03ab448898154124734fe728", "report_id": "658c3e69300859f6adbbaec31d775f7b", "type": "report_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "62a67be4d2d656898e8be7486cc11d11", "type": "news_ingested", "url": "https://www.bastillepost.com/global/article/6402052-hong-kong-reports-new-dengue-and-chikungunya-cases-public-urged-to-prevent-mosquito-bites-and-breeding"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "62a67be4d2d656898e8be7486cc11d11", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "4a4c5164683a5657a4372b172664b878", "type": "news_ingested", "url": "https://thepeninsulaqatar.com/article/27/11/2026/more-floods-less-dengue-in-malaysia-in-2025-statistics-department"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "news_id": "4a4c5164683a5657a4372b172664b878", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "0a18db8483d251468f2976250ac450aa", "type": "news_ingested", "url": "https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "0a18db8483d251468f2976250ac450aa", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "eef4d5756fa152ba9f6c43ad2a3bbcfd", "type": "news_ingested", "url": "https://risingnepaldaily.com/news/89070"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "eef4d5756fa152ba9f6c43ad2a3bbcfd", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "026ce4c0c19f5c7ca87d0f281d531d53", "type": "news_ingested", "url": "https://theconversation.com/england-and-wales-are-in-a-winter-drought-which-could-make-next-summer-even-drier-290074"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "026ce4c0c19f5c7ca87d0f281d531d53", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "aa219be5df395c929a23e8ac2a1eabd6", "type": "news_ingested", "url": "https://telanganatoday.com/telangana-announces-rs-10-000-crore-el-nino-drought"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "aa219be5df395c929a23e8ac2a1eabd6", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "cbf95610f7855f72b3484815e4812fb6", "type": "news_ingested", "url": "https://www.bizjournals.com/phoenix/news/2026/11/27/phoenix-hoa-water-surcharge-drought-management.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "cbf95610f7855f72b3484815e4812fb6", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "32c76b6bf173573dbdeb85a7e746362d", "type": "news_ingested", "url": "https://www.msn.com/en-xl/news/other/moroccans-turn-to-prayer-as-historic-drought-deepens-across-the-country/vi-AA2in9c9?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "32c76b6bf173573dbdeb85a7e746362d", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "ca9b6f0251ba5f27a4e6b62ca247dc0e", "type": "news_ingested", "url": "https://www.france24.com/en/environment/20261127-france-dealing-with-water-insecurity-–-new-study-shows-global-problem"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "ca9b6f0251ba5f27a4e6b62ca247dc0e", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "7f19658955635b2699f6e5bb8ec95f30", "type": "news_ingested", "url": "https://kfgo.com/2026/11/27/exclusive-french-sugar-groups-offer-drought-hit-farmers-aid-to-secure-plantings/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "7f19658955635b2699f6e5bb8ec95f30", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "9fdd6c193909526c9b73fafaa9b79dd5", "type": "news_ingested", "url": "https://www.yahoo.com/news/weather-news/articles/york-adds-13-counties-drought-084600860.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "9fdd6c193909526c9b73fafaa9b79dd5", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "ad09983a45e8504897d49b8e7bd7b639", "type": "news_ingested", "url": "https://tribuneonlineng.com/ebola-who-demands-faster-vaccine-trials-as-dr-congo-death-toll-hits-5900/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "news_id": "ad09983a45e8504897d49b8e7bd7b639", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "7da64129b81b52fe8bc35f068ec79da5", "type": "news_ingested", "url": "https://www.msn.com/en-gb/news/other/cop31-collapse-leaves-countries-facing-grim-el-nino-consequences/ar-AA2imv4q?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "7da64129b81b52fe8bc35f068ec79da5", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "e9c38acd0419527b996cc905fc0c1ca1", "type": "news_ingested", "url": "https://www.sunstar.com.ph/cebu/capitol-may-tap-2-water-plants-to-supply-trucks-amid-el-niño"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "e9c38acd0419527b996cc905fc0c1ca1", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "ec9b17a3f19b51b3b6baebd516b2a4b9", "type": "news_ingested", "url": "https://www.independent.co.uk/climate-change/el-nino-weather-climate-cop31-crisis-b3092172.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "ec9b17a3f19b51b3b6baebd516b2a4b9", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "a8d1effb3bfc50e89cafb9382811bc1b", "type": "news_ingested", "url": "https://www.msn.com/en-gb/news/other/havant-thicket-reservoir-water-recycling-scheme-is-still-not-enough-to-tackle-shortage/ar-AA2im6Uk?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "a8d1effb3bfc50e89cafb9382811bc1b", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "267662099daf53698043099024682ae6", "type": "news_ingested", "url": "https://www.kulr8.com/features/forest/forest-to-frontier-how-wildfires-can-affect-lakes-rivers-and-streams/article_0d8e128c-0060-410e-852f-da068913777a.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "2f3c72555a054e87be304baaeb83af7c", "news_id": "267662099daf53698043099024682ae6", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "f1ecf4a0fb6d5277b2b95b53974c13bb", "type": "news_ingested", "url": "https://www.indiatoday.in/world/video/donald-trump-says-putin-seeks-peace-agreement-to-end-ukraine-war-ytvd-3048252-2026-11-27"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "f1ecf4a0fb6d5277b2b95b53974c13bb", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "1351d30c380059ed8e28278092928ced", "type": "news_ingested", "url": "https://whdh.com/news/zelenskyy-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "1351d30c380059ed8e28278092928ced", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "6b224912bdd353bda67e576c1d5933bb", "type": "news_ingested", "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "6b224912bdd353bda67e576c1d5933bb", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "59b5a6f9c8db56b199aee3b80fd88948", "type": "news_ingested", "url": "https://www.yahoo.com/news/science/articles/ukraine-shoots-down-russian-jet-161327989.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "59b5a6f9c8db56b199aee3b80fd88948", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "610b6011c3275fa9a978249d2cd685c5", "type": "news_ingested", "url": "https://www.newstribune.com/news/2026/nov/24/zelenskyy-says-intelligence-shows-russia-planning/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "610b6011c3275fa9a978249d2cd685c5", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "7e494af01d56506db9451eab89eed332", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/ukraine-downs-russian-jet-drone-143000742.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "7e494af01d56506db9451eab89eed332", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "d926c89106915d70b9c5ea2ce47e530a", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/pull-back-all-military-aggression-in-europe-trump-to-putin-amid-russia-ukraine-war/ar-AA2ijOBs?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "d926c89106915d70b9c5ea2ce47e530a", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "1df655485a945fedb3d45ccf2035a29c", "type": "news_ingested", "url": "https://www.wsws.org/en/articles/2026/11/26/hxxs-n26.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "1df655485a945fedb3d45ccf2035a29c", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "871f94b66fbf5d8cbcc1f3747aaf9280", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/world/israel-kills-four-in-gaza-as-hamas-chief-al-hayya-s-son-survives-strike/ar-AA2iofWm?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "871f94b66fbf5d8cbcc1f3747aaf9280", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "0d2a88099261586da9b44cff93cab4b2", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/will-i-get-taller-gaza-s-children-suffer-stunting-amid-war-blockade/ar-AA2il3cm?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "0d2a88099261586da9b44cff93cab4b2", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "32b1ba4dff97514aa9a40e6b57d2d01e", "type": "news_ingested", "url": "https://www.dw.com/en/inside-gaza-journalists-in-the-danger-zone/video-80078752"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "32b1ba4dff97514aa9a40e6b57d2d01e", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "f78e48bcc3615e6fbb64a3f080b02a76", "type": "news_ingested", "url": "https://bioengineer.org/first-human-shamonda-virus-encephalitis-case-identified-in-france-following-livestock-outbreaks/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "08e51208cb5c41daa06a3c14df4a0661", "news_id": "f78e48bcc3615e6fbb64a3f080b02a76", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "3ca39f3e702d554ba66142f19206138e", "type": "news_ingested", "url": "https://www.counterpunch.org/2026/11/27/saudis-fight-like-zionists-and-zionists-lose-like-cowards/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "3ca39f3e702d554ba66142f19206138e", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "e02cc6d5bc6158df9c42974ec53ea925", "type": "news_ingested", "url": "https://www.sun-sentinel.com/2026/11/27/houthis-airstrike-mideast-news/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "e02cc6d5bc6158df9c42974ec53ea925", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "da315d59b8c95fb4ba89d47d1ae4fa14", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/oxfam-accuses-israel-of-turning-gaza-into-a-toxic-wasteland-but-does-the-evidence-hold-up/ar-AA2im8dt?ocid=BingNewsVerp"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "da315d59b8c95fb4ba89d47d1ae4fa14", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "4004285d43de5447ab9b34897b9f2e91", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/why-families-going-hungry-northern-211127339.html"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "4004285d43de5447ab9b34897b9f2e91", "type": "news_linked"}
+{"at": "2026-11-27T21:19:06Z", "news_id": "fa13649c989e5f648f31c7600e990ce9", "type": "news_ingested", "url": "https://srilanka.factcrescendo.com/english/tsunami-warning-sri-lanka-24-november-earthquake-false/"}
+{"at": "2026-11-27T21:19:06Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "fa13649c989e5f648f31c7600e990ce9", "type": "news_linked"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "13763def03ab448898154124734fe728", "log_date": "2026-11-27", "news": 7, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "log_date": "2026-11-27", "news": 3, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "3297d2d388534125bba81556259f4256", "log_date": "2026-11-27", "news": 19, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "5c179437a46a56aca2f8b70aeceda07a", "log_date": "2026-11-27", "news": 3, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-27", "news": 5, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "log_date": "2026-11-27", "news": 4, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "log_date": "2026-11-27", "news": 5, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-27", "news": 7, "type": "log_created"}
+{"at": "2026-11-27T21:26:02Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-27", "news": 4, "type": "log_created"}

@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://wgntv.com/israel-hamas-conflict/ap-israeli-strikes-kill-8-in-gaza-and-other-mideast-news
 content_hash: db329283e43d809cf2aeb3a9515b168ba18ae5a9e31d4838fd8ca5b44b4dfa62
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

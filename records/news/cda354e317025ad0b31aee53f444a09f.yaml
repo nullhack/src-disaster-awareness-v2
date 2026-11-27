@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/weather-news/articles/drought-forces-cattle-producers-sell-173400292.html
 content_hash: b2658793be54a6e63de36570c48ad1d95d9ee87fcd69f79b8eec0b0e3e36ead2
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

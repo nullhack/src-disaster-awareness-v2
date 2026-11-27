@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/lifestyle/articles/ground-saving-stressed-trees-suffering-110135283.html
 content_hash: 0a75104d3817b623c750cc48bb1384f59d15d7e8689e421dcd83d1d3348cbfd2
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

@@ -1,8 +1,14 @@
 schema: 2
 incident_id: d79b0595d2905f8da2fdc5beeadb875f
 log_date: '2026-11-27'
-summary: CNN reports that American farmers are being squeezed by extreme drought compounded by steep fuel and fertilizer costs and the loss of a key outlet for surplus crops — the US foreign food-aid market. The combination has weakened the bottom line for many growers, linking drought conditions to both domestic farm finances and reduced overseas food assistance.
+summary: |-
+  CNN reports that American farmers are being squeezed by extreme drought compounded by steep fuel and fertilizer costs and the loss of a key outlet for surplus crops — the US foreign food-aid market. The combination has weakened the bottom line for many growers, linking drought conditions to both domestic farm finances and reduced overseas food assistance.
+  The Cebu Provincial Government is considering tapping treatment plants in Barili and Malabuyoc to refill water trucks as the ongoing El Niño is expected to worsen. In the UK, councillors warned that the Havant Thicket reservoir water recycling scheme may still not be enough to tackle water shortages, criticizing Southern Water's record. Separately, the last-minute collapse of the COP31 climate talks left vulnerable countries facing what charities described as grim El Niño consequences.
 news_ids:
 - 6ef6b924f0e55d9a8309c77f9a0da25f
+- 7da64129b81b52fe8bc35f068ec79da5
 - 8bbff4a1086851a995ab6f30ef81c052
+- a8d1effb3bfc50e89cafb9382811bc1b
 - dc1d5f0149295b4eb49e74ddf17f5836
+- e9c38acd0419527b996cc905fc0c1ca1
+- ec9b17a3f19b51b3b6baebd516b2a4b9

@@ -12,4 +12,5 @@ sitename: ABC7 Chicago
 canonical_url: https://abc7chicago.com/post/drought-reveals-remnants-communities-beneath-jordan-lake/20071028
 content_hash: f1a28f480097ba0fd3ea9a643558a529f2b5aecf0cb37bd81e7c8a8bc9f6f98d
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

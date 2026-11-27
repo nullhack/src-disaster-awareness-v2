@@ -12,4 +12,5 @@ sitename: ABC11 Raleigh-Durham
 canonical_url: https://abc11.com/videoClip/20057341
 content_hash: 7fa76b14d47179ccb3f9346b7543da3ec4a2f90ecc220e9dfbcf59f037af5da4
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

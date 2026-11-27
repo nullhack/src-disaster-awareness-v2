@@ -12,4 +12,5 @@ sitename: The Mighty 790 KFGO | KFGO
 canonical_url: https://kfgo.com/2026/11/19/1376719
 content_hash: 120eb7a4b39a3da73932d8f58ce25212eae58f9a50c431c794a0ca89e0b18fe5
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

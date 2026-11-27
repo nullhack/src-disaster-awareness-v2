@@ -12,4 +12,5 @@ sitename: The Gazette
 canonical_url: https://gazette.com/2026/11/25/colorado-drought-numbers-improve-drastically-at-the-cost-of-floods
 content_hash: 7560e1e2ec4162648125c16b1e07b0c55767740ef0f4258d4a9dff780dd0698f
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

@@ -12,4 +12,5 @@ sitename: msn.com
 canonical_url: https://www.msn.com/en-us/science/botany/certain-fungi-turn-specialized-plant-cells-into-water-carrying-cells-using-one-protein/ar-AA2ieGO7
 content_hash: 18b74bffbedb6de8878b8481b9bd6969381dbccb89eb25a2e056361082f9858a
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

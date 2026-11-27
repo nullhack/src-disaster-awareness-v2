@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.yahoo.com/news/science/articles/thanksgiving-cranberries-climate-impacts-wisconsin-174950166.html
 content_hash: aaff5cc69c8edc176f25406dbce6dc3add64df1ce04811c093f144758d140f25
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

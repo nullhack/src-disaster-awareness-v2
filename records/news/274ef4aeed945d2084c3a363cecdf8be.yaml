@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.dhakastream.net/health/dengue-claims-2-more-lives-toll-rises-526-201691
 content_hash: 06c735f76a39d9a0b2a1f286a9069f6e223ad06a6e15b7c63378c74bb5cbf99f
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

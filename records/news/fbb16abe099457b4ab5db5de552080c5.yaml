@@ -12,4 +12,5 @@ sitename: r.search.yahoo.com
 canonical_url: https://r.search.yahoo.com/_ylt=A2RQsWwRWAdrowIAEDfQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEwBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1796853009/RO=10/RU=https://www.yahoo.com/news/weather-news/articles/louisiana-drought-creates-challenges-crawfish-235508622.html?fr=sycsrp_catchall%2FRK%3D2%2FRS%3D15XzBDxpVjv4guN6j2Dhfwi7blM-
 content_hash: 93b73e2b106a8f078b82e0d29fec2f1e97cdf6298476a844c33da6954c07215f
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

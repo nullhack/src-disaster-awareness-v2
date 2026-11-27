@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2025-06-09'
 event_date: '2026-07-30'
-last_verified_update: '2026-11-26'
+last_verified_update: '2026-11-27'
 latest_coverage_at: '2026-11-27'
 status_changed_at: '2026-11-14'
-summary: Western Washington is dealing with both drought and flooding at the same time, according to local reporting. The Philippines’ Department of Agrarian Reform allocated P600 million for El Niño response in 2027, and in Central Europe heat, drought, and frost cut Hungary’s wine output by 31% while reshaping harvests across the region. A Rudy Christmas tree farm has no trees to sell this season after drought and shipping problems.
-summary_updated: '2026-11-26'
+summary: France’s main sugar groups, Tereos and Cristal Union, offered financial support to beet growers affected by drought and heatwaves in an effort to secure plantings for the 2027 crop. New York added 13 counties to its drought watch as forecasts signaled little relief, and a Thanksgiving drought monitor update noted that rain continues.
+summary_updated: '2026-11-27'
 search_keys:
 - Drought latest 2026
 - Drought 2026
@@ -30,8 +30,8 @@ external_keys:
   report_id: c5b147e478285c89a23256083b1a7d45
 coverage_counts:
   reports: 1
-  news: 768
-  logs: 78
+  news: 770
+  logs: 79
   official_sources: 1
 created_at: '2026-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

@@ -12,4 +12,5 @@ sitename: Tulsa World
 canonical_url: https://tulsaworld.com/news/state-regional/weather/article_32cc5d66-1d96-475b-a160-beb70eb6f8c5.html
 content_hash: 58f3fea711adb176fa4ee5e3ffa039fad27008f1a21ba6aac5afaa3e0519e956
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

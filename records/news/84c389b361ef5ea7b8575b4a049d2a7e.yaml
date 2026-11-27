@@ -12,4 +12,5 @@ sitename: WAND
 canonical_url: https://www.wandtv.com/2026/11/27/drought-monitor-thanksgiving
 content_hash: 589250b46018dda7816cc3d66b1ba200f6a8a20faecc9c3c9f018705438af6a9
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'

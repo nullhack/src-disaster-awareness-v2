@@ -1,20 +1,29 @@
 schema: 2
 incident_id: 13763def03ab448898154124734fe728
 log_date: '2026-11-27'
-summary: President Trump told U.S. troops that victory over Iran was “within reach” and said the war would end “sort of whenever I want it to be,” while leaving open the possibility of negotiations. A drone attack on a Kuwaiti military facility killed two Italian nationals; Iran denied responsibility and its foreign minister called the incident suspicious and possibly a pretext for war. Iran also warned that resumed U.S. attacks would bring new air-defense systems, and Brent held near a month high as tanker attacks and strikes on Saudi energy infrastructure raised supply concerns.
+summary: |-
+  President Trump told U.S. troops that victory over Iran was “within reach” and said the war would end “sort of whenever I want it to be,” while leaving open the possibility of negotiations. A drone attack on a Kuwaiti military facility killed two Italian nationals; Iran denied responsibility and its foreign minister called the incident suspicious and possibly a pretext for war. Iran also warned that resumed U.S. attacks would bring new air-defense systems, and Brent held near a month high as tanker attacks and strikes on Saudi energy infrastructure raised supply concerns.
+  U.S. forces struck a cargo ship as it attempted to run the blockade of Iran. UN Secretary-General António Guterres condemned a drone attack on Kuwait that killed two Italian nationals, and satellite images showed a mystery site near Iran’s Pickaxe Mountain as President Trump made a threat against Iran.
 news_ids:
 - 10b4297a7dcd557da9db25f0cbfd98c7
 - 250f33776e815886be691bf607df0aac
+- 26c3c9b4a0b751df96a3010b5c172691
+- 36f20225696f508fb49ea777239dc41e
 - 3832813a8ddc516abc925baa927383e3
 - 3a1eb739f4715fa79dcfea11449b911d
 - 3ef75481d5815cdeaf1b37ca535d3fe7
 - 425b7ed94c315008a906433a6a02b407
+- 4689414944fe5cb191fb7da661145f9f
+- 4eb3f7cd4a135c61b135d57ca519313a
 - 506321dcec565657b371a51f9bd24378
 - 546667f06826566584410d02840aa66a
 - 5e943efe190d57aba368e3b71c41a0bf
 - 6292d7481b0e5e7e9e1324d9c0f33760
+- 67838200d1dc5f2ca0172eb0c231e832
 - 7a8327bd609e57288ee3f89d6ab71f62
 - 86df93a910a2576aadb90e2c502a0d77
 - 929ef72f4012535c83e37024aca34241
+- aa72d93eefc95a73a5e2ee1ccf8020a5
+- abb14acc17d15502add11704725bf4c2
 - c6e891e69561580cbde3ff0d4766afb7
 - d081ba29a5da561dbae03a62e493de5f

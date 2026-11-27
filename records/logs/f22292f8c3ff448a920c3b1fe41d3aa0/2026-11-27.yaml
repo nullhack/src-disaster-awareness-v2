@@ -1,10 +1,19 @@
 schema: 2
 incident_id: f22292f8c3ff448a920c3b1fe41d3aa0
 log_date: '2026-11-27'
-summary: Leaked Russian civil registration records revealed the deaths of 23 Zimbabwean men who fought in the war against Ukraine, with most killed in Donetsk Oblast where fighting has been most intense. President Zelenskyy said the new U.S. Congress should force Putin to end the war if Trump's peace push fails, saying Washington appears politically to be "pursuing the same course as Putin." Reporting also documented how electricity and water shortages have become part of daily life in Ukraine's capital.
+summary: |-
+  Leaked Russian civil registration records revealed the deaths of 23 Zimbabwean men who fought in the war against Ukraine, with most killed in Donetsk Oblast where fighting has been most intense. President Zelenskyy said the new U.S. Congress should force Putin to end the war if Trump's peace push fails, saying Washington appears politically to be "pursuing the same course as Putin." Reporting also documented how electricity and water shortages have become part of daily life in Ukraine's capital.
+  Ukrainian President Volodymyr Zelenskyy voiced frustration with Washington's posture toward Moscow, calling President Trump's description of Putin as "my friend" strange and urging the US to apply pressure on Russia. Ukraine separately reported its first downing of a Russian jet-powered Geran/Shahed drone using the domestically developed Blysk 4-kilowatt laser air-defense system. Trump, meanwhile, said he pressed Putin to pull back military aggression across Europe and claimed Putin wants a peace agreement, describing mutual personal hostility between Putin and Zelenskyy as the main obstacle.
 news_ids:
+- 1351d30c380059ed8e28278092928ced
 - 34375c06a4fb5364aa6d26369306e82a
 - 489902d822b65ef5933d01f61fba36f9
+- 59b5a6f9c8db56b199aee3b80fd88948
+- 610b6011c3275fa9a978249d2cd685c5
+- 6b224912bdd353bda67e576c1d5933bb
+- 7e494af01d56506db9451eab89eed332
 - 9bb440c9fbd756168c03bdc94244a52c
 - aff46e5e281d5a8f93dad93b4d09c8b4
 - d18373b2fcb250cf835b444258020583
+- d926c89106915d70b9c5ea2ce47e530a
+- f1ecf4a0fb6d5277b2b95b53974c13bb
