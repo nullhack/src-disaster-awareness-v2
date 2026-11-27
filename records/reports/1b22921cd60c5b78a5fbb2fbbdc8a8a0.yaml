@@ -1,0 +1,65 @@
+schema: 2
+id: 1b22921cd60c5b78a5fbb2fbbdc8a8a0
+source: GDACS
+source_id: '1104302'
+incident_type: Flood
+name: Flood San Pedro, Paraguay 2026-11-21
+report_date: '2026-11-21'
+news_searched_at: ''
+places:
+- country_code: PY
+  subdivision: San Pedro
+  locality: ''
+raw_fields:
+  title: Green flood alert in Paraguay
+  description: On 21/11/2026, a flood started in Paraguay, lasting until 23/11/2026 (last update). The flood caused 0 deaths and 0 displaced .
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104302.png
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104302
+  pubDate: Fri, 27 Nov 2026 07:13:38 GMT
+  dateadded: Fri, 27 Nov 2026 07:13:38 GMT
+  datemodified: Fri, 27 Nov 2026 07:13:38 GMT
+  iscurrent: 'false'
+  fromdate: Sat, 21 Nov 2026 01:00:00 GMT
+  todate: Mon, 23 Nov 2026 01:00:00 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: FL1
+  guid: FL1104302
+  guid_isPermaLink: 'false'
+  geo_lat: -24.25
+  geo_long: -56.5
+  bbox: -60.5 -52.5 -28.25 -20.25
+  point: -24.25 -56.5
+  cap: https://www.gdacs.org/contentdata/resources/FL/1104302/cap_1104302.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/FL.png
+  version: '1'
+  eventtype: FL
+  alertlevel: Green
+  alertscore: '1'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1104302'
+  episodeid: '1'
+  calculationtype: ''
+  severity: Magnitude 0
+  severity_unit: ''
+  severity_value: '0'
+  population: 0 deaths
+  population_unit: Population Affected
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '0'
+  iso3: PRY
+  country: Paraguay
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: 08788744ad63b38a1e3891d0904bd6bd500a9cfe119e221335312a92559a415d

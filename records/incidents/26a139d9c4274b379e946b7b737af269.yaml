@@ -9,13 +9,11 @@ country_name: Nepal
 region: Asia
 first_seen: '2017-05-01'
 event_date: '2026-08-26'
-last_verified_update: '2026-11-26'
-latest_coverage_at: '2026-11-26'
+last_verified_update: '2026-11-27'
+latest_coverage_at: '2026-11-27'
 status_changed_at: '2026-11-15'
-summary: |-
-  Nepal has begun the formal process to declare 213 missing Indian nationals dead from the August 26 floods, with the Indian Embassy urging families to review the published list and submit objections by December 2. Malaysian officials said certificates of presumed death for their missing citizens will be issued once Nepal's confirmation and documents arrive. Separately, Sonoma's Sherpa community raised more than $100,000 for flood relief, and a commentary argued that most current analysis of the Bhotekoshi flooding overlooks the distinctive conditions of Himalayan settlements.
-  Nepal has verified details of 452 missing foreign nationals from 12 countries — including 213 Indians, 85 Chinese and 69 Americans — with India's embassy asking families to review the published list and file objections by December 2. Malaysian authorities said death certificates for the 54 missing Malaysians will follow once Nepal provides official confirmation. Three months on, survivors also returned to a Hindu temple destroyed by the floods to honour the dead, while commentary framed India's swift aid and reconstruction grants as an effort to rebuild influence in Kathmandu.
-summary_updated: '2026-11-26'
+summary: Three months after the Bhotekoshi floods, a new report describes survivors such as Meena Adhikari of Sole, Nuwakot, still waiting for a government response to their needs. Coverage also continues on the formal process of declaring the 213 missing Indian nationals presumed dead, alongside commentary urging that international climate commitments to Nepal be delivered as grants rather than loans.
+summary_updated: '2026-11-27'
 search_keys:
 - Nepal Flood latest 2026
 - Nepal Flood 2026
@@ -38,8 +36,8 @@ external_keys:
   report_id: ddfff7daebbe5a2a87c47f040f8dff20
 coverage_counts:
   reports: 3
-  news: 1272
-  logs: 73
+  news: 1276
+  logs: 74
   official_sources: 2
 created_at: '2026-05-21T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

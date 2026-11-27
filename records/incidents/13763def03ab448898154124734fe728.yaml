@@ -9,13 +9,11 @@ country_name: Iran
 region: Asia
 first_seen: '2016-01-01'
 event_date: '2026-07-26'
-last_verified_update: '2026-11-26'
-latest_coverage_at: '2026-11-26'
+last_verified_update: '2026-11-27'
+latest_coverage_at: '2026-11-27'
 status_changed_at: '2026-11-15'
-summary: |-
-  Reports indicate the Trump administration is weighing strikes on Iran’s senior leaders in a bid to end the war, while Iran’s deputy parliament speaker threatened to block other regional oil exports to break the U.S. blockade. Iran said three oil tankers hit naval mines in the Strait of Hormuz despite a U.S. naval escort, with shipping attacks reported at an all-time high as the Treasury widened sanctions. The war added $3.1 billion to Thanksgiving fuel costs, with American households already paying $1,068 extra, while Houthi rebels advanced close to Aden.
-  Kuwait said an Iranian drone attack killed two Italian nationals, and Iran's foreign minister rejected the claim in a call with his Kuwaiti counterpart, denying Tehran was behind the strike. The rest of the batch largely repeated already-reported events — Iranian fire on Bahrain, oil rising on Iran's claimed mine strikes on ships, and Houthi advances near Aden — alongside commentary on how the war has been shaped by AI-driven decision-making.
-summary_updated: '2026-11-26'
+summary: President Trump told U.S. troops that victory over Iran was “within reach” and said the war would end “sort of whenever I want it to be,” while leaving open the possibility of negotiations. A drone attack on a Kuwaiti military facility killed two Italian nationals; Iran denied responsibility and its foreign minister called the incident suspicious and possibly a pretext for war. Iran also warned that resumed U.S. attacks would bring new air-defense systems, and Brent held near a month high as tanker attacks and strikes on Saudi energy infrastructure raised supply concerns.
+summary_updated: '2026-11-27'
 search_keys:
 - Iran Conflict latest 2026
 - Iran Conflict 2026
@@ -39,8 +37,8 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 3
-  news: 3641
-  logs: 116
+  news: 3656
+  logs: 117
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

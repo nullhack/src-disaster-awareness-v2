@@ -12,4 +12,5 @@ sitename: Yahoo Health
 canonical_url: https://health.yahoo.com/conditions/infectious/coronavirus/articles/covid-flu-shots-together-doctors-100033114.html
 content_hash: 6f4534c172bb452539ad2cbe6fad5887665059bb698f2f0d669524d048adadeb
 is_aggregator: true
-log_dates: []
+log_dates:
+- '2026-11-27'

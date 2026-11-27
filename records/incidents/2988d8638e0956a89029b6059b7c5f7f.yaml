@@ -9,11 +9,11 @@ country_name: Global
 region: Global
 first_seen: '2025-05-28'
 event_date: '2025-05-28'
-last_verified_update: '2026-11-21'
-latest_coverage_at: '2026-11-23'
+last_verified_update: '2026-11-27'
+latest_coverage_at: '2026-11-27'
 status_changed_at: '2026-11-15'
-summary: British Columbia's largest long COVID clinic has laid off most of its staff and scaled back its programs following provincial billing changes that took effect Nov. 1, when the Medical Services Commission introduced a 30-person limit on online group visits. Separately, New York's state health commissioner urged residents to get seasonal immunizations as flu activity spikes, noting that more than 1,000 New Yorkers died from flu and COVID combined last year. Guidance on receiving COVID-19 and flu shots at the same time was also recirculated but repeats information already covered.
-summary_updated: '2026-11-21'
+summary: Invivyd announced positive DECLARATION trial data for its monoclonal antibody VYD2311 (ibramvibart), reporting high, durable antiviral activity predictive of 70–90% protection against symptomatic COVID-19 across single- and multi-dose intramuscular arms, along with a favorable safety and tolerability profile. The company also cited productive dialogue with the U.S. FDA and HHS leadership aimed at aligning regulatory treatment of monoclonal antibodies with related COVID-19 vaccines.
+summary_updated: '2026-11-27'
 search_keys:
 - COVID-19 update 2025
 extended_monitoring: false
@@ -29,8 +29,8 @@ external_keys:
   report_id: 39b5655379255c308450e08472787113
 coverage_counts:
   reports: 1
-  news: 328
-  logs: 63
+  news: 329
+  logs: 64
   official_sources: 1
 created_at: '2025-05-28T00:00:00Z'
 migrated_at: '2026-11-16T09:00:20Z'

@@ -9,13 +9,11 @@ country_name: Ukraine
 region: Europe
 first_seen: '2026-03-05'
 event_date: '2026-07-15'
-last_verified_update: '2026-11-26'
-latest_coverage_at: '2026-11-26'
+last_verified_update: '2026-11-27'
+latest_coverage_at: '2026-11-27'
 status_changed_at: '2026-11-15'
-summary: |-
-  US envoy Jared Kushner said Vladimir Putin had agreed not to use nuclear weapons even as negotiations on the territorial question reached a "complete impasse," and separately warned against any escalation of what he called a "proxy war." Ukraine said its forces struck a major Russian military base and destroyed five warplanes, with Kyiv telling Putin to "stop complaining" about attacks on Russian infrastructure. Reporting also examined Russia's use of Nvidia computer modules to pilot a drone that killed Ukrainian civilians, while Metinvest's chief warned the future of Ukraine's steel industry is in doubt amid fresh bombardment and EU tariff hikes.
-  President Trump and NATO Secretary General Mark Rutte met at Mar-a-Lago and jointly urged Russia to avoid "any actions" that would expand the war with Ukraine. Britain has alerted about 100,000 military veterans to a possible wartime call-up amid rising tensions with Russia. NATO nations are also voicing growing anxiety over the war spreading to new regions as Ukraine attacks Russian ships in distant waters, while a Moscow court in the annexed Donetsk region sentenced a Colombian to 20 years for fighting for Kyiv.
-summary_updated: '2026-11-26'
+summary: Leaked Russian civil registration records revealed the deaths of 23 Zimbabwean men who fought in the war against Ukraine, with most killed in Donetsk Oblast where fighting has been most intense. President Zelenskyy said the new U.S. Congress should force Putin to end the war if Trump's peace push fails, saying Washington appears politically to be "pursuing the same course as Putin." Reporting also documented how electricity and water shortages have become part of daily life in Ukraine's capital.
+summary_updated: '2026-11-27'
 search_keys:
 - Ukraine Conflict latest 2026
 - Ukraine Conflict 2026
@@ -47,8 +45,8 @@ external_keys:
   report_id: d81fc37c31e45d768a2e1fd1b84313ef
 coverage_counts:
   reports: 6
-  news: 2342
-  logs: 116
+  news: 2347
+  logs: 117
   official_sources: 1
 created_at: '2026-03-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

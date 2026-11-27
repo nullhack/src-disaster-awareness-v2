@@ -13,4 +13,5 @@ sitename: The Manila Times
 canonical_url: https://www.manilatimes.net/2026/11/23/tmt-newswire/globenewswire/invivyd-announces-positive-declaration-trial-data-for-monoclonal-antibody-vyd2311-and-ushers-in-a-new-era-for-immunization/2476125
 content_hash: d7c5514ce6958669072e41f023937860c9159ad8feb0aaf1231e9bc1878986ac
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-27'
