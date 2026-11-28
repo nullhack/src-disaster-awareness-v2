@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://www.reuters.com/markets/commodities/french-sugar-groups-offer-drought-hit-farmers-aid-secure-plantings-2026-11-27
 content_hash: 56ffa0a4170803334953bca976d4da5db168b86fc996be57f0b514080a0ec18c
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

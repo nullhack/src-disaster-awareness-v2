@@ -1,0 +1,47 @@
+schema: 2
+id: 8288470f201a58c887bf8b405898b62c
+source: USGS
+source_id: ci41581512
+incident_type: Earthquake
+name: Earthquake M4.5 Manhattan Beach, United States 2026-11-28
+report_date: '2026-11-28'
+news_searched_at: ''
+places:
+- country_code: US
+  subdivision: California
+  locality: Manhattan Beach
+raw_fields:
+  mag: 4.5
+  place: 6 km WSW of Manhattan Beach, CA
+  time: 1795894881230
+  updated: 1795895969427
+  tz: null
+  url: https://earthquake.usgs.gov/earthquakes/eventpage/ci41581512
+  detail: https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41581512.geojson
+  felt: 1697
+  cdi: 4.8
+  mmi: 4.862
+  alert: green
+  status: reviewed
+  tsunami: 1
+  sig: 792
+  net: ci
+  code: '41581512'
+  ids: ',ci41581512,us6000ue6a,attp89cx,ew1795894880,'
+  sources: ',ci,us,at,ew,'
+  types: ',dyfi,focal-mechanism,ground-failure,impact-link,losspager,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,'
+  nst: 113
+  dmin: 0.08819
+  rms: 0.289999992
+  gap: 108
+  magType: mw
+  type: earthquake
+  title: M 4.5 - 6 km WSW of Manhattan Beach, CA
+  geometry:
+    type: Point
+    coordinates:
+    - -118.46716
+    - 33.861
+    - 12.17
+  depth: 12.17
+content_hash: dd688ff2652721b7ed04ab4a0e9cbb34147cd78891a2ade27ebc985ee918fb4a

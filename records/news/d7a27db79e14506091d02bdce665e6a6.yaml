@@ -12,4 +12,5 @@ sitename: The Rio Times
 canonical_url: https://www.riotimesonline.com/guayaquil-rain-floods-streets-25-november
 content_hash: 42902c372587e29e46755934919f5d58faf5e28786d0f9ae00a4fb4d322d3336
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

@@ -1,0 +1,65 @@
+schema: 2
+id: 5ff39b0586725de2bf823622b1120933
+source: GDACS
+source_id: '1579816'
+incident_type: Earthquake
+name: Earthquake M4.5 United States 2026-11-28
+report_date: '2026-11-28'
+news_searched_at: ''
+places:
+- country_code: US
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green earthquake (Magnitude 4.5M, Depth:12.17km) in United States 28/11/2026 19:41 UTC, 580 thousand in MMI V.
+  description: On 11/28/2026 7:41:21 PM, an earthquake occurred in United States potentially affecting 580 thousand in MMI V. The earthquake had Magnitude 4.5M, Depth:12.17km.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1749332_1.png
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1579816
+  pubDate: Sat, 28 Nov 2026 19:50:03 GMT
+  dateadded: Sat, 28 Nov 2026 19:50:03 GMT
+  datemodified: Sat, 28 Nov 2026 19:59:30 GMT
+  iscurrent: 'true'
+  fromdate: Sat, 28 Nov 2026 19:41:21 GMT
+  todate: Sat, 28 Nov 2026 19:41:21 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: EQ1
+  guid: EQ1579816
+  guid_isPermaLink: 'false'
+  geo_lat: 33.861
+  geo_long: -118.46716
+  bbox: -122.46716 -114.46716 29.861 37.861
+  point: 33.861 -118.46716
+  cap: https://www.gdacs.org/contentdata/resources/EQ/1579816/cap_1579816.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png
+  version: '1'
+  eventtype: EQ
+  alertlevel: Green
+  alertscore: '0'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1579816'
+  episodeid: '1749332'
+  calculationtype: earthquakeonly
+  severity: Magnitude 4.5M, Depth:12.2km
+  severity_unit: M
+  severity_value: '4.5'
+  population: 580 thousand in MMI V
+  population_unit: in MMI V
+  population_value: '582217'
+  vulnerability: ''
+  vulnerability_value: '1.3145341380124'
+  iso3: USA
+  country: United States
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: f1359b951123dec00137b6af2bc47a8eb67f9d46a37525e7a7cbfe2078a143e3

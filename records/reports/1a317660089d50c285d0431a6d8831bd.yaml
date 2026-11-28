@@ -1,0 +1,65 @@
+schema: 2
+id: 1a317660089d50c285d0431a6d8831bd
+source: GDACS
+source_id: '1579817'
+incident_type: Earthquake
+name: Earthquake M4.5 Japan 2026-11-28
+report_date: '2026-11-28'
+news_searched_at: ''
+places:
+- country_code: JP
+  subdivision: ''
+  locality: ''
+raw_fields:
+  title: Green earthquake (Magnitude 4.5M, Depth:10km) in Bonin Islands, Japan Region 28/11/2026 19:25 UTC, No people affected in 100km.
+  description: On 11/28/2026 7:25:35 PM, an earthquake occurred in Bonin Islands, Japan Region potentially affecting No people affected in 100km. The earthquake had Magnitude 4.5M, Depth:10km.
+  enclosure: ''
+  enclosure_type: image/png
+  enclosure_length: '1'
+  enclosure_url: https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1749328_1.png
+  temporary: 'false'
+  link: http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1579817
+  pubDate: Sat, 28 Nov 2026 19:48:06 GMT
+  dateadded: Sat, 28 Nov 2026 19:48:06 GMT
+  datemodified: Sat, 28 Nov 2026 19:48:06 GMT
+  iscurrent: 'true'
+  fromdate: Sat, 28 Nov 2026 19:25:35 GMT
+  todate: Sat, 28 Nov 2026 19:25:35 GMT
+  durationinweek: '0'
+  year: '2026'
+  subject: EQ1
+  guid: EQ1579817
+  guid_isPermaLink: 'false'
+  geo_lat: 26.2373
+  geo_long: 143.6868
+  bbox: 139.6868 147.6868 22.2373 30.2373
+  point: 26.2373 143.6868
+  cap: https://www.gdacs.org/contentdata/resources/EQ/1579817/cap_1579817.xml
+  icon: http://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png
+  version: '1'
+  eventtype: EQ
+  alertlevel: Green
+  alertscore: '0'
+  episodealertlevel: Green
+  episodealertscore: '1'
+  eventname: ''
+  eventid: '1579817'
+  episodeid: '1749328'
+  calculationtype: earthquakeonly
+  severity: Magnitude 4.5M, Depth:10km
+  severity_unit: M
+  severity_value: '4.5'
+  population: ''
+  population_unit: in MMI -
+  population_value: '0'
+  vulnerability: ''
+  vulnerability_value: '1.3145341380124'
+  iso3: ''
+  country: Bonin Islands, Japan Region
+  glide: ''
+  mapimage: ''
+  maplink: ''
+  gtsimage: ''
+  gtslink: ''
+  resources: ''
+content_hash: c0fded9081d282abf2b4333490a0fd018eb1f1c55fb96c999635838c3a230c2a

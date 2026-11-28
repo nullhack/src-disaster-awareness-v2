@@ -1,15 +1,25 @@
 schema: 2
 incident_id: 31e5c7b0a709408a921f8d3f31afce45
 log_date: '2026-11-28'
-summary: Iran's IRGC commander Ahmad Vahidi said Tehran is more prepared than ever for renewed conflict, as President Trump warned of possible large-scale military action after 2027. Separately, Trump said he recently urged Vladimir Putin to halt Russian military aggression across Europe, while a Guardian review of Jared Kushner's 70-minute interview faulted the senior negotiator for framing Russia's invasion of Ukraine as a misunderstanding to be resolved.
+summary: |-
+  Iran's IRGC commander Ahmad Vahidi said Tehran is more prepared than ever for renewed conflict, as President Trump warned of possible large-scale military action after 2027. Separately, Trump said he recently urged Vladimir Putin to halt Russian military aggression across Europe, while a Guardian review of Jared Kushner's 70-minute interview faulted the senior negotiator for framing Russia's invasion of Ukraine as a misunderstanding to be resolved.
+  Italy and Kuwait said an Iranian drone was involved in a strike in Kuwait that killed Italians, while Tehran suggested the US and Israel may be seeking to escalate the war and analysts warned of rising risk of a major Iran war escalation. Ukraine has reportedly grown bolder in opening new fronts, striking Russian ships in the Baltic Sea and Mediterranean. The Iran conflict also disrupted regional trade and air travel, with companies stockpiling supplies and Indian airlines adding fuel surcharges amid West Asia airspace closures.
 news_ids:
 - 0d5875437bea52a4bad1a01ee9e4e1ce
+- 33f91d271d7b51e3a7a2deb91cc5086e
 - 3ca39f3e702d554ba66142f19206138e
 - 4004285d43de5447ab9b34897b9f2e91
+- 6b36a13f844f52c7b607fcc1e2eaeae5
+- 72ae7a207b685dfb8ef8086dfefd3214
 - 78e12b3890b25e748299f6c7a9aa95af
 - 79300fa062f35d278e0c50fd6630c10a
 - 7ca87ada9e5a5260addde508ec3d2815
+- 83cea7b16c8b5018a6b4f481345ad893
+- a1ac2b2d5d9652af954c4323e70a932b
+- ac081922965d566eb453bc675b15550b
+- cc980e0f60fc5af2ade8815c1427f404
 - da315d59b8c95fb4ba89d47d1ae4fa14
 - e02cc6d5bc6158df9c42974ec53ea925
 - e9c7bb0f99a05621bcd6bd64d48d15af
+- ee6dc979d973530abccf3a69aae9a805
 - f8acedc5fa255f53b03b74fed31e930e

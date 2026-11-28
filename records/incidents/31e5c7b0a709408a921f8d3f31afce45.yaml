@@ -12,7 +12,9 @@ event_date: '2026-11-17'
 last_verified_update: '2026-11-28'
 latest_coverage_at: '2026-11-28'
 status_changed_at: '2026-11-17'
-summary: Iran's IRGC commander Ahmad Vahidi said Tehran is more prepared than ever for renewed conflict, as President Trump warned of possible large-scale military action after 2027. Separately, Trump said he recently urged Vladimir Putin to halt Russian military aggression across Europe, while a Guardian review of Jared Kushner's 70-minute interview faulted the senior negotiator for framing Russia's invasion of Ukraine as a misunderstanding to be resolved.
+summary: |-
+  Iran's IRGC commander Ahmad Vahidi said Tehran is more prepared than ever for renewed conflict, as President Trump warned of possible large-scale military action after 2027. Separately, Trump said he recently urged Vladimir Putin to halt Russian military aggression across Europe, while a Guardian review of Jared Kushner's 70-minute interview faulted the senior negotiator for framing Russia's invasion of Ukraine as a misunderstanding to be resolved.
+  Italy and Kuwait said an Iranian drone was involved in a strike in Kuwait that killed Italians, while Tehran suggested the US and Israel may be seeking to escalate the war and analysts warned of rising risk of a major Iran war escalation. Ukraine has reportedly grown bolder in opening new fronts, striking Russian ships in the Baltic Sea and Mediterranean. The Iran conflict also disrupted regional trade and air travel, with companies stockpiling supplies and Indian airlines adding fuel surcharges amid West Asia airspace closures.
 summary_updated: '2026-11-28'
 search_keys:
 - Conflict latest 2026
@@ -27,7 +29,7 @@ genesis:
 external_keys: []
 coverage_counts:
   reports: 0
-  news: 61
+  news: 69
   logs: 7
   official_sources: 0
 created_at: '2026-11-17T20:55:51Z'

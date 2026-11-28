@@ -12,4 +12,5 @@ sitename: idse.net
 canonical_url: https://www.idse.net/Immunology-Vaccination/Article/11-26/WHO-Advisory-Group-Updates-Vaccine-Recommendations-Across-5-Diseases/82283
 content_hash: 6fedd649d45caf7c739991a7be4c849da8adebaf6af8ad066259ce52de961cbf
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

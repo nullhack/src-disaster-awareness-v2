@@ -12,4 +12,5 @@ sitename: Gazette News Group, Inc.
 canonical_url: https://www.dailygazette.com/hv360/artsandlife/christmas-tree-farms-droughts-customer-trends/article_eb8b101b-7d0e-4f38-a000-e548f2132311.html
 content_hash: fa2f986b2703f2c8777a04044429cd7c1c77a83880d7ce4c7733fafd19f69f6d
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

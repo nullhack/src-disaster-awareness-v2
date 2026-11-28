@@ -12,4 +12,5 @@ sitename: ''
 canonical_url: https://wow.tribunnews.com/news/416892/banjir-dipicu-el-nino-rendam-ekuador-30-orang-tewas-dan-121-ribu-warga-terdampak
 content_hash: c3efeef0a9173a83419d18854e0dadd07009368f956727988004b551a8e8a536
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

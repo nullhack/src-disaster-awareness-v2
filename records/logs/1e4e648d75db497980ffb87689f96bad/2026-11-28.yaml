@@ -1,0 +1,12 @@
+schema: 2
+incident_id: 1e4e648d75db497980ffb87689f96bad
+log_date: '2026-11-28'
+summary: A magnitude 6.7 earthquake struck Russia’s Kamchatka Peninsula near Yelizovo on November 28, with the epicenter reported about 62 km NNW of Yelizovo. Sources reported the quake occurred at a depth of roughly 188–205 km, and there was no tsunami warning, with low damage risk noted due to the depth.
+news_ids:
+- 1d446284933156bf829a34a6765d3a0f
+- 486a384f5142585ca0b2d7a20854867b
+- 77255df9a8e158ecba40c7df97be22f7
+- 78316928d06055d7ad48f0d579502fd3
+- 907fde7262e850f29cbffdd495540ac1
+- a91e7c19bde65f5aaa49f8aed03f2f69
+- d0b6463c37f453f4ad707a89c73f2173

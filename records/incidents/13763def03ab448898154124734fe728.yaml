@@ -12,7 +12,9 @@ event_date: '2026-07-26'
 last_verified_update: '2026-11-28'
 latest_coverage_at: '2026-11-28'
 status_changed_at: '2026-11-15'
-summary: U.S. forces disabled a Palau-flagged commercial vessel with precision munitions after it allegedly tried to run the naval blockade of Iranian ports, while a USA Today report disclosed that the U.S. naval base in Bahrain suffered damage likely to cost more than $400 million, largely unacknowledged by the Trump administration. Iran's navy chief warned of coming operations and claimed the U.S. Fifth Fleet has been crippled, and new satellite imagery showed a mystery site near Pickaxe Mountain as President Trump issued a fresh threat against Iran. Separately, Trump's remark to a service member about when the war will end sparked backlash, Houthi rebels advanced close to Aden, and reporting highlighted soaring respiratory hospital admissions among Iranians amid winter pollution.
+summary: |-
+  U.S. forces disabled a Palau-flagged commercial vessel with precision munitions after it allegedly tried to run the naval blockade of Iranian ports, while a USA Today report disclosed that the U.S. naval base in Bahrain suffered damage likely to cost more than $400 million, largely unacknowledged by the Trump administration. Iran's navy chief warned of coming operations and claimed the U.S. Fifth Fleet has been crippled, and new satellite imagery showed a mystery site near Pickaxe Mountain as President Trump issued a fresh threat against Iran. Separately, Trump's remark to a service member about when the war will end sparked backlash, Houthi rebels advanced close to Aden, and reporting highlighted soaring respiratory hospital admissions among Iranians amid winter pollution.
+  Centcom denied a claim by Iran's navy chief that Iranian forces struck the USS Abraham Lincoln on the first day of the war, amid continued sparring over events in the Strait of Hormuz. Iran's ambassador to Pakistan said Tehran and Washington are exchanging messages through Qatar and Pakistan, even as Iran's army chief insisted the Strait of Hormuz will not reopen until Iran's conditions are met and a senior adviser to the supreme leader warned Iraq against becoming a "tool" of US pressure over border controls. Separately, political scientist Robert Pape warned that the risk of a major military escalation is rising.
 summary_updated: '2026-11-28'
 search_keys:
 - Iran Conflict latest 2026
@@ -37,7 +39,7 @@ external_keys:
   report_id: d9ceba8ea0315ec896e314d70e79485c
 coverage_counts:
   reports: 3
-  news: 3676
+  news: 3682
   logs: 118
   official_sources: 2
 created_at: '2016-01-01T00:00:00Z'
