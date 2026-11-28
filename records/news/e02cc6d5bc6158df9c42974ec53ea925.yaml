@@ -12,4 +12,5 @@ sitename: Sun Sentinel
 canonical_url: https://www.sun-sentinel.com/2026/11/27/houthis-airstrike-mideast-news
 content_hash: 4ed9a3e440bae823de0b4d14b22927daaeeece21555e48a66f36008a03bc5ab8
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

@@ -12,4 +12,5 @@ sitename: Mongabay Environmental News
 canonical_url: https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood
 content_hash: 79233601725ef77dc718fecc16e48e5b4f4ab217c9aa50fd9749832d9587f777
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

@@ -12,4 +12,5 @@ sitename: GorakhaPatra
 canonical_url: https://risingnepaldaily.com/news/89070
 content_hash: e23775ab1ea2270b0a20f05ca288ae1a8907873589493916a2fddceda2c2cfc9
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

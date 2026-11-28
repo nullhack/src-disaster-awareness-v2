@@ -10,7 +10,7 @@ region: Global
 first_seen: '2025-05-28'
 event_date: '2025-05-28'
 last_verified_update: '2026-11-27'
-latest_coverage_at: '2026-11-27'
+latest_coverage_at: '2026-11-28'
 status_changed_at: '2026-11-15'
 summary: Invivyd announced positive DECLARATION trial data for its monoclonal antibody VYD2311 (ibramvibart), reporting high, durable antiviral activity predictive of 70–90% protection against symptomatic COVID-19 across single- and multi-dose intramuscular arms, along with a favorable safety and tolerability profile. The company also cited productive dialogue with the U.S. FDA and HHS leadership aimed at aligning regulatory treatment of monoclonal antibodies with related COVID-19 vaccines.
 summary_updated: '2026-11-27'
@@ -29,7 +29,7 @@ external_keys:
   report_id: 39b5655379255c308450e08472787113
 coverage_counts:
   reports: 1
-  news: 329
+  news: 331
   logs: 64
   official_sources: 1
 created_at: '2025-05-28T00:00:00Z'

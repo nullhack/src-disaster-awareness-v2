@@ -9,13 +9,11 @@ country_name: Ukraine
 region: Europe
 first_seen: '2026-03-05'
 event_date: '2026-07-15'
-last_verified_update: '2026-11-27'
-latest_coverage_at: '2026-11-27'
+last_verified_update: '2026-11-28'
+latest_coverage_at: '2026-11-28'
 status_changed_at: '2026-11-15'
-summary: |-
-  Leaked Russian civil registration records revealed the deaths of 23 Zimbabwean men who fought in the war against Ukraine, with most killed in Donetsk Oblast where fighting has been most intense. President Zelenskyy said the new U.S. Congress should force Putin to end the war if Trump's peace push fails, saying Washington appears politically to be "pursuing the same course as Putin." Reporting also documented how electricity and water shortages have become part of daily life in Ukraine's capital.
-  Ukrainian President Volodymyr Zelenskyy voiced frustration with Washington's posture toward Moscow, calling President Trump's description of Putin as "my friend" strange and urging the US to apply pressure on Russia. Ukraine separately reported its first downing of a Russian jet-powered Geran/Shahed drone using the domestically developed Blysk 4-kilowatt laser air-defense system. Trump, meanwhile, said he pressed Putin to pull back military aggression across Europe and claimed Putin wants a peace agreement, describing mutual personal hostility between Putin and Zelenskyy as the main obstacle.
-summary_updated: '2026-11-27'
+summary: 'The IAEA is seeking a ninth localized ceasefire around the Zaporizhzhia nuclear plant in order to restore external power to the facility. The rest of the batch restates already-covered ground: Trump saying he asked Putin to pull back military aggression across Europe, Zelenskyy calling Trump''s "my friend" characterization of Putin strange, and further commentary on leaked data revealing the human cost inside Putin''s army.'
+summary_updated: '2026-11-28'
 search_keys:
 - Ukraine Conflict latest 2026
 - Ukraine Conflict 2026
@@ -47,8 +45,8 @@ external_keys:
   report_id: d81fc37c31e45d768a2e1fd1b84313ef
 coverage_counts:
   reports: 6
-  news: 2354
-  logs: 117
+  news: 2360
+  logs: 118
   official_sources: 1
 created_at: '2026-03-05T00:00:00Z'
 migrated_at: '2026-11-16T09:00:22Z'

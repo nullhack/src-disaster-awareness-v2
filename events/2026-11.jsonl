@@ -3670,3 +3670,125 @@
 {"at": "2026-11-27T21:26:02Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "log_date": "2026-11-27", "news": 5, "type": "log_created"}
 {"at": "2026-11-27T21:26:02Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-27", "news": 7, "type": "log_created"}
 {"at": "2026-11-27T21:26:02Z", "incident_id": "f4579a0976695da8abd83ef84f8e0fb1", "log_date": "2026-11-27", "news": 4, "type": "log_created"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "fd67a622a1f65daaaf1994decb0c38d5", "source": "USGS", "source_id": "us6000ue1k", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "dfe62b4145ab57c0b00e09cc5662c681", "source": "USGS", "source_id": "us6000ue1h", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "8a8b88abcee4587d9f8a504700df5dfd", "source": "USGS", "source_id": "us6000ue1d", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "308d0e17f1dc5e369fe15c8bcc05d114", "source": "USGS", "source_id": "us6000ue1b", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "1ea652a637865a8e8e82015a0bd2fe1a", "source": "USGS", "source_id": "us6000ue1a", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "8297d4b1b2065aba91a2da1f97f608ea", "source": "USGS", "source_id": "us6000ue0a", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "53b965d873f052b69136e8ba9b0af5e2", "source": "GDACS", "source_id": "1579704", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "fa4aa9d7237a55a0b4313f38bbc2289c", "source": "GDACS", "source_id": "1579699", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "a19b22511d6d5f5295bc0cbb867a71b6", "source": "GDACS", "source_id": "1579681", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "a798cb229390581897efe4b8ca40fb66", "source": "GDACS", "source_id": "1579680", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "693b5fa150d65ea098e5508886b8927d", "source": "GDACS", "source_id": "1579679", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:21Z", "report_id": "2ecde620ab93564ea2228b070ceae6cb", "source": "GDACS", "source_id": "1579665", "type": "report_ingested"}
+{"at": "2026-11-28T07:48:35Z", "news_id": "16e14f5ddf905e3291d3298c2961466e", "type": "news_ingested", "url": "https://iz.ru/en/node/2207919"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "16e14f5ddf905e3291d3298c2961466e", "type": "news_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "news_id": "bbada01794b45189861452ad52498867", "type": "news_ingested", "url": "https://srilankamirror.com/2026/11/24/news/no-tsunami-threat-to-sri-lanka-following-mauritius-reunion-earthquake"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "news_id": "bbada01794b45189861452ad52498867", "type": "news_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:48:35Z", "incident_id": "8121ca7fc2f542329394523e5b624569", "report_id": "40f197f7b00254a4b8c830808cc49b30", "type": "report_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "bc3ed521aa575b94bb737f13cae58787", "type": "news_ingested", "url": "https://www.newsday.com/news/nation/mideast-iran-gaza-israel-houthis-libya-november-24-2026-v21527"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "bc3ed521aa575b94bb737f13cae58787", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "2d9d391266895306a8a59121e1e57c74", "type": "news_ingested", "url": "https://www.msn.com/en-in/entertainment/general/2026-a-year-of-ruins-how-war-ravaged-the-world-s-cultural-heritage/ar-AA2ilBfz?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "2d9d391266895306a8a59121e1e57c74", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "859a50181ea55fdd9d59e9975c238c98", "type": "news_ingested", "url": "https://www.huffpost.com/entry/donald-trump-iran-comment-reaction_n_6b092979e4b01f494a036ec4"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "859a50181ea55fdd9d59e9975c238c98", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "3168fbd9619856ab910860cb55a52938", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/images-show-mystery-site-near-pickaxe-mountain-as-trump-makes-iran-threat/ar-AA2inNa0?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "3168fbd9619856ab910860cb55a52938", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "b15cf45eba9b53ecad2b70c2b90a0068", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/trump-says-hes-giving-iran-113730762.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "b15cf45eba9b53ecad2b70c2b90a0068", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "66846f1db8fe54839dd9a4a7da48aa4d", "type": "news_ingested", "url": "https://www.usatoday.com/story/news/world/2026/11/27/after-heavy-strikes-by-iran-us-naval-base-bahrain-faces-uncertain-future/92978739007/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "66846f1db8fe54839dd9a4a7da48aa4d", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "ba305483d5c45149bc71692bf2f4a3c8", "type": "news_ingested", "url": "https://www.yahoo.com/news/us/articles/military-says-disabled-vessel-attempted-173902137.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "ba305483d5c45149bc71692bf2f4a3c8", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "a33f4918ea615268a5ba9034b501ed1e", "type": "news_ingested", "url": "https://www.yahoo.com/news/politics/articles/donald-trump-despicable-iran-war-114002710.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "a33f4918ea615268a5ba9034b501ed1e", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "649edff59e23536c905da941afd7f6a2", "type": "news_ingested", "url": "https://www.middleeasteye.net/news/omans-stock-market-track-beat-all-gulf-states-double-digit-gains-2026"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "649edff59e23536c905da941afd7f6a2", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "d4a29f03656756248f53a3f83e66381c", "type": "news_ingested", "url": "https://www.iranintl.com/en/202611272309"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "d4a29f03656756248f53a3f83e66381c", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "b90e77f2c060534587cdc273f709e472", "type": "news_ingested", "url": "https://www.bostonglobe.com/2026/11/27/world/us-iran-war-naval-ports/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "b90e77f2c060534587cdc273f709e472", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "af7b91878a4454dc897b08d5b325e197", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war/ar-AA2il98x?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "af7b91878a4454dc897b08d5b325e197", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "78faa90f786d587f847e2dd82f330ea3", "type": "news_ingested", "url": "https://apnews.com/article/saudi-iran-yemen-israel-november-27-2026-dbb2c950f5cd991a52f3a065b6325535"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "13763def03ab448898154124734fe728", "news_id": "78faa90f786d587f847e2dd82f330ea3", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "d986c3c6217f572db6def3b9855acce8", "type": "news_ingested", "url": "https://travel.yahoo.com/advice/safety/articles/flood-nepal-feared-visitor-drought-050015861.html;_ylt=A2RQPLT9hwprzQIA_QvQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEEdnRpZAMEc2VjA3Ny"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "d986c3c6217f572db6def3b9855acce8", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "f7b8ece300ee5cb5ad34c48d424bb939", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLT9hwprzQIAAAzQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061886/RO=10/RU=https://dailytarheel.com/480679/city-state/city-north-carolina-nepali-families-flood-impacts//RK=2/RS=7hrfmG_SOqUeeSPZHIZzXvB542g-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "f7b8ece300ee5cb5ad34c48d424bb939", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "d009cc60fe3754cfbcf3900045f60a00", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/after-the-flood-nepal-feared-a-visitor-drought-turns-out-the-pull-of-the-mountains-is-stronger-than-the-fear-of-their-fury/ar-AA2ioMBY?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "d009cc60fe3754cfbcf3900045f60a00", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "d9e3e0b2ebe45774a8ab5e2936e34863", "type": "news_ingested", "url": "https://travel.yahoo.com/advice/safety/articles/flood-nepal-feared-visitor-drought-050015861.html;_ylt=A2RQPLQAiAprzQIAzRPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEEdnRpZAMEc2VjA3Ny"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "d9e3e0b2ebe45774a8ab5e2936e34863", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "285895b74e8652bfb7a7582a0cf1c891", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLQAiAprzQIA0BPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061889/RO=10/RU=https://abc13.com/story/india-announces-16-billion-aid-package-nepals-flood-recovery/20069456//RK=2/RS=c1R.9hrxTMZj2Nzbn.nRHuAzwos-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "285895b74e8652bfb7a7582a0cf1c891", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "10481a4e30525390a2d71bfa93668c22", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLQAiAprzQIA0xPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061889/RO=10/RU=https://www.reuters.com/world/india/india-give-162-billion-economic-package-flood-hit-nepal-2026-11-23//RK=2/RS=BjRyQQ0V.hDUNnqPVG1K.mY9oJU-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "10481a4e30525390a2d71bfa93668c22", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "a4b08fff5c595ae6addfba254acdc36e", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLQAiAprzQIA1hPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzQEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061889/RO=10/RU=https://dailytarheel.com/480679/city-state/city-north-carolina-nepali-families-flood-impacts//RK=2/RS=oU_NApeKMFqaoyn0KT3X5npM9jk-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "a4b08fff5c595ae6addfba254acdc36e", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "d6b177b228b55ca5a43a5ff04e659fe9", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLQAiAprzQIA2RPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzUEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061889/RO=10/RU=https://www.upi.com/News_Photos/view/upi/bde981ba066f7fc720737a7802f9127b/Rescue-Efforts-Continue-After-Deadly-in-Nepal//RK=2/RS=OeOTmuYhi8nRf.QzE7AShUGv78I-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "d6b177b228b55ca5a43a5ff04e659fe9", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "3d88402e0a9a59d38b7f7a0f897f6914", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLQAiAprzQIA3BPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzYEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061889/RO=10/RU=https://www.barrons.com/news/modi-offers-flood-hit-nepal-1-6-bn-aid-package-e0b32b0e/RK=2/RS=69iWJbtiuwFcDxv8R4qRCyv_C4w-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "3d88402e0a9a59d38b7f7a0f897f6914", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "90213cda1fdd5d9bb1072766a284a8c2", "type": "news_ingested", "url": "https://r.search.yahoo.com/_ylt=A2RQPLQAiAprzQIA3xPQtDMD;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzcEdnRpZAMEc2VjA3Ny/RV=2/RE=1797061889/RO=10/RU=https://www.upi.com/News_Photos/view/upi/7754d360c789e845d276224f993c95ab/Nepali-rescue-teams-pull-survivors-from-deadly-Himalayan-glacial-floods//RK=2/RS=WR9_AGpr9Ssxnj8.9.7L1f.JKT0-"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "news_id": "90213cda1fdd5d9bb1072766a284a8c2", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "410eee1ae10d52429dae2a5ea30cc679", "type": "news_ingested", "url": "https://www.msn.com/en-in/news/other/telangana-unveils-10000-crore-drought-mitigation-and-climate-resilience-plan/ar-AA2iocHd?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "410eee1ae10d52429dae2a5ea30cc679", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "ad647337484c58269d93f1dbc3e9807a", "type": "news_ingested", "url": "https://abc30.com/post/drought-reveals-remnants-communities-beneath-jordan-lake/20071028/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "ad647337484c58269d93f1dbc3e9807a", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "54c142e1e2355c3ea8cf2096991c012e", "type": "news_ingested", "url": "https://www.myvetcandy.com/news/2026/11/27/vital-to-survival-missing-from-policy-why-working-donkeys-are-being-overlooked"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "news_id": "54c142e1e2355c3ea8cf2096991c012e", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "c7274dcca10f5cfd9c99c05928c0ef01", "type": "news_ingested", "url": "https://www.msn.com/en-us/sports/basketball/celtics-joe-mazzulla-reveals-mitchell-robinson-covid-19-diagnosis/ar-AA2io7Sp?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "news_id": "c7274dcca10f5cfd9c99c05928c0ef01", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "53e3f22b80525f3ea2b51460e91f706e", "type": "news_ingested", "url": "https://finance.yahoo.com/healthcare/articles/moderna-vs-pfizer-vaccine-stock-154600852.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "2988d8638e0956a89029b6059b7c5f7f", "news_id": "53e3f22b80525f3ea2b51460e91f706e", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "78638653f2b252db9465c91ffee2f89c", "type": "news_ingested", "url": "https://arkadelphian.com/2026/11/27/extended-drought-raising-questions-about-winter-forage-in-arkansas/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "302c45c1ecce4004b90f6e71446ff165", "news_id": "78638653f2b252db9465c91ffee2f89c", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "16b36849395355f093d42cb02ce72b00", "type": "news_ingested", "url": "https://www.reuters.com/markets/commodities/french-sugar-groups-offer-drought-hit-farmers-aid-secure-plantings-2026-11-27/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "16b36849395355f093d42cb02ce72b00", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "110a28d07d965006b18826fd3747b470", "type": "news_ingested", "url": "https://www.dailygazette.com/hv360/artsandlife/christmas-tree-farms-droughts-customer-trends/article_eb8b101b-7d0e-4f38-a000-e548f2132311.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "d79b0595d2905f8da2fdc5beeadb875f", "news_id": "110a28d07d965006b18826fd3747b470", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "e05f630f9c7b5a7ba8e83f3299f34f58", "type": "news_ingested", "url": "https://www.wsbradio.com/news/world/zelenskyy-urges-us/E5QKOLCY3UZEBORBZKSZDMVTCU/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "e05f630f9c7b5a7ba8e83f3299f34f58", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "bc640c3db6005246bb9cfaf8277d48a5", "type": "news_ingested", "url": "https://www.lemonde.fr/en/opinion/article/2026/11/27/to-stop-the-slaughter-in-ukraine-we-must-name-the-butcher_6789837_23.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "bc640c3db6005246bb9cfaf8277d48a5", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "869b266bad18582c8be7dc1fddef9127", "type": "news_ingested", "url": "https://www.yahoo.com/news/world/articles/humiliating-leak-exposes-shocking-secret-115810695.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "869b266bad18582c8be7dc1fddef9127", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "6d3edf4767e2528eb9f3ccfd2b62df51", "type": "news_ingested", "url": "https://www.upi.com/Top_News/World-News/2026/11/27/ukraine-IAEA-Zaporizhzhia-cease-fire/4341795764242/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "6d3edf4767e2528eb9f3ccfd2b62df51", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "9df3d08d060c5f578727a3fd6b913e09", "type": "news_ingested", "url": "https://www.nydailynews.com/2026/11/27/zelenskyy-takes-shot-at-trump-for-calling-putin-my-friend/"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "9df3d08d060c5f578727a3fd6b913e09", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "749acc5e1b28530da78e85abacb8e59b", "type": "news_ingested", "url": "https://www.msn.com/en-za/news/other/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe/ar-AA2ijVdc?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "news_id": "749acc5e1b28530da78e85abacb8e59b", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "7b015336ed3d5826aa0c883440f908db", "type": "news_ingested", "url": "https://finance.yahoo.com/markets/commodities/articles/exclusive-french-sugar-groups-offer-135036386.html"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "3297d2d388534125bba81556259f4256", "news_id": "7b015336ed3d5826aa0c883440f908db", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "2d4a5bdc62205cd1834cf7a9b587ab5f", "type": "news_ingested", "url": "https://www.idse.net/Immunology-Vaccination/Article/11-26/WHO-Advisory-Group-Updates-Vaccine-Recommendations-Across-5-Diseases/82283"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "80de1a97a55c5febbc9cf43f8310b4d6", "news_id": "2d4a5bdc62205cd1834cf7a9b587ab5f", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "f1a7a0a4e4fc5d84909c9d003065b4e9", "type": "news_ingested", "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "e650e542b08c4c03badd08f734e3234d", "news_id": "f1a7a0a4e4fc5d84909c9d003065b4e9", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "7f91f47f088b57b8bacf40c40f534475", "type": "news_ingested", "url": "https://www.cnews.fr/sante/2026-11-28/bretagne-quel-est-ce-nouveau-virus-qui-touche-les-vaches-et-les-moutons-1962491"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "08e51208cb5c41daa06a3c14df4a0661", "news_id": "7f91f47f088b57b8bacf40c40f534475", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "7ca87ada9e5a5260addde508ec3d2815", "type": "news_ingested", "url": "https://www.msn.com/en-xl/news/other/trump-says-he-urged-putin-to-pull-back-military-aggression-across-europepublished-on-november-28-2026-9-40-am/ar-AA2ipj3O?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "7ca87ada9e5a5260addde508ec3d2815", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "78e12b3890b25e748299f6c7a9aa95af", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/other/irans-irgc-chief-says-tehran-is-more-prepared-than-ever-as-trump-warns-possible-military-action-after-2027/ar-AA2ioOIe?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "78e12b3890b25e748299f6c7a9aa95af", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "0d5875437bea52a4bad1a01ee9e4e1ce", "type": "news_ingested", "url": "https://www.icrc.org/en/article/bruges-colloquium-2026-wounded-sick-dead"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "0d5875437bea52a4bad1a01ee9e4e1ce", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "79300fa062f35d278e0c50fd6630c10a", "type": "news_ingested", "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "79300fa062f35d278e0c50fd6630c10a", "type": "news_linked"}
+{"at": "2026-11-28T07:49:56Z", "news_id": "f8acedc5fa255f53b03b74fed31e930e", "type": "news_ingested", "url": "https://www.msn.com/en-us/news/world/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media/ar-AA2ilQGD?ocid=BingNewsVerp"}
+{"at": "2026-11-28T07:49:56Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "news_id": "f8acedc5fa255f53b03b74fed31e930e", "type": "news_linked"}
+{"at": "2026-11-28T07:57:30Z", "incident_id": "13763def03ab448898154124734fe728", "log_date": "2026-11-28", "news": 13, "type": "log_created"}
+{"at": "2026-11-28T07:57:30Z", "incident_id": "26a139d9c4274b379e946b7b737af269", "log_date": "2026-11-28", "news": 12, "type": "log_created"}
+{"at": "2026-11-28T07:57:30Z", "incident_id": "31e5c7b0a709408a921f8d3f31afce45", "log_date": "2026-11-28", "news": 10, "type": "log_created"}
+{"at": "2026-11-28T07:57:30Z", "incident_id": "d75afb3078c54d74b37c4f8bb985dfce", "log_date": "2026-11-28", "news": 3, "type": "log_created"}
+{"at": "2026-11-28T07:57:30Z", "incident_id": "f22292f8c3ff448a920c3b1fe41d3aa0", "log_date": "2026-11-28", "news": 6, "type": "log_created"}

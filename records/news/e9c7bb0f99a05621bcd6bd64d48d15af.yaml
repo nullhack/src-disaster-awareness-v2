@@ -12,4 +12,5 @@ sitename: sfgate.com
 canonical_url: https://www.sfgate.com/news/world/article/un-peacekeepers-are-preparing-to-leave-southern-22551945.php
 content_hash: 7692119cc41446833062516425fef79cace8b6fef6e8f0bbfd0acdadfe226e2c
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'

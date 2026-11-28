@@ -12,4 +12,5 @@ sitename: CounterPunch.org
 canonical_url: https://www.counterpunch.org/2026/11/27/saudis-fight-like-zionists-and-zionists-lose-like-cowards
 content_hash: 60fe20359803044451a9766c3043bccb0215def27fce75eb95f915b965c9ec0c
 is_aggregator: false
-log_dates: []
+log_dates:
+- '2026-11-28'
